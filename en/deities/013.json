@@ -1,12 +1,31 @@
 {
   "id": "013",
   "name": "Kupala and Kupalo",
-  "description": "Deities of summer solstice, fertility, and joy.",
+  "alternateNames": ["Ivan Kupala", "Kupalo", "Kupailo"],
+  "type": "deity pair",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "Twin sibling deities of the summer solstice, embodying fire, water, and love. Their festival is the most beloved night of the Slavic year.",
+  "mythology": "Kupala (female) and Kupalo (male) are twin sibling deities of the summer solstice. In myth, they were separated at birth, fell in love unknowingly upon meeting, and were transformed into the fern flower and water lily. Their festival — Ivan Kupala Night — is celebrated on the summer solstice (June 23-24), syncretized with St. John the Baptist. It features bonfires jumped over by couples to purify and bless their union, flower wreaths floated on rivers to divine one's future lover, and the legendary search for the fern flower which blooms only this one night and grants the finder boundless wisdom and riches.",
   "attributes": {
-    "Domains": ["Summer Solstice", "Fertility", "Joy"],
-    "Symbols": ["Fire", "Water"],
+    "Domains": ["Summer Solstice", "Fire", "Water", "Love", "Fertility", "Purification"],
+    "Symbols": ["Bonfire", "Floral wreath", "Fern flower", "River"],
+    "Sacred Animals": ["Horse", "Firefly", "Frog"],
+    "Sacred Plants": ["Fern (Paprot)", "Water lily", "Wormwood", "St. John's Wort"],
     "Element": "Fire and Water",
-    "Associated Season": "Summer"
+    "Season": "Summer",
+    "Associated Concepts": ["Love", "Purification", "Divination", "Renewal", "Union"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": ["028"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Czech Republic", "Serbia"],
+    "festivals": ["Ivan Kupala Night (June 23-24)"],
+    "offerings": ["Wreaths floated on water", "Jumping over bonfires", "Songs and dances", "Flowers"]
+  },
+  "tags": ["summer solstice", "fertility", "fire", "water", "love", "major festival"],
+  "thumbnailUrl": "images/deities/013/thumbnail.png",
   "detailImageUrl": "images/deities/013/detailImage.png"
 }

@@ -1,0 +1,31 @@
+{
+  "id": "003",
+  "name": "Mokoš",
+  "alternateNames": ["Mokoša", "Makosh", "Mokusha"],
+  "type": "goddess",
+  "origin": ["East Slavic"],
+  "description": "Velika boginja majka zemlja i boginja tkanja, plodnosti i sudbine žena. Jedino žensko božanstvo u Vladimirovom kijevskom panteonu.",
+  "mythology": "Mokoš je jedino žensko božanstvo pomenuto u Primarnoj hronici među Vladimirovim panteonom u Kijevu (980. god.), što dokazuje njenu vrhunsku važnost među svim slovenskim boginjama. Ona je velika boginja majka zemlja, boginja predenja, tkanja i sudbine žena — prede nit života i sudbine kao što to čine grčke Mojre. Petkom noću luta selima proveravajući kako žene predu. Njeno ime možda potiče od korena 'mok' (mokar/vlažan), što je povezuje sa plodnom vlagom zemlje. Kasnije je sinkretizovana sa Svetom Paraskevom Petkom u hrišćanskoj tradiciji, što svedoči o njenoj trajnoj moći u narodnoj svesti.",
+  "attributes": {
+    "Domains": ["Plodnost", "Tkanje", "Sudbina", "Zemlja", "Žene", "Vlaga"],
+    "Symbols": ["Vreteno", "Preslica", "Nit", "Razboj"],
+    "Sacred Animals": ["Ovca", "Pauk"],
+    "Sacred Plants": ["Lan", "Konoplja"],
+    "Element": "Zemlja",
+    "Season": "Jesen",
+    "Associated Concepts": ["Sudbina", "Majčinstvo", "Zanatstvo", "Zaštita žena"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Petak (sveti nedeljni dan)", "Praznovanje žetve", "Maslenica"],
+    "offerings": ["Lan", "Vuna", "Nit ostavljena na raskršću", "Vezene tkanine"]
+  },
+  "tags": ["major deity", "fertility", "weaving", "women", "fate", "earth mother", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/003/thumbnail.png",
+  "detailImageUrl": "images/deities/003/detailImage.png"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "012",
+  "name": "Baba Jaga",
+  "alternateNames": ["Jaga", "Jezibaba", "Baba Roga", "Yaga Baba"],
+  "type": "spirit",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "Drevna starica veštica i čuvar granice između živih i mrtvih. Ambivalentna pomagačica i proždirač.",
+  "mythology": "Baba Jaga je jedan od najprepoznatljivijih likova u slovenskoj mitologiji — drevna starica veštica koja živi u kolibi koja stoji na kokošjim nogama i okreće se u svakom smeru. Leti kroz vazduh u stupi, brišući tragove tučkom i metlom. Ona je čuvar granice između sveta živih i zemlje mrtvih. Junaci koji traže njenu pomoć moraju se okupati, biti nahranjenjem i naučiti od nje pre nego što im ona pomogne — pristupite li joj kako treba, biće mudra pomočnica; pristupite li pogrešno, progutaće vas. Tri sluge jahača predstavljaju zoru, podne i noć. Njenu gvozdenu ogradu krase svetleće lobanje. Ona je, moglo bi se reći, starija od samih bogova.",
+  "attributes": {
+    "Domains": ["Magija", "Šume", "Granica sa smrću", "Mudrost", "Veštičarenje", "Iskušenja"],
+    "Symbols": ["Stupa i tučak", "Okretna koliba na kokošjim nogama", "Gvozdena ograda od lobanja", "Metla"],
+    "Sacred Animals": ["Crna mačka", "Zmija", "Sova", "Vrana"],
+    "Sacred Plants": ["Breza (okružuje njenu kolibu)", "Mak"],
+    "Element": "Zemlja",
+    "Associated Concepts": ["Mudrost", "Granica", "Iskušenja", "Preobražaj", "Drevno znanje"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Czech Republic"],
+    "festivals": ["Nema zvaničnog bogosluženja — pojavljuje se u bajkama kao ambivalentni lik"],
+    "offerings": ["Odgovarajući ritualni pozdrav", "Rad i služba u zamenu za pomoć"]
+  },
+  "tags": ["witch", "forest", "folklore", "trickster", "wisdom", "death boundary", "hag"],
+  "thumbnailUrl": "images/deities/012/thumbnail.png",
+  "detailImageUrl": "images/deities/012/detailImage.png"
+}

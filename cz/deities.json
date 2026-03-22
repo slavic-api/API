@@ -1,0 +1,2477 @@
+{
+  "lang": "cz",
+  "version": "1.0.0",
+  "total": 30,
+  "deities": [
+    {
+      "id": "001",
+      "name": "Perun",
+      "alternateNames": [
+        "Perkunas",
+        "Perkons",
+        "Perún",
+        "Pirun"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "South Slavic",
+        "West Slavic"
+      ],
+      "description": "Slovanský bůh hromu a blesku. Ochránce válečníků a strážce kosmického zákona.",
+      "mythology": "Perun je nejvyšší božstvo slovanského panteonu, vládnoucí hromu, blesku, bouřím, dešti, zákonu, válce a úrodě z nejvyšších větví Světového stromu — mocného kosmického dubu. Jeho věčným nepřítelem je Veles, hadí bůh podsvětí, jenž mu krade dobytek, ženu nebo děti. Perun pronásleduje Velesa napříč oblohou a vrhá na něj blesky, zatímco Veles se skrývá v podobě zvířat, stromů nebo lidí. Tento kosmický souboj přináší zemi déšť a udržuje světový řád. Perun je zobrazován jako muž středního věku s měděným vousem, nesoucí sekeru nebo kladivo. Posvátné duby a vrcholky kopců mu sloužily jako svatyně. Byl patronem válečnického stavu a knížecí družiny v Kyjevské Rusi.",
+      "attributes": {
+        "Domains": [
+          "Hrom",
+          "Blesk",
+          "Válka",
+          "Zákon",
+          "Nebe",
+          "Déšť",
+          "Úroda"
+        ],
+        "Symbols": [
+          "Sekera",
+          "Blesk",
+          "Orel",
+          "Kladivo",
+          "Dub"
+        ],
+        "Sacred Animals": [
+          "Orel",
+          "Býk",
+          "Zubr"
+        ],
+        "Sacred Plants": [
+          "Dub",
+          "Kosatec"
+        ],
+        "Element": "Vzduch",
+        "Season": "Léto",
+        "Associated Concepts": [
+          "Spravedlnost",
+          "Moc",
+          "Ochrana",
+          "Kosmický řád"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "004"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Poland",
+          "Belarus",
+          "Serbia",
+          "Croatia"
+        ],
+        "festivals": [
+          "Perunův den (20. července / sjednocen se svátkem proroka Eliáše)"
+        ],
+        "offerings": [
+          "Vůl",
+          "Býk",
+          "Dubové dřevo",
+          "Chléb",
+          "Medovina"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "warrior",
+        "sky",
+        "weather",
+        "thunder",
+        "oak",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/001/thumbnail.png",
+      "detailImageUrl": "images/deities/001/detailImage.png"
+    },
+    {
+      "id": "002",
+      "name": "Dažbog",
+      "alternateNames": [
+        "Dažbog",
+        "Dabog",
+        "Dajbog",
+        "Dazbog"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Bůh slunce, bohatství a štěstí. Prapředek slovanského lidu a syn Svaroga.",
+      "mythology": "Dažbog je sluneční božstvo a dárce bohatství, jehož jméno znamená 'Dávající bůh' nebo 'Bohem daný'. Každý den projíždí oblohou na zlatém voze taženém bílými koňmi dýchajícími oheň a zlato. Slovo o pluku Igorově nazývá lid Rusi 'Dažbogovy vnuky', čímž ho označuje za božského předka slovanského národa. Každé ráno je mladý, večer stárne a druhý den se znovu rodí. Je synem Svaroga, který vykoval slunce. Posvátní jsou mu koně, zlato a sluneční kotouč. Je ztělesněním životadárné štědrosti slunečního světla.",
+      "attributes": {
+        "Domains": [
+          "Slunce",
+          "Bohatství",
+          "Štěstí",
+          "Sklizeň",
+          "Světlo"
+        ],
+        "Symbols": [
+          "Sluneční kotouč",
+          "Zlatý vůz",
+          "Ohnivý pták",
+          "Bílý kůň"
+        ],
+        "Sacred Animals": [
+          "Bílý kůň",
+          "Zlatý pták (Ohnivák)",
+          "Lev"
+        ],
+        "Sacred Plants": [
+          "Slunečnice",
+          "Pšenice",
+          "Heřmánek"
+        ],
+        "Element": "Oheň",
+        "Season": "Léto",
+        "Associated Concepts": [
+          "Blahobyt",
+          "Štědrost",
+          "Teplo",
+          "Otcovství"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "010"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Letní slunovrat (Kupálská noc)",
+          "Kolyada (Zimní slunovrat — znovuzrození slunce)"
+        ],
+        "offerings": [
+          "Chléb",
+          "Med",
+          "Obilí",
+          "Zlaté předměty"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "sun",
+        "prosperity",
+        "agriculture",
+        "solar",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/002/thumbnail.png",
+      "detailImageUrl": "images/deities/002/detailImage.png"
+    },
+    {
+      "id": "003",
+      "name": "Mokoš",
+      "alternateNames": [
+        "Mokoša",
+        "Makosh",
+        "Mokusha"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Velká matka země a bohyně tkaní, plodnosti a osudu žen. Jediné ženské božstvo ve Vladimírově kyjevském panteonu.",
+      "mythology": "Mokoš je jediné ženské božstvo zmíněné v Nestorově kronice mezi Vladimírovými bohy v Kyjevě (roku 980), což dokládá její výjimečné postavení mezi všemi slovanskými bohyněmi. Je velkou matkou země, bohyní předení, tkaní a osudu žen — přede nit života a osudu podobně jako řecké Moiry. V páteční noci prochází vesnicemi a kontroluje ženské přadlenické práce. Její jméno může pocházet ze slova 'mok' (mokrý/vlhký), což ji spojuje s úrodnou vlhkostí země. Později splynula s obrazem Svaté Paraskévy-Pátky v křesťanské tradici, což svědčí o její trvalé síle v lidovém povědomí.",
+      "attributes": {
+        "Domains": [
+          "Plodnost",
+          "Tkaní",
+          "Osud",
+          "Země",
+          "Ženy",
+          "Vlhkost"
+        ],
+        "Symbols": [
+          "Vřeteno",
+          "Kužel",
+          "Nit",
+          "Tkalcovský stav"
+        ],
+        "Sacred Animals": [
+          "Ovce",
+          "Pavouk"
+        ],
+        "Sacred Plants": [
+          "Len",
+          "Konopí"
+        ],
+        "Element": "Země",
+        "Season": "Podzim",
+        "Associated Concepts": [
+          "Osud",
+          "Mateřství",
+          "Řemeslo",
+          "Ochrana žen"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Pátek (posvátný každý týden)",
+          "Dožínkové slavnosti",
+          "Maslenica"
+        ],
+        "offerings": [
+          "Len",
+          "Vlna",
+          "Nit zanechaná na křižovatce",
+          "Vyšívané plátno"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "fertility",
+        "weaving",
+        "women",
+        "fate",
+        "earth mother",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/003/thumbnail.png",
+      "detailImageUrl": "images/deities/003/detailImage.png"
+    },
+    {
+      "id": "004",
+      "name": "Veles",
+      "alternateNames": [
+        "Volos",
+        "Weles"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Bůh podsvětí, dobytka, obchodu, magie a moudrosti. Věčný soupeř Peruna.",
+      "mythology": "Veles je velký bůh podsvětí, dobytka, obchodu, hudby, magie a moudrosti. Přebývá u kořenů Světového stromu v podsvětí (Nav), v protikladu k Perunovi, který vládne v koruně stromu. Jeho věčný spor s Perunem tvoří ústřední mýtus slovanského náboženství — Veles krade Perunův dobytek, ženu nebo syna, a Perun ho pronásleduje a vrhá blesky. Veles se skrývá proměňováním se ve zvířata, stromy nebo lidi. Je to chtonická hadovitá síla hlubin země — lišák a tvaroměnec spojovaný s medvědy, hady a poezií. Poslední snop obilí ponechaný na poli při žních byl nazýván 'Velesův vous' a byl mu věnován jako úlitba.",
+      "attributes": {
+        "Domains": [
+          "Podsvětí",
+          "Dobytek",
+          "Obchod",
+          "Magie",
+          "Moudrost",
+          "Hudba",
+          "Poezie"
+        ],
+        "Symbols": [
+          "Had",
+          "Býk",
+          "Medvěd",
+          "Váček zlata"
+        ],
+        "Sacred Animals": [
+          "Medvěd",
+          "Had",
+          "Býk",
+          "Sova",
+          "Vlk"
+        ],
+        "Sacred Plants": [
+          "Kapradí",
+          "Tráva (tráva Nav)"
+        ],
+        "Element": "Země",
+        "Season": "Zima",
+        "Associated Concepts": [
+          "Lest",
+          "Bohatství",
+          "Smrt",
+          "Šamanismus",
+          "Proměna"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "001"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Poland",
+          "Czech Republic",
+          "Belarus"
+        ],
+        "festivals": [
+          "Velesův den (12. ledna)",
+          "Maslenica"
+        ],
+        "offerings": [
+          "Dobytek",
+          "Med",
+          "Pivo",
+          "Poslední snop obilí (Velesův vous)"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "underworld",
+        "magic",
+        "cattle",
+        "trickster",
+        "wisdom",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/004/thumbnail.png",
+      "detailImageUrl": "images/deities/004/detailImage.png"
+    },
+    {
+      "id": "005",
+      "name": "Rod",
+      "alternateNames": [
+        "Род",
+        "Rozhanitsy (associated female aspect)"
+      ],
+      "type": "primordial god",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Prapůvodní stvořitelské božstvo a předek všech bohů a živých bytostí. Zdroj veškeré existence.",
+      "mythology": "Rod je prapůvodní stvořitelské božstvo a prapředek všech bohů a živých bytostí. Dříve než cokoli existovalo, Rod stvořil svět — snesením kosmického vejce, z nějž se vylíhl vesmír, nebo stvořením z vlastního těla. Jeho jméno je kořenem slovanských slov pro narození, rodinu, rod a přírodu (slovo 'rod' znamená kmen/rod ve všech slovanských jazycích). Provázejí ho Rožanice — dvě nebo tři ženské bohyně rodu, které každému člověku určují osud při narození. Rané slovanské texty psané křesťanskými kléry opakovaně a výslovně odsuzovaly uctívání Roda a Rožanic, což svědčí o jejich prvořadém významu v předkřesťanském lidovém náboženství.",
+      "attributes": {
+        "Domains": [
+          "Stvoření",
+          "Předkové",
+          "Kosmos",
+          "Osud",
+          "Zrození",
+          "Rod"
+        ],
+        "Symbols": [
+          "Kosmické vejce",
+          "Strom života",
+          "Duha"
+        ],
+        "Sacred Animals": [
+          "Zubr",
+          "Orel"
+        ],
+        "Sacred Plants": [
+          "Světový strom (Dub)"
+        ],
+        "Element": "Éter",
+        "Associated Concepts": [
+          "Osud",
+          "Prozřetelnost",
+          "Životní síla",
+          "Kosmický řád"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "026"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia"
+        ],
+        "festivals": [
+          "Rodunitsa (uctívání předků)",
+          "Hostina Rožanic (po sklizni)"
+        ],
+        "offerings": [
+          "Chléb",
+          "Med",
+          "Kaše",
+          "Sýr",
+          "Medovina"
+        ]
+      },
+      "tags": [
+        "primordial",
+        "creator",
+        "ancestors",
+        "fate",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/005/thumbnail.png",
+      "detailImageUrl": "images/deities/005/detailImage.png"
+    },
+    {
+      "id": "006",
+      "name": "Domovoj",
+      "alternateNames": [
+        "Domovoy",
+        "Domovik",
+        "Dvorovoi",
+        "Ded",
+        "Grandfather"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Pradávný duch domácnosti a ochránce domu. Přebývá za sporákem a střeží rodinu.",
+      "mythology": "Domovoj je pradávný duch domácnosti, který přebývá za sporákem, pod prahem nebo ve stodole. Je to duch mužského předka rodiny a chrání domácnost, je-li mu prokazována úcta. Jeví se jako malý chlupatý mužíček podobající se hospodáři domu. Před neštěstím duní a sténá, spící členy rodiny hladí — teplý a jemný dotek věstí štěstí, studený a drsný nebezpečí. V některých tradicích nesnáší zrcadla. Každý dům má svého Domovoje, který rodinu následuje při stěhování. Zanedbání jeho uctívání vede k neplechu: v noci zapléká koním hřívy, kazí mléko a způsobuje podivné zvuky.",
+      "attributes": {
+        "Domains": [
+          "Domov",
+          "Rodina",
+          "Ochrana",
+          "Krb",
+          "Předkové"
+        ],
+        "Symbols": [
+          "Krb/Sporák",
+          "Práh",
+          "Chléb a sůl"
+        ],
+        "Sacred Animals": [
+          "Kočka",
+          "Had",
+          "Kohout"
+        ],
+        "Sacred Plants": [
+          "Žádné specifické"
+        ],
+        "Element": "Oheň",
+        "Associated Concepts": [
+          "Předci",
+          "Domácí mír",
+          "Varovná znamení",
+          "Ochrana"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia"
+        ],
+        "festivals": [
+          "Silvestr (uklidnění obětinami)",
+          "Při stěhování (pozvání Domovoje)"
+        ],
+        "offerings": [
+          "Kaše",
+          "Chléb a sůl",
+          "První jídlo dne",
+          "Tabák"
+        ]
+      },
+      "tags": [
+        "household spirit",
+        "domestic",
+        "protection",
+        "family",
+        "ancestor spirit"
+      ],
+      "thumbnailUrl": "images/deities/006/thumbnail.png",
+      "detailImageUrl": "images/deities/006/detailImage.png"
+    },
+    {
+      "id": "007",
+      "name": "Morozko",
+      "alternateNames": [
+        "Ded Moroz",
+        "Father Frost",
+        "Moroz Ivanovich",
+        "Frost"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Ztělesnění zimního mrazu a chladu. Zkouší pocestné a odměňuje ctnostné dary.",
+      "mythology": "Morozko (Mrazíček) neboli Ded Moroz (Děda Mráz) je ztělesnění zimního chladu. V pohádkách zkouší pocestné a dělníky — laskavý, trpělivý a pilný dostane dary, zatímco lenivý a chamtivý zamrzne. Oblíbená pohádka 'Morozko' líčí, jak odměňuje hodnou nevlastní dceru bohatstvím, zatímco rozmazlenou dívku trestá smrtí. Je zobrazován jako vysoký stařec v modrých nebo stříbrných šatech s kouzelnou ledovou holí. Jeho slovanský původ předchází křesťanskému svátečnímu motivu. Žije v ledovém paláci na dálném severu a v zimě navštěvuje vesnice, přičemž jeho dech tvoří mrazivé vzory na oknech.",
+      "attributes": {
+        "Domains": [
+          "Zima",
+          "Mráz",
+          "Chlad",
+          "Led",
+          "Dary",
+          "Zkoušení ctnosti"
+        ],
+        "Symbols": [
+          "Ledová hůl",
+          "Stříbrný pytel s dary",
+          "Sněhová vločka",
+          "Modré nebo stříbrné šaty"
+        ],
+        "Sacred Animals": [
+          "Zajíc",
+          "Medvěd",
+          "Bílý jelen"
+        ],
+        "Sacred Plants": [
+          "Borovice (stálezelená)",
+          "Větvičky pokryté ledem"
+        ],
+        "Element": "Voda/Led",
+        "Season": "Zima",
+        "Associated Concepts": [
+          "Vytrvalost",
+          "Spravedlnost",
+          "Odměna a trest",
+          "Zimní magie"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Zimní slunovrat (Kolyada)",
+          "Nový rok",
+          "Vánoce (pozdější forma)"
+        ],
+        "offerings": [
+          "Kaše ponechaná venku, aby mráz nepoškodil úrodu"
+        ]
+      },
+      "tags": [
+        "winter",
+        "cold",
+        "frost",
+        "nature spirit",
+        "fairy tale",
+        "gift-giver"
+      ],
+      "thumbnailUrl": "images/deities/007/thumbnail.png",
+      "detailImageUrl": "images/deities/007/detailImage.png"
+    },
+    {
+      "id": "008",
+      "name": "Zorja",
+      "alternateNames": [
+        "Zarya",
+        "Zaria",
+        "Zorya Utrennyaya",
+        "Zorya Vechernyaya",
+        "Zorya Polunochnaya"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Dvojice rozbřeskových bohyní představující jitřenku a večernici. Strážkyně kosmického řádu a brán Dažbogova paláce.",
+      "mythology": "Zorji (Úsvitové panny) jsou dvě nebo tři sestry-bohyně: Zorja Utrennjaja (Jitřenka), Zorja Večernaja (Večernice) a někdy Zorja Polunočnaja (Půlnoční hvězda). Každé ráno Zorja Utrennjaja otevírá brány Dažbogova slunečního paláce, aby propustila slunce; každý večer je Zorja Večernaja zavírá. Také střeží apokalyptického psa Simargla, přikovaného k Malé medvědici — pokud by se řetěz přetrhl a pes utekl, svět by skončil. Jsou zobrazovány jako krásné válečné panny ve zlaté zbroji, spojované s planetou Venuší viditelnou jako jitřenka i večernice.",
+      "attributes": {
+        "Domains": [
+          "Úsvit",
+          "Soumrak",
+          "Hvězdy",
+          "Kosmický řád",
+          "Ochrana válečníků"
+        ],
+        "Symbols": [
+          "Jitřenka (Venuše)",
+          "Zlatá zbroj",
+          "Nebeské brány"
+        ],
+        "Sacred Animals": [
+          "Kůň",
+          "Kohout (ranní)",
+          "Sova (večerní)"
+        ],
+        "Sacred Plants": [
+          "Svlačec",
+          "Pupalka"
+        ],
+        "Element": "Vzduch",
+        "Associated Concepts": [
+          "Kosmická rovnováha",
+          "Čas",
+          "Nebeská orientace",
+          "Ochrana"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "002"
+        ],
+        "allies": [
+          "020"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia"
+        ],
+        "festivals": [
+          "Ranní obřady za úsvitu",
+          "Letní slunovrat"
+        ],
+        "offerings": [
+          "Ranní rosa sebraná za úsvitu",
+          "Modlitby při prvním světle",
+          "Květiny"
+        ]
+      },
+      "tags": [
+        "dawn",
+        "dusk",
+        "stars",
+        "celestial",
+        "cosmic order",
+        "warrior maiden"
+      ],
+      "thumbnailUrl": "images/deities/008/thumbnail.png",
+      "detailImageUrl": "images/deities/008/detailImage.png"
+    },
+    {
+      "id": "009",
+      "name": "Černobog",
+      "alternateNames": [
+        "Czernobóg",
+        "Tchernobog",
+        "Black God",
+        "Crnobog"
+      ],
+      "type": "god",
+      "origin": [
+        "West Slavic",
+        "East Slavic"
+      ],
+      "description": "Bůh temnoty, zla a neštěstí. Protipól Bíloboga, ztělesňující temnou stránku kosmické duality.",
+      "mythology": "Černobog ('Černý bůh') je poprvé doložen v německých kronikách 12. století popisujících baltoslovanské kmeny. Je ztělesněním temných, zlých a ničivých sil — protipólem Bíloboga (Bílého boha). Na hostinách Slované podávali pohár s kletbami k Černobogovi a chválami k Bílobogovi, čímž uznávali dualitu vší existence. Je bohem noci, chaosu, neštěstí a všeho prokletého. Jeho uctívání bylo obávané, ale praktikovalo se, aby bylo neštěstí minimalizováno. V moderní kultuře se objevuje ve Fantazii (1940) od Walta Disneyho a v románu Americká božstva Neila Gaimana, což svědčí o jeho trvalé symbolické síle.",
+      "attributes": {
+        "Domains": [
+          "Temnota",
+          "Zlo",
+          "Chaos",
+          "Noc",
+          "Neštěstí",
+          "Smrt"
+        ],
+        "Symbols": [
+          "Černá symbolika",
+          "Železné řetězy",
+          "Temný měsíc",
+          "Stín"
+        ],
+        "Sacred Animals": [
+          "Černý kůň",
+          "Havran",
+          "Vlk",
+          "Pavouk"
+        ],
+        "Sacred Plants": [
+          "Rulík",
+          "Černé trny"
+        ],
+        "Element": "Tma",
+        "Season": "Zima",
+        "Associated Concepts": [
+          "Dualita",
+          "Chaos",
+          "Osud",
+          "Entropie",
+          "Prokletí"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Pomerania",
+          "Rugia",
+          "Poland",
+          "Baltic Slavic coast"
+        ],
+        "festivals": [
+          "Zimní obřady za tmavého novu"
+        ],
+        "offerings": [
+          "Černá zvířata",
+          "Medovina s vyřčenými kletbami"
+        ]
+      },
+      "tags": [
+        "darkness",
+        "evil",
+        "chaos",
+        "duality",
+        "major deity",
+        "Baltic Slavic"
+      ],
+      "thumbnailUrl": "images/deities/009/thumbnail.png",
+      "detailImageUrl": "images/deities/009/detailImage.png"
+    },
+    {
+      "id": "010",
+      "name": "Svarog",
+      "alternateNames": [
+        "Svarozhich",
+        "Swarożyc"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Bůh nebe, božského ohně a nebeského kovářství. Otec Dažboga. Mistr řemeslník, který vykoval slunce.",
+      "mythology": "Svarog je bůh jasného nebe a božského ohně — slovanský nebeský kovář. Jeho jméno znamená 'Jasné nebe' nebo 'Světlé nebe' (svar = nebe/jasný). Vykoval nebeské zákony, slunce a přinesl oheň lidstvu. Nestorova kronika ho ztotožňuje s řeckým Héfaistem. Hodil kleště z nebe — blesk — a naučil lidi kovat kovy. Je otcem Dažboga (slunce) a Svarozhiche (posvátného ohně). Na jeho počest hořely v chrámech posvátné ohně, které se nikdy nesměly uhasit. Je to civilizační božstvo, které dalo lidstvu nástroje řemesla a manželské zákony.",
+      "attributes": {
+        "Domains": [
+          "Nebe",
+          "Oheň",
+          "Kovářství",
+          "Řemesla",
+          "Zákon",
+          "Manželství"
+        ],
+        "Symbols": [
+          "Kladivo",
+          "Kleště",
+          "Kovárna",
+          "Posvátný oheň",
+          "Slunce"
+        ],
+        "Sacred Animals": [
+          "Kohout",
+          "Býk"
+        ],
+        "Sacred Plants": [
+          "Dub"
+        ],
+        "Element": "Oheň",
+        "Associated Concepts": [
+          "Řemeslnictví",
+          "Božský zákon",
+          "Stvoření",
+          "Civilizace"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "002"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland"
+        ],
+        "festivals": [
+          "Svarogičův den (podzimní slavnost posvátného ohně)"
+        ],
+        "offerings": [
+          "Chléb",
+          "Maso",
+          "Posvátný oheň neustále hořící"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "sky",
+        "fire",
+        "smithing",
+        "craftsman",
+        "father deity",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/010/thumbnail.png",
+      "detailImageUrl": "images/deities/010/detailImage.png"
+    },
+    {
+      "id": "011",
+      "name": "Mořena/Morena",
+      "alternateNames": [
+        "Morana",
+        "Mara",
+        "Morena",
+        "Marzena",
+        "Marena"
+      ],
+      "type": "goddess",
+      "origin": [
+        "West Slavic",
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Bohyně zimy, smrti a sezonního znovuzrození. Její rituální utopení každé jaro je jedním z nejstarších dochovaných slovanských zvyků.",
+      "mythology": "Mořena (také Morana/Morena) je bohyně zimy, smrti a znovuzrození jara. Vládne temné polovině roku. Její rituální smrt je jednou z nejrozšířenějších dochovaných slovanských lidových tradic — slaměná figurína Mořeny je vytvořena a slavnostně utopena v řece nebo upálena na začátku jara, čímž symbolicky zahání zimu a smrt. Její jméno se vztahuje ke slovanskému slovu pro mor (mór) a smrt. V některých tradicích je také bohyní snů a přeludů. Její smrt umožňuje příchod jara, takže je bohyní proměny, jejíž zánik je činem obnovy.",
+      "attributes": {
+        "Domains": [
+          "Zima",
+          "Smrt",
+          "Sny",
+          "Znovuzrození",
+          "Chlad",
+          "Mor"
+        ],
+        "Symbols": [
+          "Slaměná figurína (panenka)",
+          "Vrbová větev",
+          "Lebka",
+          "Srp"
+        ],
+        "Sacred Animals": [
+          "Sova",
+          "Havran",
+          "Vrána"
+        ],
+        "Sacred Plants": [
+          "Vrba",
+          "Tis",
+          "Rulík"
+        ],
+        "Element": "Voda/Led",
+        "Season": "Zima",
+        "Associated Concepts": [
+          "Proměna",
+          "Sezonní cyklus",
+          "Smrt a znovuzrození",
+          "Přelud"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "022"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Poland",
+          "Czech Republic",
+          "Slovakia",
+          "Belarus",
+          "Russia",
+          "Ukraine"
+        ],
+        "festivals": [
+          "Smrtná neděle (utopení nebo upálení Mořeny)",
+          "Podzimní rovnodennost"
+        ],
+        "offerings": [
+          "Slaměná figurína utopená v řece",
+          "Jarní květiny po rituálu"
+        ]
+      },
+      "tags": [
+        "death",
+        "winter",
+        "rebirth",
+        "seasonal",
+        "transformation",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/011/thumbnail.png",
+      "detailImageUrl": "images/deities/011/detailImage.png"
+    },
+    {
+      "id": "012",
+      "name": "Ježibaba",
+      "alternateNames": [
+        "Jaga",
+        "Jezibaba",
+        "Baba Roga",
+        "Yaga Baba"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Starodávná babizna a čarodějnice, strážkyně hranice mezi živými a mrtvými. Nejednoznačná pomocnice i pohltitelka.",
+      "mythology": "Ježibaba je jednou z nejikoničtějších postav slovanské mytologie — starodávná babizna-čarodějnice bydlící v chaloupce na kuřích nožkách, která se otáčí do libovolného směru. Létá vzduchem v hmoždíři, zametajíc své stopy paličkou a koštětem. Je strážkyní hranice mezi světem živých a říší mrtvých. Hrdinové hledající její pomoc se musí nechat okoupat, nakrmit a poučit, než jim pomůže — přistoupí-li správně, je moudrou pomocnicí; přistoupí-li špatně, je pohltí. Tři jezdecké slouhy představují úsvit, poledne a noc. Její železný plot je ověnčen lebkami zářícími světlem. Je pravděpodobně starší než samotní bohové.",
+      "attributes": {
+        "Domains": [
+          "Magie",
+          "Lesy",
+          "Hranice smrti",
+          "Moudrost",
+          "Čarodějnictví",
+          "Zkoušky"
+        ],
+        "Symbols": [
+          "Hmoždíř a palička",
+          "Otáčivá chaloupka na kuřích nožkách",
+          "Železný plot z lebek",
+          "Koště"
+        ],
+        "Sacred Animals": [
+          "Černá kočka",
+          "Had",
+          "Sova",
+          "Vrána"
+        ],
+        "Sacred Plants": [
+          "Bříza (obklopuje její chaloupku)",
+          "Mák"
+        ],
+        "Element": "Země",
+        "Associated Concepts": [
+          "Moudrost",
+          "Hranice",
+          "Zkoušky",
+          "Proměna",
+          "Starobylé vědění"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Czech Republic"
+        ],
+        "festivals": [
+          "Formálně neuctívána — vystupuje v lidových pohádkách jako nejednoznačná postava"
+        ],
+        "offerings": [
+          "Správný rituální pozdrav",
+          "Práce a služba výměnou za pomoc"
+        ]
+      },
+      "tags": [
+        "witch",
+        "forest",
+        "folklore",
+        "trickster",
+        "wisdom",
+        "death boundary",
+        "hag"
+      ],
+      "thumbnailUrl": "images/deities/012/thumbnail.png",
+      "detailImageUrl": "images/deities/012/detailImage.png"
+    },
+    {
+      "id": "013",
+      "name": "Kupala a Kupalo",
+      "alternateNames": [
+        "Ivan Kupala",
+        "Kupalo",
+        "Kupailo"
+      ],
+      "type": "deity pair",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Dvojče božstev letního slunovratu ztělesňující oheň, vodu a lásku. Jejich svátek je nejoblíbenější nocí slovanského roku.",
+      "mythology": "Kupala (ženská) a Kupalo (mužský) jsou dvojčata-božstva letního slunovratu. V mýtu byli při narození odloučeni, po setkání se nevědomky zamilovali a byli proměněni v kapradinový květ a leknín. Jejich svátek — Noc Ivana Kupaly — se slaví o letním slunovratu (23.–24. června) a byl sjednocen se svátkem Jana Křtitele. Zahrnuje ohně, přes které skáčou páry, aby si očistily a požehnaly svůj svazek, věnce z květin pustěné po řekách k věštění budoucí lásky a legendární hledání kapradinového květu, který kvete jen tuto jedinou noc a nálezci přináší bezmeznou moudrost a bohatství.",
+      "attributes": {
+        "Domains": [
+          "Letní slunovrat",
+          "Oheň",
+          "Voda",
+          "Láska",
+          "Plodnost",
+          "Očista"
+        ],
+        "Symbols": [
+          "Oheň",
+          "Věnec z květin",
+          "Kapradinový květ",
+          "Řeka"
+        ],
+        "Sacred Animals": [
+          "Kůň",
+          "Světluška",
+          "Žába"
+        ],
+        "Sacred Plants": [
+          "Kapradí (Paprot)",
+          "Leknín",
+          "Pelyněk",
+          "Třezalka tečkovaná"
+        ],
+        "Element": "Oheň a Voda",
+        "Season": "Léto",
+        "Associated Concepts": [
+          "Láska",
+          "Očista",
+          "Věštění",
+          "Obnova",
+          "Spojení"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "028"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Czech Republic",
+          "Serbia"
+        ],
+        "festivals": [
+          "Noc Ivana Kupaly (23.–24. června)"
+        ],
+        "offerings": [
+          "Věnce pustěné na vodu",
+          "Skoky přes oheň",
+          "Písně a tance",
+          "Květiny"
+        ]
+      },
+      "tags": [
+        "summer solstice",
+        "fertility",
+        "fire",
+        "water",
+        "love",
+        "major festival"
+      ],
+      "thumbnailUrl": "images/deities/013/thumbnail.png",
+      "detailImageUrl": "images/deities/013/detailImage.png"
+    },
+    {
+      "id": "014",
+      "name": "Stribog",
+      "alternateNames": [
+        "Stribok",
+        "Striboh"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Bůh větru, vzduchu a nebe. Děd všech větrů — od nejjemnějšího vánku po nejmocnější bouři.",
+      "mythology": "Stribog je bůh větrů, vzduchu a nebe, uvedený mezi idoly, které Vladimír vztyčil v Kyjevě (roku 980). Ve slavném Slově o pluku Igorově (asi 1185) jsou větry nazývány 'Stribogovy vnuky', jeho potomci vanoucí ze všech osmi světových stran. Jeho jméno pochází z kořene 'stri', jenž znamená šířit nebo rozptylovat. Ovládá všechny větry — příznivé počasí pro námořníky, dobré počasí pro sklizně, nebo ničivé bouře. Je zobrazován jako bělohlavý stařec foukající přes sevřené rty, jehož dech přenáší zprávy a semena na velké vzdálenosti.",
+      "attributes": {
+        "Domains": [
+          "Vítr",
+          "Vzduch",
+          "Nebe",
+          "Počasí",
+          "Bouře",
+          "Dech"
+        ],
+        "Symbols": [
+          "Pero",
+          "Korouhvička",
+          "Ptačí křídla",
+          "Dechová mlha"
+        ],
+        "Sacred Animals": [
+          "Orel",
+          "Sokol",
+          "Všichni ptáci"
+        ],
+        "Sacred Plants": [
+          "Trávy pohybované větrem",
+          "Pampeliška (semena rozptylovaná větrem)"
+        ],
+        "Element": "Vzduch",
+        "Associated Concepts": [
+          "Svoboda",
+          "Změna",
+          "Dech života",
+          "Zprávy na větru"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Bouřkové rituály",
+          "Modlitby před plavbou"
+        ],
+        "offerings": [
+          "Chlebové drobky házené do větru",
+          "Modlitby před námořními cestami nebo poutěmi"
+        ]
+      },
+      "tags": [
+        "wind",
+        "air",
+        "weather",
+        "sky",
+        "nature",
+        "major deity",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/014/thumbnail.png",
+      "detailImageUrl": "images/deities/014/detailImage.png"
+    },
+    {
+      "id": "015",
+      "name": "Lesní duch/Lesák",
+      "alternateNames": [
+        "Leshiy",
+        "Lesovik",
+        "Borowy",
+        "Leszy"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Mistrný duch lesa a ochránce veškeré divoké zvěře. Tvaroměnec, který svádí vetřelce z cesty.",
+      "mythology": "Lesní duch (Lesák) je mistrný duch lesa — jeden z nejmocnějších přírodních duchů ve slovanském věřství. Může se jevit jako obr, jehož hlava dosahuje až ke korunám stromů, nebo se zmenšit na výšku houby. Může vypadat jako místní sedlák, ale s kabátem naruby, nebo se jevit bez obočí, řas nebo pravého ucha. Pomocí přeludů a ozvěn svádí cestovatele z cesty. Aby byl zlomen jeho kouzlo, je třeba veškeré oblečení obrátit naruby. Lovci musí uzavřít smlouvu s Lesákem pro lovecké štěstí. Na podzim jde pod zem spát; na jaře se znovu probouzí. Je pastýřem všech lesních zvířat — vlci, medvědi a jeleni jsou jeho stádem.",
+      "attributes": {
+        "Domains": [
+          "Les",
+          "Divoká zvěř",
+          "Lov",
+          "Příroda",
+          "Přelud",
+          "Zbloudilí cestovatelé"
+        ],
+        "Symbols": [
+          "Lesní stezka",
+          "Kabát naruby",
+          "Houba",
+          "Ozvěna"
+        ],
+        "Sacred Animals": [
+          "Medvěd",
+          "Vlk",
+          "Sova",
+          "Všechna lesní zvířata"
+        ],
+        "Sacred Plants": [
+          "Borovice",
+          "Bříza",
+          "Všechny lesní stromy"
+        ],
+        "Element": "Země",
+        "Season": "Jaro do Podzimu (v zimě hibernuje)",
+        "Associated Concepts": [
+          "Neplechy",
+          "Ochrana divoké přírody",
+          "Divokost",
+          "Tvaroměna"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland"
+        ],
+        "festivals": [
+          "Jarní probuzení (duben)",
+          "Podzimní spánek (4./17. října)"
+        ],
+        "offerings": [
+          "Chléb a sůl zanechané na okraji lesa",
+          "Vrácení prvního uloveného zvířete",
+          "Tabák"
+        ]
+      },
+      "tags": [
+        "forest",
+        "nature spirit",
+        "shapeshifter",
+        "animals",
+        "wilderness",
+        "trickster"
+      ],
+      "thumbnailUrl": "images/deities/015/thumbnail.png",
+      "detailImageUrl": "images/deities/015/detailImage.png"
+    },
+    {
+      "id": "016",
+      "name": "Rusalka",
+      "alternateNames": [
+        "Rusalka",
+        "Rusałki",
+        "Mavka",
+        "Navki",
+        "Bereginya"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "South Slavic",
+        "West Slavic"
+      ],
+      "description": "Vodní duchové a duše mladých žen zemřelých před svatbou. Krásné i smrtelně nebezpečné, střeží vody a zajišťují déšť pro úrodu.",
+      "mythology": "Rusalky (množné číslo) jsou duchové mladých žen, které zemřely před svatbou, utopily se nebo zahynuly násilnou smrtí. Žijí v řekách, jezerech a lesích, jsou zvláště aktivní v Rusálním týdnu (týden před Letnicemi). Tančí na měsícem osvětlených loukách — tráva roste zeleněji tam, kde tancovaly. Mohou muže lákat ke smrti utopením nebo lechtáním, dokud nezahynou. Zajišťují také déšť pro úrodu, takže jsou zároveň nebezpečné i nutné. V Rusálním týdnu se lidé vyhýbali vodě a lesům a nosili pelyněk jako ochranu před nimi. Ukrajinská varianta Mavka je zvláště zákeřná. Představují sílu neklidných mrtvých a hlubokou ambivalenci vody.",
+      "attributes": {
+        "Domains": [
+          "Voda",
+          "Smrt",
+          "Plodnost",
+          "Déšť",
+          "Neklidní mrtví",
+          "Krása"
+        ],
+        "Symbols": [
+          "Dlouhé vlající vlasy",
+          "Říční voda",
+          "Věnec z květin",
+          "Síť"
+        ],
+        "Sacred Animals": [
+          "Ryba",
+          "Labuť",
+          "Žába",
+          "Had"
+        ],
+        "Sacred Plants": [
+          "Pelyněk (odpuzuje je)",
+          "Leknín",
+          "Vrba",
+          "Kapradí"
+        ],
+        "Element": "Voda",
+        "Season": "Jaro (Rusální týden)",
+        "Associated Concepts": [
+          "Nebezpečí",
+          "Svádění",
+          "Plodnost",
+          "Pomsta",
+          "Déšť pro úrodu"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Rusální týden (týden před Letnicemi)",
+          "Letní slunovrat"
+        ],
+        "offerings": [
+          "Věnce pustěné na vodu",
+          "Nit",
+          "Vyšívané plátno zanechané na březích řek"
+        ]
+      },
+      "tags": [
+        "water spirit",
+        "female",
+        "dangerous",
+        "fertility",
+        "unquiet dead",
+        "nature spirit"
+      ],
+      "thumbnailUrl": "images/deities/016/thumbnail.png",
+      "detailImageUrl": "images/deities/016/detailImage.png"
+    },
+    {
+      "id": "017",
+      "name": "Domovina",
+      "alternateNames": [
+        "Domovyna",
+        "Motherland",
+        "Rodina"
+      ],
+      "type": "personification",
+      "origin": [
+        "South Slavic",
+        "West Slavic",
+        "East Slavic"
+      ],
+      "description": "Ztělesnění rodné vlasti. Vyjadřuje posvátné pouto mezi lidem a jeho zemí, zahrnující živé i mrtvé.",
+      "mythology": "Domovina je ztělesnění rodné vlasti — pojmu hluboce zakořeněného ve slovanské kulturní identitě. Představuje posvátné pouto mezi lidem a jeho zemí, fyzickou půdou předků. Příznačně slovo 'domovina' v mnoha slovanských jazycích také znamená 'rakev' — domov mrtvých — čímž spojuje vlast jak s živými kořeny, tak s předkovou pohřební půdou. Tento dvojí smysl odráží slovanské chápání toho, že rodná země nese jak živé, tak předky. Ztělesňuje vlastenectví, sounáležitost, zakořenění a duchovní kontinuitu generací svázaných se stejnou zemí.",
+      "attributes": {
+        "Domains": [
+          "Vlast",
+          "Předkové",
+          "Paměť",
+          "Sounáležitost",
+          "Země"
+        ],
+        "Symbols": [
+          "Oheň krbu",
+          "Předkův mohylník",
+          "Pšeničné pole",
+          "Vesnice"
+        ],
+        "Sacred Animals": [
+          "Čáp",
+          "Vlaštovka (ptáci, kteří se vždy vrátí domů)"
+        ],
+        "Sacred Plants": [
+          "Dub",
+          "Lípa",
+          "Pšenice"
+        ],
+        "Element": "Země",
+        "Associated Concepts": [
+          "Vlastenectví",
+          "Sounáležitost",
+          "Zakořenění",
+          "Paměť předků"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "All Slavic lands"
+        ],
+        "festivals": [
+          "Dny uctívání předků",
+          "Slavnosti dožínek"
+        ],
+        "offerings": [
+          "Péče o hroby předků",
+          "První sklizeň vrácená zemi"
+        ]
+      },
+      "tags": [
+        "personification",
+        "homeland",
+        "cultural",
+        "ancestors",
+        "earth"
+      ],
+      "thumbnailUrl": "images/deities/017/thumbnail.png",
+      "detailImageUrl": "images/deities/017/detailImage.png"
+    },
+    {
+      "id": "018",
+      "name": "Jarilo",
+      "alternateNames": [
+        "Gerovit",
+        "Yarovit",
+        "Jaryło",
+        "Gerović"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Bůh jara, vegetace a vracejícího se slunce. Jeho každoroční příchod přináší světu teplo a plodnost.",
+      "mythology": "Jarilo je mladý bůh jara, vegetace a vracející se sluneční síly. Jeho jméno pochází ze slova 'jar' — jarní elan, vitalita a vášnivá energie. Ve velkém mytickém cyklu se narodí v zimě a Perun ho ukradne Velesovi, aby ho vychoval v podsvětí — v protilehlém světě za mořem. Každé jaro přejíždí zpět do světa živých na bílém koni a přináší teplo a plodnost. Dvořil se a oženil s Mořenou (svou mytickou dvojicí-sestrou) v létě. Ke konci léta je zabit — jeho smrt označuje konec vegetačního období a znovu promění Mořenu v zimní bohyni. Tento cyklus smrti a znovuzrození zrcadlí zemědělský rok.",
+      "attributes": {
+        "Domains": [
+          "Jaro",
+          "Plodnost",
+          "Vegetace",
+          "Vášeň",
+          "Mládí",
+          "Sklizeň"
+        ],
+        "Symbols": [
+          "Bílý kůň",
+          "Věnec z květin",
+          "Zelená větev",
+          "Pšeničný snop"
+        ],
+        "Sacred Animals": [
+          "Bílý kůň",
+          "Kohout",
+          "Býk"
+        ],
+        "Sacred Plants": [
+          "Pšenice",
+          "Tráva",
+          "Rané jarní květiny",
+          "Vrbové jehnědy"
+        ],
+        "Element": "Země",
+        "Season": "Jaro",
+        "Associated Concepts": [
+          "Znovuzrození",
+          "Vášeň",
+          "Hojnost",
+          "Mládí",
+          "Sezonní cyklus"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "004",
+          "011"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Jurjevův den (5. května / sjednocen se svátkem sv. Jiří)",
+          "Zelený týden (Semik)"
+        ],
+        "offerings": [
+          "První jarní květiny",
+          "Chléb",
+          "Vejce",
+          "První zelené větve"
+        ]
+      },
+      "tags": [
+        "spring",
+        "fertility",
+        "vegetation",
+        "youth",
+        "seasonal",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/018/thumbnail.png",
+      "detailImageUrl": "images/deities/018/detailImage.png"
+    },
+    {
+      "id": "019",
+      "name": "Dolja a Sudba",
+      "alternateNames": [
+        "Dolya",
+        "Nedolya",
+        "Sudba",
+        "Sud",
+        "Sreća",
+        "Nesreća"
+      ],
+      "type": "deity pair",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Ztělesnění osobního osudu a štěstěny. Dolja přináší štěstí; Nedolja přináší neštěstí. Společně přadou nit každého lidského života.",
+      "mythology": "Dolja (Dobré štěstí) a Nedolja (Zlý osud/Neštěstí) jsou ztělesněné duchové osudu přidělení každému člověku při narození. Dolja je krásná mladá žena, která provází šťastlivce, zatímco Nedolja je ošuntělá stařena trýznící nešťastníka. Sudba (Osud) je širší síla řídící pevnou životní dráhu každého. V srbské tradici je Sreća (Štěstí) žena, která přede osud. Svou Sudbu nemůžeš plně uniknout, ale udržení Dolji šťastné spravedlivým životem pomáhá. Tito duchové odrážejí hluboké slovanské filozofické pojetí osudu jako osobní, tkané záležitosti — nit upředené při narození.",
+      "attributes": {
+        "Domains": [
+          "Osud",
+          "Předurčení",
+          "Štěstěna",
+          "Štěstí",
+          "Životní dráha"
+        ],
+        "Symbols": [
+          "Upředená nit",
+          "Váhy",
+          "Křižovatka",
+          "Dvě cesty"
+        ],
+        "Sacred Animals": [
+          "Motýl (duše)",
+          "Včela"
+        ],
+        "Sacred Plants": [
+          "Rostlina niti (symbolická)"
+        ],
+        "Element": "Éter",
+        "Associated Concepts": [
+          "Předurčení",
+          "Štěstěna",
+          "Karma",
+          "Dualita",
+          "Tkaní života"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "005"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Porodní rituály",
+          "Novoroční věštění"
+        ],
+        "offerings": [
+          "Nitěné obětiny",
+          "Modlitby na křižovatce"
+        ]
+      },
+      "tags": [
+        "fate",
+        "destiny",
+        "fortune",
+        "duality",
+        "personification",
+        "luck"
+      ],
+      "thumbnailUrl": "images/deities/019/thumbnail.png",
+      "detailImageUrl": "images/deities/019/detailImage.png"
+    },
+    {
+      "id": "020",
+      "name": "Simargl",
+      "alternateNames": [
+        "Semargl",
+        "Semargl-Mokosh"
+      ],
+      "type": "creature",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Posvátný okřídlený pes-drak a strážce semen a posvátného ohně. Uveden mezi bohy Vladimírova kyjevského panteonu.",
+      "mythology": "Simargl je mytická okřídlená bytost podobná psovi nebo dračímu psovi, pravděpodobně přejatá z íránského Simurgha (velký pták Saena). Je uveden mezi idoly vztyčenými Vladimírem v Kyjevě (roku 980), což potvrzuje jeho kanonické postavení. Je strážcem semene a klíčku — chrání posvátné obilí před zničením a jako prostředník spojuje zemi a nebe. V jednom kosmologickém výkladu ho bohyně Zorji přikovávají k Severní hvězdě (Polárce); pokud by se řetěz přetrhl a Simargl utekl, svět by skončil. Je zobrazován jako dvojhlavý pes-gryf nebo okřídlený hybrid lva a psa.",
+      "attributes": {
+        "Domains": [
+          "Ochrana",
+          "Semena",
+          "Posvátný oheň",
+          "Kosmická stráž",
+          "Světová osa"
+        ],
+        "Symbols": [
+          "Okřídlený pes",
+          "Semena a obilí",
+          "Řetěz k Severní hvězdě"
+        ],
+        "Sacred Animals": [
+          "Žádné — sám je božskou bytostí"
+        ],
+        "Sacred Plants": [
+          "Obilí",
+          "Semeno",
+          "Klíček"
+        ],
+        "Element": "Oheň a Voda",
+        "Associated Concepts": [
+          "Strážnictví",
+          "Ochrana úrody",
+          "Kosmická rovnováha",
+          "Zabránění apokalypse"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "008"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Zemědělské setební slavnosti"
+        ],
+        "offerings": [
+          "Semena",
+          "První klíčky sezony"
+        ]
+      },
+      "tags": [
+        "creature",
+        "guardian",
+        "sacred fire",
+        "seeds",
+        "divine animal",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/020/thumbnail.png",
+      "detailImageUrl": "images/deities/020/detailImage.png"
+    },
+    {
+      "id": "021",
+      "name": "Veleslav",
+      "alternateNames": [
+        "Velesslav"
+      ],
+      "type": "deity",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Ctihodná postava starobylé moudrosti spojená s kultem Velese. Strážce pradávného vědění a ústní tradice.",
+      "mythology": "Veleslav je postava spojená s kultem Velese, ztělesňující ctihodné aspekty božské moudrosti. Jméno spojuje Velese (boha podsvětí, moudrosti a dobytka) se 'sláv' (sláva/proslulost). Představuje starcovské vědění — hromadění pradávné paměti, posvátné ústní tradice a prorockého vhledu předávaného z generace na generaci. V neopohanských slovanských obrodných tradicích je spojován s posvátným věděním, proroctvím a starobylými moudrostnickými tradicemi udržovanými bardi a věštci. Slouží jako prostředník mezi božskou říší Velese a lidskými hledači moudrosti.",
+      "attributes": {
+        "Domains": [
+          "Moudrost",
+          "Vědění",
+          "Starobylá tradice",
+          "Proroctví",
+          "Paměť"
+        ],
+        "Symbols": [
+          "Starý vyřezávaný hůl",
+          "Runové značky",
+          "Bezové dřevo"
+        ],
+        "Sacred Animals": [
+          "Sova",
+          "Havran"
+        ],
+        "Sacred Plants": [
+          "Bez černý",
+          "Jmelí"
+        ],
+        "Element": "Země",
+        "Associated Concepts": [
+          "Moudrost starců",
+          "Paměť předků",
+          "Proroctví",
+          "Bardské umění"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "004"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine"
+        ],
+        "festivals": [
+          "Zimní slunovratové moudrostnické obřady"
+        ],
+        "offerings": [
+          "Básně a písně",
+          "Medovina",
+          "První napsaná nebo vyslovená slova nového díla"
+        ]
+      },
+      "tags": [
+        "wisdom",
+        "knowledge",
+        "elder",
+        "minor deity",
+        "bard",
+        "prophecy"
+      ],
+      "thumbnailUrl": "images/deities/021/thumbnail.png",
+      "detailImageUrl": "images/deities/021/detailImage.png"
+    },
+    {
+      "id": "022",
+      "name": "Živa",
+      "alternateNames": [
+        "Živa",
+        "Siwa",
+        "Zywie",
+        "Zhivana"
+      ],
+      "type": "goddess",
+      "origin": [
+        "West Slavic",
+        "South Slavic",
+        "East Slavic"
+      ],
+      "description": "Bohyně života, živé přírody a životní síly. Božský protipól Mořeny, jejíž vláda začíná, když zima umírá.",
+      "mythology": "Živa (Ta Živá) je bohyně života, živé přírody a životní síly. Je božským ztělesněním vitality — síly, která oživuje všechny živé věci. Je protipólem a sokyní Mořeny: když je figurína Mořeny na jaře upálena nebo utopena v rituálu, začíná vláda Živy. Polabskými Slovany je uctívána jako Siwa v Ratiboři. Jeví se jako krásná mladá žena v letním oděvu, přinášející všude, kde kráčí, květiny a hojnost. Posvátná je jí kukačka — její volání předpovídá, kolik let ještě budete žít. Představuje nesmrtelnou, věčně se obnovující životní sílu přírody samotné.",
+      "attributes": {
+        "Domains": [
+          "Život",
+          "Příroda",
+          "Vitalita",
+          "Plodnost",
+          "Jaro",
+          "Živý svět"
+        ],
+        "Symbols": [
+          "Zelená větev",
+          "Jablko",
+          "Kukačí pero",
+          "Pramenná voda"
+        ],
+        "Sacred Animals": [
+          "Kukačka",
+          "Holubice",
+          "Jelen"
+        ],
+        "Sacred Plants": [
+          "Jabloň",
+          "Všechny kvetoucí rostliny",
+          "Čerstvé zelené listí"
+        ],
+        "Element": "Země",
+        "Season": "Jaro do Léta",
+        "Associated Concepts": [
+          "Nesmrtelnost přírody",
+          "Obnova",
+          "Životní síla",
+          "Radost"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "011"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Poland",
+          "Czech Republic",
+          "Slovakia",
+          "Serbia",
+          "Russia"
+        ],
+        "festivals": [
+          "Jarní slavnosti po utopení Mořeny"
+        ],
+        "offerings": [
+          "První jarní květiny",
+          "Jabloňový květ",
+          "Písně o životě a obnově"
+        ]
+      },
+      "tags": [
+        "life",
+        "nature",
+        "spring",
+        "fertility",
+        "minor deity",
+        "counterpart to death"
+      ],
+      "thumbnailUrl": "images/deities/022/thumbnail.png",
+      "detailImageUrl": "images/deities/022/detailImage.png"
+    },
+    {
+      "id": "023",
+      "name": "Divý",
+      "alternateNames": [
+        "Div",
+        "Diva",
+        "Wild One"
+      ],
+      "type": "spirit",
+      "origin": [
+        "South Slavic",
+        "East Slavic"
+      ],
+      "description": "Duch divoké, nezkrocené přírody. Prapůvodní síla přesahující lidskou civilizaci, přinášející předzvěsti a úžasnou moc.",
+      "mythology": "Divý (Divoký) je duch nezkrocené, prapůvodní přírody — síla čisté divočiny. Ve Slově o pluku Igorově je zmíněn jako nadpřirozená věštecká bytost křičící z korun stromů na neštěstí, předpovídající katastrofu. Ztělesňuje divoké prostory mimo lidská sídla: hluboký les, odlehlé hory a nezmapované území. Není dobrý ani zlý, ale prostě prapůvodní a mimo lidskou kontrolu — stejně měrou ohromující i děsivý. V jihoslovanské tradici je Diva někdy jeho ženský protějšek. Je hlasem přírody varujícím ty, kdo naslouchají, a zkázou, jež postihuje ty, kdo nenaslouchají.",
+      "attributes": {
+        "Domains": [
+          "Divoká příroda",
+          "Divočina",
+          "Chaos",
+          "Prapůvodní síla",
+          "Předzvěsti"
+        ],
+        "Symbols": [
+          "Divoký les",
+          "Nezkrocená řeka",
+          "Horský vrchol",
+          "Ptačí křik"
+        ],
+        "Sacred Animals": [
+          "Vlk",
+          "Rys",
+          "Orel",
+          "Všichni divocí predátoři"
+        ],
+        "Sacred Plants": [
+          "Všechny neobdělané divoké rostliny"
+        ],
+        "Element": "Země",
+        "Associated Concepts": [
+          "Divokost",
+          "Předzvěst",
+          "Prapůvodní strach",
+          "Svoboda",
+          "Svrchovaná moc přírody"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Serbia",
+          "Bulgaria",
+          "Russia",
+          "Ukraine"
+        ],
+        "festivals": [
+          "Žádný formální kult — usmírcování při vstupu do divokých prostor"
+        ],
+        "offerings": [
+          "Ticho a úcta v divočině",
+          "Nekácení živých stromů bez nutnosti"
+        ]
+      },
+      "tags": [
+        "wild",
+        "nature",
+        "forest spirit",
+        "primal",
+        "omen",
+        "spirit"
+      ],
+      "thumbnailUrl": "images/deities/023/thumbnail.png",
+      "detailImageUrl": "images/deities/023/detailImage.png"
+    },
+    {
+      "id": "024",
+      "name": "Trihlav",
+      "alternateNames": [
+        "Triglaw",
+        "Three-Headed One"
+      ],
+      "type": "deity",
+      "origin": [
+        "West Slavic"
+      ],
+      "description": "Trojhlavé božstvo vládnoucí zároveň nebem, zemí a podsvětím. Uctívaný baltoslovanskými kmeny se svátým černým koněm používaným k věštění.",
+      "mythology": "Trihlav je mocné božstvo uctívané baltoslovanskými kmeny, zejména ve Štětíně a Braniborsku. Jeho jméno znamená 'Trojhlavý' a je zobrazován se třemi zlatými hlavami, jejichž oči jsou zakryty zlatými závoji — protože pohled na lidské hříchy ho rmoutí. Vládne zároveň všem třem říším: nebi, zemi a podsvětí. Ve Štětíně vlastnil Trihlav nádherný chrám a posvátného černého koně používaného k věštění — kůň byl veden přes zkřížené kopí a pokud ho přeskočil bez dotyku, bylo vítězství v bitvě jisté. Jeho chrám podrobně popsal biskup Ota z Bambergu, který roku 1124 pokřtil Pomořany.",
+      "attributes": {
+        "Domains": [
+          "Nebe",
+          "Země",
+          "Podsvětí",
+          "Kosmická jednota",
+          "Věštění",
+          "Válka"
+        ],
+        "Symbols": [
+          "Tři hlavy (nebo jedna hlava se třemi tvářemi)",
+          "Zlaté závoje přes oči",
+          "Černý kůň",
+          "Zkřížená kopí"
+        ],
+        "Sacred Animals": [
+          "Černý kůň (věštění)",
+          "Orel"
+        ],
+        "Sacred Plants": [
+          "Žádné specifické"
+        ],
+        "Element": "Éter (všechny živly sjednoceny)",
+        "Associated Concepts": [
+          "Trojice",
+          "Kosmická rovnováha",
+          "Vševidoucnost",
+          "Jednota světů"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Pomerania",
+          "Mecklenburg",
+          "Brandenburg",
+          "Western Slavic Baltic coast"
+        ],
+        "festivals": [
+          "Předbitevní věštecké rituály",
+          "Sezonní obřady v chrámu ve Štětíně"
+        ],
+        "offerings": [
+          "Desetina válečné kořisti",
+          "Posvátný černý kůň (chován, neoběťován)",
+          "Zlato"
+        ]
+      },
+      "tags": [
+        "triform",
+        "cosmic",
+        "sky",
+        "earth",
+        "underworld",
+        "West Slavic",
+        "Baltic Slavic"
+      ],
+      "thumbnailUrl": "images/deities/024/thumbnail.png",
+      "detailImageUrl": "images/deities/024/detailImage.png"
+    },
+    {
+      "id": "025",
+      "name": "Živiné Pole",
+      "alternateNames": [
+        "Field of the Living",
+        "Vyraj",
+        "Iriy",
+        "Vyriy"
+      ],
+      "type": "mythical place",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Slovanský ráj — mytická sluncem zalitá louka věčného jara, kde odpočívají duše spravedlivých mezi životy.",
+      "mythology": "Živiné Pole (Pole živých) je mytický ráj — slovanský protějšek Elysion nebo Edenu. Je to sluncem zalitá louka věčného jara, kam jdou duše spravedlivých odpočinout. Příbuzný pojem Vyraj (Vyrij) je teplý jižní ráj, kam ptáci táhnou na zimu a kde duše odpočívají mezi převtelenými životy. V slovanské kosmologii tří světů (Prav–Nav–Jav) existuje v Pravi — říši božského řádu a spravedlivých mrtvých. Je popisováno jako nekonečná zelená pole, řeky mléka a medu a věčné teplé slunce, ležící za Světovým oceánem na kraji světa, kde stojí Světový strom.",
+      "attributes": {
+        "Domains": [
+          "Posmrtný život",
+          "Ráj",
+          "Božský řád",
+          "Odpočinek",
+          "Spravedliví mrtví"
+        ],
+        "Symbols": [
+          "Zelená louka",
+          "Řeka mléka",
+          "Věčné slunce",
+          "Světový dub ve středu"
+        ],
+        "Sacred Animals": [
+          "Všichni ptáci (kteří znají cestu do Vyraje)"
+        ],
+        "Sacred Plants": [
+          "Všechny rostliny ve věčném rozkvětu"
+        ],
+        "Element": "Éter",
+        "Associated Concepts": [
+          "Ráj",
+          "Věčný život",
+          "Spravedlnost",
+          "Kosmický řád",
+          "Převtělení"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia"
+        ],
+        "festivals": [
+          "Dny uctívání předků (Rodunitsa), kdy duše navštěvují z této říše"
+        ],
+        "offerings": [
+          "Modlitby za spravedlivé mrtvé",
+          "Jídlo zanechané na hrobech"
+        ]
+      },
+      "tags": [
+        "afterlife",
+        "paradise",
+        "mythical location",
+        "cosmic",
+        "righteous dead"
+      ],
+      "thumbnailUrl": "images/deities/025/thumbnail.png",
+      "detailImageUrl": "images/deities/025/detailImage.png"
+    },
+    {
+      "id": "026",
+      "name": "Roda",
+      "alternateNames": [
+        "Rozhanitsa",
+        "Rozhanitsy (plural)",
+        "Birth Goddess"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Porodní bohyně spojená s Rodem. Ona a Rožanice se zjevují při každém porodu, aby utkaly osud a životní dráhu novorozence.",
+      "mythology": "Roda (nebo Rožanice, její množná forma) jsou porodní bohyně spojené s Rodem, stvořitelským božstvem. Zjevují se v okamžiku porodu dítěte, aby utkaly jeho osud a určily dráhu jeho života — obdobně jako řecké Moiry nebo římské Parcae. Při každém porodu jsou přítomny dvě nebo tři Rožanice: jedna přede nit života (její délku), druhá tká její kvalitu a třetí určuje štěstí nebo neštěstí. Středověké slovanské církevní texty důrazně odsuzovaly zvyk nechávat hostiny pro Rožanice — chléb, med, sýr a kaši — což naznačuje, jak hluboce a rozšířeně byly uctívány po celých slovanských zemích.",
+      "attributes": {
+        "Domains": [
+          "Porod",
+          "Osud",
+          "Mateřství",
+          "Plodnost",
+          "Rodina",
+          "Dětství"
+        ],
+        "Symbols": [
+          "Vřeteno",
+          "Nit",
+          "Plena",
+          "Porodní uzel (rozvazovaný při porodu)"
+        ],
+        "Sacred Animals": [
+          "Laň (jelen)",
+          "Vlaštovka"
+        ],
+        "Sacred Plants": [
+          "Jeřáb (jeřabina)",
+          "Lípa"
+        ],
+        "Element": "Země",
+        "Associated Concepts": [
+          "Osud při porodu",
+          "Mateřská ochrana",
+          "Životní dráha",
+          "Kontinuita rodu"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "005"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Hostina Rožanic (po sklizni)",
+          "Porodní rituály",
+          "Rodunitsa (den předků)"
+        ],
+        "offerings": [
+          "Chléb",
+          "Med",
+          "Sýr",
+          "Kaše zanechaná po porodu"
+        ]
+      },
+      "tags": [
+        "fertility",
+        "birth",
+        "motherhood",
+        "fate",
+        "domestic",
+        "minor deity"
+      ],
+      "thumbnailUrl": "images/deities/026/thumbnail.png",
+      "detailImageUrl": "images/deities/026/detailImage.png"
+    },
+    {
+      "id": "027",
+      "name": "Jasan",
+      "alternateNames": [
+        "Yesen",
+        "Ash God",
+        "Spirit of the Ash Tree"
+      ],
+      "type": "deity",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Božský strážce jasanu a duch jarního návratu života do lesa. Ovládá léčení a Světový strom.",
+      "mythology": "Jasan je božská personifikace a strážný duch jasanu — 'jasan' je slovanské slovo pro jasanový strom. Jasan je jedním z nejposvátnějších stromů ve slovanské a indoevropské tradici; v některých slovanských variantách je Světovým stromem jasan, nikoli dub. Jasan ztělesňuje návrat života do lesa na jaře — zelenání jasanů je jedním z nejjistějších znamení, že zima zcela pominula. Ovládá léčivé vlastnosti jasanového dřeva: jasanová kůra, listy a okřídlená semena (klíče) byly hojně využívány ve slovanském lidovém léčitelství na rány, hadí uštknutí a horečky. Je to laskavé, obnovu prosazující božstvo lesních míst.",
+      "attributes": {
+        "Domains": [
+          "Jasany",
+          "Jaro",
+          "Les",
+          "Léčení",
+          "Obnova",
+          "Světový strom"
+        ],
+        "Symbols": [
+          "Jasanová větev",
+          "Jasanové klíče (okřídlená semena)",
+          "Čerstvé zelené pupeny"
+        ],
+        "Sacred Animals": [
+          "Zmije/Had (žijí u kořenů jasanu)",
+          "Datel"
+        ],
+        "Sacred Plants": [
+          "Jasan",
+          "Jasanové klíče (semena)"
+        ],
+        "Element": "Země",
+        "Season": "Jaro",
+        "Associated Concepts": [
+          "Léčení",
+          "Obnova",
+          "Posvátné dřevo",
+          "Osa Světového stromu",
+          "Ochrana"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland"
+        ],
+        "festivals": [
+          "Jarní stromové rituály",
+          "První zelenání jasanů"
+        ],
+        "offerings": [
+          "První jarní květiny přivázané k jasanovým větvím",
+          "Vyřezávané jasanové amulety"
+        ]
+      },
+      "tags": [
+        "trees",
+        "spring",
+        "forest",
+        "healing",
+        "minor deity",
+        "ash tree",
+        "world tree"
+      ],
+      "thumbnailUrl": "images/deities/027/thumbnail.png",
+      "detailImageUrl": "images/deities/027/detailImage.png"
+    },
+    {
+      "id": "028",
+      "name": "Lada",
+      "alternateNames": [
+        "Lado",
+        "Łada",
+        "Lada-Lado"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Bohyně krásy, lásky, harmonie a manželství. Její jméno zní ve staroslovanských rituálních písních zpívaných po celých slovanských zemích.",
+      "mythology": "Lada je bohyně krásy, lásky, harmonie, manželství a jara. Její jméno je kořenem slovanského slova 'lad' — harmonie, řád a mír. Jeví se jako zářivá mladá žena korunovaná květinami. Její jméno a jméno jejího mužského protějšku Lado se opakují jako rituální refrén v nesčetných staroslovanských obřadních písních (lada, lado, lado!), což dokládá její hlubokou zakořenění v lidové hudbě, svatebních obřadech a sezonních slavnostech. Předsedá všem milostným svazkům a manželstvím. Na jaře a v létě je uctívána písněmi, kruhovými tanci (chorovod) a věnci z květin. Pravděpodobně je příbuzná s baltskou Laimou, bohyní štěstí a osudu.",
+      "attributes": {
+        "Domains": [
+          "Láska",
+          "Krása",
+          "Harmonie",
+          "Manželství",
+          "Jaro",
+          "Hudba",
+          "Tanec"
+        ],
+        "Symbols": [
+          "Věnec z květin",
+          "Labuť",
+          "Lipový květ",
+          "Snubní prsten"
+        ],
+        "Sacred Animals": [
+          "Labuť",
+          "Holubice",
+          "Kukačka"
+        ],
+        "Sacred Plants": [
+          "Lípa",
+          "Růže",
+          "Všechny jarní květiny"
+        ],
+        "Element": "Vzduch",
+        "Season": "Jaro do Léta",
+        "Associated Concepts": [
+          "Romantická láska",
+          "Společenská harmonie",
+          "Radost",
+          "Krása",
+          "Spojení duší"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "013"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia",
+          "Bulgaria",
+          "Czech Republic"
+        ],
+        "festivals": [
+          "Kupálská noc (23.–24. června)",
+          "Jarní a letní slavnosti lásky",
+          "Svatební obřady"
+        ],
+        "offerings": [
+          "Věnce z květin",
+          "Písně s refrénem lada/lado",
+          "Svatební dary"
+        ]
+      },
+      "tags": [
+        "love",
+        "beauty",
+        "harmony",
+        "marriage",
+        "spring",
+        "music",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/028/thumbnail.png",
+      "detailImageUrl": "images/deities/028/detailImage.png"
+    },
+    {
+      "id": "029",
+      "name": "Dněpr",
+      "alternateNames": [
+        "Dnieper",
+        "Borysthenes (Greek name)",
+        "Slavutych (poetic name)"
+      ],
+      "type": "personification",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Božská personifikace velké řeky Dněpr — posvátné živé tepny východoslovanské civilizace a obchodu.",
+      "mythology": "Dněpr je božská personifikace největší řeky východních Slovanů, tekoucí ze středního Ruska přes Bělorusko a Ukrajinu do Černého moře. Hérodotos ji nazval Borysthenes a popsal její nesmírnou důležitost v 5. století př. n. l. Řeka byla živnou tepnou Kyjevské Rusi — legendární obchodní cesta 'od Varjagů k Řekům' vedla po celé její délce. V lidových písních a eposech Dněpr hovoří a jedná — varuje hrdiny před přicházejícím nebezpečím a truchlí nad jejich smrtí. Jeho personifikace je mohutný stříbrovousý stařec, jehož proud je jeho hlasem a jehož hloubky skrývají všechna tajemství slovanských dějin.",
+      "attributes": {
+        "Domains": [
+          "Řeky",
+          "Voda",
+          "Obchod",
+          "Ukrajina",
+          "Život",
+          "Historická paměť"
+        ],
+        "Symbols": [
+          "Tekoucí stříbrná voda",
+          "Vlny",
+          "Stříbrná ryba",
+          "Říční proud"
+        ],
+        "Sacred Animals": [
+          "Jeseter",
+          "Sumec",
+          "Orel",
+          "Volavka"
+        ],
+        "Sacred Plants": [
+          "Rákos",
+          "Vrba",
+          "Orobinec"
+        ],
+        "Element": "Voda",
+        "Associated Concepts": [
+          "Vitalita země",
+          "Obchod",
+          "Historická paměť",
+          "Zdroj života"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Ukraine",
+          "Belarus",
+          "Russia"
+        ],
+        "festivals": [
+          "Obřady svěcení vody (Zjevení Páně)",
+          "Kupálská noc (říční rituály)"
+        ],
+        "offerings": [
+          "Ryby",
+          "Chléb hozený do proudu",
+          "První ulov sezony vrácený řece"
+        ]
+      },
+      "tags": [
+        "river",
+        "water",
+        "personification",
+        "Ukrainian",
+        "nature",
+        "trade",
+        "history"
+      ],
+      "thumbnailUrl": "images/deities/029/thumbnail.png",
+      "detailImageUrl": "images/deities/029/detailImage.png"
+    },
+    {
+      "id": "030",
+      "name": "Dobrovij",
+      "alternateNames": [
+        "Dobroviy",
+        "Dobro",
+        "Dobrozhil",
+        "Good Spirit"
+      ],
+      "type": "deity",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Božstvo laskavosti, dobroty a mravní ctnosti. Božské potvrzení štědrosti a správného jednání.",
+      "mythology": "Dobrovij (Ten Dobrý) je laskavé božstvo laskavosti, dobroty a mravní ctnosti. Jeho jméno pochází ze slova 'dobro' — slovanského kořene pro dobrotu, jednoho z nejpozitivněji nabitých slov ve slovanské mravní filozofii (společné ve všech slovanských jazycích). Představuje princip, že dobré skutky mají božskou podporu a že ctnost je pozorována a odměňována vyššími silami. Je vzýván při skládání slibů štědrosti a při hledání požehnání pro činy laskavosti. Jako duchovní protipól Černoboga ztělesňuje pozitivní božskou sílu bez bojovné agrese válečnických božstev — božské potvrzení každodenní lidské dobroty, společenství a štědrosti.",
+      "attributes": {
+        "Domains": [
+          "Laskavost",
+          "Dobrota",
+          "Ctnost",
+          "Požehnání",
+          "Štědrost",
+          "Mravní řád"
+        ],
+        "Symbols": [
+          "Otevřené ruce",
+          "Bílé světlo",
+          "Lipový květ",
+          "Medový plástev"
+        ],
+        "Sacred Animals": [
+          "Bílá holubice",
+          "Včela"
+        ],
+        "Sacred Plants": [
+          "Lípa",
+          "Heřmánek"
+        ],
+        "Element": "Světlo/Éter",
+        "Associated Concepts": [
+          "Ctnost",
+          "Štědrost",
+          "Božské schválení",
+          "Pozitivní karma",
+          "Pospolitost"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Dny veřejné služby a štědrosti"
+        ],
+        "offerings": [
+          "Skutky laskavosti vykonané na jeho počest",
+          "Med",
+          "Chléb sdílený se sousedy"
+        ]
+      },
+      "tags": [
+        "goodness",
+        "benevolence",
+        "virtue",
+        "protection",
+        "minor deity",
+        "moral deity"
+      ],
+      "thumbnailUrl": "images/deities/030/thumbnail.png",
+      "detailImageUrl": "images/deities/030/detailImage.png"
+    }
+  ]
+}

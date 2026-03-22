@@ -1,12 +1,30 @@
 {
   "id": "017",
   "name": "Domovina",
-  "description": "Personifikace vlasti, ochránce národa.",
+  "alternateNames": ["Domovyna", "Motherland", "Rodina"],
+  "type": "personification",
+  "origin": ["South Slavic", "West Slavic", "East Slavic"],
+  "description": "Ztělesnění rodné vlasti. Vyjadřuje posvátné pouto mezi lidem a jeho zemí, zahrnující živé i mrtvé.",
+  "mythology": "Domovina je ztělesnění rodné vlasti — pojmu hluboce zakořeněného ve slovanské kulturní identitě. Představuje posvátné pouto mezi lidem a jeho zemí, fyzickou půdou předků. Příznačně slovo 'domovina' v mnoha slovanských jazycích také znamená 'rakev' — domov mrtvých — čímž spojuje vlast jak s živými kořeny, tak s předkovou pohřební půdou. Tento dvojí smysl odráží slovanské chápání toho, že rodná země nese jak živé, tak předky. Ztělesňuje vlastenectví, sounáležitost, zakořenění a duchovní kontinuitu generací svázaných se stejnou zemí.",
   "attributes": {
-    "Domains": ["Vlast", "Ochrana", "Jednota"],
-    "Symbols": ["Vlajka", "Štít"],
+    "Domains": ["Vlast", "Předkové", "Paměť", "Sounáležitost", "Země"],
+    "Symbols": ["Oheň krbu", "Předkův mohylník", "Pšeničné pole", "Vesnice"],
+    "Sacred Animals": ["Čáp", "Vlaštovka (ptáci, kteří se vždy vrátí domů)"],
+    "Sacred Plants": ["Dub", "Lípa", "Pšenice"],
     "Element": "Země",
-    "Associated Concepts": ["Národ", "Kultura"]
+    "Associated Concepts": ["Vlastenectví", "Sounáležitost", "Zakořenění", "Paměť předků"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["All Slavic lands"],
+    "festivals": ["Dny uctívání předků", "Slavnosti dožínek"],
+    "offerings": ["Péče o hroby předků", "První sklizeň vrácená zemi"]
+  },
+  "tags": ["personification", "homeland", "cultural", "ancestors", "earth"],
+  "thumbnailUrl": "images/deities/017/thumbnail.png",
   "detailImageUrl": "images/deities/017/detailImage.png"
 }

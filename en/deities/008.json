@@ -1,12 +1,30 @@
 {
   "id": "008",
   "name": "Zorya",
-  "description": "Two goddesses representing the morning and evening stars.",
+  "alternateNames": ["Zarya", "Zaria", "Zorya Utrennyaya", "Zorya Vechernyaya", "Zorya Polunochnaya"],
+  "type": "goddess",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Twin dawn goddesses representing the morning and evening stars. Guardians of cosmic order and Dazhbog's palace gates.",
+  "mythology": "The Zorya (Dawn Maidens) are two or three goddess sisters: Zorya Utrennyaya (Morning Star), Zorya Vechernyaya (Evening Star), and sometimes Zorya Polunochnaya (Midnight Star). Each morning, Zorya Utrennyaya opens the gates of Dazhbog's solar palace to release the sun; each evening Zorya Vechernyaya closes them. They also guard the doomsday hound Simargl who is chained to Ursa Minor — if the chain breaks and the dog escapes, the world will end. They are depicted as beautiful warrior maidens in golden armor, associated with the planet Venus visible as both morning and evening star.",
   "attributes": {
-    "Domains": ["Morning Star", "Evening Star", "Protection"],
-    "Symbols": ["Stars", "Celestial Light"],
-    "Element": "Sky",
-    "Associated Concepts": ["Guidance", "Transition"]
+    "Domains": ["Dawn", "Dusk", "Stars", "Cosmic Order", "Protection of Warriors"],
+    "Symbols": ["Morning star (Venus)", "Golden armor", "Gates of heaven"],
+    "Sacred Animals": ["Horse", "Rooster (morning)", "Owl (evening)"],
+    "Sacred Plants": ["Morning glory", "Evening primrose"],
+    "Element": "Air",
+    "Associated Concepts": ["Cosmic Balance", "Time", "Celestial Navigation", "Protection"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["002"],
+    "allies": ["020"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia"],
+    "festivals": ["Dawn rituals", "Midsummer"],
+    "offerings": ["Morning dew collected at dawn", "First light prayers", "Flowers"]
+  },
+  "tags": ["dawn", "dusk", "stars", "celestial", "cosmic order", "warrior maiden"],
+  "thumbnailUrl": "images/deities/008/thumbnail.png",
   "detailImageUrl": "images/deities/008/detailImage.png"
 }

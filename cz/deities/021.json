@@ -1,12 +1,30 @@
 {
   "id": "021",
   "name": "Veleslav",
-  "description": "Moudrá postava reprezentující slovanské dědictví a moudrost.",
+  "alternateNames": ["Velesslav"],
+  "type": "deity",
+  "origin": ["East Slavic"],
+  "description": "Ctihodná postava starobylé moudrosti spojená s kultem Velese. Strážce pradávného vědění a ústní tradice.",
+  "mythology": "Veleslav je postava spojená s kultem Velese, ztělesňující ctihodné aspekty božské moudrosti. Jméno spojuje Velese (boha podsvětí, moudrosti a dobytka) se 'sláv' (sláva/proslulost). Představuje starcovské vědění — hromadění pradávné paměti, posvátné ústní tradice a prorockého vhledu předávaného z generace na generaci. V neopohanských slovanských obrodných tradicích je spojován s posvátným věděním, proroctvím a starobylými moudrostnickými tradicemi udržovanými bardi a věštci. Slouží jako prostředník mezi božskou říší Velese a lidskými hledači moudrosti.",
   "attributes": {
-    "Domains": ["Moudrost", "Dědictví", "Tradice"],
-    "Symbols": ["Kniha", "Starý skript"],
+    "Domains": ["Moudrost", "Vědění", "Starobylá tradice", "Proroctví", "Paměť"],
+    "Symbols": ["Starý vyřezávaný hůl", "Runové značky", "Bezové dřevo"],
+    "Sacred Animals": ["Sova", "Havran"],
+    "Sacred Plants": ["Bez černý", "Jmelí"],
     "Element": "Země",
-    "Associated Concepts": ["Vědění", "Předkové"]
+    "Associated Concepts": ["Moudrost starců", "Paměť předků", "Proroctví", "Bardské umění"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": ["004"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine"],
+    "festivals": ["Zimní slunovratové moudrostnické obřady"],
+    "offerings": ["Básně a písně", "Medovina", "První napsaná nebo vyslovená slova nového díla"]
+  },
+  "tags": ["wisdom", "knowledge", "elder", "minor deity", "bard", "prophecy"],
+  "thumbnailUrl": "images/deities/021/thumbnail.png",
   "detailImageUrl": "images/deities/021/detailImage.png"
 }

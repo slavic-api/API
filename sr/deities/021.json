@@ -1,0 +1,30 @@
+{
+  "id": "021",
+  "name": "Veleslav",
+  "alternateNames": ["Velesslav"],
+  "type": "deity",
+  "origin": ["East Slavic"],
+  "description": "Poštovana figura drevne mudrosti vezana za Velesov kult. Čuvar pradavnog znanja i usmene tradicije.",
+  "mythology": "Veleslav je lik vezan za kult Velesa, koji ovaploćuje poštovane aspekte božanske mudrosti. Ime spaja Velesa (boga podzemlja, mudrosti i stoke) sa 'slav' (slava/čast). On predstavlja starešinsko znanje — nakupljanje sećanja predaka, sveto usmeno predanje i proročki uvid koji se prenosi s kolena na koleno. U neopaganskim slovenskim preporodnim tradicijama, povezuje se sa svetim znanjem, proricanjem i drevnim mudrosnim tradicijama koje su čuvali bardovi i vidovnjaci. Služi kao posrednik između božanskog carstva Velesa i ljudskih tražitelja mudrosti.",
+  "attributes": {
+    "Domains": ["Mudrost", "Znanje", "Drevna tradicija", "Proricanje", "Sećanje"],
+    "Symbols": ["Drevni urezani štap", "Runski znaci", "Drvo baze"],
+    "Sacred Animals": ["Sova", "Gavran"],
+    "Sacred Plants": ["Bazga", "Imela"],
+    "Element": "Zemlja",
+    "Associated Concepts": ["Mudrost starešina", "Sećanje predaka", "Proricanje", "Bardska umetnost"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": ["004"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine"],
+    "festivals": ["Zimski obredi mudrosti na solsticiju"],
+    "offerings": ["Pesme i kompozicije", "Medovina", "Prve izgovorene ili zapisane reči novog dela"]
+  },
+  "tags": ["wisdom", "knowledge", "elder", "minor deity", "bard", "prophecy"],
+  "thumbnailUrl": "images/deities/021/thumbnail.png",
+  "detailImageUrl": "images/deities/021/detailImage.png"
+}

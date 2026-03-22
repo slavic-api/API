@@ -1,12 +1,31 @@
 {
   "id": "001",
   "name": "Perun",
-  "description": "Slavic god of thunder and lightning. Protector of warriors.",
+  "alternateNames": ["Perkunas", "Perkons", "Perún", "Pirun"],
+  "type": "god",
+  "origin": ["East Slavic", "South Slavic", "West Slavic"],
+  "description": "Slavic god of thunder and lightning. Protector of warriors and upholder of cosmic law.",
+  "mythology": "Perun is the supreme deity of the Slavic pantheon, ruling thunder, lightning, storms, rain, law, war, and fertility from the highest branches of the World Tree — a great cosmic oak. His eternal enemy is Veles, the serpentine underworld god, who steals his cattle, wife, or children. Perun pursues Veles across the sky hurling thunderbolts, while Veles hides in the form of animals, trees, or people. This cosmic battle brings rain to the earth and maintains cosmic order. Perun is depicted as a middle-aged man with a copper beard wielding an axe or hammer. Sacred oak trees and hilltops served as his shrines. He was the patron of the warrior class and the prince's retinue in Kyivan Rus.",
   "attributes": {
-    "Domains": ["Thunder", "Lightning", "War", "Law", "Sky"],
-    "Symbols": ["Axe", "Thunderbolt", "Eagle"],
-    "Sacred Animals": ["Eagle"],
-    "Element": "Air"
+    "Domains": ["Thunder", "Lightning", "War", "Law", "Sky", "Rain", "Fertility"],
+    "Symbols": ["Axe", "Thunderbolt", "Eagle", "Hammer", "Oak"],
+    "Sacred Animals": ["Eagle", "Bull", "Aurochs"],
+    "Sacred Plants": ["Oak", "Iris"],
+    "Element": "Air",
+    "Season": "Summer",
+    "Associated Concepts": ["Justice", "Power", "Protection", "Cosmic Order"]
   },
+  "relationships": {
+    "rivals": ["004"],
+    "family": ["018"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Poland", "Belarus", "Serbia", "Croatia"],
+    "festivals": ["Perun's Day (July 20 / syncretized with Elijah's Day)"],
+    "offerings": ["Ox", "Bull", "Oak wood", "Bread", "Honey wine"]
+  },
+  "tags": ["major deity", "warrior", "sky", "weather", "thunder", "oak", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/001/thumbnail.png",
   "detailImageUrl": "images/deities/001/detailImage.png"
 }

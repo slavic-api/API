@@ -1,12 +1,30 @@
 {
   "id": "025",
-  "name": "Żywińskie Pole",
-  "description": "Mityczne pole lub łąka symbolizująca obfitość i magię.",
+  "name": "Żywini Pole",
+  "alternateNames": ["Field of the Living", "Vyraj", "Iriy", "Vyriy"],
+  "type": "mythical place",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Słowiański raj — mityczna słoneczna łąka wiecznej wiosny, gdzie odpoczywają dusze sprawiedliwych pomiędzy wcieleniami.",
+  "mythology": "Żywini Pole (Pole Żywych) jest mitycznym rajem — słowiańskim odpowiednikiem Elizjum lub Edenu. Jest słoneczną łąką wiecznej wiosny, gdzie dusze sprawiedliwych udają się na odpoczynek. Powiązana koncepcja Wyraju (Vyriy) to ciepły południowy raj, dokąd ptaki migrują na zimę i gdzie dusze odpoczywają pomiędzy wcieleniami. W słowiańskiej kosmologii trzech światów (Prawy-Nawy-Jawi) istnieje w Prawii — sferze boskiego porządku i sprawiedliwych umarłych. Opisywana jest jako bezmierne zielone pola, rzeki mleka i miodu i wieczne ciepłe słońce, położona za Oceanem Światowym na krańcu świata, gdzie stoi Drzewo Świata.",
   "attributes": {
-    "Domains": ["Obfitość", "Natura", "Magia"],
-    "Symbols": ["Łąka", "Dzikie kwiaty"],
-    "Element": "Ziemia",
-    "Associated Concepts": ["Płodność", "Dobrobyt"]
+    "Domains": ["Zaświaty", "Raj", "Boski Porządek", "Odpoczynek", "Sprawiedliwi Umarli"],
+    "Symbols": ["Zielona łąka", "Rzeka mleka", "Wieczne słońce", "Dąb-Świat w centrum"],
+    "Sacred Animals": ["Wszystkie ptaki (znające drogę do Wyraju)"],
+    "Sacred Plants": ["Wszystkie rośliny w wiecznym rozkwicie"],
+    "Element": "Eter",
+    "Associated Concepts": ["Raj", "Wieczne Życie", "Prawość", "Porządek Kosmiczny", "Reinkarnacja"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia"],
+    "festivals": ["Dni czci przodków (Rodźica), gdy dusze odwiedzają z tej sfery"],
+    "offerings": ["Modlitwy za sprawiedliwych umarłych", "Jedzenie zostawiane przy grobach"]
+  },
+  "tags": ["afterlife", "paradise", "mythical location", "cosmic", "righteous dead"],
+  "thumbnailUrl": "images/deities/025/thumbnail.png",
   "detailImageUrl": "images/deities/025/detailImage.png"
 }

@@ -1,0 +1,31 @@
+{
+  "id": "016",
+  "name": "Rusałka/Rusalka",
+  "alternateNames": ["Rusalka", "Rusałki", "Mavka", "Navki", "Bereginya"],
+  "type": "spirit",
+  "origin": ["East Slavic", "South Slavic", "West Slavic"],
+  "description": "Vodeni duhovi i duše mladih žena koje su umrle pre udaje. I lepe i smrtonosne, one čuvaju vode i obezbeđuju kišu za useve.",
+  "mythology": "Rusalke (množina) su duhovi mladih žena koje su umrle pre udaje, utopile se ili su poginule nasilnom smrću. Žive u rekama, jezerima i šumama, naročito aktivne u Rusaljskoj nedelji (nedelja pre Trojičina dne). Igraju na mesečinom ozarenim livadama — trava zeleni tamo gde su igrale. Mogu namamiti muškarce u smrt utapanjem ili škakljanjem dok ne poginu. Takođe obezbeđuju kišu za useve, što ih čini istovremeno opasnim i neophodnim. Tokom Rusaljske nedelje, narod je izbegavao vode i šume i nosio pelin da ih odbije. Ukrajinska varijanta Mavka je posebno zloćudna. One predstavljaju moć nemirnih mrtvih i duboku ambivalentnost vode.",
+  "attributes": {
+    "Domains": ["Voda", "Smrt", "Plodnost", "Kiša", "Nemirni mrtvi", "Lepota"],
+    "Symbols": ["Duga raspuštena kosa", "Rečna voda", "Venac od cveća", "Mreža"],
+    "Sacred Animals": ["Riba", "Labud", "Žaba", "Zmija"],
+    "Sacred Plants": ["Pelin (odbija ih)", "Lokvanj", "Vrba", "Paprat"],
+    "Element": "Voda",
+    "Season": "Proleće (Rusaljska nedelja)",
+    "Associated Concepts": ["Opasnost", "Zavođenje", "Plodnost", "Osveta", "Kiša za useve"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia", "Bulgaria"],
+    "festivals": ["Rusaljska nedelja (nedelja pre Trojičina dne)", "Ivanjdan"],
+    "offerings": ["Venci pušteni niz vodu", "Nit", "Vezene tkanine ostavljene na obalama reka"]
+  },
+  "tags": ["water spirit", "female", "dangerous", "fertility", "unquiet dead", "nature spirit"],
+  "thumbnailUrl": "images/deities/016/thumbnail.png",
+  "detailImageUrl": "images/deities/016/detailImage.png"
+}

@@ -1,12 +1,31 @@
 {
   "id": "015",
   "name": "Leshy",
-  "description": "Spirit of the forest, protector of wildlife.",
+  "alternateNames": ["Leshiy", "Lesovik", "Borowy", "Leszy"],
+  "type": "spirit",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "Master spirit of the forest and protector of all wildlife. A shapeshifter who leads trespassers astray.",
+  "mythology": "The Leshy is the master spirit of the forest — one of the most powerful nature spirits in Slavic belief. He can appear as a giant whose head touches the treetops, or shrink to the height of a mushroom. He may look like a local peasant but with his coat inside-out, or appear without eyebrows, eyelashes, or a right ear. He leads travelers off the path using illusions and echoes. To break his spell, turn all your clothes inside-out. Hunters must make a pact with the Leshy for good hunting luck. In autumn he goes underground to sleep; in spring he awakens again. He is the shepherd of all forest animals — wolves, bears, and deer are his flock.",
   "attributes": {
-    "Domains": ["Forest", "Wildlife", "Nature"],
-    "Symbols": ["Trees", "Animals"],
+    "Domains": ["Forest", "Wildlife", "Hunting", "Nature", "Illusion", "Lost Travelers"],
+    "Symbols": ["Forest path", "Inside-out coat", "Mushroom", "Echo"],
+    "Sacred Animals": ["Bear", "Wolf", "Owl", "All forest animals"],
+    "Sacred Plants": ["Pine", "Birch", "All forest trees"],
     "Element": "Earth",
-    "Associated Concepts": ["Protection", "Mischief"]
+    "Season": "Spring to Autumn (hibernates in winter)",
+    "Associated Concepts": ["Mischief", "Protection of Wildlife", "Wildness", "Shapeshifting"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland"],
+    "festivals": ["Spring awakening (April)", "Autumn sleep (October 4/17)"],
+    "offerings": ["Bread and salt left at forest edge", "First caught game returned", "Tobacco"]
+  },
+  "tags": ["forest", "nature spirit", "shapeshifter", "animals", "wilderness", "trickster"],
+  "thumbnailUrl": "images/deities/015/thumbnail.png",
   "detailImageUrl": "images/deities/015/detailImage.png"
 }

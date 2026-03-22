@@ -1,12 +1,31 @@
 {
   "id": "015",
   "name": "Leszy",
-  "description": "Duch lasu, opiekun dzikiej przyrody.",
+  "alternateNames": ["Leshiy", "Lesovik", "Borowy", "Leszy"],
+  "type": "spirit",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "Duch opiekun lasu i strażnik całej dzikiej przyrody. Zmiennokształtny prowadzący intruzów na manowce.",
+  "mythology": "Leszy jest duchem opiekunem lasu — jednym z najpotężniejszych duchów natury w słowiańskich wierzeniach. Może pojawić się jako olbrzym sięgający głową wierzchołków drzew lub skulić się do wysokości grzyba. Może wyglądać jak miejscowy chłop, ale z kożuchem na lewą stronę lub pojawiać się bez brwi, rzęs czy prawego ucha. Wiedzie podróżnych z drogi za pomocą złudzeń i ech. Aby złamać jego czar, należy wywrócić wszystkie ubrania na lewą stronę. Myśliwi muszą zawrzeć pakt z Leszym dla dobrego łowieckiego szczęścia. Jesienią zapada w sen zimowy; wiosną budzi się na nowo. Jest pasterzem wszystkich leśnych zwierząt — wilki, niedźwiedzie i jelenie są jego stadem.",
   "attributes": {
-    "Domains": ["Las", "Dzika przyroda", "Natura"],
-    "Symbols": ["Drzewa", "Zwierzęta"],
+    "Domains": ["Las", "Dzika Przyroda", "Łowiectwo", "Natura", "Złudzenie", "Zbłąkani Podróżni"],
+    "Symbols": ["Leśna ścieżka", "Kożuch na lewą stronę", "Grzyb", "Echo"],
+    "Sacred Animals": ["Niedźwiedź", "Wilk", "Sowa", "Wszystkie zwierzęta leśne"],
+    "Sacred Plants": ["Sosna", "Brzoza", "Wszystkie drzewa leśne"],
     "Element": "Ziemia",
-    "Associated Concepts": ["Ochrona", "Psoty"]
+    "Season": "Wiosna do Jesieni (hibernuje zimą)",
+    "Associated Concepts": ["Psoty", "Ochrona Dzikiej Przyrody", "Dzikość", "Zmiana Kształtu"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland"],
+    "festivals": ["Wiosenne przebudzenie (kwiecień)", "Jesienny sen (4/17 października)"],
+    "offerings": ["Chleb i sól zostawione na skraju lasu", "Pierwsza złowiona zwierzyna oddana z powrotem", "Tytoń"]
+  },
+  "tags": ["forest", "nature spirit", "shapeshifter", "animals", "wilderness", "trickster"],
+  "thumbnailUrl": "images/deities/015/thumbnail.png",
   "detailImageUrl": "images/deities/015/detailImage.png"
 }

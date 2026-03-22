@@ -1,12 +1,30 @@
 {
   "id": "024",
-  "name": "Triglav",
-  "description": "Božstvo s třemi hlavami reprezentující různé říše.",
+  "name": "Trihlav",
+  "alternateNames": ["Triglaw", "Three-Headed One"],
+  "type": "deity",
+  "origin": ["West Slavic"],
+  "description": "Trojhlavé božstvo vládnoucí zároveň nebem, zemí a podsvětím. Uctívaný baltoslovanskými kmeny se svátým černým koněm používaným k věštění.",
+  "mythology": "Trihlav je mocné božstvo uctívané baltoslovanskými kmeny, zejména ve Štětíně a Braniborsku. Jeho jméno znamená 'Trojhlavý' a je zobrazován se třemi zlatými hlavami, jejichž oči jsou zakryty zlatými závoji — protože pohled na lidské hříchy ho rmoutí. Vládne zároveň všem třem říším: nebi, zemi a podsvětí. Ve Štětíně vlastnil Trihlav nádherný chrám a posvátného černého koně používaného k věštění — kůň byl veden přes zkřížené kopí a pokud ho přeskočil bez dotyku, bylo vítězství v bitvě jisté. Jeho chrám podrobně popsal biskup Ota z Bambergu, který roku 1124 pokřtil Pomořany.",
   "attributes": {
-    "Domains": ["Nebe", "Země", "Podsvětí"],
-    "Symbols": ["Tři hlavy", "Tři říše"],
-    "Element": "Všechny prvky",
-    "Associated Concepts": ["Jednota", "Trojice"]
+    "Domains": ["Nebe", "Země", "Podsvětí", "Kosmická jednota", "Věštění", "Válka"],
+    "Symbols": ["Tři hlavy (nebo jedna hlava se třemi tvářemi)", "Zlaté závoje přes oči", "Černý kůň", "Zkřížená kopí"],
+    "Sacred Animals": ["Černý kůň (věštění)", "Orel"],
+    "Sacred Plants": ["Žádné specifické"],
+    "Element": "Éter (všechny živly sjednoceny)",
+    "Associated Concepts": ["Trojice", "Kosmická rovnováha", "Vševidoucnost", "Jednota světů"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Pomerania", "Mecklenburg", "Brandenburg", "Western Slavic Baltic coast"],
+    "festivals": ["Předbitevní věštecké rituály", "Sezonní obřady v chrámu ve Štětíně"],
+    "offerings": ["Desetina válečné kořisti", "Posvátný černý kůň (chován, neoběťován)", "Zlato"]
+  },
+  "tags": ["triform", "cosmic", "sky", "earth", "underworld", "West Slavic", "Baltic Slavic"],
+  "thumbnailUrl": "images/deities/024/thumbnail.png",
   "detailImageUrl": "images/deities/024/detailImage.png"
 }

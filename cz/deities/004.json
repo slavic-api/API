@@ -1,12 +1,31 @@
 {
   "id": "004",
   "name": "Veles",
-  "description": "Bůh země, vod, lesů a podsvětí.",
+  "alternateNames": ["Volos", "Weles"],
+  "type": "god",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "Bůh podsvětí, dobytka, obchodu, magie a moudrosti. Věčný soupeř Peruna.",
+  "mythology": "Veles je velký bůh podsvětí, dobytka, obchodu, hudby, magie a moudrosti. Přebývá u kořenů Světového stromu v podsvětí (Nav), v protikladu k Perunovi, který vládne v koruně stromu. Jeho věčný spor s Perunem tvoří ústřední mýtus slovanského náboženství — Veles krade Perunův dobytek, ženu nebo syna, a Perun ho pronásleduje a vrhá blesky. Veles se skrývá proměňováním se ve zvířata, stromy nebo lidi. Je to chtonická hadovitá síla hlubin země — lišák a tvaroměnec spojovaný s medvědy, hady a poezií. Poslední snop obilí ponechaný na poli při žních byl nazýván 'Velesův vous' a byl mu věnován jako úlitba.",
   "attributes": {
-    "Domains": ["Dobytek", "Obchod", "Podsvětí", "Magie"],
-    "Symbols": ["Roh", "Medvěd"],
-    "Sacred Animals": ["Medvěd", "Vlk", "Dobytek"],
-    "Element": "Voda"
+    "Domains": ["Podsvětí", "Dobytek", "Obchod", "Magie", "Moudrost", "Hudba", "Poezie"],
+    "Symbols": ["Had", "Býk", "Medvěd", "Váček zlata"],
+    "Sacred Animals": ["Medvěd", "Had", "Býk", "Sova", "Vlk"],
+    "Sacred Plants": ["Kapradí", "Tráva (tráva Nav)"],
+    "Element": "Země",
+    "Season": "Zima",
+    "Associated Concepts": ["Lest", "Bohatství", "Smrt", "Šamanismus", "Proměna"]
   },
+  "relationships": {
+    "rivals": ["001"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Poland", "Czech Republic", "Belarus"],
+    "festivals": ["Velesův den (12. ledna)", "Maslenica"],
+    "offerings": ["Dobytek", "Med", "Pivo", "Poslední snop obilí (Velesův vous)"]
+  },
+  "tags": ["major deity", "underworld", "magic", "cattle", "trickster", "wisdom", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/004/thumbnail.png",
   "detailImageUrl": "images/deities/004/detailImage.png"
 }

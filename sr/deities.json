@@ -1,0 +1,2477 @@
+{
+  "lang": "sr",
+  "version": "1.0.0",
+  "total": 30,
+  "deities": [
+    {
+      "id": "001",
+      "name": "Perun",
+      "alternateNames": [
+        "Perkunas",
+        "Perkons",
+        "Perún",
+        "Pirun"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "South Slavic",
+        "West Slavic"
+      ],
+      "description": "Slovenski bog groma i munje. Zaštitnik ratnika i čuvar kosmičkog zakona.",
+      "mythology": "Perun je vrhovno božanstvo slovenskog panteona, koje vlada gromom, munjom, olujama, kišom, zakonom, ratom i plodnošću sa najviših grana Svetskog drveta — velikog kosmičkog hrasta. Njegov večni neprijatelj je Veles, zmijoliki bog podzemlja, koji mu krade stoku, ženu ili decu. Perun juri Velesa kroz nebo bacajući gromove, dok se Veles skriva u obliku životinja, drveća ili ljudi. Ova kosmička borba donosi kišu na zemlju i održava kosmički red. Perun se prikazuje kao čovek srednje dobi sa bakrenastom bradom koji nosi sekiru ili čekić. Sveti hrastovi i brda na uzvisicama služili su kao njegova svetilišta. Bio je zaštitnik ratničke klase i kneževske prateće garde u Kijevskoj Rusi.",
+      "attributes": {
+        "Domains": [
+          "Grom",
+          "Munja",
+          "Rat",
+          "Zakon",
+          "Nebo",
+          "Kiša",
+          "Plodnost"
+        ],
+        "Symbols": [
+          "Sekira",
+          "Grom",
+          "Orao",
+          "Čekić",
+          "Hrast"
+        ],
+        "Sacred Animals": [
+          "Orao",
+          "Bik",
+          "Tur"
+        ],
+        "Sacred Plants": [
+          "Hrast",
+          "Perunika"
+        ],
+        "Element": "Vazduh",
+        "Season": "Leto",
+        "Associated Concepts": [
+          "Pravda",
+          "Moć",
+          "Zaštita",
+          "Kosmički red"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "004"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Poland",
+          "Belarus",
+          "Serbia",
+          "Croatia"
+        ],
+        "festivals": [
+          "Perunov dan (20. jul / sinkretizovan sa Iljinim danom)"
+        ],
+        "offerings": [
+          "Vo",
+          "Bik",
+          "Hrastovo drvo",
+          "Hleb",
+          "Medovina"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "warrior",
+        "sky",
+        "weather",
+        "thunder",
+        "oak",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/001/thumbnail.png",
+      "detailImageUrl": "images/deities/001/detailImage.png"
+    },
+    {
+      "id": "002",
+      "name": "Dažbog",
+      "alternateNames": [
+        "Dažbog",
+        "Dabog",
+        "Dajbog",
+        "Dazbog"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Bog sunca, bogatstva i sreće. Pradavni predak slovenskog naroda i sin Svaroga.",
+      "mythology": "Dažbog je solarno božanstvo i davalac bogatstva, čije ime znači 'Bog koji daje' ili 'Darujući bog'. Svakoga dana prelazi nebom u zlatnim kolima koje vuku beli konji koji dišu vatrom i zlatom. Spev o pohodu Igorovom opisuje Ruse kao 'Dažbogove unuke', poistovećujući ga sa božanskim pretkom slovenskog naroda. Svako jutro je mlad, a do večeri stari, da bi sledećeg dana bio ponovo rođen. On je sin Svaroga koji je skovao sunce. Sveti su mu konji, zlato i solarni disk. On je oličenje životodavne darežljivosti sunčeve svetlosti.",
+      "attributes": {
+        "Domains": [
+          "Sunce",
+          "Bogatstvo",
+          "Sreća",
+          "Žetva",
+          "Svetlost"
+        ],
+        "Symbols": [
+          "Solarni disk",
+          "Zlatna kola",
+          "Vatrena ptica",
+          "Beli konj"
+        ],
+        "Sacred Animals": [
+          "Beli konj",
+          "Zlatna ptica (Žar-ptica)",
+          "Lav"
+        ],
+        "Sacred Plants": [
+          "Suncokret",
+          "Pšenica",
+          "Kamilica"
+        ],
+        "Element": "Vatra",
+        "Season": "Leto",
+        "Associated Concepts": [
+          "Prosperitet",
+          "Darežljivost",
+          "Toplota",
+          "Očinstvo"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "010"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Letnji solsticij (Kupalna noć)",
+          "Kolyada (Zimski solsticij — solarno preporađanje)"
+        ],
+        "offerings": [
+          "Hleb",
+          "Med",
+          "Žito",
+          "Zlatni predmeti"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "sun",
+        "prosperity",
+        "agriculture",
+        "solar",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/002/thumbnail.png",
+      "detailImageUrl": "images/deities/002/detailImage.png"
+    },
+    {
+      "id": "003",
+      "name": "Mokoš",
+      "alternateNames": [
+        "Mokoša",
+        "Makosh",
+        "Mokusha"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Velika boginja majka zemlja i boginja tkanja, plodnosti i sudbine žena. Jedino žensko božanstvo u Vladimirovom kijevskom panteonu.",
+      "mythology": "Mokoš je jedino žensko božanstvo pomenuto u Primarnoj hronici među Vladimirovim panteonom u Kijevu (980. god.), što dokazuje njenu vrhunsku važnost među svim slovenskim boginjama. Ona je velika boginja majka zemlja, boginja predenja, tkanja i sudbine žena — prede nit života i sudbine kao što to čine grčke Mojre. Petkom noću luta selima proveravajući kako žene predu. Njeno ime možda potiče od korena 'mok' (mokar/vlažan), što je povezuje sa plodnom vlagom zemlje. Kasnije je sinkretizovana sa Svetom Paraskevom Petkom u hrišćanskoj tradiciji, što svedoči o njenoj trajnoj moći u narodnoj svesti.",
+      "attributes": {
+        "Domains": [
+          "Plodnost",
+          "Tkanje",
+          "Sudbina",
+          "Zemlja",
+          "Žene",
+          "Vlaga"
+        ],
+        "Symbols": [
+          "Vreteno",
+          "Preslica",
+          "Nit",
+          "Razboj"
+        ],
+        "Sacred Animals": [
+          "Ovca",
+          "Pauk"
+        ],
+        "Sacred Plants": [
+          "Lan",
+          "Konoplja"
+        ],
+        "Element": "Zemlja",
+        "Season": "Jesen",
+        "Associated Concepts": [
+          "Sudbina",
+          "Majčinstvo",
+          "Zanatstvo",
+          "Zaštita žena"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Petak (sveti nedeljni dan)",
+          "Praznovanje žetve",
+          "Maslenica"
+        ],
+        "offerings": [
+          "Lan",
+          "Vuna",
+          "Nit ostavljena na raskršću",
+          "Vezene tkanine"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "fertility",
+        "weaving",
+        "women",
+        "fate",
+        "earth mother",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/003/thumbnail.png",
+      "detailImageUrl": "images/deities/003/detailImage.png"
+    },
+    {
+      "id": "004",
+      "name": "Veles",
+      "alternateNames": [
+        "Volos",
+        "Weles"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Bog podzemlja, stoke, trgovine, magije i mudrosti. Večni rival Perunov.",
+      "mythology": "Veles je veliki bog podzemlja, stoke, trgovine, muzike, magije i mudrosti. Obitava u korenima Svetskog drveta u podzemlju (Nav), nasuprot Perunu koji vlada krunom istoga. Njegovo večno sukobljavanje sa Perunom čini centralnu priču slovenske religije — Veles krade Perunovu stoku, ženu ili sina, a Perun ga juri bacajući gromove. Veles se krije pretvarajući se u životinje, drveće ili ljude. On je htonska zmijolika sila zemljinih dubina — varalica i preobrazioc povezan sa medvedima, zmijama i poezijom. Poslednji snop žita ostavljen na njivi u vreme žetve nazivao se 'Velesova brada' i prinošen mu je kao žrtva.",
+      "attributes": {
+        "Domains": [
+          "Podzemlje",
+          "Stoka",
+          "Trgovina",
+          "Magija",
+          "Mudrost",
+          "Muzika",
+          "Poezija"
+        ],
+        "Symbols": [
+          "Zmija",
+          "Bik",
+          "Medved",
+          "Kesa zlata"
+        ],
+        "Sacred Animals": [
+          "Medved",
+          "Zmija",
+          "Bik",
+          "Sova",
+          "Vuk"
+        ],
+        "Sacred Plants": [
+          "Paprat",
+          "Trava (navska trava)"
+        ],
+        "Element": "Zemlja",
+        "Season": "Zima",
+        "Associated Concepts": [
+          "Varanje",
+          "Bogatstvo",
+          "Smrt",
+          "Šamanizam",
+          "Preobražaj"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "001"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Poland",
+          "Czech Republic",
+          "Belarus"
+        ],
+        "festivals": [
+          "Volosov dan (12. januar)",
+          "Maslenica"
+        ],
+        "offerings": [
+          "Stoka",
+          "Med",
+          "Pivo",
+          "Poslednji snop žita (Velesova brada)"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "underworld",
+        "magic",
+        "cattle",
+        "trickster",
+        "wisdom",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/004/thumbnail.png",
+      "detailImageUrl": "images/deities/004/detailImage.png"
+    },
+    {
+      "id": "005",
+      "name": "Rod",
+      "alternateNames": [
+        "Род",
+        "Rozhanitsy (associated female aspect)"
+      ],
+      "type": "primordial god",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Praiskonsko božanstvo stvaralac i predak svih bogova i živih bića. Izvor svega što postoji.",
+      "mythology": "Rod je praiskonsko božanstvo stvaralac i praotac svih bogova i živih bića. Pre nego što je išta postojalo, Rod je stvorio svet — položio kosmičko jaje iz kojeg se izlegao vasiona, ili stvorio iz sopstvenog tela. Njegovo ime je koren slovenskih reči za rođenje, porodicu, rod i prirodu (rod znači pleme/rod na svim slovenskim jezicima). Prate ga Rožanice — dve ili tri ženska božanstva sudbine koja određuju svačiju sudbinu pri rođenju. Rani slovenski tekstovi pisani od strane hrišćanskih sveštenika posebno su i višekratno osuđivali bogosluženje Roda i Rožanica, što ukazuje na njihovu vrhunsku važnost u prehrišćanskoj narodnoj religiji.",
+      "attributes": {
+        "Domains": [
+          "Stvaranje",
+          "Poreklo",
+          "Kosmos",
+          "Sudbina",
+          "Rođenje",
+          "Rod"
+        ],
+        "Symbols": [
+          "Kosmičko jaje",
+          "Drvo života",
+          "Duga"
+        ],
+        "Sacred Animals": [
+          "Tur",
+          "Orao"
+        ],
+        "Sacred Plants": [
+          "Svetsko drvo (hrast)"
+        ],
+        "Element": "Etar",
+        "Associated Concepts": [
+          "Sudbina",
+          "Providnost",
+          "Životna sila",
+          "Kosmički red"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "026"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia"
+        ],
+        "festivals": [
+          "Rodunica (proslava predaka)",
+          "Gozba Rožanica (posle žetve)"
+        ],
+        "offerings": [
+          "Hleb",
+          "Med",
+          "Kaša",
+          "Sir",
+          "Medovina"
+        ]
+      },
+      "tags": [
+        "primordial",
+        "creator",
+        "ancestors",
+        "fate",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/005/thumbnail.png",
+      "detailImageUrl": "images/deities/005/detailImage.png"
+    },
+    {
+      "id": "006",
+      "name": "Domovoj",
+      "alternateNames": [
+        "Domovoy",
+        "Domovik",
+        "Dvorovoi",
+        "Ded",
+        "Grandfather"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Duh predaka koji živi u domaćinstvu i zaštitnik doma. Stanuje iza peći i čuva porodicu.",
+      "mythology": "Domovoj je duh predaka kuće koji živi iza peći, ispod praga ili u štali. On je duh muškog pretka porodice i štiti domaćinstvo ako se prema njemu postupa s poštovanjem. Pojavljuje se kao mali dlakavi čovek nalik glavi domaćinstva. Udara i stenje kad se nesreća približava, a milovanjem miluje one koji spavaju — topao i mekan dodir znači sreću, hladan i grub znači opasnost. U nekim predanjima ne podnosi ogledala. Svaki dom ima svog Domovoja koji prati porodicu ako se preseli. Nepoštovanje prema njemu dovodi do šaljivih nedaća: pleteći grivi konjima noću, kvarivši mleko, pravivši čudne šumove.",
+      "attributes": {
+        "Domains": [
+          "Dom",
+          "Porodica",
+          "Zaštita",
+          "Ognjište",
+          "Preci"
+        ],
+        "Symbols": [
+          "Ognjište/Peć",
+          "Prag",
+          "Hleb i so"
+        ],
+        "Sacred Animals": [
+          "Mačka",
+          "Zmija",
+          "Petao"
+        ],
+        "Sacred Plants": [
+          "Ništa posebno"
+        ],
+        "Element": "Vatra",
+        "Associated Concepts": [
+          "Poreklo",
+          "Kućni mir",
+          "Znaci upozorenja",
+          "Zaštita"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia"
+        ],
+        "festivals": [
+          "Noć uoči Nove godine (umilostiviti žrtvama)",
+          "Kod selidbe (pozvati ga sa sobom)"
+        ],
+        "offerings": [
+          "Kaša",
+          "Hleb i so",
+          "Prvo jelo u danu",
+          "Duvan"
+        ]
+      },
+      "tags": [
+        "household spirit",
+        "domestic",
+        "protection",
+        "family",
+        "ancestor spirit"
+      ],
+      "thumbnailUrl": "images/deities/006/thumbnail.png",
+      "detailImageUrl": "images/deities/006/detailImage.png"
+    },
+    {
+      "id": "007",
+      "name": "Morozko",
+      "alternateNames": [
+        "Ded Moroz",
+        "Father Frost",
+        "Moroz Ivanovich",
+        "Frost"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Ovaploćenje zimskog mraza i hladnoće. Iskušava putnike i nagrađuje vrle darovima.",
+      "mythology": "Morozko (Mali mraz) ili Ded Moroz (Deda Mraz) je ovaploćenje zimske hladnoće. U bajkama iskušava putnike i radnike — ljubazni, strpljivi i vredni dobijaju darove, dok lenji i pohlepni bivaju zamrznuti. Voljenom bajkom 'Morozko' on nagrađuje dobru pastorku bogatstvom, dok pokvarenoj devojci donosi smrt. Prikazuje se kao visok starac u plavim ili srebrnim odorima koji nosi čarobni ledeni štap. Njegova slovenska porekla prethode hrišćanskom liku blagdanskog darivatelja. Živi u ledenom dvorcu na dalekom severu i posećuje sela zimi, a njegovo disanje stvara mrazne šare na prozorima.",
+      "attributes": {
+        "Domains": [
+          "Zima",
+          "Mraz",
+          "Hladnoća",
+          "Led",
+          "Darovi",
+          "Iskušavanje vrline"
+        ],
+        "Symbols": [
+          "Ledeni štap",
+          "Srebrna kesa sa darovima",
+          "Pahulja",
+          "Plave ili srebrne odeće"
+        ],
+        "Sacred Animals": [
+          "Zec",
+          "Medved",
+          "Beli jelen"
+        ],
+        "Sacred Plants": [
+          "Bor (zimzeleno drvo)",
+          "Ledinom obrasle grane"
+        ],
+        "Element": "Voda/Led",
+        "Season": "Zima",
+        "Associated Concepts": [
+          "Izdržljivost",
+          "Pravednost",
+          "Nagrada i kazna",
+          "Zimska čarolija"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Zimski solsticij (Kolyada)",
+          "Nova godina",
+          "Božić (u razvijenom obliku)"
+        ],
+        "offerings": [
+          "Kaša ostavljena napolju da bi se mraz odobrovoljio i ne bi uništio useve"
+        ]
+      },
+      "tags": [
+        "winter",
+        "cold",
+        "frost",
+        "nature spirit",
+        "fairy tale",
+        "gift-giver"
+      ],
+      "thumbnailUrl": "images/deities/007/thumbnail.png",
+      "detailImageUrl": "images/deities/007/detailImage.png"
+    },
+    {
+      "id": "008",
+      "name": "Zorja",
+      "alternateNames": [
+        "Zarya",
+        "Zaria",
+        "Zorya Utrennyaya",
+        "Zorya Vechernyaya",
+        "Zorya Polunochnaya"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Blizanačke boginje zore koje predstavljaju jutarnju i večernju zvezdu. Čuvarke kosmičkog reda i kapija Dažbogove palate.",
+      "mythology": "Zorje (Zorjine devke) su dve ili tri boginje sestre: Zorja Jutarnja (Jutarnja zvezda), Zorja Večernja (Večernja zvezda) i ponekad Zorja Ponoćna (Ponoćna zvezda). Svako jutro Zorja Jutarnja otvara kapije Dažbogove solarne palate da pusti sunce; svake večeri Zorja Večernja ih zatvara. One takođe čuvaju sudnjeg psa Simargla koji je vezan za Malu medvedicu — ako lanac pukne i pas pobegne, svet će propasti. Prikazuju se kao lepe ratnice u zlatnom oklopu, povezane sa planetom Venerom vidljivom i kao jutarnja i kao večernja zvezda.",
+      "attributes": {
+        "Domains": [
+          "Zora",
+          "Sumrak",
+          "Zvezde",
+          "Kosmički red",
+          "Zaštita ratnika"
+        ],
+        "Symbols": [
+          "Jutarnja zvezda (Venera)",
+          "Zlatni oklop",
+          "Nebeske kapije"
+        ],
+        "Sacred Animals": [
+          "Konj",
+          "Petao (jutro)",
+          "Sova (večer)"
+        ],
+        "Sacred Plants": [
+          "Povoj (jutarnji)",
+          "Noćurak (večernji)"
+        ],
+        "Element": "Vazduh",
+        "Associated Concepts": [
+          "Kosmička ravnoteža",
+          "Vreme",
+          "Nebeska navigacija",
+          "Zaštita"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "002"
+        ],
+        "allies": [
+          "020"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia"
+        ],
+        "festivals": [
+          "Obredi u zoru",
+          "Ivanjdan"
+        ],
+        "offerings": [
+          "Jutarnja rosa sakupljena u svitanje",
+          "Molitve na prvom svetlu",
+          "Cveće"
+        ]
+      },
+      "tags": [
+        "dawn",
+        "dusk",
+        "stars",
+        "celestial",
+        "cosmic order",
+        "warrior maiden"
+      ],
+      "thumbnailUrl": "images/deities/008/thumbnail.png",
+      "detailImageUrl": "images/deities/008/detailImage.png"
+    },
+    {
+      "id": "009",
+      "name": "Črnobog",
+      "alternateNames": [
+        "Czernobóg",
+        "Tchernobog",
+        "Black God",
+        "Crnobog"
+      ],
+      "type": "god",
+      "origin": [
+        "West Slavic",
+        "East Slavic"
+      ],
+      "description": "Bog tame, zla i nesreće. Pandan Belog boga, koji oličava mračnu stranu kosmičke dvojnosti.",
+      "mythology": "Črnobog ('Crni bog') prvi put se pominje u nemačkim hronikama 12. veka koje opisuju baltičkoslovenska plemena. On je otelotvorenje tamnih, zlih i razornih sila — pandan Belom bogu (Belobog). Na gozbama su Sloveni predavali čašu izgovarajući kletve Črnobogu i hvale Belobogu, priznavajući dvojnost svega što postoji. On je bog noći, haosa, nesreće i svega što je prokleto. Njegovo bogosluženje se bojalo, ali se praktikovalo da bi se umilostivio i smanjila nesreća. Pojavljuje se u modernoj kulturi, uključujući Disnejevu Fantaziju (1940) i roman Američki bogovi Nila Gejmana, svedočeći o njegovoj trajnoj simboličnoj snazi.",
+      "attributes": {
+        "Domains": [
+          "Tama",
+          "Zlo",
+          "Haos",
+          "Noć",
+          "Nesreća",
+          "Smrt"
+        ],
+        "Symbols": [
+          "Crna ikonografija",
+          "Gvozdeni lanci",
+          "Tamni mesec",
+          "Senka"
+        ],
+        "Sacred Animals": [
+          "Crni konj",
+          "Gavran",
+          "Vuk",
+          "Pauk"
+        ],
+        "Sacred Plants": [
+          "Velebilje",
+          "Crni trn"
+        ],
+        "Element": "Tama",
+        "Season": "Zima",
+        "Associated Concepts": [
+          "Dvojnost",
+          "Haos",
+          "Sudbina",
+          "Entropija",
+          "Klinjanje"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Pomerania",
+          "Rugia",
+          "Poland",
+          "Baltic Slavic coast"
+        ],
+        "festivals": [
+          "Rituali u tamu zimskog mlađaka"
+        ],
+        "offerings": [
+          "Crne životinje",
+          "Medovina nad kojom su izgovarane kletve"
+        ]
+      },
+      "tags": [
+        "darkness",
+        "evil",
+        "chaos",
+        "duality",
+        "major deity",
+        "Baltic Slavic"
+      ],
+      "thumbnailUrl": "images/deities/009/thumbnail.png",
+      "detailImageUrl": "images/deities/009/detailImage.png"
+    },
+    {
+      "id": "010",
+      "name": "Svarog",
+      "alternateNames": [
+        "Svarozhich",
+        "Swarożyc"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Bog neba, božanske vatre i nebeskog kovačkog zanata. Otac Dažbogov. Vrhovni kovač koji je skovao sunce.",
+      "mythology": "Svarog je bog vedrog neba i božanske vatre — slovenski nebeski kovač. Njegovo ime znači 'Vedro nebo' ili 'Sjajno nebo' (svar = nebo/sjajno). On je skovao zakone neba, sunce i doneo vatru čovečanstvu. Primarna hronika ga poistovećuje sa grčkim Hefestom. Ispustio je klešta s neba — grom — naučivši ljude kovačkom zanatu. On je otac Dažboga (sunca) i Svarožiča (svete vatre). Svete vatre gorele su u njegovu čast u hramovima i nikada se nisu smele ugasiti. On je civilizaciono božanstvo koje je čovečanstvu podarilo alate zanatstva i zakone braka.",
+      "attributes": {
+        "Domains": [
+          "Nebo",
+          "Vatra",
+          "Kovačtvo",
+          "Zanat",
+          "Zakon",
+          "Brak"
+        ],
+        "Symbols": [
+          "Čekić",
+          "Klešta",
+          "Kovačnica",
+          "Sveta vatra",
+          "Sunce"
+        ],
+        "Sacred Animals": [
+          "Petao",
+          "Bik"
+        ],
+        "Sacred Plants": [
+          "Hrast"
+        ],
+        "Element": "Vatra",
+        "Associated Concepts": [
+          "Zanatstvo",
+          "Božanski zakon",
+          "Stvaranje",
+          "Civilizacija"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "002"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland"
+        ],
+        "festivals": [
+          "Svarožičev dan (jesenski festival svete vatre)"
+        ],
+        "offerings": [
+          "Hleb",
+          "Meso",
+          "Sveta vatra koja večno gori"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "sky",
+        "fire",
+        "smithing",
+        "craftsman",
+        "father deity",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/010/thumbnail.png",
+      "detailImageUrl": "images/deities/010/detailImage.png"
+    },
+    {
+      "id": "011",
+      "name": "Marzanna/Morena",
+      "alternateNames": [
+        "Morana",
+        "Mara",
+        "Morena",
+        "Marzena",
+        "Marena"
+      ],
+      "type": "goddess",
+      "origin": [
+        "West Slavic",
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Boginja zime, smrti i sezonskog preporađanja. Njeno ritualno utapanje svakog proleća jedan je od najstarijih preživelih slovenskih običaja.",
+      "mythology": "Marzanna (poznata i kao Morana/Morena) je boginja zime, smrti i preporađanja proleća. Vlada tamnom polovinom godine. Njeno ritualno uništavanje jedno je od najrasprostranjenijih preživelih slovenskih narodnih tradicija — slameni lik Marzanne se pravi i ceremonijalno utapa u reci ili spaljuje na početku proleća, simbolično proterivajući zimu i smrt. Njeno ime vezuje se za slovensku reč za kugu (mor) i smrt. U nekim tradicijama ona je i boginja snova i iluzija. Njena smrt omogućava dolazak proleća, čineći je boginjom preobražaja čije uništenje predstavlja čin obnavljanja.",
+      "attributes": {
+        "Domains": [
+          "Zima",
+          "Smrt",
+          "Snovi",
+          "Preporađanje",
+          "Hladnoća",
+          "Kuga"
+        ],
+        "Symbols": [
+          "Slameni lik (lutka)",
+          "Grana vrbe",
+          "Lobanja",
+          "Srp"
+        ],
+        "Sacred Animals": [
+          "Sova",
+          "Gavran",
+          "Vrana"
+        ],
+        "Sacred Plants": [
+          "Vrba",
+          "Tisa",
+          "Velebilje"
+        ],
+        "Element": "Voda/Led",
+        "Season": "Zima",
+        "Associated Concepts": [
+          "Preobražaj",
+          "Sezonski ciklus",
+          "Smrt i preporađanje",
+          "Iluzija"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "022"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Poland",
+          "Czech Republic",
+          "Slovakia",
+          "Belarus",
+          "Russia",
+          "Ukraine"
+        ],
+        "festivals": [
+          "Sredina posta (Utapanje ili paljenje Marzanne)",
+          "Jesenja ravnodnevnica"
+        ],
+        "offerings": [
+          "Slameni lik utonuljen u reku",
+          "Prolećno cveće posle rituala"
+        ]
+      },
+      "tags": [
+        "death",
+        "winter",
+        "rebirth",
+        "seasonal",
+        "transformation",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/011/thumbnail.png",
+      "detailImageUrl": "images/deities/011/detailImage.png"
+    },
+    {
+      "id": "012",
+      "name": "Baba Jaga",
+      "alternateNames": [
+        "Jaga",
+        "Jezibaba",
+        "Baba Roga",
+        "Yaga Baba"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Drevna starica veštica i čuvar granice između živih i mrtvih. Ambivalentna pomagačica i proždirač.",
+      "mythology": "Baba Jaga je jedan od najprepoznatljivijih likova u slovenskoj mitologiji — drevna starica veštica koja živi u kolibi koja stoji na kokošjim nogama i okreće se u svakom smeru. Leti kroz vazduh u stupi, brišući tragove tučkom i metlom. Ona je čuvar granice između sveta živih i zemlje mrtvih. Junaci koji traže njenu pomoć moraju se okupati, biti nahranjenjem i naučiti od nje pre nego što im ona pomogne — pristupite li joj kako treba, biće mudra pomočnica; pristupite li pogrešno, progutaće vas. Tri sluge jahača predstavljaju zoru, podne i noć. Njenu gvozdenu ogradu krase svetleće lobanje. Ona je, moglo bi se reći, starija od samih bogova.",
+      "attributes": {
+        "Domains": [
+          "Magija",
+          "Šume",
+          "Granica sa smrću",
+          "Mudrost",
+          "Veštičarenje",
+          "Iskušenja"
+        ],
+        "Symbols": [
+          "Stupa i tučak",
+          "Okretna koliba na kokošjim nogama",
+          "Gvozdena ograda od lobanja",
+          "Metla"
+        ],
+        "Sacred Animals": [
+          "Crna mačka",
+          "Zmija",
+          "Sova",
+          "Vrana"
+        ],
+        "Sacred Plants": [
+          "Breza (okružuje njenu kolibu)",
+          "Mak"
+        ],
+        "Element": "Zemlja",
+        "Associated Concepts": [
+          "Mudrost",
+          "Granica",
+          "Iskušenja",
+          "Preobražaj",
+          "Drevno znanje"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Czech Republic"
+        ],
+        "festivals": [
+          "Nema zvaničnog bogosluženja — pojavljuje se u bajkama kao ambivalentni lik"
+        ],
+        "offerings": [
+          "Odgovarajući ritualni pozdrav",
+          "Rad i služba u zamenu za pomoć"
+        ]
+      },
+      "tags": [
+        "witch",
+        "forest",
+        "folklore",
+        "trickster",
+        "wisdom",
+        "death boundary",
+        "hag"
+      ],
+      "thumbnailUrl": "images/deities/012/thumbnail.png",
+      "detailImageUrl": "images/deities/012/detailImage.png"
+    },
+    {
+      "id": "013",
+      "name": "Kupala i Kupalo",
+      "alternateNames": [
+        "Ivan Kupala",
+        "Kupalo",
+        "Kupailo"
+      ],
+      "type": "deity pair",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Blizanačka božanstva letnjeg solsticija koja oličavaju vatru, vodu i ljubav. Njihov festival je najdraža noć slovenske godine.",
+      "mythology": "Kupala (žensko) i Kupalo (muško) su blizanačka božanstva letnjeg solsticija. Po mitu, razdvojeni su pri rođenju, a kad su se sreli, zaljubili su se ne znajući da su srodnici, i bili su preobraženi u cvet paprati i lokvanj. Njihov festival — Ivanjska noć — slavi se na letnji solsticij (23-24. juna), sinkretizovan sa praznom Svetog Jovana Krstitelja. Obeležava se logorskim vatrama koje parovi preskaču radi pročišćenja i blagosiljanja njihove veze, vencima od cveća koji se puštaju niz reke da bi se predskazao budući ljubavnik, i legendarnom potragom za cvetom paprati koji cveta samo ove jedne noći i onom ko ga nađe donosi neograničenu mudrost i bogatstvo.",
+      "attributes": {
+        "Domains": [
+          "Letnji solsticij",
+          "Vatra",
+          "Voda",
+          "Ljubav",
+          "Plodnost",
+          "Pročišćenje"
+        ],
+        "Symbols": [
+          "Logorska vatra",
+          "Venac od cveća",
+          "Cvet paprati",
+          "Reka"
+        ],
+        "Sacred Animals": [
+          "Konj",
+          "Svitac",
+          "Žaba"
+        ],
+        "Sacred Plants": [
+          "Paprat",
+          "Lokvanj",
+          "Pelin",
+          "Kantarion"
+        ],
+        "Element": "Vatra i Voda",
+        "Season": "Leto",
+        "Associated Concepts": [
+          "Ljubav",
+          "Pročišćenje",
+          "Proricanje",
+          "Obnavljanje",
+          "Sjedinjenje"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "028"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Czech Republic",
+          "Serbia"
+        ],
+        "festivals": [
+          "Ivanjska noć (23-24. juna)"
+        ],
+        "offerings": [
+          "Venci pušteni niz vodu",
+          "Preskakanje logorskih vatri",
+          "Pesme i plesovi",
+          "Cveće"
+        ]
+      },
+      "tags": [
+        "summer solstice",
+        "fertility",
+        "fire",
+        "water",
+        "love",
+        "major festival"
+      ],
+      "thumbnailUrl": "images/deities/013/thumbnail.png",
+      "detailImageUrl": "images/deities/013/detailImage.png"
+    },
+    {
+      "id": "014",
+      "name": "Stribog",
+      "alternateNames": [
+        "Stribok",
+        "Striboh"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Bog vetra, vazduha i neba. Deda svih vetrova — od najnežnijeg poveta do najmoćnije oluje.",
+      "mythology": "Stribog je bog vetrova, vazduha i neba, naveden među idolima koje je Vladimir podigao u Kijevu (980. god.). U čuvenom Spevu o pohodu Igorovom (oko 1185.), vetrovi se nazivaju 'Stribogovi unuci', njegovi potomci koji duvaju sa svih osam strana sveta. Njegovo ime potiče od korena 'stri' što znači širiti ili raznositi. On kontroliše sve vetrove — lepo vreme za mornare, dobro vreme za žetvu ili razorne oluje. Prikazuje se kao starac bele kose koji duva kroz stisnute usne, a njegovo dah nosi poruke i seme na velike daljine.",
+      "attributes": {
+        "Domains": [
+          "Vetar",
+          "Vazduh",
+          "Nebo",
+          "Vreme",
+          "Oluje",
+          "Dah"
+        ],
+        "Symbols": [
+          "Pero",
+          "Vetrokaz",
+          "Ptičja krila",
+          "Para od daha"
+        ],
+        "Sacred Animals": [
+          "Orao",
+          "Soko",
+          "Sve ptice"
+        ],
+        "Sacred Plants": [
+          "Trave koje klima vetar",
+          "Maslačak (semena koja raznosi vetar)"
+        ],
+        "Element": "Vazduh",
+        "Associated Concepts": [
+          "Sloboda",
+          "Promena",
+          "Životni dah",
+          "Poruke na vetru"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Rituali pri olujama",
+          "Molitve pre putovanja"
+        ],
+        "offerings": [
+          "Mrvice hleba bačene u vetar",
+          "Molitve pre pomorskih putovanja"
+        ]
+      },
+      "tags": [
+        "wind",
+        "air",
+        "weather",
+        "sky",
+        "nature",
+        "major deity",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/014/thumbnail.png",
+      "detailImageUrl": "images/deities/014/detailImage.png"
+    },
+    {
+      "id": "015",
+      "name": "Leshy/Šumski duh",
+      "alternateNames": [
+        "Leshiy",
+        "Lesovik",
+        "Borowy",
+        "Leszy"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Vrhovni duh šume i zaštitnik sveg divljeg sveta. Oblikovač koji skida putnike sa puta.",
+      "mythology": "Lešij je vrhovni duh šume — jedan od najmoćnijih prirodnih duhova u slovenskom verovanju. Može se pojaviti kao div čija glava seže do krošnji drveća, ili se skupiti na visinu gljive. Može izgledati kao lokalni seljak ali s kaputom okrenutim naopako, ili se pojaviti bez obrva, trepavica ili desnog uha. Odvlači putnike sa puta pomoću iluzija i eha. Da biste raskinuli njegovo čaroliju, okrenite svu svoju odeću naopako. Lovci moraju sklopiti pakt sa Ljješim za dobar ulov. U jesen ulazi u zemlju da spava; u proleće se ponovo budi. On je pastir svih šumskih životinja — vukovi, medvedi i jeleni su njegova stada.",
+      "attributes": {
+        "Domains": [
+          "Šuma",
+          "Divlji svet",
+          "Lov",
+          "Priroda",
+          "Iluzija",
+          "Izgubljeni putnici"
+        ],
+        "Symbols": [
+          "Šumska staza",
+          "Naopako okrenuti kaput",
+          "Gljiva",
+          "Jeka"
+        ],
+        "Sacred Animals": [
+          "Medved",
+          "Vuk",
+          "Sova",
+          "Sve šumske životinje"
+        ],
+        "Sacred Plants": [
+          "Bor",
+          "Breza",
+          "Sva šumska drveća"
+        ],
+        "Element": "Zemlja",
+        "Season": "Proleće do Jeseni (hibernira zimi)",
+        "Associated Concepts": [
+          "Nestašluk",
+          "Zaštita divljeg sveta",
+          "Divljina",
+          "Preobražavanje"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland"
+        ],
+        "festivals": [
+          "Prolećno buđenje (april)",
+          "Jesenski san (4/17. oktobar)"
+        ],
+        "offerings": [
+          "Hleb i so ostavljeni na ivici šume",
+          "Prvi ulov vraćen",
+          "Duvan"
+        ]
+      },
+      "tags": [
+        "forest",
+        "nature spirit",
+        "shapeshifter",
+        "animals",
+        "wilderness",
+        "trickster"
+      ],
+      "thumbnailUrl": "images/deities/015/thumbnail.png",
+      "detailImageUrl": "images/deities/015/detailImage.png"
+    },
+    {
+      "id": "016",
+      "name": "Rusałka/Rusalka",
+      "alternateNames": [
+        "Rusalka",
+        "Rusałki",
+        "Mavka",
+        "Navki",
+        "Bereginya"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "South Slavic",
+        "West Slavic"
+      ],
+      "description": "Vodeni duhovi i duše mladih žena koje su umrle pre udaje. I lepe i smrtonosne, one čuvaju vode i obezbeđuju kišu za useve.",
+      "mythology": "Rusalke (množina) su duhovi mladih žena koje su umrle pre udaje, utopile se ili su poginule nasilnom smrću. Žive u rekama, jezerima i šumama, naročito aktivne u Rusaljskoj nedelji (nedelja pre Trojičina dne). Igraju na mesečinom ozarenim livadama — trava zeleni tamo gde su igrale. Mogu namamiti muškarce u smrt utapanjem ili škakljanjem dok ne poginu. Takođe obezbeđuju kišu za useve, što ih čini istovremeno opasnim i neophodnim. Tokom Rusaljske nedelje, narod je izbegavao vode i šume i nosio pelin da ih odbije. Ukrajinska varijanta Mavka je posebno zloćudna. One predstavljaju moć nemirnih mrtvih i duboku ambivalentnost vode.",
+      "attributes": {
+        "Domains": [
+          "Voda",
+          "Smrt",
+          "Plodnost",
+          "Kiša",
+          "Nemirni mrtvi",
+          "Lepota"
+        ],
+        "Symbols": [
+          "Duga raspuštena kosa",
+          "Rečna voda",
+          "Venac od cveća",
+          "Mreža"
+        ],
+        "Sacred Animals": [
+          "Riba",
+          "Labud",
+          "Žaba",
+          "Zmija"
+        ],
+        "Sacred Plants": [
+          "Pelin (odbija ih)",
+          "Lokvanj",
+          "Vrba",
+          "Paprat"
+        ],
+        "Element": "Voda",
+        "Season": "Proleće (Rusaljska nedelja)",
+        "Associated Concepts": [
+          "Opasnost",
+          "Zavođenje",
+          "Plodnost",
+          "Osveta",
+          "Kiša za useve"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Rusaljska nedelja (nedelja pre Trojičina dne)",
+          "Ivanjdan"
+        ],
+        "offerings": [
+          "Venci pušteni niz vodu",
+          "Nit",
+          "Vezene tkanine ostavljene na obalama reka"
+        ]
+      },
+      "tags": [
+        "water spirit",
+        "female",
+        "dangerous",
+        "fertility",
+        "unquiet dead",
+        "nature spirit"
+      ],
+      "thumbnailUrl": "images/deities/016/thumbnail.png",
+      "detailImageUrl": "images/deities/016/detailImage.png"
+    },
+    {
+      "id": "017",
+      "name": "Domovina",
+      "alternateNames": [
+        "Domovyna",
+        "Motherland",
+        "Rodina"
+      ],
+      "type": "personification",
+      "origin": [
+        "South Slavic",
+        "West Slavic",
+        "East Slavic"
+      ],
+      "description": "Ovaploćenje rodne domovine. Oličava svetu vezu između naroda i njihove zemlje, obuhvatajući i žive i mrtve.",
+      "mythology": "Domovina je ovaploćenje rodne domovine — pojam duboko ukorenjen u slovenskom kulturnom identitetu. Ona predstavlja svetu vezu između naroda i njihove zemlje, fizičku zemlju predaka. Značajno je to što reč 'domovina' u mnogim slovenskim jezicima znači i 'kovčeg' — dom mrtvih — povezujući domovinu sa živim korenima i grobištem predaka. Ovo dvojako značenje odražava slovensko shvatanje da zemlja nosi i žive i pretke. Ona oličava patriotizam, osećaj pripadnosti, ukorenosti i duhovni kontinuitet generacija vezanih za istu zemlju.",
+      "attributes": {
+        "Domains": [
+          "Domovina",
+          "Poreklo",
+          "Sećanje",
+          "Pripadnost",
+          "Zemlja"
+        ],
+        "Symbols": [
+          "Plamen ognjišta",
+          "Humka predaka",
+          "Pšenično polje",
+          "Selo"
+        ],
+        "Sacred Animals": [
+          "Roda",
+          "Lasta (ptice koje se uvek vraćaju kući)"
+        ],
+        "Sacred Plants": [
+          "Hrast",
+          "Lipa",
+          "Pšenica"
+        ],
+        "Element": "Zemlja",
+        "Associated Concepts": [
+          "Patriotizam",
+          "Pripadnost",
+          "Ukorenost",
+          "Sećanje na pretke"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "All Slavic lands"
+        ],
+        "festivals": [
+          "Dani poštovanja predaka",
+          "Praznovanje žetve"
+        ],
+        "offerings": [
+          "Negovanje grobova predaka",
+          "Prva žetva vraćena zemlji"
+        ]
+      },
+      "tags": [
+        "personification",
+        "homeland",
+        "cultural",
+        "ancestors",
+        "earth"
+      ],
+      "thumbnailUrl": "images/deities/017/thumbnail.png",
+      "detailImageUrl": "images/deities/017/detailImage.png"
+    },
+    {
+      "id": "018",
+      "name": "Jarilo",
+      "alternateNames": [
+        "Gerovit",
+        "Yarovit",
+        "Jaryło",
+        "Gerović"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Bog proleća, vegetacije i povratnog sunca. Njegov godišnji dolazak donosi toplotu i plodnost svetu.",
+      "mythology": "Jarilo je mladi bog proleća, vegetacije i povratne sunčeve moći. Njegovo ime potiče od reči 'jar' — prolećna žestina, snaga i strastvena energija. U velikom mitskom ciklusu, rađa se zimi i ukraden je od Peruna od strane Velesa, koji ga odgaja u podzemlju — naličju sveta s onu stranu mora. Svakog proleća vraća se u zemlju živih na belom konju donoseći toplotu i plodnost. Udvara se Marzanni (svojoj mitskoj sestri blizanki) i ženi je leti. Krajem leta biva ubijen — njegova smrt označava kraj vegetacionog perioda i ponovo pretvara Marzannu u zimsku boginju. Ovaj ciklus smrti i preporađanja odražava poljoprivrednu godinu.",
+      "attributes": {
+        "Domains": [
+          "Proleće",
+          "Plodnost",
+          "Vegetacija",
+          "Strast",
+          "Mladost",
+          "Žetva"
+        ],
+        "Symbols": [
+          "Beli konj",
+          "Venac od cveća",
+          "Zelena grana",
+          "Snop pšenice"
+        ],
+        "Sacred Animals": [
+          "Beli konj",
+          "Petao",
+          "Bik"
+        ],
+        "Sacred Plants": [
+          "Pšenica",
+          "Trava",
+          "Rano prolećno cveće",
+          "Vrbove mace"
+        ],
+        "Element": "Zemlja",
+        "Season": "Proleće",
+        "Associated Concepts": [
+          "Preporađanje",
+          "Strast",
+          "Obilje",
+          "Mladost",
+          "Sezonski ciklus"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "004",
+          "011"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Jurjevdan (5. maj / sinkretizovan sa Đurđevdanom)",
+          "Zelena nedelja (Semik)"
+        ],
+        "offerings": [
+          "Prvo prolećno cveće",
+          "Hleb",
+          "Jaja",
+          "Prve zelene grane"
+        ]
+      },
+      "tags": [
+        "spring",
+        "fertility",
+        "vegetation",
+        "youth",
+        "seasonal",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/018/thumbnail.png",
+      "detailImageUrl": "images/deities/018/detailImage.png"
+    },
+    {
+      "id": "019",
+      "name": "Dolja i Sudba",
+      "alternateNames": [
+        "Dolya",
+        "Nedolya",
+        "Sudba",
+        "Sud",
+        "Sreća",
+        "Nesreća"
+      ],
+      "type": "deity pair",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Ovaploćenja lične sudbine i fortune. Dolja donosi sreću; Nedolja donosi nesreću. Zajedno tkaju nit svakog ljudskog života.",
+      "mythology": "Dolja (Dobra sudbina) i Nedolja (Loša sudbina/Nesreća) su ovaploćeni duhovi sudbine dodeljeni svakom čoveku pri rođenju. Dolja je lepa mlada žena koja prati srećnika, dok je Nedolja iznemogla starica koja muči nesrećnika. Sudba (Usud) je šira sila koja upravlja čovekovim utvrđenim životnim putem. U srpskoj tradiciji, Sreća je žena koja prede sudbinu. Ne možeš u potpunosti izbeći svoju Sudbu, ali zadovoljavanje Dolje pravednim životom pomaže. Ovi duhovi odražavaju duboko slovensko filozofsko shvatanje da je sudbina lična, istkana stvar — nit ispredeana pri čovekovom rođenju.",
+      "attributes": {
+        "Domains": [
+          "Sudbina",
+          "Usud",
+          "Fortuna",
+          "Sreća",
+          "Životni put"
+        ],
+        "Symbols": [
+          "Nit predenja",
+          "Vaga",
+          "Raskršće",
+          "Dva puta"
+        ],
+        "Sacred Animals": [
+          "Leptir (duša)",
+          "Pčela"
+        ],
+        "Sacred Plants": [
+          "Biljka niti (simbolična)"
+        ],
+        "Element": "Etar",
+        "Associated Concepts": [
+          "Usud",
+          "Fortuna",
+          "Karma",
+          "Dvojnost",
+          "Tkanje života"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "005"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Obredi pri rođenju",
+          "Proricanje uoči Nove godine"
+        ],
+        "offerings": [
+          "Žrtve od niti",
+          "Molitve na raskršću"
+        ]
+      },
+      "tags": [
+        "fate",
+        "destiny",
+        "fortune",
+        "duality",
+        "personification",
+        "luck"
+      ],
+      "thumbnailUrl": "images/deities/019/thumbnail.png",
+      "detailImageUrl": "images/deities/019/detailImage.png"
+    },
+    {
+      "id": "020",
+      "name": "Simargl",
+      "alternateNames": [
+        "Semargl",
+        "Semargl-Mokosh"
+      ],
+      "type": "creature",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Sveto krilato pseto-zmaj i čuvar semena i svete vatre. Naveden među bogovima Vladimirovog kijevskog panteona.",
+      "mythology": "Simargl je mitsko krilato pseto ili pas-zmaj, moguće preuzet od iranskog Simurga (velikog Sajnina ptice). Naveden je među idolima koje je Vladimir podigao u Kijevu (980. god.), potvrđujući njegov kanonski status. On je čuvar semena i izdanka — štiti sveto zrno od uništavanja i povezuje zemlju i nebo kao posrednik. Po jednom kosmološkom tumačenju, boginje Zorje vežu ga za Severnjačku zvezdu (Polarnu); ako se lanac ikad prekine i pas pobegne, svet će propasti. Prikazuje se kao dvoglavi pas-grifon ili hibrid krilatog lava i psa.",
+      "attributes": {
+        "Domains": [
+          "Zaštita",
+          "Seme",
+          "Sveta vatra",
+          "Kosmička straža",
+          "Osa sveta"
+        ],
+        "Symbols": [
+          "Krilato pseto",
+          "Seme i zrno",
+          "Lanac vezan za Severnjačku zvezdu"
+        ],
+        "Sacred Animals": [
+          "Nijedno — sam je božansko stvorenje"
+        ],
+        "Sacred Plants": [
+          "Zrno",
+          "Seme",
+          "Klijanci"
+        ],
+        "Element": "Vatra i Zemlja",
+        "Associated Concepts": [
+          "Straža",
+          "Zaštita useva",
+          "Kosmička ravnoteža",
+          "Sprečavanje apokalipse"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "008"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Zemljoradnički festivali setve"
+        ],
+        "offerings": [
+          "Seme",
+          "Prve klijance sezone"
+        ]
+      },
+      "tags": [
+        "creature",
+        "guardian",
+        "sacred fire",
+        "seeds",
+        "divine animal",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/020/thumbnail.png",
+      "detailImageUrl": "images/deities/020/detailImage.png"
+    },
+    {
+      "id": "021",
+      "name": "Veleslav",
+      "alternateNames": [
+        "Velesslav"
+      ],
+      "type": "deity",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Poštovana figura drevne mudrosti vezana za Velesov kult. Čuvar pradavnog znanja i usmene tradicije.",
+      "mythology": "Veleslav je lik vezan za kult Velesa, koji ovaploćuje poštovane aspekte božanske mudrosti. Ime spaja Velesa (boga podzemlja, mudrosti i stoke) sa 'slav' (slava/čast). On predstavlja starešinsko znanje — nakupljanje sećanja predaka, sveto usmeno predanje i proročki uvid koji se prenosi s kolena na koleno. U neopaganskim slovenskim preporodnim tradicijama, povezuje se sa svetim znanjem, proricanjem i drevnim mudrosnim tradicijama koje su čuvali bardovi i vidovnjaci. Služi kao posrednik između božanskog carstva Velesa i ljudskih tražitelja mudrosti.",
+      "attributes": {
+        "Domains": [
+          "Mudrost",
+          "Znanje",
+          "Drevna tradicija",
+          "Proricanje",
+          "Sećanje"
+        ],
+        "Symbols": [
+          "Drevni urezani štap",
+          "Runski znaci",
+          "Drvo baze"
+        ],
+        "Sacred Animals": [
+          "Sova",
+          "Gavran"
+        ],
+        "Sacred Plants": [
+          "Bazga",
+          "Imela"
+        ],
+        "Element": "Zemlja",
+        "Associated Concepts": [
+          "Mudrost starešina",
+          "Sećanje predaka",
+          "Proricanje",
+          "Bardska umetnost"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "004"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine"
+        ],
+        "festivals": [
+          "Zimski obredi mudrosti na solsticiju"
+        ],
+        "offerings": [
+          "Pesme i kompozicije",
+          "Medovina",
+          "Prve izgovorene ili zapisane reči novog dela"
+        ]
+      },
+      "tags": [
+        "wisdom",
+        "knowledge",
+        "elder",
+        "minor deity",
+        "bard",
+        "prophecy"
+      ],
+      "thumbnailUrl": "images/deities/021/thumbnail.png",
+      "detailImageUrl": "images/deities/021/detailImage.png"
+    },
+    {
+      "id": "022",
+      "name": "Živa",
+      "alternateNames": [
+        "Živa",
+        "Siwa",
+        "Zywie",
+        "Zhivana"
+      ],
+      "type": "goddess",
+      "origin": [
+        "West Slavic",
+        "South Slavic",
+        "East Slavic"
+      ],
+      "description": "Boginja života, žive prirode i životne sile. Božanski pandan Marzanne čija vladavina počinje kad zima umre.",
+      "mythology": "Živa (Živa) je boginja života, žive prirode i životne sile. Ona je božansko ovaploćenje vitalnosti — snaga koja oživljava sva živa bića. Ona je pandan i suparnica Marzanne: kada se Marzannin lik spali ili utopi u prolećnom ritualu, počinje vladavina Žive. Polabenski Sloveni je poštuju kao Siwa u Ratiboru. Pojavljuje se kao lepa mlada žena u letnjoj odeći, donoseći cveće i obilje tamo gde kroči. Kukavica joj je sveta — njeno kukanje predskazuje koliko još godina ćete živeti. Ona predstavlja besmrtnu, uvek obnavljajuću životnu snagu same prirode.",
+      "attributes": {
+        "Domains": [
+          "Život",
+          "Priroda",
+          "Vitalnost",
+          "Plodnost",
+          "Proleće",
+          "Živi svet"
+        ],
+        "Symbols": [
+          "Zelena grana",
+          "Jabuka",
+          "Kukavičje pero",
+          "Izvorska voda"
+        ],
+        "Sacred Animals": [
+          "Kukavica",
+          "Golub",
+          "Jelen"
+        ],
+        "Sacred Plants": [
+          "Jabuka",
+          "Sve cvatuće biljke",
+          "Sveže zeleno lišće"
+        ],
+        "Element": "Zemlja",
+        "Season": "Proleće do Leta",
+        "Associated Concepts": [
+          "Besmrtnost prirode",
+          "Obnavljanje",
+          "Životna sila",
+          "Radost"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "011"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Poland",
+          "Czech Republic",
+          "Slovakia",
+          "Serbia",
+          "Russia"
+        ],
+        "festivals": [
+          "Prolećni festivali posle utapanja Marzanne"
+        ],
+        "offerings": [
+          "Prvo prolećno cveće",
+          "Jabukovi cvetovi",
+          "Pesme o životu i obnavljanju"
+        ]
+      },
+      "tags": [
+        "life",
+        "nature",
+        "spring",
+        "fertility",
+        "minor deity",
+        "counterpart to death"
+      ],
+      "thumbnailUrl": "images/deities/022/thumbnail.png",
+      "detailImageUrl": "images/deities/022/detailImage.png"
+    },
+    {
+      "id": "023",
+      "name": "Divi",
+      "alternateNames": [
+        "Div",
+        "Diva",
+        "Wild One"
+      ],
+      "type": "spirit",
+      "origin": [
+        "South Slavic",
+        "East Slavic"
+      ],
+      "description": "Duh divlje, neukroćene prirode. Praiskonska sila izvan ljudske civilizacije, donoseći predskazanja i zadivljujuću moć.",
+      "mythology": "Div (Divlji) je duh neukroćene, praiskone prirode — sila čiste divljine. Pominje se u Spevu o pohodu Igorovom kao natprirodno biće-predskazivač koje vičući javlja katastrofu s vrha drveća, nagovestivši nesreće. Oličava divlje prostore izvan ljudskih naselja: duboke šume, udaljene planine i neistražene krajeve. Nije ni dobar ni zao, već jednostavno praiskon i van ljudske kontrole — podjednako zadivljujući i zastrašujući. U južnoslovenskoj tradiciji, Diva je ponekad njegova ženska kopija. On je glas prirode koji upozori one koji slušaju, i uništenje koje pada na one koji ne slušaju.",
+      "attributes": {
+        "Domains": [
+          "Divlja priroda",
+          "Pustinja",
+          "Haos",
+          "Praiskonska sila",
+          "Predskazanja"
+        ],
+        "Symbols": [
+          "Divlja šuma",
+          "Neukroćena reka",
+          "Planinski vrh",
+          "Ptičji krik"
+        ],
+        "Sacred Animals": [
+          "Vuk",
+          "Ris",
+          "Orao",
+          "Svi divlji grabljivci"
+        ],
+        "Sacred Plants": [
+          "Sve nekultivirane divlje biljke"
+        ],
+        "Element": "Zemlja",
+        "Associated Concepts": [
+          "Divljina",
+          "Predskazanje",
+          "Praiskonski strah",
+          "Sloboda",
+          "Suverena moć prirode"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Serbia",
+          "Bulgaria",
+          "Russia",
+          "Ukraine"
+        ],
+        "festivals": [
+          "Nema zvaničnog bogosluženja — umilostivljuje se pri ulasku u divljinu"
+        ],
+        "offerings": [
+          "Tišina i poštovanje u divljini",
+          "Nesečenje živog drveća bez nužde"
+        ]
+      },
+      "tags": [
+        "wild",
+        "nature",
+        "forest spirit",
+        "primal",
+        "omen",
+        "spirit"
+      ],
+      "thumbnailUrl": "images/deities/023/thumbnail.png",
+      "detailImageUrl": "images/deities/023/detailImage.png"
+    },
+    {
+      "id": "024",
+      "name": "Triglav",
+      "alternateNames": [
+        "Triglaw",
+        "Three-Headed One"
+      ],
+      "type": "deity",
+      "origin": [
+        "West Slavic"
+      ],
+      "description": "Troglavno božanstvo koje istovremeno vlada nebom, zemljom i podzemljem. Poštovano od strane baltičkoslovenskih plemena, sa svetim crnim konjem korišćenim za proricanje.",
+      "mythology": "Triglav je moćno božanstvo koje su poštovala baltičkoslovenska plemena, najistaknutije u Šćećinu i Brandenburgu. Njegovo ime znači 'Troglavni' i prikazuje se sa tri zlatne glave, oči mu zaklonjene zlatnim velovima — jer ga sagledavanje greha čovečanstva muči. Vlada istovremeno svim trima carstvima: nebom, zemljom i podzemljem. U Šćećinu je Triglav posedovao veličanstveni hram i svetog crnog konja za proricanje — konj se vodio preko ukrštenih kopalja, i ako ih nije dotakao, pretskazivana je pobeda u boju. Njegov hram detaljno je opisao episkop Oto iz Bamberga koji je obratio Pomerance 1124. godine.",
+      "attributes": {
+        "Domains": [
+          "Nebo",
+          "Zemlja",
+          "Podzemlje",
+          "Kosmičko jedinstvo",
+          "Proricanje",
+          "Rat"
+        ],
+        "Symbols": [
+          "Tri glave (ili jedna glava sa tri lica)",
+          "Zlatni velovi preko očiju",
+          "Crni konj",
+          "Ukrštena koplja"
+        ],
+        "Sacred Animals": [
+          "Crni konj (proricanje)",
+          "Orao"
+        ],
+        "Sacred Plants": [
+          "Ništa posebno"
+        ],
+        "Element": "Etar (svi elementi ujedinjeni)",
+        "Associated Concepts": [
+          "Trojstvo",
+          "Kosmička ravnoteža",
+          "Svevidnost",
+          "Jedinstvo svetova"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Pomerania",
+          "Mecklenburg",
+          "Brandenburg",
+          "Western Slavic Baltic coast"
+        ],
+        "festivals": [
+          "Rituali proricanja pre bitke",
+          "Sezonski obredi u hramu u Šćećinu"
+        ],
+        "offerings": [
+          "Desetina ratnog plena",
+          "Sveti crni konj (čuvan, ne žrtvovan)",
+          "Zlato"
+        ]
+      },
+      "tags": [
+        "triform",
+        "cosmic",
+        "sky",
+        "earth",
+        "underworld",
+        "West Slavic",
+        "Baltic Slavic"
+      ],
+      "thumbnailUrl": "images/deities/024/thumbnail.png",
+      "detailImageUrl": "images/deities/024/detailImage.png"
+    },
+    {
+      "id": "025",
+      "name": "Živini Pole",
+      "alternateNames": [
+        "Field of the Living",
+        "Vyraj",
+        "Iriy",
+        "Vyriy"
+      ],
+      "type": "mythical place",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Slovenski raj — mitska osunčana livada večnog proleća gde pravedne duše počivaju između života.",
+      "mythology": "Živini Pole (Polje živih) je mitski raj — slovenski ekvivalent Elizija ili Edema. To je osunčana livada večnog proleća gde duše pravednih odlaze da počinu. Srodni pojam Viraj (Virij) je topli južni raj gde ptice sele zimi i gde duše počivaju između reinkarnacija. U slovenskoj trodelnoj kosmologiji (Prav-Nav-Jav), nalazi se u Pravu — carstvu božanskog reda i pravednih mrtvih. Opisuje se kao beskrajna zelena polja, reke mleka i meda i večno toplo sunce, smešteno s onu stranu Svetskog okeana na rubu sveta gde stoji Svetsko drvo.",
+      "attributes": {
+        "Domains": [
+          "Zagrobni život",
+          "Raj",
+          "Božanski red",
+          "Počinak",
+          "Pravedni mrtvi"
+        ],
+        "Symbols": [
+          "Zelena livada",
+          "Reka mleka",
+          "Večno sunce",
+          "Svetski hrast u centru"
+        ],
+        "Sacred Animals": [
+          "Sve ptice (koje znaju put do Viraja)"
+        ],
+        "Sacred Plants": [
+          "Sve biljke u večnom cvatu"
+        ],
+        "Element": "Etar",
+        "Associated Concepts": [
+          "Raj",
+          "Večni život",
+          "Pravednost",
+          "Kosmički red",
+          "Reinkarnacija"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia"
+        ],
+        "festivals": [
+          "Dani poštovanja predaka (Rodunica) kada duše posećuju iz ovog carstva"
+        ],
+        "offerings": [
+          "Molitve za pravedne mrtvace",
+          "Hrana ostavljena na grobovima"
+        ]
+      },
+      "tags": [
+        "afterlife",
+        "paradise",
+        "mythical location",
+        "cosmic",
+        "righteous dead"
+      ],
+      "thumbnailUrl": "images/deities/025/thumbnail.png",
+      "detailImageUrl": "images/deities/025/detailImage.png"
+    },
+    {
+      "id": "026",
+      "name": "Roda",
+      "alternateNames": [
+        "Rozhanitsa",
+        "Rozhanitsy (plural)",
+        "Birth Goddess"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Boginja rođenja vezana za Roda. Ona i Rožanice pojavljuju se pri svakom porođaju da bi ispredile sudbinu i životni put novorođenčeta.",
+      "mythology": "Roda (ili Rožanice, njen množinski oblik) su boginje porođaja vezane za Roda, božanstvo stvaralac. Pojavljuju se u trenutku porođaja deteta da ispredaju njegovu sudbinu i odrede put njegovog života — nalik grčkim Mojrama ili rimskim Parkama. Dve ili tri Rožanice prisutne su pri svakom porođaju: jedna prede nit života (njenu dužinu), druga tka njen kvalitet, a treća određuje sreću ili nesreću. Srednjovekovni slovenski crkveni tekstovi žestoko su osuđivali praksu ostavljanja gozbi za Rožanice — hleb, med, sir i kašu — što ukazuje na to koliko su bile rasprostranjeno i duboko poštovane širom slovenskih zemalja.",
+      "attributes": {
+        "Domains": [
+          "Rođenje",
+          "Sudbina",
+          "Majčinstvo",
+          "Plodnost",
+          "Porodica",
+          "Detinjstvo"
+        ],
+        "Symbols": [
+          "Vreteno",
+          "Nit",
+          "Povoji",
+          "Čvor porođaja (razvezuje se tokom porođaja)"
+        ],
+        "Sacred Animals": [
+          "Košuta (srna)",
+          "Lasta"
+        ],
+        "Sacred Plants": [
+          "Jarebika (gorski jasen)",
+          "Lipa"
+        ],
+        "Element": "Zemlja",
+        "Associated Concepts": [
+          "Sudbina pri rođenju",
+          "Majčinska zaštita",
+          "Životni put",
+          "Porodični kontinuitet"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "005"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Gozba Rožanica (posle žetve)",
+          "Obredi pri porođaju",
+          "Rodunica (dan predaka)"
+        ],
+        "offerings": [
+          "Hleb",
+          "Med",
+          "Sir",
+          "Kaša ostavljena posle porođaja"
+        ]
+      },
+      "tags": [
+        "fertility",
+        "birth",
+        "motherhood",
+        "fate",
+        "domestic",
+        "minor deity"
+      ],
+      "thumbnailUrl": "images/deities/026/thumbnail.png",
+      "detailImageUrl": "images/deities/026/detailImage.png"
+    },
+    {
+      "id": "027",
+      "name": "Jasen",
+      "alternateNames": [
+        "Yesen",
+        "Ash God",
+        "Spirit of the Ash Tree"
+      ],
+      "type": "deity",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Božanski čuvar jasena i duh prolećnog povratka u šumu. Upravlja lečenjem i Svetskim drvetom.",
+      "mythology": "Jasen je božansko ovaploćenje i duh čuvar jasena — 'jasen' je slovenska reč za ovu vrstu drveta. Jasen je jedno od najsvetijih drveća u slovenskoj i indoevropskoj tradiciji; u nekim slovenskim varijantama Svetsko drvo je jasen, a ne hrast. Jasen ovaploćuje povratak života u šumu u proleće — zelenjenje jasena je jedan od najpouzdanijih znakova da je zima definitivno prošla. Upravlja lekovitim svojstvima jasenovog drveta: kora jasena, listovi i krilate semenke (perje) obilno su korišćeni u slovenskoj narodnoj medicini za rane, ujede zmija i groznice. On je blago, obnavljajuće usmereno božanstvo šumovitih mesta.",
+      "attributes": {
+        "Domains": [
+          "Jasenovi",
+          "Proleće",
+          "Šuma",
+          "Lečenje",
+          "Obnavljanje",
+          "Svetsko drvo"
+        ],
+        "Symbols": [
+          "Grana jasena",
+          "Krilate semenke jasena",
+          "Sveži zeleni pupoljci"
+        ],
+        "Sacred Animals": [
+          "Šarka/Zmija (živi pored jasenovih korena)",
+          "Detlić"
+        ],
+        "Sacred Plants": [
+          "Jasen",
+          "Semenke jasena"
+        ],
+        "Element": "Zemlja",
+        "Season": "Proleće",
+        "Associated Concepts": [
+          "Lečenje",
+          "Obnavljanje",
+          "Sveto drvo",
+          "Osa Svetskog drveta",
+          "Zaštita"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland"
+        ],
+        "festivals": [
+          "Prolećni obredi uz drveće",
+          "Prvo zelenjenje jasena"
+        ],
+        "offerings": [
+          "Prvo prolećno cveće vezano za grane jasena",
+          "Urezani amajlije od jasenovog drveta"
+        ]
+      },
+      "tags": [
+        "trees",
+        "spring",
+        "forest",
+        "healing",
+        "minor deity",
+        "ash tree",
+        "world tree"
+      ],
+      "thumbnailUrl": "images/deities/027/thumbnail.png",
+      "detailImageUrl": "images/deities/027/detailImage.png"
+    },
+    {
+      "id": "028",
+      "name": "Lada",
+      "alternateNames": [
+        "Lado",
+        "Łada",
+        "Lada-Lado"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Boginja lepote, ljubavi, harmonije i braka. Njeno ime odzvanja u drevnim slovenskim obrednim pesmama pevanim širom svih slovenskih zemalja.",
+      "mythology": "Lada je boginja lepote, ljubavi, harmonije, braka i proleća. Njeno ime je koren slovenskog pojma 'lad' — harmonija, red i mir. Pojavljuje se kao raskošna mlada žena okrunjena cvećem. Njeno ime i ime njenog muškog pandana Lada pojavljuju se kao obredni refren u bezbroj drevnih slovenskih ceremonijnih pesama (lada, lado, lado!), što dokazuje njenu duboku prepletenost sa narodnom muzikom, svadbenim obredima i sezonskim praznovanima. Predsedava svim ljubavnim vezama i brakovima. U proleće i leto časti se pesmama, kolo-igrama (horovod) i vencima od cveća. Moguće je da je srodnička sa baltičkom Laimom, boginjom sreće i sudbine.",
+      "attributes": {
+        "Domains": [
+          "Ljubav",
+          "Lepota",
+          "Harmonija",
+          "Brak",
+          "Proleće",
+          "Muzika",
+          "Ples"
+        ],
+        "Symbols": [
+          "Venac od cveća",
+          "Labud",
+          "Lipov cvet",
+          "Venčani prsten"
+        ],
+        "Sacred Animals": [
+          "Labud",
+          "Golub",
+          "Kukavica"
+        ],
+        "Sacred Plants": [
+          "Lipa",
+          "Ruža",
+          "Sve prolećno cveće"
+        ],
+        "Element": "Vazduh",
+        "Season": "Proleće do Leta",
+        "Associated Concepts": [
+          "Romantična ljubav",
+          "Društvena harmonija",
+          "Radost",
+          "Lepota",
+          "Sjedinjavanje duša"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "013"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia",
+          "Bulgaria",
+          "Czech Republic"
+        ],
+        "festivals": [
+          "Ivanjska noć (23-24. juna)",
+          "Prolećni i letnji festivali ljubavi",
+          "Svadbeni obredi"
+        ],
+        "offerings": [
+          "Venci od cveća",
+          "Pesme sa refrenom lada/lado",
+          "Svadbeni pokloni"
+        ]
+      },
+      "tags": [
+        "love",
+        "beauty",
+        "harmony",
+        "marriage",
+        "spring",
+        "music",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/028/thumbnail.png",
+      "detailImageUrl": "images/deities/028/detailImage.png"
+    },
+    {
+      "id": "029",
+      "name": "Dnjepar",
+      "alternateNames": [
+        "Dnieper",
+        "Borysthenes (Greek name)",
+        "Slavutych (poetic name)"
+      ],
+      "type": "personification",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Božansko ovaploćenje velike reke Dnjepar — svete životne linije istočnoslovenske civilizacije i trgovine.",
+      "mythology": "Dnjepar je božansko ovaploćenje najveće reke Istočnih Slovena, koja teče od centralne Rusije kroz Belorusiju i Ukrajinu do Crnog mora. Herodot ga je nazvao Boristenom i opisao njegov ogroman značaj u 5. veku pre Hrista. Reka je bila životna linija Kijevske Rusi — legendarna trgovačka ruta 'od Varjaga do Grka' protezala se duž cele njene dužine. U narodnim pesmama i epskoj poeziji, Dnjepar govori i deluje — upozorava junake na nadolazeću opasnost i oplakuje njihovu smrt. Njegovo ovaploćenje je moćni starац srebrne brade čija je struja njegov glas, a čije dubine čuvaju sve tajne slovenske istorije.",
+      "attributes": {
+        "Domains": [
+          "Reke",
+          "Voda",
+          "Trgovina",
+          "Ukrajina",
+          "Život",
+          "Istorijsko pamćenje"
+        ],
+        "Symbols": [
+          "Tekuća srebrna voda",
+          "Talasi",
+          "Srebrna riba",
+          "Rečna struja"
+        ],
+        "Sacred Animals": [
+          "Jesetra",
+          "Som",
+          "Orao",
+          "Čaplja"
+        ],
+        "Sacred Plants": [
+          "Trska",
+          "Vrba",
+          "Rogoz"
+        ],
+        "Element": "Voda",
+        "Associated Concepts": [
+          "Vitalnost zemlje",
+          "Trgovina",
+          "Istorijsko pamćenje",
+          "Izvor života"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Ukraine",
+          "Belarus",
+          "Russia"
+        ],
+        "festivals": [
+          "Obredi blagosiljanja voda (Bogojavljanje)",
+          "Ivanjska noć (rečni rituali)"
+        ],
+        "offerings": [
+          "Riba",
+          "Hleb bačen u tok",
+          "Prvi ulov sezone vraćen reci"
+        ]
+      },
+      "tags": [
+        "river",
+        "water",
+        "personification",
+        "Ukrainian",
+        "nature",
+        "trade",
+        "history"
+      ],
+      "thumbnailUrl": "images/deities/029/thumbnail.png",
+      "detailImageUrl": "images/deities/029/detailImage.png"
+    },
+    {
+      "id": "030",
+      "name": "Dobrovij",
+      "alternateNames": [
+        "Dobroviy",
+        "Dobro",
+        "Dobrozhil",
+        "Good Spirit"
+      ],
+      "type": "deity",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Božanstvo dobrote, ljubaznosti i moralnih vrlina. Božansko odobravanje darežljivosti i pravednog delanja.",
+      "mythology": "Dobrovij (Dobri) je dobroćudno božanstvo dobrote, ljubaznosti i moralnih vrlina. Njegovo ime potiče od korena 'dobro' — slovenskog korena za dobrotu, jedne od najpozitivnije obojenih reči u slovenskoj moralnoj filozofiji (zajednička svim slovenskim jezicima). On predstavlja načelo da dobra dela imaju božansku potporu i da je vrlina svedočena i nagrađena od strane viših sila. Priziva se pri davanju zakletve o darežljivosti i kada se traži blagoslov za dela ljubaznosti. Kao duhovni pandan Črnoboga, oličava pozitivnu božansku silu bez ratničke agresivnosti ratničkih božanstava — božansko odobravanje svakodnevne ljudske dobrote, zajednice i darežljivosti.",
+      "attributes": {
+        "Domains": [
+          "Dobrota",
+          "Ljubaznost",
+          "Vrlina",
+          "Blagoslov",
+          "Darežljivost",
+          "Moralni red"
+        ],
+        "Symbols": [
+          "Otvorene ruke",
+          "Bela svetlost",
+          "Lipov cvet",
+          "Saće"
+        ],
+        "Sacred Animals": [
+          "Bela golubica",
+          "Pčela"
+        ],
+        "Sacred Plants": [
+          "Lipa",
+          "Kamilica"
+        ],
+        "Element": "Svetlost/Etar",
+        "Associated Concepts": [
+          "Vrlina",
+          "Darežljivost",
+          "Božansko odobravanje",
+          "Pozitivna karma",
+          "Zajednica"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Dani zajedničke službe i darežljivosti"
+        ],
+        "offerings": [
+          "Dela ljubaznosti učinjena u njegovu čast",
+          "Med",
+          "Hleb podeljen sa komšijama"
+        ]
+      },
+      "tags": [
+        "goodness",
+        "benevolence",
+        "virtue",
+        "protection",
+        "minor deity",
+        "moral deity"
+      ],
+      "thumbnailUrl": "images/deities/030/thumbnail.png",
+      "detailImageUrl": "images/deities/030/detailImage.png"
+    }
+  ]
+}

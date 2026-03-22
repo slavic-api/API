@@ -1,12 +1,31 @@
 {
   "id": "016",
   "name": "Rusałka",
-  "description": "Water nymphs, spirits of rivers and lakes.",
+  "alternateNames": ["Rusalka", "Rusałki", "Mavka", "Navki", "Bereginya"],
+  "type": "spirit",
+  "origin": ["East Slavic", "South Slavic", "West Slavic"],
+  "description": "Water spirits and souls of young women who died before marriage. Both beautiful and deadly, they guard the waters and ensure rain for crops.",
+  "mythology": "Rusałki (plural) are the spirits of young women who died before marriage, drowned, or died violent deaths. They live in rivers, lakes, and forests, especially active in Rusalii week (the week before Pentecost). They dance in moonlit meadows — grass grows greener where they have danced. They can lure men to death by drowning or tickling them until they perish. They also ensure rain for crops, making them both dangerous and necessary. During Rusalii week, people avoided water and forests and wore wormwood to repel them. The Ukrainian Mavka variant is particularly malevolent. They represent the power of unquiet dead and the deep ambivalence of water.",
   "attributes": {
-    "Domains": ["Water", "Beauty", "Nature"],
-    "Symbols": ["River", "Lake"],
+    "Domains": ["Water", "Death", "Fertility", "Rain", "Unquiet Dead", "Beauty"],
+    "Symbols": ["Long flowing hair", "River water", "Floral wreath", "Net"],
+    "Sacred Animals": ["Fish", "Swan", "Frog", "Snake"],
+    "Sacred Plants": ["Wormwood (repels them)", "Waterlily", "Willow", "Fern"],
     "Element": "Water",
-    "Associated Concepts": ["Allure", "Nature"]
+    "Season": "Spring (Rusalii week)",
+    "Associated Concepts": ["Danger", "Seduction", "Fertility", "Vengeance", "Rain for Crops"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia", "Bulgaria"],
+    "festivals": ["Rusalii Week (week before Pentecost)", "Midsummer"],
+    "offerings": ["Wreaths floated on water", "Thread", "Embroidered cloths left at riverbanks"]
+  },
+  "tags": ["water spirit", "female", "dangerous", "fertility", "unquiet dead", "nature spirit"],
+  "thumbnailUrl": "images/deities/016/thumbnail.png",
   "detailImageUrl": "images/deities/016/detailImage.png"
 }

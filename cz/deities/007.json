@@ -1,12 +1,31 @@
 {
   "id": "007",
   "name": "Morozko",
-  "description": "Personifikace mrazu, zimy a chladu.",
+  "alternateNames": ["Ded Moroz", "Father Frost", "Moroz Ivanovich", "Frost"],
+  "type": "spirit",
+  "origin": ["East Slavic"],
+  "description": "Ztělesnění zimního mrazu a chladu. Zkouší pocestné a odměňuje ctnostné dary.",
+  "mythology": "Morozko (Mrazíček) neboli Ded Moroz (Děda Mráz) je ztělesnění zimního chladu. V pohádkách zkouší pocestné a dělníky — laskavý, trpělivý a pilný dostane dary, zatímco lenivý a chamtivý zamrzne. Oblíbená pohádka 'Morozko' líčí, jak odměňuje hodnou nevlastní dceru bohatstvím, zatímco rozmazlenou dívku trestá smrtí. Je zobrazován jako vysoký stařec v modrých nebo stříbrných šatech s kouzelnou ledovou holí. Jeho slovanský původ předchází křesťanskému svátečnímu motivu. Žije v ledovém paláci na dálném severu a v zimě navštěvuje vesnice, přičemž jeho dech tvoří mrazivé vzory na oknech.",
   "attributes": {
-    "Domains": ["Zima", "Mráz", "Chlad"],
-    "Symbols": ["Led", "Sněhová vločka"],
-    "Element": "Voda",
-    "Associated Season": "Zima"
+    "Domains": ["Zima", "Mráz", "Chlad", "Led", "Dary", "Zkoušení ctnosti"],
+    "Symbols": ["Ledová hůl", "Stříbrný pytel s dary", "Sněhová vločka", "Modré nebo stříbrné šaty"],
+    "Sacred Animals": ["Zajíc", "Medvěd", "Bílý jelen"],
+    "Sacred Plants": ["Borovice (stálezelená)", "Větvičky pokryté ledem"],
+    "Element": "Voda/Led",
+    "Season": "Zima",
+    "Associated Concepts": ["Vytrvalost", "Spravedlnost", "Odměna a trest", "Zimní magie"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Zimní slunovrat (Kolyada)", "Nový rok", "Vánoce (pozdější forma)"],
+    "offerings": ["Kaše ponechaná venku, aby mráz nepoškodil úrodu"]
+  },
+  "tags": ["winter", "cold", "frost", "nature spirit", "fairy tale", "gift-giver"],
+  "thumbnailUrl": "images/deities/007/thumbnail.png",
   "detailImageUrl": "images/deities/007/detailImage.png"
 }

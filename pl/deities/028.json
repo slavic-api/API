@@ -1,12 +1,31 @@
 {
   "id": "028",
-  "name": "Lada",
-  "description": "Bogini piękna, miłości i harmonii.",
+  "name": "Łada",
+  "alternateNames": ["Lado", "Łada", "Lada-Lado"],
+  "type": "goddess",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "Bogini piękna, miłości, harmonii i małżeństwa. Jej imię rozbrzmiewa w pradawnych słowiańskich pieśniach rytualnych śpiewanych na wszystkich ziemiach słowiańskich.",
+  "mythology": "Łada jest boginią piękna, miłości, harmonii, małżeństwa i wiosny. Jej imię jest rdzeniem słowiańskiego słowa 'ład' — harmonia, porządek i pokój. Pojawia się jako promieniejąca młoda kobieta ukoronowana kwiatami. Jej imię i imię jej męskiego odpowiednika Łado pojawiają się jako rytualny refren w niezliczonych pradawnych słowiańskich pieśniach obrzędowych (łada, łado, łado!), świadcząc o jej głębokiej integracji z muzyką ludową, weselami i sezonowymi uroczystościami. Przewodzi wszystkim związkom miłosnym i małżeństwom. Wiosną i latem czczona jest pieśniami, tańcami w kole (chorowód) i kwiatowymi girlandami. Być może jest kognatem bałtyckiej Laimy, bogini szczęścia i losu.",
   "attributes": {
-    "Domains": ["Piękno", "Miłość", "Harmonia"],
-    "Symbols": ["Róża", "Lustro"],
+    "Domains": ["Miłość", "Piękno", "Harmonia", "Małżeństwo", "Wiosna", "Muzyka", "Taniec"],
+    "Symbols": ["Wieniec kwiatowy", "Łabędź", "Kwiat lipy", "Obrączka ślubna"],
+    "Sacred Animals": ["Łabędź", "Gołąb", "Kukułka"],
+    "Sacred Plants": ["Lipa", "Róża", "Wszystkie wiosenne kwiaty"],
     "Element": "Powietrze",
-    "Associated Concepts": ["Przyciąganie", "Pokój"]
+    "Season": "Wiosna do Lata",
+    "Associated Concepts": ["Miłość Romantyczna", "Harmonia Społeczna", "Radość", "Piękno", "Zjednoczenie Dusz"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": ["013"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia", "Bulgaria", "Czech Republic"],
+    "festivals": ["Noc Kupały (23-24 czerwca)", "Wiosenne i letnie święta miłości", "Rytuały weselne"],
+    "offerings": ["Wianki kwiatowe", "Pieśni z refrenem łada/łado", "Dary ślubne"]
+  },
+  "tags": ["love", "beauty", "harmony", "marriage", "spring", "music", "major deity"],
+  "thumbnailUrl": "images/deities/028/thumbnail.png",
   "detailImageUrl": "images/deities/028/detailImage.png"
 }

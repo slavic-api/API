@@ -1,12 +1,30 @@
 {
   "id": "023",
-  "name": "Dziki",
-  "description": "Związany z pierwotnymi aspektami natury i dziczy.",
+  "name": "Dziwi",
+  "alternateNames": ["Div", "Diva", "Wild One"],
+  "type": "spirit",
+  "origin": ["South Slavic", "East Slavic"],
+  "description": "Duch dzikiej, nieokiełznanej natury. Pierwotna siła przekraczająca ludzką cywilizację, przynosząca złowieszcze znaki i budzącą podziw moc.",
+  "mythology": "Dziw (Dziki) jest duchem nieokiełznanej, pierwotnej natury — siłą czystej dzikości. Wspomniany jest w Słowie o wyprawie Igora jako nadnaturalna istota zwiastująca z wierzchołków drzew nadchodzącą katastrofę. Ucieleśnia dzikie przestrzenie poza ludzką osadą: głęboki las, odległe góry i niezbadane terytoria. Nie jest ani dobry, ani zły — jest po prostu pierwotny i poza ludzką kontrolą — budzący podziw i przerażający zarazem. W południowosłowiańskiej tradycji Diwa jest jego żeńskim odpowiednikiem. Jest głosem natury ostrzegającym tych, którzy słuchają, i zniszczeniem spadającym na tych, którzy nie słuchają.",
   "attributes": {
-    "Domains": ["Dzicz", "Natura", "Wolność"],
-    "Symbols": ["Nieujarzmiona Ziemia", "Dzikie Zwierzęta"],
+    "Domains": ["Dzika Natura", "Puszcza", "Chaos", "Pierwotna Siła", "Złowieszcze Znaki"],
+    "Symbols": ["Dziki las", "Nieokiełznana rzeka", "Szczyt górski", "Krzyk ptaka"],
+    "Sacred Animals": ["Wilk", "Ryś", "Orzeł", "Wszystkie dzikie drapieżniki"],
+    "Sacred Plants": ["Wszystkie nieuprawiane dzikie rośliny"],
     "Element": "Ziemia",
-    "Associated Concepts": ["Nieprzewidywalność", "Surowa Natura"]
+    "Associated Concepts": ["Dzikość", "Omen", "Pierwotny Strach", "Wolność", "Suwerenna Moc Natury"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Serbia", "Bulgaria", "Russia", "Ukraine"],
+    "festivals": ["Brak formalnego kultu — przebłagiwany przy wchodzeniu w dzikie przestrzenie"],
+    "offerings": ["Milczenie i szacunek na dzikiej przyrodzie", "Nieścinanie żywych drzew bez potrzeby"]
+  },
+  "tags": ["wild", "nature", "forest spirit", "primal", "omen", "spirit"],
+  "thumbnailUrl": "images/deities/023/thumbnail.png",
   "detailImageUrl": "images/deities/023/detailImage.png"
 }

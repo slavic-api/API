@@ -1,12 +1,31 @@
 {
   "id": "028",
   "name": "Lada",
-  "description": "Goddess of beauty, love, and harmony.",
+  "alternateNames": ["Lado", "Łada", "Lada-Lado"],
+  "type": "goddess",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "Goddess of beauty, love, harmony, and marriage. Her name echoes in ancient Slavic ritual songs sung across all Slavic lands.",
+  "mythology": "Lada is the goddess of beauty, love, harmony, marriage, and spring. Her name is the root of the Slavic word 'lad' — harmony, order, and peace. She appears as a radiant young woman crowned with flowers. Her name and that of her male counterpart Lado appear as a ritual refrain in countless ancient Slavic ceremonial songs (lada, lado, lado!), demonstrating her deep integration into folk music, wedding rites, and seasonal celebration. She presides over all love unions and marriages. In spring and summer she is honored with songs, circle dances (khorovod), and flower garlands. She is possibly cognate with the Baltic Laima, goddess of luck and fate.",
   "attributes": {
-    "Domains": ["Beauty", "Love", "Harmony"],
-    "Symbols": ["Rose", "Mirror"],
+    "Domains": ["Love", "Beauty", "Harmony", "Marriage", "Spring", "Music", "Dance"],
+    "Symbols": ["Floral crown", "Swan", "Linden blossom", "Wedding ring"],
+    "Sacred Animals": ["Swan", "Dove", "Cuckoo"],
+    "Sacred Plants": ["Linden (lime tree)", "Rose", "All spring flowers"],
     "Element": "Air",
-    "Associated Concepts": ["Attraction", "Peace"]
+    "Season": "Spring to Summer",
+    "Associated Concepts": ["Romantic Love", "Social Harmony", "Joy", "Beauty", "Union of Souls"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": ["013"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia", "Bulgaria", "Czech Republic"],
+    "festivals": ["Kupala Night (June 23-24)", "Spring and summer love festivals", "Wedding rituals"],
+    "offerings": ["Flower wreaths", "Songs with the lada/lado refrain", "Wedding gifts"]
+  },
+  "tags": ["love", "beauty", "harmony", "marriage", "spring", "music", "major deity"],
+  "thumbnailUrl": "images/deities/028/thumbnail.png",
   "detailImageUrl": "images/deities/028/detailImage.png"
 }

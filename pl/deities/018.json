@@ -1,12 +1,31 @@
 {
   "id": "018",
-  "name": "Jarilo",
-  "description": "Bóg wiosny, płodności i żniw.",
+  "name": "Jaryło",
+  "alternateNames": ["Gerovit", "Yarovit", "Jaryło", "Gerović"],
+  "type": "god",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "Bóg wiosny, roślinności i powracającego słońca. Jego coroczne przybycie przynosi światu ciepło i płodność.",
+  "mythology": "Jaryło jest młodym bogiem wiosny, roślinności i powracającej mocy słońca. Jego imię pochodzi od słowa 'jar' — wiosenny zapał, wigor i namiętna energia. W wielkim cyklu mitów jest synem Peruna, rodzi się zimą i zostaje porwany przez Welesa, który wychowuje go w podziemiu (Nawii) — odwrotnym świecie za morzem. Każdej wiosny przechodzi z powrotem do krainy żywych na białym koniu, przynosząc ciepło i płodność. Swata się i poślubia Marzannę (swoją mityczną siostrę-bliźniaczkę) latem. Pod koniec lata zostaje zabity — jego śmierć oznacza koniec sezonu wegetacyjnego i przemienia Marzannę z powrotem w boginię zimy. Ten cykl śmierci i odrodzenia odzwierciedla rok rolniczy.",
   "attributes": {
-    "Domains": ["Wiosna", "Płodność", "Żniwa"],
-    "Symbols": ["Zieleń", "Pszenica"],
+    "Domains": ["Wiosna", "Płodność", "Roślinność", "Namiętność", "Młodość", "Żniwa"],
+    "Symbols": ["Biały koń", "Wieniec kwiatowy", "Zielona gałązka", "Snop pszenicy"],
+    "Sacred Animals": ["Biały koń", "Kogut", "Byk"],
+    "Sacred Plants": ["Pszenica", "Trawa", "Wczesne wiosenne kwiaty", "Bazie wierzbowe"],
     "Element": "Ziemia",
-    "Associated Season": "Wiosna"
+    "Season": "Wiosna",
+    "Associated Concepts": ["Odrodzenie", "Namiętność", "Obfitość", "Młodość", "Cykl Sezonów"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["004", "011"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia", "Bulgaria"],
+    "festivals": ["Dzień Jerzego (5 maja / zsynchronizowany z dniem Św. Jerzego)", "Zielony Tydzień (Semik)"],
+    "offerings": ["Pierwsze wiosenne kwiaty", "Chleb", "Jajka", "Pierwsze zielone gałązki"]
+  },
+  "tags": ["spring", "fertility", "vegetation", "youth", "seasonal", "major deity"],
+  "thumbnailUrl": "images/deities/018/thumbnail.png",
   "detailImageUrl": "images/deities/018/detailImage.png"
 }

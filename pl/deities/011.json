@@ -1,12 +1,31 @@
 {
   "id": "011",
   "name": "Marzanna",
-  "description": "Bogini zimy, śmierci i odrodzenia.",
+  "alternateNames": ["Morana", "Mara", "Morena", "Marzena", "Marena"],
+  "type": "goddess",
+  "origin": ["West Slavic", "East Slavic", "South Slavic"],
+  "description": "Bogini zimy, śmierci i sezonowego odrodzenia. Jej rytualne topienie każdej wiosny jest jednym z najstarszych zachowanych słowiańskich zwyczajów.",
+  "mythology": "Marzanna (znana też jako Morana/Morena) jest boginią zimy, śmierci i odrodzenia wiosny. Włada ciemną połową roku. Jej rytualna śmierć jest jedną z najpowszechniejszych zachowanych słowiańskich tradycji ludowych — słomiana kukła Marzanny jest tworzona i ceremonialnie topiona w rzece lub palona na początku wiosny, symbolicznie przepędzając zimę i śmierć. Jej imię wiąże się ze słowiańskim słowem oznaczającym zarazę (mor) i śmierć. W niektórych tradycjach jest też boginią snów i złudzeń. Jej śmierć umożliwia nadejście wiosny, czyniąc z niej boginię przemiany, której zniszczenie jest aktem odnowy.",
   "attributes": {
-    "Domains": ["Zima", "Śmierć", "Odrodzenie"],
-    "Symbols": ["Śnieg", "Lalka"],
-    "Element": "Woda",
-    "Associated Season": "Zima"
+    "Domains": ["Zima", "Śmierć", "Sny", "Odrodzenie", "Zimno", "Zaraza"],
+    "Symbols": ["Słomiana kukła (lalka)", "Gałązka wierzby", "Czaszka", "Kosa"],
+    "Sacred Animals": ["Sowa", "Kruk", "Wrona"],
+    "Sacred Plants": ["Wierzba", "Cis", "Wilcza jagoda"],
+    "Element": "Woda/Lód",
+    "Season": "Zima",
+    "Associated Concepts": ["Przemiana", "Cykl Sezonów", "Śmierć i Odrodzenie", "Złudzenie"]
   },
+  "relationships": {
+    "rivals": ["022"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Poland", "Czech Republic", "Slovakia", "Belarus", "Russia", "Ukraine"],
+    "festivals": ["Środopóście (Topienie lub Palenie Marzanny)", "Równonoc Jesienna"],
+    "offerings": ["Słomiana kukła topiona w rzece", "Wiosenne kwiaty po rytuale"]
+  },
+  "tags": ["death", "winter", "rebirth", "seasonal", "transformation", "major deity"],
+  "thumbnailUrl": "images/deities/011/thumbnail.png",
   "detailImageUrl": "images/deities/011/detailImage.png"
 }

@@ -1,12 +1,31 @@
 {
   "id": "016",
   "name": "Rusałka",
-  "description": "Nimfy wodne, duchy rzek i jezior.",
+  "alternateNames": ["Rusalka", "Rusałki", "Mavka", "Navki", "Bereginya"],
+  "type": "spirit",
+  "origin": ["East Slavic", "South Slavic", "West Slavic"],
+  "description": "Duchy wodne i dusze młodych kobiet, które zmarły przed zamążpójściem. Piękne i śmiertelnie niebezpieczne, strzegą wód i zapewniają deszcz dla plonów.",
+  "mythology": "Rusałki (l.mn.) są duchami młodych kobiet, które zmarły przed zamążpójściem, utopiły się lub zginęły gwałtowną śmiercią. Zamieszkują rzeki, jeziora i lasy, szczególnie aktywne w tygodniu Rusaliów (tydzień przed Zielonymi Świątkami). Tańczą na oświetlonych księżycem polanach — trawa rośnie bardziej zielona tam, gdzie tańczyły. Mogą wabić mężczyzn ku śmierci przez utopienie lub łaskotanie ich aż do zgonu. Zapewniają też deszcz dla plonów, czyniąc je zarówno niebezpiecznymi, jak i niezbędnymi. W tygodniu Rusaliów ludzie unikali wody i lasów i nosili piołun, by je odstraszać. Ukraiński wariant Mawka jest szczególnie złośliwy. Reprezentują moc niespokojnych umarłych i głęboką ambiwalencję wody.",
   "attributes": {
-    "Domains": ["Woda", "Piękno", "Natura"],
-    "Symbols": ["Rzeka", "Jezioro"],
+    "Domains": ["Woda", "Śmierć", "Płodność", "Deszcz", "Niespokojni Umarli", "Piękno"],
+    "Symbols": ["Długie rozpuszczone włosy", "Woda rzeki", "Wianek kwiatowy", "Sieć"],
+    "Sacred Animals": ["Ryba", "Łabędź", "Żaba", "Wąż"],
+    "Sacred Plants": ["Piołun (odpędza je)", "Lilia wodna", "Wierzba", "Paproć"],
     "Element": "Woda",
-    "Associated Concepts": ["Czar", "Natura"]
+    "Season": "Wiosna (tydzień Rusaliów)",
+    "Associated Concepts": ["Niebezpieczeństwo", "Uwodzenie", "Płodność", "Zemsta", "Deszcz dla Plonów"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia", "Bulgaria"],
+    "festivals": ["Tydzień Rusaliów (tydzień przed Zielonymi Świątkami)", "Noc Świętojańska"],
+    "offerings": ["Wianki puszczane na wodę", "Nić", "Haftowane chusty zostawiane na brzegach rzek"]
+  },
+  "tags": ["water spirit", "female", "dangerous", "fertility", "unquiet dead", "nature spirit"],
+  "thumbnailUrl": "images/deities/016/thumbnail.png",
   "detailImageUrl": "images/deities/016/detailImage.png"
 }

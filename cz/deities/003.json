@@ -1,12 +1,31 @@
 {
   "id": "003",
   "name": "Mokoš",
-  "description": "Bohyně plodnosti, tkaní, žen a vlhkosti.",
+  "alternateNames": ["Mokoša", "Makosh", "Mokusha"],
+  "type": "goddess",
+  "origin": ["East Slavic"],
+  "description": "Velká matka země a bohyně tkaní, plodnosti a osudu žen. Jediné ženské božstvo ve Vladimírově kyjevském panteonu.",
+  "mythology": "Mokoš je jediné ženské božstvo zmíněné v Nestorově kronice mezi Vladimírovými bohy v Kyjevě (roku 980), což dokládá její výjimečné postavení mezi všemi slovanskými bohyněmi. Je velkou matkou země, bohyní předení, tkaní a osudu žen — přede nit života a osudu podobně jako řecké Moiry. V páteční noci prochází vesnicemi a kontroluje ženské přadlenické práce. Její jméno může pocházet ze slova 'mok' (mokrý/vlhký), což ji spojuje s úrodnou vlhkostí země. Později splynula s obrazem Svaté Paraskévy-Pátky v křesťanské tradici, což svědčí o její trvalé síle v lidovém povědomí.",
   "attributes": {
-    "Domains": ["Plodnost", "Tkaní", "Osud žen"],
-    "Symbols": ["Vřeteno", "Snop pšenice"],
+    "Domains": ["Plodnost", "Tkaní", "Osud", "Země", "Ženy", "Vlhkost"],
+    "Symbols": ["Vřeteno", "Kužel", "Nit", "Tkalcovský stav"],
+    "Sacred Animals": ["Ovce", "Pavouk"],
+    "Sacred Plants": ["Len", "Konopí"],
     "Element": "Země",
-    "Associated Plants": ["Len", "Pšenice"]
+    "Season": "Podzim",
+    "Associated Concepts": ["Osud", "Mateřství", "Řemeslo", "Ochrana žen"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Pátek (posvátný každý týden)", "Dožínkové slavnosti", "Maslenica"],
+    "offerings": ["Len", "Vlna", "Nit zanechaná na křižovatce", "Vyšívané plátno"]
+  },
+  "tags": ["major deity", "fertility", "weaving", "women", "fate", "earth mother", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/003/thumbnail.png",
   "detailImageUrl": "images/deities/003/detailImage.png"
 }

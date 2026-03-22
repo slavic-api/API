@@ -1,12 +1,30 @@
 {
   "id": "029",
-  "name": "Dnipro",
-  "description": "Božstvo personifikující řeku Dněpr.",
+  "name": "Dněpr",
+  "alternateNames": ["Dnieper", "Borysthenes (Greek name)", "Slavutych (poetic name)"],
+  "type": "personification",
+  "origin": ["East Slavic"],
+  "description": "Božská personifikace velké řeky Dněpr — posvátné živé tepny východoslovanské civilizace a obchodu.",
+  "mythology": "Dněpr je božská personifikace největší řeky východních Slovanů, tekoucí ze středního Ruska přes Bělorusko a Ukrajinu do Černého moře. Hérodotos ji nazval Borysthenes a popsal její nesmírnou důležitost v 5. století př. n. l. Řeka byla živnou tepnou Kyjevské Rusi — legendární obchodní cesta 'od Varjagů k Řekům' vedla po celé její délce. V lidových písních a eposech Dněpr hovoří a jedná — varuje hrdiny před přicházejícím nebezpečím a truchlí nad jejich smrtí. Jeho personifikace je mohutný stříbrovousý stařec, jehož proud je jeho hlasem a jehož hloubky skrývají všechna tajemství slovanských dějin.",
   "attributes": {
-    "Domains": ["Řeka", "Proudění", "Život"],
-    "Symbols": ["Voda", "Rákosí"],
+    "Domains": ["Řeky", "Voda", "Obchod", "Ukrajina", "Život", "Historická paměť"],
+    "Symbols": ["Tekoucí stříbrná voda", "Vlny", "Stříbrná ryba", "Říční proud"],
+    "Sacred Animals": ["Jeseter", "Sumec", "Orel", "Volavka"],
+    "Sacred Plants": ["Rákos", "Vrba", "Orobinec"],
     "Element": "Voda",
-    "Associated Concepts": ["Pohyb", "Výživa"]
+    "Associated Concepts": ["Vitalita země", "Obchod", "Historická paměť", "Zdroj života"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Ukraine", "Belarus", "Russia"],
+    "festivals": ["Obřady svěcení vody (Zjevení Páně)", "Kupálská noc (říční rituály)"],
+    "offerings": ["Ryby", "Chléb hozený do proudu", "První ulov sezony vrácený řece"]
+  },
+  "tags": ["river", "water", "personification", "Ukrainian", "nature", "trade", "history"],
+  "thumbnailUrl": "images/deities/029/thumbnail.png",
   "detailImageUrl": "images/deities/029/detailImage.png"
 }

@@ -1,12 +1,30 @@
 {
   "id": "014",
-  "name": "Stribog",
-  "description": "Bóg wiatru, powietrza i nieba.",
+  "name": "Strzybóg",
+  "alternateNames": ["Stribok", "Striboh"],
+  "type": "god",
+  "origin": ["East Slavic"],
+  "description": "Bóg wiatru, powietrza i nieba. Dziadek wszystkich wiatrów — od najdelikatniejszej bryzy po najpotężniejszy huragan.",
+  "mythology": "Strzybóg jest bogiem wiatrów, powietrza i nieba, wymienionym wśród bożków wzniesionych przez Włodzimierza w Kijowie (980 r. n.e.). W słynnym Słowie o wyprawie Igora (ok. 1185 r.) wiatry zwane są 'wnukami Strzyboga', jego potomkami wiejącymi ze wszystkich ośmiu kierunków. Jego imię wywodzi się od rdzenia 'stri' oznaczającego szerzenie lub rozpraszanie. Kontroluje wszystkie wiatry — sprzyjającą pogodę dla żeglarzy, dobre warunki dla plonów lub niszczycielskie burze. Przedstawiany jest jako siwobrody stary mężczyzna dmuchający przez zaciśnięte wargi, którego oddech niesie wiadomości i nasiona na wielkie odległości.",
   "attributes": {
-    "Domains": ["Wiatr", "Powietrze", "Niebo"],
-    "Symbols": ["Wiatr", "Chmura"],
+    "Domains": ["Wiatr", "Powietrze", "Niebo", "Pogoda", "Burze", "Oddech"],
+    "Symbols": ["Pióro", "Wiatrowskaz", "Skrzydła ptaka", "Para oddechu"],
+    "Sacred Animals": ["Orzeł", "Sokół", "Wszystkie ptaki"],
+    "Sacred Plants": ["Trawy poruszane przez wiatr", "Mniszek lekarski (nasiona roznoszone przez wiatr)"],
     "Element": "Powietrze",
-    "Associated Concepts": ["Ruch", "Zmiana"]
+    "Associated Concepts": ["Wolność", "Zmiana", "Tchnienie Życia", "Wiadomości na Wietrze"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Rytuały burzowe", "Modlitwy przed wyprawą na morze"],
+    "offerings": ["Okruszyny chleba rzucane w wiatr", "Modlitwy przed morską podróżą lub wyruszeniem w drogę"]
+  },
+  "tags": ["wind", "air", "weather", "sky", "nature", "major deity", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/014/thumbnail.png",
   "detailImageUrl": "images/deities/014/detailImage.png"
 }

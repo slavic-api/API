@@ -1,12 +1,31 @@
 {
   "id": "005",
-  "name": "Rod",
-  "description": "Prapoczątkowa bóstwo twórcze, przodek wszystkich istot i bogów.",
+  "name": "Ród",
+  "alternateNames": ["Род", "Rozhanitsy (associated female aspect)"],
+  "type": "primordial god",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Pierwotne bóstwo stwórcze i przodek wszystkich bogów i żywych istot. Źródło wszelkiego istnienia.",
+  "mythology": "Ród jest pierwotnym bóstwem stwórczym i praojcem wszystkich bogów i żywych istot. Zanim cokolwiek istniało, Ród stworzył świat — złożył kosmiczne jajko, z którego wylągł się wszechświat, lub stworzył go z własnego ciała. Jego imię jest rdzeniem słowiańskich słów oznaczających narodziny, rodzinę, ród i naturę (ród oznacza klan/rodzaj we wszystkich językach słowiańskich). Towarzyszą mu Rodzanice — dwie lub trzy żeńskie boginie narodzin, które określają los każdego człowieka przy urodzeniu. Wczesne słowiańskie teksty pisane przez duchownych chrześcijańskich szczególnie i wielokrotnie potępiały kult Roda i Rodzanic, co wskazuje na ich nadrzędne znaczenie w przedchrześcijańskiej religii ludowej.",
   "attributes": {
-    "Domains": ["Stworzenie", "Przodkowie", "Kosmos"],
-    "Symbols": ["Kosmiczne Jajo", "Drzewo Życia"],
+    "Domains": ["Stworzenie", "Przodkowie", "Kosmos", "Los", "Narodziny", "Ród"],
+    "Symbols": ["Kosmiczne Jajko", "Drzewo Życia", "Tęcza"],
+    "Sacred Animals": ["Tur", "Orzeł"],
+    "Sacred Plants": ["Drzewo Świata (Dąb)"],
     "Element": "Eter",
-    "Associated Concepts": ["Los", "Opatrzność"]
+    "Season": "Wszystkie Pory Roku",
+    "Associated Concepts": ["Przeznaczenie", "Opatrzność", "Siła Życiowa", "Porządek Kosmiczny"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["026"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia"],
+    "festivals": ["Rodźica (kult przodków)", "Uczta Rodzanic (po żniwach)"],
+    "offerings": ["Chleb", "Miód", "Kasza", "Ser", "Miód pitny"]
+  },
+  "tags": ["primordial", "creator", "ancestors", "fate", "major deity"],
+  "thumbnailUrl": "images/deities/005/thumbnail.png",
   "detailImageUrl": "images/deities/005/detailImage.png"
 }

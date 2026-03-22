@@ -1,12 +1,31 @@
 {
   "id": "027",
   "name": "Jasan",
-  "description": "Bůh jasanových stromů a jarního růstu.",
+  "alternateNames": ["Yesen", "Ash God", "Spirit of the Ash Tree"],
+  "type": "deity",
+  "origin": ["East Slavic"],
+  "description": "Božský strážce jasanu a duch jarního návratu života do lesa. Ovládá léčení a Světový strom.",
+  "mythology": "Jasan je božská personifikace a strážný duch jasanu — 'jasan' je slovanské slovo pro jasanový strom. Jasan je jedním z nejposvátnějších stromů ve slovanské a indoevropské tradici; v některých slovanských variantách je Světovým stromem jasan, nikoli dub. Jasan ztělesňuje návrat života do lesa na jaře — zelenání jasanů je jedním z nejjistějších znamení, že zima zcela pominula. Ovládá léčivé vlastnosti jasanového dřeva: jasanová kůra, listy a okřídlená semena (klíče) byly hojně využívány ve slovanském lidovém léčitelství na rány, hadí uštknutí a horečky. Je to laskavé, obnovu prosazující božstvo lesních míst.",
   "attributes": {
-    "Domains": ["Stromy", "Jaro", "Růst"],
-    "Symbols": ["Jasanový strom", "Pučící větve"],
+    "Domains": ["Jasany", "Jaro", "Les", "Léčení", "Obnova", "Světový strom"],
+    "Symbols": ["Jasanová větev", "Jasanové klíče (okřídlená semena)", "Čerstvé zelené pupeny"],
+    "Sacred Animals": ["Zmije/Had (žijí u kořenů jasanu)", "Datel"],
+    "Sacred Plants": ["Jasan", "Jasanové klíče (semena)"],
     "Element": "Země",
-    "Associated Season": "Jaro"
+    "Season": "Jaro",
+    "Associated Concepts": ["Léčení", "Obnova", "Posvátné dřevo", "Osa Světového stromu", "Ochrana"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland"],
+    "festivals": ["Jarní stromové rituály", "První zelenání jasanů"],
+    "offerings": ["První jarní květiny přivázané k jasanovým větvím", "Vyřezávané jasanové amulety"]
+  },
+  "tags": ["trees", "spring", "forest", "healing", "minor deity", "ash tree", "world tree"],
+  "thumbnailUrl": "images/deities/027/thumbnail.png",
   "detailImageUrl": "images/deities/027/detailImage.png"
 }

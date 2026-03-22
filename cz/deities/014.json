@@ -1,12 +1,30 @@
 {
   "id": "014",
   "name": "Stribog",
-  "description": "Bůh větru, vzduchu a nebe.",
+  "alternateNames": ["Stribok", "Striboh"],
+  "type": "god",
+  "origin": ["East Slavic"],
+  "description": "Bůh větru, vzduchu a nebe. Děd všech větrů — od nejjemnějšího vánku po nejmocnější bouři.",
+  "mythology": "Stribog je bůh větrů, vzduchu a nebe, uvedený mezi idoly, které Vladimír vztyčil v Kyjevě (roku 980). Ve slavném Slově o pluku Igorově (asi 1185) jsou větry nazývány 'Stribogovy vnuky', jeho potomci vanoucí ze všech osmi světových stran. Jeho jméno pochází z kořene 'stri', jenž znamená šířit nebo rozptylovat. Ovládá všechny větry — příznivé počasí pro námořníky, dobré počasí pro sklizně, nebo ničivé bouře. Je zobrazován jako bělohlavý stařec foukající přes sevřené rty, jehož dech přenáší zprávy a semena na velké vzdálenosti.",
   "attributes": {
-    "Domains": ["Vítr", "Vzduch", "Nebe"],
-    "Symbols": ["Vítr", "Oblak"],
+    "Domains": ["Vítr", "Vzduch", "Nebe", "Počasí", "Bouře", "Dech"],
+    "Symbols": ["Pero", "Korouhvička", "Ptačí křídla", "Dechová mlha"],
+    "Sacred Animals": ["Orel", "Sokol", "Všichni ptáci"],
+    "Sacred Plants": ["Trávy pohybované větrem", "Pampeliška (semena rozptylovaná větrem)"],
     "Element": "Vzduch",
-    "Associated Concepts": ["Pohyb", "Změna"]
+    "Associated Concepts": ["Svoboda", "Změna", "Dech života", "Zprávy na větru"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Bouřkové rituály", "Modlitby před plavbou"],
+    "offerings": ["Chlebové drobky házené do větru", "Modlitby před námořními cestami nebo poutěmi"]
+  },
+  "tags": ["wind", "air", "weather", "sky", "nature", "major deity", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/014/thumbnail.png",
   "detailImageUrl": "images/deities/014/detailImage.png"
 }

@@ -1,12 +1,31 @@
 {
   "id": "022",
   "name": "Zhiva",
-  "description": "Goddess of life, nature, and vitality.",
+  "alternateNames": ["Živa", "Siwa", "Zywie", "Zhivana"],
+  "type": "goddess",
+  "origin": ["West Slavic", "South Slavic", "East Slavic"],
+  "description": "Goddess of life, living nature, and vital force. The divine counterpart to Marzanna whose reign begins when winter dies.",
+  "mythology": "Zhiva (the Alive One) is the goddess of life, living nature, and vital force. She is the divine embodiment of vitality — the force that animates all living things. She is the counterpart and rival to Marzanna: when Marzanna's effigy is burned or drowned in the spring ritual, Zhiva's reign begins. She is worshipped as Siwa by the Polabian Slavs at Ratibor. She appears as a beautiful young woman in summer garments, bringing flowers and abundance wherever she steps. The cuckoo is sacred to her — its call predicts how many more years you will live. She represents the immortal, ever-renewing life force of nature itself.",
   "attributes": {
-    "Domains": ["Life", "Nature", "Vitality"],
-    "Symbols": ["Flower", "Sunlight"],
+    "Domains": ["Life", "Nature", "Vitality", "Fertility", "Spring", "Living World"],
+    "Symbols": ["Green bough", "Apple", "Cuckoo feather", "Spring water"],
+    "Sacred Animals": ["Cuckoo", "Dove", "Deer"],
+    "Sacred Plants": ["Apple tree", "All flowering plants", "Fresh green leaves"],
     "Element": "Earth",
-    "Associated Concepts": ["Growth", "Health"]
+    "Season": "Spring to Summer",
+    "Associated Concepts": ["Immortality of Nature", "Renewal", "Life Force", "Joy"]
   },
+  "relationships": {
+    "rivals": ["011"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Poland", "Czech Republic", "Slovakia", "Serbia", "Russia"],
+    "festivals": ["Spring festivals following Marzanna's drowning"],
+    "offerings": ["First spring flowers", "Apple blossoms", "Songs of life and renewal"]
+  },
+  "tags": ["life", "nature", "spring", "fertility", "minor deity", "counterpart to death"],
+  "thumbnailUrl": "images/deities/022/thumbnail.png",
   "detailImageUrl": "images/deities/022/detailImage.png"
 }

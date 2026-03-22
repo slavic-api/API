@@ -1,13 +1,30 @@
 {
   "id": "017",
   "name": "Domowina",
-  "description": "Personifikacja ojczyzny, opiekunka narodu.",
+  "alternateNames": ["Domovyna", "Ojczyzna", "Rodina"],
+  "type": "personification",
+  "origin": ["South Slavic", "West Slavic", "East Slavic"],
+  "description": "Personifikacja ojczyzny przodków. Ucieleśnia świętą więź między ludem a jego ziemią, obejmując zarówno żywych, jak i umarłych.",
+  "mythology": "Domowina jest personifikacją ojczyzny przodków — pojęciem głęboko zakorzenionym w słowiańskiej tożsamości kulturowej. Reprezentuje świętą więź między ludem a jego ziemią, fizyczną ziemią przodków. Znamiennie, słowo 'domowina' w wielu językach słowiańskich oznacza również 'trumnę' — dom umarłych — łącząc ojczyznę zarówno z żywymi korzeniami, jak i miejscem pochówku przodków. To podwójne znaczenie odzwierciedla słowiańskie rozumienie, że ziemia łączy zarówno żywych, jak i przodków. Ucieleśnia patriotyzm, przynależność, zakorzenienie i duchową ciągłość pokoleń związanych z tą samą ziemią.",
   "attributes": {
-    "Domains": ["Ojczyzna", "Ochrona", "Jedność"],
-    "Symbols": ["Flaga", "Tarcza"],
+    "Domains": ["Ojczyzna", "Przodkowie", "Pamięć", "Przynależność", "Ziemia"],
+    "Symbols": ["Ogień ogniska", "Kopiec przodków", "Pole pszenicy", "Wioska"],
+    "Sacred Animals": ["Bocian", "Jaskółka (ptaki zawsze wracające do domu)"],
+    "Sacred Plants": ["Dąb", "Lipa", "Pszenica"],
     "Element": "Ziemia",
-    "Associated Concepts": ["Naród", "Kultura"]
+    "Associated Concepts": ["Patriotyzm", "Przynależność", "Zakorzenienie", "Pamięć Przodków"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["All Slavic lands"],
+    "festivals": ["Dni czci przodków", "Święta plonów"],
+    "offerings": ["Pielęgnowanie grobów przodków", "Pierwsze żniwa zwrócone ziemi"]
+  },
+  "tags": ["personification", "homeland", "cultural", "ancestors", "earth"],
+  "thumbnailUrl": "images/deities/017/thumbnail.png",
   "detailImageUrl": "images/deities/017/detailImage.png"
 }
-

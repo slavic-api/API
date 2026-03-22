@@ -1,12 +1,30 @@
 {
   "id": "025",
-  "name": "Zhivini Pole",
-  "description": "Mytické pole nebo louka, symbolizující hojnost a magii.",
+  "name": "Živiné Pole",
+  "alternateNames": ["Field of the Living", "Vyraj", "Iriy", "Vyriy"],
+  "type": "mythical place",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Slovanský ráj — mytická sluncem zalitá louka věčného jara, kde odpočívají duše spravedlivých mezi životy.",
+  "mythology": "Živiné Pole (Pole živých) je mytický ráj — slovanský protějšek Elysion nebo Edenu. Je to sluncem zalitá louka věčného jara, kam jdou duše spravedlivých odpočinout. Příbuzný pojem Vyraj (Vyrij) je teplý jižní ráj, kam ptáci táhnou na zimu a kde duše odpočívají mezi převtelenými životy. V slovanské kosmologii tří světů (Prav–Nav–Jav) existuje v Pravi — říši božského řádu a spravedlivých mrtvých. Je popisováno jako nekonečná zelená pole, řeky mléka a medu a věčné teplé slunce, ležící za Světovým oceánem na kraji světa, kde stojí Světový strom.",
   "attributes": {
-    "Domains": ["Hojnost", "Příroda", "Magie"],
-    "Symbols": ["Louka", "Divoké květiny"],
-    "Element": "Země",
-    "Associated Concepts": ["Plodnost", "Prosperita"]
+    "Domains": ["Posmrtný život", "Ráj", "Božský řád", "Odpočinek", "Spravedliví mrtví"],
+    "Symbols": ["Zelená louka", "Řeka mléka", "Věčné slunce", "Světový dub ve středu"],
+    "Sacred Animals": ["Všichni ptáci (kteří znají cestu do Vyraje)"],
+    "Sacred Plants": ["Všechny rostliny ve věčném rozkvětu"],
+    "Element": "Éter",
+    "Associated Concepts": ["Ráj", "Věčný život", "Spravedlnost", "Kosmický řád", "Převtělení"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia"],
+    "festivals": ["Dny uctívání předků (Rodunitsa), kdy duše navštěvují z této říše"],
+    "offerings": ["Modlitby za spravedlivé mrtvé", "Jídlo zanechané na hrobech"]
+  },
+  "tags": ["afterlife", "paradise", "mythical location", "cosmic", "righteous dead"],
+  "thumbnailUrl": "images/deities/025/thumbnail.png",
   "detailImageUrl": "images/deities/025/detailImage.png"
 }

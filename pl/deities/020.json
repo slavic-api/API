@@ -1,12 +1,30 @@
 {
   "id": "020",
   "name": "Simargl",
-  "description": "Mityczne stworzenie, często przedstawiane jako skrzydlaty pies lub lew.",
+  "alternateNames": ["Semargl", "Semargl-Mokosh"],
+  "type": "creature",
+  "origin": ["East Slavic"],
+  "description": "Święty skrzydlaty pies-smok i strażnik nasion oraz świętego ognia. Wymieniony wśród bogów kijowskiego panteonu Włodzimierza.",
+  "mythology": "Simargl jest mitycznym skrzydlatym psem lub psem-smokiem, prawdopodobnie zapożyczonym od irańskiego Simurgha (wielkiego ptaka Saena). Wymieniony jest wśród bożków wzniesionych przez Włodzimierza w Kijowie (980 r. n.e.), potwierdzając jego kanoniczny status. Jest strażnikiem nasion i kiełków — chroniącym święte zboże przed zniszczeniem i łączącym ziemię z niebem jako pośrednik. W jednej kosmologicznej interpretacji boginie Zorza przykuwają go do Gwiazdy Polarnej (Polaris); jeśli kiedykolwiek łańcuch pęknie i ucieknie, świat się skończy. Przedstawiany jest jako pies-gryf dwugłowy lub skrzydlaty hybryda lew-pies.",
   "attributes": {
-    "Domains": ["Ochrona", "Opieka"],
-    "Symbols": ["Skrzydła", "Lew"],
-    "Element": "Powietrze",
-    "Associated Concepts": ["Strażnik", "Siła"]
+    "Domains": ["Ochrona", "Nasiona", "Święty Ogień", "Strażnik Kosmiczny", "Oś Świata"],
+    "Symbols": ["Skrzydlaty pies", "Nasiona i zboże", "Łańcuch do Gwiazdy Polarnej"],
+    "Sacred Animals": ["Brak — sam jest boskim stworzeniem"],
+    "Sacred Plants": ["Zboże", "Nasiono", "Kiełek"],
+    "Element": "Ogień i Ziemia",
+    "Associated Concepts": ["Strażnictwo", "Ochrona Plonów", "Równowaga Kosmiczna", "Zapobieganie Apokalipsie"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": ["008"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Rolnicze święta siewów"],
+    "offerings": ["Nasiona", "Pierwsze kiełki sezonu"]
+  },
+  "tags": ["creature", "guardian", "sacred fire", "seeds", "divine animal", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/020/thumbnail.png",
   "detailImageUrl": "images/deities/020/detailImage.png"
 }

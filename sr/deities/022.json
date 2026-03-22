@@ -1,0 +1,31 @@
+{
+  "id": "022",
+  "name": "Živa",
+  "alternateNames": ["Živa", "Siwa", "Zywie", "Zhivana"],
+  "type": "goddess",
+  "origin": ["West Slavic", "South Slavic", "East Slavic"],
+  "description": "Boginja života, žive prirode i životne sile. Božanski pandan Marzanne čija vladavina počinje kad zima umre.",
+  "mythology": "Živa (Živa) je boginja života, žive prirode i životne sile. Ona je božansko ovaploćenje vitalnosti — snaga koja oživljava sva živa bića. Ona je pandan i suparnica Marzanne: kada se Marzannin lik spali ili utopi u prolećnom ritualu, počinje vladavina Žive. Polabenski Sloveni je poštuju kao Siwa u Ratiboru. Pojavljuje se kao lepa mlada žena u letnjoj odeći, donoseći cveće i obilje tamo gde kroči. Kukavica joj je sveta — njeno kukanje predskazuje koliko još godina ćete živeti. Ona predstavlja besmrtnu, uvek obnavljajuću životnu snagu same prirode.",
+  "attributes": {
+    "Domains": ["Život", "Priroda", "Vitalnost", "Plodnost", "Proleće", "Živi svet"],
+    "Symbols": ["Zelena grana", "Jabuka", "Kukavičje pero", "Izvorska voda"],
+    "Sacred Animals": ["Kukavica", "Golub", "Jelen"],
+    "Sacred Plants": ["Jabuka", "Sve cvatuće biljke", "Sveže zeleno lišće"],
+    "Element": "Zemlja",
+    "Season": "Proleće do Leta",
+    "Associated Concepts": ["Besmrtnost prirode", "Obnavljanje", "Životna sila", "Radost"]
+  },
+  "relationships": {
+    "rivals": ["011"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Poland", "Czech Republic", "Slovakia", "Serbia", "Russia"],
+    "festivals": ["Prolećni festivali posle utapanja Marzanne"],
+    "offerings": ["Prvo prolećno cveće", "Jabukovi cvetovi", "Pesme o životu i obnavljanju"]
+  },
+  "tags": ["life", "nature", "spring", "fertility", "minor deity", "counterpart to death"],
+  "thumbnailUrl": "images/deities/022/thumbnail.png",
+  "detailImageUrl": "images/deities/022/detailImage.png"
+}

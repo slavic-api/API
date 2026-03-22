@@ -1,0 +1,30 @@
+{
+  "id": "014",
+  "name": "Stribog",
+  "alternateNames": ["Stribok", "Striboh"],
+  "type": "god",
+  "origin": ["East Slavic"],
+  "description": "Bog vetra, vazduha i neba. Deda svih vetrova — od najnežnijeg poveta do najmoćnije oluje.",
+  "mythology": "Stribog je bog vetrova, vazduha i neba, naveden među idolima koje je Vladimir podigao u Kijevu (980. god.). U čuvenom Spevu o pohodu Igorovom (oko 1185.), vetrovi se nazivaju 'Stribogovi unuci', njegovi potomci koji duvaju sa svih osam strana sveta. Njegovo ime potiče od korena 'stri' što znači širiti ili raznositi. On kontroliše sve vetrove — lepo vreme za mornare, dobro vreme za žetvu ili razorne oluje. Prikazuje se kao starac bele kose koji duva kroz stisnute usne, a njegovo dah nosi poruke i seme na velike daljine.",
+  "attributes": {
+    "Domains": ["Vetar", "Vazduh", "Nebo", "Vreme", "Oluje", "Dah"],
+    "Symbols": ["Pero", "Vetrokaz", "Ptičja krila", "Para od daha"],
+    "Sacred Animals": ["Orao", "Soko", "Sve ptice"],
+    "Sacred Plants": ["Trave koje klima vetar", "Maslačak (semena koja raznosi vetar)"],
+    "Element": "Vazduh",
+    "Associated Concepts": ["Sloboda", "Promena", "Životni dah", "Poruke na vetru"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Rituali pri olujama", "Molitve pre putovanja"],
+    "offerings": ["Mrvice hleba bačene u vetar", "Molitve pre pomorskih putovanja"]
+  },
+  "tags": ["wind", "air", "weather", "sky", "nature", "major deity", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/014/thumbnail.png",
+  "detailImageUrl": "images/deities/014/detailImage.png"
+}

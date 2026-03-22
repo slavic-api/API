@@ -1,12 +1,30 @@
 {
   "id": "014",
   "name": "Stribog",
-  "description": "God of wind, air, and the sky.",
+  "alternateNames": ["Stribok", "Striboh"],
+  "type": "god",
+  "origin": ["East Slavic"],
+  "description": "God of wind, air, and sky. Grandfather of all winds — from the gentlest breeze to the mightiest tempest.",
+  "mythology": "Stribog is the god of winds, air, and the sky, listed among the idols Vladimir erected in Kiev (980 AD). In the famous Tale of Igor's Campaign (c. 1185), the winds are called 'Stribog's grandchildren,' his descendants blowing in from all eight directions. His name derives from the root 'stri' meaning to spread or dissipate. He controls all winds — fair weather for sailors, good weather for harvests, or devastating storms. He is depicted as a white-haired old man blowing through pursed lips, his breath carrying messages and seeds across great distances.",
   "attributes": {
-    "Domains": ["Wind", "Air", "Sky"],
-    "Symbols": ["Wind", "Cloud"],
+    "Domains": ["Wind", "Air", "Sky", "Weather", "Storms", "Breath"],
+    "Symbols": ["Feather", "Wind vane", "Bird wings", "Breath mist"],
+    "Sacred Animals": ["Eagle", "Falcon", "All birds"],
+    "Sacred Plants": ["Grasses moved by wind", "Dandelion (seeds dispersed by wind)"],
     "Element": "Air",
-    "Associated Concepts": ["Movement", "Change"]
+    "Associated Concepts": ["Freedom", "Change", "Breath of Life", "Messages on the Wind"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Storm rituals", "Pre-voyage prayers"],
+    "offerings": ["Bread crumbs thrown into the wind", "Prayers before sea voyages or travel"]
+  },
+  "tags": ["wind", "air", "weather", "sky", "nature", "major deity", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/014/thumbnail.png",
   "detailImageUrl": "images/deities/014/detailImage.png"
 }

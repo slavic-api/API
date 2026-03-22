@@ -1,12 +1,31 @@
 {
   "id": "022",
   "name": "Živa",
-  "description": "Bohyně života, přírody a vitality.",
+  "alternateNames": ["Živa", "Siwa", "Zywie", "Zhivana"],
+  "type": "goddess",
+  "origin": ["West Slavic", "South Slavic", "East Slavic"],
+  "description": "Bohyně života, živé přírody a životní síly. Božský protipól Mořeny, jejíž vláda začíná, když zima umírá.",
+  "mythology": "Živa (Ta Živá) je bohyně života, živé přírody a životní síly. Je božským ztělesněním vitality — síly, která oživuje všechny živé věci. Je protipólem a sokyní Mořeny: když je figurína Mořeny na jaře upálena nebo utopena v rituálu, začíná vláda Živy. Polabskými Slovany je uctívána jako Siwa v Ratiboři. Jeví se jako krásná mladá žena v letním oděvu, přinášející všude, kde kráčí, květiny a hojnost. Posvátná je jí kukačka — její volání předpovídá, kolik let ještě budete žít. Představuje nesmrtelnou, věčně se obnovující životní sílu přírody samotné.",
   "attributes": {
-    "Domains": ["Život", "Příroda", "Vitalita"],
-    "Symbols": ["Květina", "Sluneční svit"],
+    "Domains": ["Život", "Příroda", "Vitalita", "Plodnost", "Jaro", "Živý svět"],
+    "Symbols": ["Zelená větev", "Jablko", "Kukačí pero", "Pramenná voda"],
+    "Sacred Animals": ["Kukačka", "Holubice", "Jelen"],
+    "Sacred Plants": ["Jabloň", "Všechny kvetoucí rostliny", "Čerstvé zelené listí"],
     "Element": "Země",
-    "Associated Concepts": ["Růst", "Zdraví"]
+    "Season": "Jaro do Léta",
+    "Associated Concepts": ["Nesmrtelnost přírody", "Obnova", "Životní síla", "Radost"]
   },
+  "relationships": {
+    "rivals": ["011"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Poland", "Czech Republic", "Slovakia", "Serbia", "Russia"],
+    "festivals": ["Jarní slavnosti po utopení Mořeny"],
+    "offerings": ["První jarní květiny", "Jabloňový květ", "Písně o životě a obnově"]
+  },
+  "tags": ["life", "nature", "spring", "fertility", "minor deity", "counterpart to death"],
+  "thumbnailUrl": "images/deities/022/thumbnail.png",
   "detailImageUrl": "images/deities/022/detailImage.png"
 }

@@ -1,12 +1,31 @@
 {
   "id": "003",
   "name": "Mokosh",
-  "description": "Goddess of fertility, weaving, women, and moisture.",
+  "alternateNames": ["Mokoša", "Makosh", "Mokusha"],
+  "type": "goddess",
+  "origin": ["East Slavic"],
+  "description": "Great earth mother and goddess of weaving, fertility, and the fate of women. The only female deity in Vladimir's Kiev pantheon.",
+  "mythology": "Mokosh is the only female deity mentioned in the Primary Chronicle among Vladimir's pantheon in Kiev (980 AD), demonstrating her supreme importance among all Slavic goddesses. She is the great earth mother, goddess of spinning, weaving, and the fate of women — spinning the thread of life and fate as the Greek Moirai do. On Friday nights she wanders villages checking on women's spinning work. Her name may derive from 'mok' (wet/moist), connecting her to the fertile moisture of the earth. She later became syncretized with Saint Paraskeva Friday in Christian tradition, a testament to her enduring power in folk consciousness.",
   "attributes": {
-    "Domains": ["Fertility", "Weaving", "Women's Destiny"],
-    "Symbols": ["Spindle", "Sheaf of Wheat"],
+    "Domains": ["Fertility", "Weaving", "Fate", "Earth", "Women", "Moisture"],
+    "Symbols": ["Spindle", "Distaff", "Thread", "Loom"],
+    "Sacred Animals": ["Sheep", "Spider"],
+    "Sacred Plants": ["Flax", "Hemp"],
     "Element": "Earth",
-    "Associated Plants": ["Flax", "Wheat"]
+    "Season": "Autumn",
+    "Associated Concepts": ["Fate", "Motherhood", "Craft", "Protection of Women"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Friday (sacred weekly)", "Harvest festivals", "Maslenitsa"],
+    "offerings": ["Flax", "Wool", "Thread left at crossroads", "Embroidered cloths"]
+  },
+  "tags": ["major deity", "fertility", "weaving", "women", "fate", "earth mother", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/003/thumbnail.png",
   "detailImageUrl": "images/deities/003/detailImage.png"
 }

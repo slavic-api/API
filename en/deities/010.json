@@ -1,12 +1,30 @@
 {
   "id": "010",
   "name": "Svarog",
-  "description": "God of fire, blacksmithing, and the sun.",
+  "alternateNames": ["Svarozhich", "Swarożyc"],
+  "type": "god",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "God of the sky, divine fire, and celestial blacksmithing. Father of Dazhbog. Master craftsman who forged the sun.",
+  "mythology": "Svarog is the god of the clear sky and divine fire — the Slavic heavenly blacksmith. His name means 'Clear Sky' or 'Bright sky' (svar = sky/bright). He forged the laws of heaven, the sun, and brought fire to humanity. The Primary Chronicle equates him with the Greek Hephaestus. He dropped his tongs from the sky — the thunderbolt — teaching humans to forge metal. He is father of Dazhbog (the sun) and Svarozhich (sacred fire). Sacred fires burned in his honor in temples and were never allowed to go out. He is the civilizing deity who gave humanity the tools of craft and the laws of marriage.",
   "attributes": {
-    "Domains": ["Fire", "Sun", "Craftsmanship"],
-    "Symbols": ["Forge", "Hammer"],
+    "Domains": ["Sky", "Fire", "Blacksmithing", "Crafts", "Law", "Marriage"],
+    "Symbols": ["Hammer", "Tongs", "Forge", "Sacred Fire", "Sun"],
+    "Sacred Animals": ["Rooster", "Bull"],
+    "Sacred Plants": ["Oak"],
     "Element": "Fire",
-    "Associated Concepts": ["Creation", "Sky"]
+    "Associated Concepts": ["Craftsmanship", "Divine Law", "Creation", "Civilization"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["002"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland"],
+    "festivals": ["Svarozhich Day (autumn sacred fire festival)"],
+    "offerings": ["Bread", "Meat", "Sacred fire kept perpetually burning"]
+  },
+  "tags": ["major deity", "sky", "fire", "smithing", "craftsman", "father deity", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/010/thumbnail.png",
   "detailImageUrl": "images/deities/010/detailImage.png"
 }

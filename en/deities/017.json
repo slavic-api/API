@@ -1,12 +1,30 @@
 {
   "id": "017",
   "name": "Domovina",
-  "description": "Personification of the homeland, protector of the nation.",
+  "alternateNames": ["Domovyna", "Motherland", "Rodina"],
+  "type": "personification",
+  "origin": ["South Slavic", "West Slavic", "East Slavic"],
+  "description": "Personification of the ancestral homeland. Embodies the sacred bond between a people and their land, encompassing both the living and the dead.",
+  "mythology": "Domovina is the personification of the ancestral homeland — a concept deeply embedded in Slavic cultural identity. She represents the sacred bond between a people and their land, the physical earth of one's ancestors. Significantly, the word 'domovina' in many Slavic languages also means 'coffin' — home of the dead — connecting homeland with both living roots and ancestral burial ground. This dual meaning reflects the Slavic understanding that one's land holds both the living and the ancestors. She embodies patriotism, belonging, rootedness, and the spiritual continuity between generations bound to the same earth.",
   "attributes": {
-    "Domains": ["Homeland", "Protection", "Unity"],
-    "Symbols": ["Flag", "Shield"],
+    "Domains": ["Homeland", "Ancestry", "Memory", "Belonging", "Earth"],
+    "Symbols": ["Hearth fire", "Ancestral burial mound", "Wheat field", "Village"],
+    "Sacred Animals": ["Stork", "Swallow (birds that always return home)"],
+    "Sacred Plants": ["Oak", "Linden (lime tree)", "Wheat"],
     "Element": "Earth",
-    "Associated Concepts": ["Nation", "Culture"]
+    "Associated Concepts": ["Patriotism", "Belonging", "Rootedness", "Ancestral Memory"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["All Slavic lands"],
+    "festivals": ["Ancestor veneration days", "Harvest home festivals"],
+    "offerings": ["Tending ancestral graves", "First harvest returned to the land"]
+  },
+  "tags": ["personification", "homeland", "cultural", "ancestors", "earth"],
+  "thumbnailUrl": "images/deities/017/thumbnail.png",
   "detailImageUrl": "images/deities/017/detailImage.png"
 }

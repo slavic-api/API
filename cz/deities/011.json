@@ -1,12 +1,31 @@
 {
   "id": "011",
-  "name": "Marzanna",
-  "description": "Bohyně zimy, smrti a znovuzrození.",
+  "name": "Mořena/Morena",
+  "alternateNames": ["Morana", "Mara", "Morena", "Marzena", "Marena"],
+  "type": "goddess",
+  "origin": ["West Slavic", "East Slavic", "South Slavic"],
+  "description": "Bohyně zimy, smrti a sezonního znovuzrození. Její rituální utopení každé jaro je jedním z nejstarších dochovaných slovanských zvyků.",
+  "mythology": "Mořena (také Morana/Morena) je bohyně zimy, smrti a znovuzrození jara. Vládne temné polovině roku. Její rituální smrt je jednou z nejrozšířenějších dochovaných slovanských lidových tradic — slaměná figurína Mořeny je vytvořena a slavnostně utopena v řece nebo upálena na začátku jara, čímž symbolicky zahání zimu a smrt. Její jméno se vztahuje ke slovanskému slovu pro mor (mór) a smrt. V některých tradicích je také bohyní snů a přeludů. Její smrt umožňuje příchod jara, takže je bohyní proměny, jejíž zánik je činem obnovy.",
   "attributes": {
-    "Domains": ["Zima", "Smrt", "Znovuzrození"],
-    "Symbols": ["Sníh", "Panenka"],
-    "Element": "Voda",
-    "Associated Season": "Zima"
+    "Domains": ["Zima", "Smrt", "Sny", "Znovuzrození", "Chlad", "Mor"],
+    "Symbols": ["Slaměná figurína (panenka)", "Vrbová větev", "Lebka", "Srp"],
+    "Sacred Animals": ["Sova", "Havran", "Vrána"],
+    "Sacred Plants": ["Vrba", "Tis", "Rulík"],
+    "Element": "Voda/Led",
+    "Season": "Zima",
+    "Associated Concepts": ["Proměna", "Sezonní cyklus", "Smrt a znovuzrození", "Přelud"]
   },
+  "relationships": {
+    "rivals": ["022"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Poland", "Czech Republic", "Slovakia", "Belarus", "Russia", "Ukraine"],
+    "festivals": ["Smrtná neděle (utopení nebo upálení Mořeny)", "Podzimní rovnodennost"],
+    "offerings": ["Slaměná figurína utopená v řece", "Jarní květiny po rituálu"]
+  },
+  "tags": ["death", "winter", "rebirth", "seasonal", "transformation", "major deity"],
+  "thumbnailUrl": "images/deities/011/thumbnail.png",
   "detailImageUrl": "images/deities/011/detailImage.png"
 }

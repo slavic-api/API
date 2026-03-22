@@ -2,95 +2,579 @@
   "gods": [
     {
       "id": "001",
-      "name": "Perun",
-      "description": "Перун е могъщият славянски бог на гръмотевиците и мълниите. Той владее с чук, удряйки злото с мълнии. Перун е пазител на небесата и символ на сила и смелост.",
+      "name": "Перун",
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "South Slavic",
+        "West Slavic"
+      ],
+      "description": "Славянски бог на гръмотевиците и мълниите. Закрилник на воините и пазител на космическия ред.",
+      "tags": [
+        "major deity",
+        "warrior",
+        "sky",
+        "weather",
+        "thunder",
+        "oak",
+        "Kiev pantheon"
+      ],
       "thumbnailUrl": "images/deities/001/thumbnail.png"
     },
     {
       "id": "002",
-      "name": "Dazhbog",
-      "description": "Даждбог е сияйният бог на слънцето и давател на богатство. Той носи топлина, светлина и благоденствие на света. Хората се молят на Даждбог за богата реколта и светло бъдеще.",
+      "name": "Дажбог",
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Бог на слънцето, богатството и щастието. Прародител на славянския народ и син на Сварог.",
+      "tags": [
+        "major deity",
+        "sun",
+        "prosperity",
+        "agriculture",
+        "solar",
+        "Kiev pantheon"
+      ],
       "thumbnailUrl": "images/deities/002/thumbnail.png"
     },
     {
       "id": "003",
-      "name": "Mokosh",
-      "description": "Мокош е нежната богиня на плодородието и покровителка на жените. Тя благославя земята с изобилие и се грижи за майките и децата. Мокош е почитана за своите хранителни и животворящи качества.",
+      "name": "Мокош",
+      "type": "goddess",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Велика земна майка и богиня на тъкачеството, плодородието и съдбата на жените. Единственото женско божество в киевския пантеон на Владимир.",
+      "tags": [
+        "major deity",
+        "fertility",
+        "weaving",
+        "women",
+        "fate",
+        "earth mother",
+        "Kiev pantheon"
+      ],
       "thumbnailUrl": "images/deities/003/thumbnail.png"
     },
     {
       "id": "004",
-      "name": "Veles",
-      "description": "Велес е бог на добитъка, търговията и подземния свят. Той пази стадата и води търговците по техните пътешествия. Велес също е свързан с мъдростта и скритите тайни на земята.",
+      "name": "Велес",
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Бог на подземния свят, добитъка, търговията, магията и мъдростта. Вечният съперник на Перун.",
+      "tags": [
+        "major deity",
+        "underworld",
+        "magic",
+        "cattle",
+        "trickster",
+        "wisdom",
+        "Kiev pantheon"
+      ],
       "thumbnailUrl": "images/deities/004/thumbnail.png"
     },
     {
       "id": "005",
-      "name": "Rod",
-      "description": "Род е първичното божество, създател на вселената. Той е източник на всичкия живот и съществуване. Род представлява вечния цикъл на раждане, смърт и прераждане.",
+      "name": "Род",
+      "type": "primordial god",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Първично творческо божество и прародител на всички богове и живи същества. Извор на цялото съществуване.",
+      "tags": [
+        "primordial",
+        "creator",
+        "ancestors",
+        "fate",
+        "major deity"
+      ],
       "thumbnailUrl": "images/deities/005/thumbnail.png"
     },
     {
       "id": "006",
-      "name": "Domovoi",
-      "description": "Домовой е приятелският дух на дома и пазител на домашния очаг. Той наблюдава семейството и осигурява тяхното благополучие. Домовой се почита с оферти, за да запази дома в безопасност.",
+      "name": "Домовой",
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Родовият домашен дух и пазител на дома. Живее зад печката и закриля семейството.",
+      "tags": [
+        "household spirit",
+        "domestic",
+        "protection",
+        "family",
+        "ancestor spirit"
+      ],
       "thumbnailUrl": "images/deities/006/thumbnail.png"
     },
     {
       "id": "007",
-      "name": "Morozko",
-      "description": "Морозко е персонификация на зимата, студа и мраза. Той носи ледения студ на зимата и покрива земята със сняг. Присъствието на Морозко ни напомня за красотата и предизвикателствата на студения сезон.",
+      "name": "Морозко",
+      "type": "spirit",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Персонификация на зимната слана и студа. Изпитва пътниците и дарява добродетелните с подаръци.",
+      "tags": [
+        "winter",
+        "cold",
+        "frost",
+        "nature spirit",
+        "fairy tale",
+        "gift-giver"
+      ],
       "thumbnailUrl": "images/deities/007/thumbnail.png"
     },
     {
       "id": "008",
-      "name": "Zorya",
-      "description": "Зоря се състои от две богини, представляващи утринната и вечерната звезда. Те пазят портите на двореца на Даждбог и осигуряват безопасното пътуване на с ънцето през небето. Зоря носи баланс и ред в космоса.",
+      "name": "Зора",
+      "type": "goddess",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Богини-близначки на зората, олицетворяващи утринната и вечерната звезда. Пазителки на космическия ред и портите на двореца на Дажбог.",
+      "tags": [
+        "dawn",
+        "dusk",
+        "stars",
+        "celestial",
+        "cosmic order",
+        "warrior maiden"
+      ],
       "thumbnailUrl": "images/deities/008/thumbnail.png"
     },
     {
       "id": "009",
-      "name": "Chernobog",
-      "description": "Чернобог е бог на тъмнината, злото и нещастието. Той олицетворява сенчестите аспекти на съществуването и служи като напомняне за вечната борба между светлината и тъмнината.",
+      "name": "Чернобог",
+      "type": "god",
+      "origin": [
+        "West Slavic",
+        "East Slavic"
+      ],
+      "description": "Бог на тъмнината, злото и нещастието. Противоположност на Белия бог, олицетворяващ тъмната страна на космическата двойственост.",
+      "tags": [
+        "darkness",
+        "evil",
+        "chaos",
+        "duality",
+        "major deity",
+        "Baltic Slavic"
+      ],
       "thumbnailUrl": "images/deities/009/thumbnail.png"
     },
     {
       "id": "010",
-      "name": "Svarog",
-      "description": "Сварог е бог на огъня, ковачеството и слънцето. Той е майсторският занаятчия, който кове слънцето всеки ден. Сварог представлява трансформативната сила на огъня и топлината на слънцето.",
+      "name": "Сварог",
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Бог на небето, свещения огън и небесното ковачество. Баща на Дажбог. Върховен занаятчия, сковал слънцето.",
+      "tags": [
+        "major deity",
+        "sky",
+        "fire",
+        "smithing",
+        "craftsman",
+        "father deity",
+        "Kiev pantheon"
+      ],
       "thumbnailUrl": "images/deities/010/thumbnail.png"
     },
     {
       "id": "011",
-      "name": "Marzanna",
-      "description": "Марзана е богинята на зимата, смъртта и прераждането. Тя символизира края на един цикъл и началото на друг. Марзана се празнува по време на славянския празник Масленица.",
+      "name": "Марена/Мора",
+      "type": "goddess",
+      "origin": [
+        "West Slavic",
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Богиня на зимата, смъртта и сезонното прераждане. Ритуалното й удавяне всяка пролет е един от най-древните запазени славянски обичаи.",
+      "tags": [
+        "death",
+        "winter",
+        "rebirth",
+        "seasonal",
+        "transformation",
+        "major deity"
+      ],
       "thumbnailUrl": "images/deities/011/thumbnail.png"
     },
     {
       "id": "012",
-      "name": "Baba Yaga",
-      "description": "Баба Яга е тайнствена вещица с надприродни сили. Тя живее във въртяща се колиба на пилешки крака и често е изобразявана като помощник и измамник в славянското фолклор.",
+      "name": "Баба Яга",
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Древна старица-вещица и пазителка на границата между живите и мъртвите. Двузначна помощница и поглъщачка.",
+      "tags": [
+        "witch",
+        "forest",
+        "folklore",
+        "trickster",
+        "wisdom",
+        "death boundary",
+        "hag"
+      ],
       "thumbnailUrl": "images/deities/012/thumbnail.png"
     },
     {
       "id": "013",
-      "name": "Kupala and Kupalo",
-      "description": "Купала и Купало са божества, свързани с лятното слънцестоене, празнувани с огньове и ритуали. Те представляват плодородието и радостта на лятото, а техният фестивал отбелязва време на любов и обновление.",
+      "name": "Купала и Купало",
+      "type": "deity pair",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Божества-близнаци на лятното слънцестоене, олицетворяващи огъня, водата и любовта. Техният празник е най-обичаната нощ на славянската година.",
+      "tags": [
+        "summer solstice",
+        "fertility",
+        "fire",
+        "water",
+        "love",
+        "major festival"
+      ],
       "thumbnailUrl": "images/deities/013/thumbnail.png"
     },
     {
       "id": "014",
-      "name": "Stribog",
-      "description": "Стрибог е бог на вятъра, въздуха и небето. Той контролира ветровете и времето, носейки спокойствие и бури. Присъствието на Стрибог се усеща в нежния бриз и мощната буря.",
+      "name": "Стрибог",
+      "type": "god",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Бог на вятъра, въздуха и небето. Дядо на всички ветрове — от най-нежния полъх до най-мощния ураган.",
+      "tags": [
+        "wind",
+        "air",
+        "weather",
+        "sky",
+        "nature",
+        "major deity",
+        "Kiev pantheon"
+      ],
       "thumbnailUrl": "images/deities/014/thumbnail.png"
     },
     {
       "id": "015",
-      "name": "Leshy",
-      "description": "Леши е пакостлив дух на гората. Той може да се появи като висок, красив мъж или като карликово същество. Леши е защитник на животните и горите и често подвежда пътниците.",
+      "name": "Лешник",
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Господарят-дух на гората и закрилник на цялата горска живност. Метаморф, водещ натрапниците в заблуждение.",
+      "tags": [
+        "forest",
+        "nature spirit",
+        "shapeshifter",
+        "animals",
+        "wilderness",
+        "trickster"
+      ],
       "thumbnailUrl": "images/deities/015/thumbnail.png"
     },
     {
       "id": "016",
-      "name": "Rusałka",
-      "description": "Русал
+      "name": "Самодива/Русалка",
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "South Slavic",
+        "West Slavic"
+      ],
+      "description": "Водни духове и души на млади жени, починали преди брака. Едновременно прекрасни и смъртоносни, те пазят водите и осигуряват дъжд за реколтата.",
+      "tags": [
+        "water spirit",
+        "female",
+        "dangerous",
+        "fertility",
+        "unquiet dead",
+        "nature spirit"
+      ],
+      "thumbnailUrl": "images/deities/016/thumbnail.png"
+    },
+    {
+      "id": "017",
+      "name": "Домовина",
+      "type": "personification",
+      "origin": [
+        "South Slavic",
+        "West Slavic",
+        "East Slavic"
+      ],
+      "description": "Персонификация на родната земя. Олицетворява свещената връзка между народа и неговата земя, обхващаща едновременно живите и мъртвите.",
+      "tags": [
+        "personification",
+        "homeland",
+        "cultural",
+        "ancestors",
+        "earth"
+      ],
+      "thumbnailUrl": "images/deities/017/thumbnail.png"
+    },
+    {
+      "id": "018",
+      "name": "Ярило",
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Бог на пролетта, растителността и завръщащото се слънце. Неговото ежегодно пристигане носи топлина и плодородие на света.",
+      "tags": [
+        "spring",
+        "fertility",
+        "vegetation",
+        "youth",
+        "seasonal",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/018/thumbnail.png"
+    },
+    {
+      "id": "019",
+      "name": "Доля и Съдба",
+      "type": "deity pair",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Персонификации на личната съдба и щастието. Доля носи късмет, а Недоля — нещастие. Заедно те тъкат нишката на всеки човешки живот.",
+      "tags": [
+        "fate",
+        "destiny",
+        "fortune",
+        "duality",
+        "personification",
+        "luck"
+      ],
+      "thumbnailUrl": "images/deities/019/thumbnail.png"
+    },
+    {
+      "id": "020",
+      "name": "Симаргъл",
+      "type": "creature",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Свещено крилато куче-дракон и пазител на семената и свещения огън. Включено сред боговете в киевския пантеон на Владимир.",
+      "tags": [
+        "creature",
+        "guardian",
+        "sacred fire",
+        "seeds",
+        "divine animal",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/020/thumbnail.png"
+    },
+    {
+      "id": "021",
+      "name": "Велеслав",
+      "type": "deity",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Почитана фигура на древната мъдрост, свързана с култа на Велес. Пазител на родовото знание и устната традиция.",
+      "tags": [
+        "wisdom",
+        "knowledge",
+        "elder",
+        "minor deity",
+        "bard",
+        "prophecy"
+      ],
+      "thumbnailUrl": "images/deities/021/thumbnail.png"
+    },
+    {
+      "id": "022",
+      "name": "Жива",
+      "type": "goddess",
+      "origin": [
+        "West Slavic",
+        "South Slavic",
+        "East Slavic"
+      ],
+      "description": "Богиня на живота, живата природа и жизнената сила. Божествената противоположност на Марена, чието царуване започва, когато зимата умира.",
+      "tags": [
+        "life",
+        "nature",
+        "spring",
+        "fertility",
+        "minor deity",
+        "counterpart to death"
+      ],
+      "thumbnailUrl": "images/deities/022/thumbnail.png"
+    },
+    {
+      "id": "023",
+      "name": "Дивий",
+      "type": "spirit",
+      "origin": [
+        "South Slavic",
+        "East Slavic"
+      ],
+      "description": "Дух на дивата, необуздана природа. Първична сила отвъд човешката цивилизация, носеща поличби и всевселяваща мощ.",
+      "tags": [
+        "wild",
+        "nature",
+        "forest spirit",
+        "primal",
+        "omen",
+        "spirit"
+      ],
+      "thumbnailUrl": "images/deities/023/thumbnail.png"
+    },
+    {
+      "id": "024",
+      "name": "Триглав",
+      "type": "deity",
+      "origin": [
+        "West Slavic"
+      ],
+      "description": "Триглавото божество, властващо едновременно над небето, земята и подземния свят. Почитано от балтийско-славянски племена с черен свещен кон, използван за гадаене.",
+      "tags": [
+        "triform",
+        "cosmic",
+        "sky",
+        "earth",
+        "underworld",
+        "West Slavic",
+        "Baltic Slavic"
+      ],
+      "thumbnailUrl": "images/deities/024/thumbnail.png"
+    },
+    {
+      "id": "025",
+      "name": "Живини Поле",
+      "type": "mythical place",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Славянският рай — митична слънчева поляна на вечна пролет, където почиват праведните души между прераждания.",
+      "tags": [
+        "afterlife",
+        "paradise",
+        "mythical location",
+        "cosmic",
+        "righteous dead"
+      ],
+      "thumbnailUrl": "images/deities/025/thumbnail.png"
+    },
+    {
+      "id": "026",
+      "name": "Рода",
+      "type": "goddess",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Богиня на раждането, свързана с Род. Тя и Рожаниците се появяват при всяко раждане, за да изтъкат съдбата и жизнения път на новороденото.",
+      "tags": [
+        "fertility",
+        "birth",
+        "motherhood",
+        "fate",
+        "domestic",
+        "minor deity"
+      ],
+      "thumbnailUrl": "images/deities/026/thumbnail.png"
+    },
+    {
+      "id": "027",
+      "name": "Ясен",
+      "type": "deity",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Божественият пазител на ясеновото дърво и духът на завръщането на пролетта в гората. Управлява изцелението и Световното дърво.",
+      "tags": [
+        "trees",
+        "spring",
+        "forest",
+        "healing",
+        "minor deity",
+        "ash tree",
+        "world tree"
+      ],
+      "thumbnailUrl": "images/deities/027/thumbnail.png"
+    },
+    {
+      "id": "028",
+      "name": "Лада",
+      "type": "goddess",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Богиня на красотата, любовта, хармонията и брака. Нейното име звучи в древни славянски обредни песни, пети из целите славянски земи.",
+      "tags": [
+        "love",
+        "beauty",
+        "harmony",
+        "marriage",
+        "spring",
+        "music",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/028/thumbnail.png"
+    },
+    {
+      "id": "029",
+      "name": "Днепър",
+      "type": "personification",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Божествената персонификация на великата река Днепър — свещената жизнена кръв на източнославянската цивилизация и търговия.",
+      "tags": [
+        "river",
+        "water",
+        "personification",
+        "Ukrainian",
+        "nature",
+        "trade",
+        "history"
+      ],
+      "thumbnailUrl": "images/deities/029/thumbnail.png"
+    },
+    {
+      "id": "030",
+      "name": "Добровий",
+      "type": "deity",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Божество на добротата, милосърдието и нравствената добродетел. Божественото утвърждаване на щедростта и правилните постъпки.",
+      "tags": [
+        "goodness",
+        "benevolence",
+        "virtue",
+        "protection",
+        "minor deity",
+        "moral deity"
+      ],
+      "thumbnailUrl": "images/deities/030/thumbnail.png"
+    }
+  ]
+}

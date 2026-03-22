@@ -1,12 +1,30 @@
 {
   "id": "030",
   "name": "Dobrovij",
-  "description": "Deity associated with goodness and benevolence.",
+  "alternateNames": ["Dobroviy", "Dobro", "Dobrozhil", "Good Spirit"],
+  "type": "deity",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Deity of goodness, kindness, and moral virtue. Divine endorsement of generosity and right action.",
+  "mythology": "Dobrovij (The Good One) is a benevolent deity of goodness, kindness, and moral virtue. His name derives from 'dobro' — the Slavic root for goodness, one of the most positively charged words in Slavic moral philosophy (common across all Slavic languages). He represents the principle that good actions have divine backing and that virtue is witnessed and rewarded by higher powers. He is invoked when making vows of generosity and when seeking blessings for acts of kindness. As a spiritual counterpoint to Chernobog, he embodies positive divine force without the martial aggression of warrior deities — a divine endorsement of everyday human goodness, community, and generosity.",
   "attributes": {
-    "Domains": ["Goodness", "Benevolence", "Support"],
-    "Symbols": ["Heart", "Open Hands"],
-    "Element": "Earth",
-    "Associated Concepts": ["Charity", "Kindness"]
+    "Domains": ["Goodness", "Kindness", "Virtue", "Blessing", "Generosity", "Moral Order"],
+    "Symbols": ["Open hands", "White light", "Linden blossom", "Honeycomb"],
+    "Sacred Animals": ["White dove", "Bee"],
+    "Sacred Plants": ["Linden (lime tree)", "Chamomile"],
+    "Element": "Light/Aether",
+    "Associated Concepts": ["Virtue", "Generosity", "Divine Approval", "Positive Karma", "Community"]
   },
+  "relationships": {
+    "rivals": ["009"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia", "Bulgaria"],
+    "festivals": ["Community service and generosity days"],
+    "offerings": ["Acts of kindness performed in his honor", "Honey", "Bread shared with neighbors"]
+  },
+  "tags": ["goodness", "benevolence", "virtue", "protection", "minor deity", "moral deity"],
+  "thumbnailUrl": "images/deities/030/thumbnail.png",
   "detailImageUrl": "images/deities/030/detailImage.png"
 }

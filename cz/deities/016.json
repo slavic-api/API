@@ -1,12 +1,31 @@
 {
   "id": "016",
-  "name": "Rusałka",
-  "description": "Vodní nymfy, duchové řek a jezer.",
+  "name": "Rusalka",
+  "alternateNames": ["Rusalka", "Rusałki", "Mavka", "Navki", "Bereginya"],
+  "type": "spirit",
+  "origin": ["East Slavic", "South Slavic", "West Slavic"],
+  "description": "Vodní duchové a duše mladých žen zemřelých před svatbou. Krásné i smrtelně nebezpečné, střeží vody a zajišťují déšť pro úrodu.",
+  "mythology": "Rusalky (množné číslo) jsou duchové mladých žen, které zemřely před svatbou, utopily se nebo zahynuly násilnou smrtí. Žijí v řekách, jezerech a lesích, jsou zvláště aktivní v Rusálním týdnu (týden před Letnicemi). Tančí na měsícem osvětlených loukách — tráva roste zeleněji tam, kde tancovaly. Mohou muže lákat ke smrti utopením nebo lechtáním, dokud nezahynou. Zajišťují také déšť pro úrodu, takže jsou zároveň nebezpečné i nutné. V Rusálním týdnu se lidé vyhýbali vodě a lesům a nosili pelyněk jako ochranu před nimi. Ukrajinská varianta Mavka je zvláště zákeřná. Představují sílu neklidných mrtvých a hlubokou ambivalenci vody.",
   "attributes": {
-    "Domains": ["Voda", "Krása", "Příroda"],
-    "Symbols": ["Řeka", "Jezero"],
+    "Domains": ["Voda", "Smrt", "Plodnost", "Déšť", "Neklidní mrtví", "Krása"],
+    "Symbols": ["Dlouhé vlající vlasy", "Říční voda", "Věnec z květin", "Síť"],
+    "Sacred Animals": ["Ryba", "Labuť", "Žába", "Had"],
+    "Sacred Plants": ["Pelyněk (odpuzuje je)", "Leknín", "Vrba", "Kapradí"],
     "Element": "Voda",
-    "Associated Concepts": ["Přitažlivost", "Příroda"]
+    "Season": "Jaro (Rusální týden)",
+    "Associated Concepts": ["Nebezpečí", "Svádění", "Plodnost", "Pomsta", "Déšť pro úrodu"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia", "Bulgaria"],
+    "festivals": ["Rusální týden (týden před Letnicemi)", "Letní slunovrat"],
+    "offerings": ["Věnce pustěné na vodu", "Nit", "Vyšívané plátno zanechané na březích řek"]
+  },
+  "tags": ["water spirit", "female", "dangerous", "fertility", "unquiet dead", "nature spirit"],
+  "thumbnailUrl": "images/deities/016/thumbnail.png",
   "detailImageUrl": "images/deities/016/detailImage.png"
 }

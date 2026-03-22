@@ -3,181 +3,271 @@
     {
       "id": "001",
       "name": "Perun",
+      "type": "god",
+      "origin": ["East Slavic", "South Slavic", "West Slavic"],
       "description": "Perun is the mighty Slavic god of thunder and lightning. He wields a hammer, striking down evil with bolts of lightning. Perun is a protector of the heavens and a symbol of strength and courage.",
+      "tags": ["major deity", "warrior", "sky", "weather", "thunder", "oak", "Kiev pantheon"],
       "thumbnailUrl": "images/deities/001/thumbnail.png"
     },
     {
       "id": "002",
       "name": "Dazhbog",
+      "type": "god",
+      "origin": ["East Slavic", "South Slavic"],
       "description": "Dazhbog is the radiant god of the sun and the giver of wealth. He brings warmth, light, and prosperity to the world. People pray to Dazhbog for a bountiful harvest and a bright future.",
+      "tags": ["major deity", "sun", "prosperity", "agriculture", "solar", "Kiev pantheon"],
       "thumbnailUrl": "images/deities/002/thumbnail.png"
     },
     {
       "id": "003",
       "name": "Mokosh",
+      "type": "goddess",
+      "origin": ["East Slavic"],
       "description": "Mokosh is the gentle goddess of fertility and the protector of women. She blesses the earth with abundance and watches over mothers and children. Mokosh is revered for her nurturing and life-giving qualities.",
+      "tags": ["major deity", "fertility", "weaving", "women", "fate", "earth mother", "Kiev pantheon"],
       "thumbnailUrl": "images/deities/003/thumbnail.png"
     },
     {
       "id": "004",
       "name": "Veles",
+      "type": "god",
+      "origin": ["East Slavic", "West Slavic", "South Slavic"],
       "description": "Veles is the god of cattle, commerce, and the underworld. He guards the herds and guides merchants on their journeys. Veles is also associated with wisdom and the hidden mysteries of the earth.",
+      "tags": ["major deity", "underworld", "magic", "cattle", "trickster", "wisdom", "Kiev pantheon"],
       "thumbnailUrl": "images/deities/004/thumbnail.png"
     },
     {
       "id": "005",
       "name": "Rod",
+      "type": "primordial god",
+      "origin": ["East Slavic", "South Slavic"],
       "description": "Rod is the primordial deity, the creator of the universe. He is the source of all life and existence. Rod represents the eternal cycle of birth, death, and rebirth.",
+      "tags": ["primordial", "creator", "ancestors", "fate", "major deity"],
       "thumbnailUrl": "images/deities/005/thumbnail.png"
     },
     {
       "id": "006",
       "name": "Domovoi",
+      "type": "spirit",
+      "origin": ["East Slavic", "West Slavic"],
       "description": "Domovoi is the friendly household spirit and protector of the home. He watches over the family and ensures their well-being. Domovoi is honored with offerings to keep the household safe.",
+      "tags": ["household spirit", "domestic", "protection", "family", "ancestor spirit"],
       "thumbnailUrl": "images/deities/006/thumbnail.png"
     },
     {
       "id": "007",
       "name": "Morozko",
+      "type": "spirit",
+      "origin": ["East Slavic"],
       "description": "Morozko is the personification of winter, frost, and cold. He brings the icy chill of winter and covers the land in snow. Morozko's presence reminds us of the beauty and challenges of the cold season.",
+      "tags": ["winter", "cold", "frost", "nature spirit", "fairy tale", "gift-giver"],
       "thumbnailUrl": "images/deities/007/thumbnail.png"
     },
     {
       "id": "008",
       "name": "Zorya",
+      "type": "goddess",
+      "origin": ["East Slavic", "South Slavic"],
       "description": "Zorya consists of two goddesses representing the morning and evening stars. They guard the gates of Dazhbog's palace and ensure the sun's safe journey across the sky. Zorya brings balance and order to the cosmos.",
+      "tags": ["dawn", "dusk", "stars", "celestial", "cosmic order", "warrior maiden"],
       "thumbnailUrl": "images/deities/008/thumbnail.png"
     },
     {
       "id": "009",
       "name": "Chernobog",
+      "type": "god",
+      "origin": ["West Slavic", "East Slavic"],
       "description": "Chernobog is the god of darkness, evil, and misfortune. He embodies the shadowy aspects of existence and serves as a reminder of the eternal struggle between light and darkness.",
+      "tags": ["darkness", "evil", "chaos", "duality", "major deity", "Baltic Slavic"],
       "thumbnailUrl": "images/deities/009/thumbnail.png"
     },
     {
       "id": "010",
       "name": "Svarog",
+      "type": "god",
+      "origin": ["East Slavic", "West Slavic"],
       "description": "Svarog is the god of fire, blacksmithing, and the sun. He is the master craftsman who forges the sun each day. Svarog represents the transformative power of fire and the warmth of the sun.",
+      "tags": ["major deity", "sky", "fire", "smithing", "craftsman", "father deity", "Kiev pantheon"],
       "thumbnailUrl": "images/deities/010/thumbnail.png"
     },
     {
       "id": "011",
       "name": "Marzanna",
+      "type": "goddess",
+      "origin": ["West Slavic", "East Slavic", "South Slavic"],
       "description": "Marzanna is the goddess of winter, death, and rebirth. She symbolizes the end of one cycle and the beginning of another. Marzanna is celebrated during the Slavic holiday of Maslenitsa.",
+      "tags": ["death", "winter", "rebirth", "seasonal", "transformation", "major deity"],
       "thumbnailUrl": "images/deities/011/thumbnail.png"
     },
     {
       "id": "012",
       "name": "Baba Yaga",
+      "type": "spirit",
+      "origin": ["East Slavic", "West Slavic"],
       "description": "Baba Yaga is a mysterious witch with supernatural powers. She lives in a rotating hut that stands on chicken legs and is often portrayed as both a helper and a trickster in Slavic folklore.",
+      "tags": ["witch", "forest", "folklore", "trickster", "wisdom", "death boundary", "hag"],
       "thumbnailUrl": "images/deities/012/thumbnail.png"
     },
     {
       "id": "013",
       "name": "Kupala and Kupalo",
+      "type": "deity pair",
+      "origin": ["East Slavic", "West Slavic", "South Slavic"],
       "description": "Kupala and Kupalo are deities associated with the summer solstice, celebrated with bonfires and rituals. They represent the fertility and joy of summer, and their festival marks a time of love and renewal.",
+      "tags": ["summer solstice", "fertility", "fire", "water", "love", "major festival"],
       "thumbnailUrl": "images/deities/013/thumbnail.png"
     },
     {
       "id": "014",
       "name": "Stribog",
+      "type": "god",
+      "origin": ["East Slavic"],
       "description": "Stribog is the god of wind, air, and sky. He controls the winds and the weather, bringing both calm and storms. Stribog's presence is felt in the gentle breeze and the powerful tempest.",
+      "tags": ["wind", "air", "weather", "sky", "nature", "major deity", "Kiev pantheon"],
       "thumbnailUrl": "images/deities/014/thumbnail.png"
     },
     {
       "id": "015",
       "name": "Leshy",
+      "type": "spirit",
+      "origin": ["East Slavic", "West Slavic"],
       "description": "Leshy is the mischievous spirit of the forest. He can appear as a tall, handsome man or a dwarf-like creature. Leshy is a protector of animals and forests, and he often leads travelers astray.",
+      "tags": ["forest", "nature spirit", "shapeshifter", "animals", "wilderness", "trickster"],
       "thumbnailUrl": "images/deities/015/thumbnail.png"
     },
     {
       "id": "016",
       "name": "Rusałka",
+      "type": "spirit",
+      "origin": ["East Slavic", "South Slavic", "West Slavic"],
       "description": "Rusałka is a water nymph or mermaid-like creature. She is associated with bodies of water and is often depicted as a beautiful, enchanting being. Rusałka's presence is both alluring and mysterious.",
+      "tags": ["water spirit", "female", "dangerous", "fertility", "unquiet dead", "nature spirit"],
       "thumbnailUrl": "images/deities/016/thumbnail.png"
     },
     {
       "id": "017",
       "name": "Domovina",
+      "type": "personification",
+      "origin": ["South Slavic", "West Slavic", "East Slavic"],
       "description": "Domovina is the personification of the homeland or motherland. She symbolizes the deep connection Slavic people have with their ancestral land and their sense of belonging.",
+      "tags": ["personification", "homeland", "cultural", "ancestors", "earth"],
       "thumbnailUrl": "images/deities/017/thumbnail.png"
     },
     {
       "id": "018",
       "name": "Jarilo",
+      "type": "god",
+      "origin": ["East Slavic", "West Slavic", "South Slavic"],
       "description": "Jarilo is the god of spring, fertility, and the harvest. He represents the rebirth of life and the growth of crops. Jarilo's festival welcomes the arrival of spring and the promise of abundance.",
+      "tags": ["spring", "fertility", "vegetation", "youth", "seasonal", "major deity"],
       "thumbnailUrl": "images/deities/018/thumbnail.png"
     },
     {
       "id": "019",
       "name": "Dolya and Sudba",
+      "type": "deity pair",
+      "origin": ["East Slavic", "South Slavic"],
       "description": "Dolya and Sudba are figures representing fate and destiny. They shape the course of human lives, weaving the threads of fortune and guiding individuals toward their destinies.",
+      "tags": ["fate", "destiny", "fortune", "duality", "personification", "luck"],
       "thumbnailUrl": "images/deities/019/thumbnail.png"
     },
     {
       "id": "020",
       "name": "Simargl",
+      "type": "creature",
+      "origin": ["East Slavic"],
       "description": "Simargl is a mythical creature, often depicted as a winged dog or lion. He is a symbol of strength, protection, and divine power. Simargl is both majestic and fierce in Slavic mythology.",
+      "tags": ["creature", "guardian", "sacred fire", "seeds", "divine animal", "Kiev pantheon"],
       "thumbnailUrl": "images/deities/020/thumbnail.png"
     },
     {
       "id": "021",
       "name": "Veleslav",
+      "type": "deity",
+      "origin": ["East Slavic"],
       "description": "Veleslav is a lesser-known figure who is wise and venerable. He is associated with wisdom, knowledge, and ancient traditions. Veleslav embodies the wisdom of the ages.",
+      "tags": ["wisdom", "knowledge", "elder", "minor deity", "bard", "prophecy"],
       "thumbnailUrl": "images/deities/021/thumbnail.png"
     },
     {
       "id": "022",
       "name": "Zhiva",
+      "type": "goddess",
+      "origin": ["West Slavic", "South Slavic", "East Slavic"],
       "description": "Zhiva is the goddess of life, fertility, and nature. She is a symbol of the vitality and abundance of the natural world. Zhiva is honored for her role in sustaining life.",
+      "tags": ["life", "nature", "spring", "fertility", "minor deity", "counterpart to death"],
       "thumbnailUrl": "images/deities/022/thumbnail.png"
     },
     {
       "id": "023",
       "name": "Divi",
+      "type": "spirit",
+      "origin": ["South Slavic", "East Slavic"],
       "description": "Divi is associated with the wild, untamed aspects of nature. He represents the primal forces of the wilderness and the mysteries of the natural world. Divi is both unpredictable and awe-inspiring.",
+      "tags": ["wild", "nature", "forest spirit", "primal", "omen", "spirit"],
       "thumbnailUrl": "images/deities/023/thumbnail.png"
     },
     {
       "id": "024",
       "name": "Triglav",
+      "type": "deity",
+      "origin": ["West Slavic"],
       "description": "Triglav is a deity with three heads, symbolizing the sky, earth, and the underworld. He represents the interconnectedness of the cosmos and the unity of all things. Triglav embodies cosmic balance.",
+      "tags": ["triform", "cosmic", "sky", "earth", "underworld", "West Slavic", "Baltic Slavic"],
       "thumbnailUrl": "images/deities/024/thumbnail.png"
     },
     {
       "id": "025",
       "name": "Zhivini Pole",
+      "type": "mythical place",
+      "origin": ["East Slavic", "South Slavic"],
       "description": "Zhivini Pole is a mythical location, a magical field or meadow. It is a place of wonder and enchantment, often visited in Slavic folklore. Zhivini Pole is a realm of mystery and adventure.",
+      "tags": ["afterlife", "paradise", "mythical location", "cosmic", "righteous dead"],
       "thumbnailUrl": "images/deities/025/thumbnail.png"
     },
     {
       "id": "026",
       "name": "Roda",
+      "type": "goddess",
+      "origin": ["East Slavic"],
       "description": "Roda is the goddess of fertility, motherhood, and family. She is the protector of hearth and home, ensuring the well-being of families and the continuity of generations.",
+      "tags": ["fertility", "birth", "motherhood", "fate", "domestic", "minor deity"],
       "thumbnailUrl": "images/deities/026/thumbnail.png"
     },
     {
       "id": "027",
       "name": "Yasen",
+      "type": "deity",
+      "origin": ["East Slavic"],
       "description": "Yasen is the god of ash and spring trees. He represents the renewal and growth of forests in springtime. Yasen's presence is felt in the budding leaves and the awakening of nature.",
+      "tags": ["trees", "spring", "forest", "healing", "minor deity", "ash tree", "world tree"],
       "thumbnailUrl": "images/deities/027/thumbnail.png"
     },
     {
       "id": "028",
       "name": "Lada",
+      "type": "goddess",
+      "origin": ["East Slavic", "West Slavic", "South Slavic"],
       "description": "Lada is the goddess of beauty, love, and harmony. She embodies the ideals of grace and elegance. Lada's presence brings love, joy, and balance to the world.",
+      "tags": ["love", "beauty", "harmony", "marriage", "spring", "music", "major deity"],
       "thumbnailUrl": "images/deities/028/thumbnail.png"
     },
     {
       "id": "029",
       "name": "Dnipro",
+      "type": "personification",
+      "origin": ["East Slavic"],
       "description": "Dnipro is the personification of the Dnieper River, a vital waterway in Slavic lands. The river is a source of sustenance, commerce, and cultural significance.",
+      "tags": ["river", "water", "personification", "Ukrainian", "nature", "trade", "history"],
       "thumbnailUrl": "images/deities/029/thumbnail.png"
     },
     {
       "id": "030",
       "name": "Dobrovij",
+      "type": "deity",
+      "origin": ["East Slavic", "South Slavic"],
       "description": "Dobrovij is a deity associated with goodness and benevolence. He represents acts of kindness and positive intentions. Dobrovij encourages people to strive for goodness in their actions.",
+      "tags": ["goodness", "benevolence", "virtue", "protection", "minor deity", "moral deity"],
       "thumbnailUrl": "images/deities/030/thumbnail.png"
     }
   ]

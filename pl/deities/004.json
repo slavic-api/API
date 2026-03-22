@@ -1,12 +1,31 @@
 {
   "id": "004",
   "name": "Weles",
-  "description": "Bóg ziemi, wód, lasów i podziemia.",
+  "alternateNames": ["Volos", "Weles"],
+  "type": "god",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "Bóg zaświatów, bydła, handlu, magii i mądrości. Wieczny rywal Peruna.",
+  "mythology": "Weles jest wielkim bogiem zaświatów, bydła, handlu, muzyki, magii i mądrości. Zamieszkuje korzenie Drzewa Świata w podziemiu (Nawii), w przeciwieństwie do Peruna panującego w koronie. Jego wieczny konflikt z Perunem stanowi centralny mit religii słowiańskiej — Weles kradnie bydło, żonę lub syna Peruna, a Perun ściga go, ciskając piorunami. Weles kryje się, przybierając postać zwierząt, drzew lub ludzi. Jest chtoniczną, wężową siłą głębin ziemi — tricksterm i zmiennokształtnym utożsamianym z niedźwiedziami, wężami i poezją. Ostatni snop zboża pozostawiony w polu podczas żniw zwano 'brodą Welesa', ofiarowaną mu dla przebłagania.",
   "attributes": {
-    "Domains": ["Bydło", "Handel", "Podziemie", "Magia"],
-    "Symbols": ["Róg", "Niedźwiedź"],
-    "Sacred Animals": ["Niedźwiedź", "Wilk", "Bydło"],
-    "Element": "Woda"
+    "Domains": ["Zaświaty", "Bydło", "Handel", "Magia", "Mądrość", "Muzyka", "Poezja"],
+    "Symbols": ["Wąż", "Byk", "Niedźwiedź", "Worek złota"],
+    "Sacred Animals": ["Niedźwiedź", "Wąż", "Byk", "Sowa", "Wilk"],
+    "Sacred Plants": ["Paproć", "Trawa (trawa Nawii)"],
+    "Element": "Ziemia",
+    "Season": "Zima",
+    "Associated Concepts": ["Przebiegłość", "Bogactwo", "Śmierć", "Szamanizm", "Przemiana"]
   },
+  "relationships": {
+    "rivals": ["001"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Poland", "Czech Republic", "Belarus"],
+    "festivals": ["Dzień Wolosa (12 stycznia)", "Maslenica"],
+    "offerings": ["Bydło", "Miód", "Piwo", "Ostatni snop zboża (broda Welesa)"]
+  },
+  "tags": ["major deity", "underworld", "magic", "cattle", "trickster", "wisdom", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/004/thumbnail.png",
   "detailImageUrl": "images/deities/004/detailImage.png"
 }

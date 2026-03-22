@@ -1,12 +1,30 @@
 {
   "id": "019",
-  "name": "Dolya a Sudba",
-  "description": "Postavy reprezentující osud a předurčení.",
+  "name": "Dolja a Sudba",
+  "alternateNames": ["Dolya", "Nedolya", "Sudba", "Sud", "Sreća", "Nesreća"],
+  "type": "deity pair",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Ztělesnění osobního osudu a štěstěny. Dolja přináší štěstí; Nedolja přináší neštěstí. Společně přadou nit každého lidského života.",
+  "mythology": "Dolja (Dobré štěstí) a Nedolja (Zlý osud/Neštěstí) jsou ztělesněné duchové osudu přidělení každému člověku při narození. Dolja je krásná mladá žena, která provází šťastlivce, zatímco Nedolja je ošuntělá stařena trýznící nešťastníka. Sudba (Osud) je širší síla řídící pevnou životní dráhu každého. V srbské tradici je Sreća (Štěstí) žena, která přede osud. Svou Sudbu nemůžeš plně uniknout, ale udržení Dolji šťastné spravedlivým životem pomáhá. Tito duchové odrážejí hluboké slovanské filozofické pojetí osudu jako osobní, tkané záležitosti — nit upředené při narození.",
   "attributes": {
-    "Domains": ["Osud", "Předurčení", "Životní cesta"],
-    "Symbols": ["Nit", "Váhy"],
+    "Domains": ["Osud", "Předurčení", "Štěstěna", "Štěstí", "Životní dráha"],
+    "Symbols": ["Upředená nit", "Váhy", "Křižovatka", "Dvě cesty"],
+    "Sacred Animals": ["Motýl (duše)", "Včela"],
+    "Sacred Plants": ["Rostlina niti (symbolická)"],
     "Element": "Éter",
-    "Associated Concepts": ["Náhoda", "Předurčení"]
+    "Associated Concepts": ["Předurčení", "Štěstěna", "Karma", "Dualita", "Tkaní života"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["005"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia", "Bulgaria"],
+    "festivals": ["Porodní rituály", "Novoroční věštění"],
+    "offerings": ["Nitěné obětiny", "Modlitby na křižovatce"]
+  },
+  "tags": ["fate", "destiny", "fortune", "duality", "personification", "luck"],
+  "thumbnailUrl": "images/deities/019/thumbnail.png",
   "detailImageUrl": "images/deities/019/detailImage.png"
 }

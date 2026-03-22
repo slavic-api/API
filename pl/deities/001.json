@@ -1,12 +1,31 @@
 {
   "id": "001",
   "name": "Perun",
-  "description": "Słowiański bóg grzmotu i błyskawic. Obrońca wojowników.",
+  "alternateNames": ["Perkunas", "Perkons", "Perún", "Pirun"],
+  "type": "god",
+  "origin": ["East Slavic", "South Slavic", "West Slavic"],
+  "description": "Słowiański bóg grzmotu i błyskawic. Obrońca wojowników i strażnik kosmicznego porządku.",
+  "mythology": "Perun jest najwyższym bóstwem słowiańskiego panteonu, władającym grzmotem, błyskawicą, burzami, deszczem, prawem, wojną i płodnością z najwyższych gałęzi Drzewa Świata — wielkiego kosmicznego dębu. Jego wiecznym wrogiem jest Weles, wężowy bóg podziemia, który kradnie mu bydło, żonę lub dzieci. Perun ściga Welesa po niebie, ciskając piorunami, podczas gdy Weles kryje się pod postacią zwierząt, drzew lub ludzi. Ta kosmiczna walka sprowadza deszcz na ziemię i utrzymuje porządek wszechświata. Perun jest przedstawiany jako mężczyzna w średnim wieku z miedzianą brodą, dzierżący topór lub młot. Święte dęby i szczyty wzgórz służyły jako jego świątynie. Był patronem stanu wojowniczego i drużyny książęcej w Rusi Kijowskiej.",
   "attributes": {
-    "Domains": ["Grzmot", "Błyskawica", "Wojna", "Prawo", "Niebo"],
-    "Symbols": ["Topór", "Piorun", "Orzeł"],
-    "Sacred Animals": ["Orzeł"],
-    "Element": "Powietrze"
+    "Domains": ["Grzmot", "Błyskawica", "Wojna", "Prawo", "Niebo", "Deszcz", "Płodność"],
+    "Symbols": ["Topór", "Piorun", "Orzeł", "Młot", "Dąb"],
+    "Sacred Animals": ["Orzeł", "Byk", "Tur"],
+    "Sacred Plants": ["Dąb", "Irys"],
+    "Element": "Powietrze",
+    "Season": "Lato",
+    "Associated Concepts": ["Sprawiedliwość", "Siła", "Ochrona", "Porządek Kosmiczny"]
   },
+  "relationships": {
+    "rivals": ["004"],
+    "family": ["018"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Poland", "Belarus", "Serbia", "Croatia"],
+    "festivals": ["Dzień Peruna (20 lipca / zsynchronizowany z Dniem Eliasza)"],
+    "offerings": ["Wół", "Byk", "Drewno dębowe", "Chleb", "Miód pitny"]
+  },
+  "tags": ["major deity", "warrior", "sky", "weather", "thunder", "oak", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/001/thumbnail.png",
   "detailImageUrl": "images/deities/001/detailImage.png"
 }

@@ -1,12 +1,30 @@
 {
   "id": "029",
   "name": "Dnipro",
-  "description": "Deity personifying the Dnieper River.",
+  "alternateNames": ["Dnieper", "Borysthenes (Greek name)", "Slavutych (poetic name)"],
+  "type": "personification",
+  "origin": ["East Slavic"],
+  "description": "Divine personification of the great Dnieper River — the sacred lifeblood of Eastern Slavic civilization and trade.",
+  "mythology": "Dnipro (Dnieper) is the divine personification of the greatest river of the Eastern Slavs, flowing from central Russia through Belarus and Ukraine to the Black Sea. Herodotus called it the Borysthenes and described its immense importance in the 5th century BC. The river was the lifeblood of Kyivan Rus — the legendary trade route 'from the Varangians to the Greeks' ran along its entire length. In folk songs and epic poetry, the Dnipro speaks and has agency — warning heroes of approaching danger and mourning their deaths. His personification is a mighty silver-bearded elder whose current is his voice and whose depths hold all the secrets of Slavic history.",
   "attributes": {
-    "Domains": ["River", "Flow", "Life"],
-    "Symbols": ["Water", "Reed"],
+    "Domains": ["Rivers", "Water", "Trade", "Ukraine", "Life", "Historical Memory"],
+    "Symbols": ["Flowing silver water", "Waves", "Silver fish", "River current"],
+    "Sacred Animals": ["Sturgeon", "Catfish", "Eagle", "Heron"],
+    "Sacred Plants": ["Reed", "Willow", "Bulrush"],
     "Element": "Water",
-    "Associated Concepts": ["Movement", "Nourishment"]
+    "Associated Concepts": ["Vitality of the Land", "Commerce", "Historical Memory", "Life Source"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Ukraine", "Belarus", "Russia"],
+    "festivals": ["Water blessing ceremonies (Epiphany)", "Kupala Night (river rituals)"],
+    "offerings": ["Fish", "Bread cast into current", "First catch of season returned to river"]
+  },
+  "tags": ["river", "water", "personification", "Ukrainian", "nature", "trade", "history"],
+  "thumbnailUrl": "images/deities/029/thumbnail.png",
   "detailImageUrl": "images/deities/029/detailImage.png"
 }

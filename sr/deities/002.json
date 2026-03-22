@@ -1,0 +1,31 @@
+{
+  "id": "002",
+  "name": "Dažbog",
+  "alternateNames": ["Dažbog", "Dabog", "Dajbog", "Dazbog"],
+  "type": "god",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Bog sunca, bogatstva i sreće. Pradavni predak slovenskog naroda i sin Svaroga.",
+  "mythology": "Dažbog je solarno božanstvo i davalac bogatstva, čije ime znači 'Bog koji daje' ili 'Darujući bog'. Svakoga dana prelazi nebom u zlatnim kolima koje vuku beli konji koji dišu vatrom i zlatom. Spev o pohodu Igorovom opisuje Ruse kao 'Dažbogove unuke', poistovećujući ga sa božanskim pretkom slovenskog naroda. Svako jutro je mlad, a do večeri stari, da bi sledećeg dana bio ponovo rođen. On je sin Svaroga koji je skovao sunce. Sveti su mu konji, zlato i solarni disk. On je oličenje životodavne darežljivosti sunčeve svetlosti.",
+  "attributes": {
+    "Domains": ["Sunce", "Bogatstvo", "Sreća", "Žetva", "Svetlost"],
+    "Symbols": ["Solarni disk", "Zlatna kola", "Vatrena ptica", "Beli konj"],
+    "Sacred Animals": ["Beli konj", "Zlatna ptica (Žar-ptica)", "Lav"],
+    "Sacred Plants": ["Suncokret", "Pšenica", "Kamilica"],
+    "Element": "Vatra",
+    "Season": "Leto",
+    "Associated Concepts": ["Prosperitet", "Darežljivost", "Toplota", "Očinstvo"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": ["010"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia", "Bulgaria"],
+    "festivals": ["Letnji solsticij (Kupalna noć)", "Kolyada (Zimski solsticij — solarno preporađanje)"],
+    "offerings": ["Hleb", "Med", "Žito", "Zlatni predmeti"]
+  },
+  "tags": ["major deity", "sun", "prosperity", "agriculture", "solar", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/002/thumbnail.png",
+  "detailImageUrl": "images/deities/002/detailImage.png"
+}

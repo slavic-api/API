@@ -1,12 +1,30 @@
 {
   "id": "023",
-  "name": "Divi",
-  "description": "Spojená s prapůvodními aspekty přírody a divočiny.",
+  "name": "Divý",
+  "alternateNames": ["Div", "Diva", "Wild One"],
+  "type": "spirit",
+  "origin": ["South Slavic", "East Slavic"],
+  "description": "Duch divoké, nezkrocené přírody. Prapůvodní síla přesahující lidskou civilizaci, přinášející předzvěsti a úžasnou moc.",
+  "mythology": "Divý (Divoký) je duch nezkrocené, prapůvodní přírody — síla čisté divočiny. Ve Slově o pluku Igorově je zmíněn jako nadpřirozená věštecká bytost křičící z korun stromů na neštěstí, předpovídající katastrofu. Ztělesňuje divoké prostory mimo lidská sídla: hluboký les, odlehlé hory a nezmapované území. Není dobrý ani zlý, ale prostě prapůvodní a mimo lidskou kontrolu — stejně měrou ohromující i děsivý. V jihoslovanské tradici je Diva někdy jeho ženský protějšek. Je hlasem přírody varujícím ty, kdo naslouchají, a zkázou, jež postihuje ty, kdo nenaslouchají.",
   "attributes": {
-    "Domains": ["Divočina", "Příroda", "Svoboda"],
-    "Symbols": ["Nezkrocená země", "Divoká zvířata"],
+    "Domains": ["Divoká příroda", "Divočina", "Chaos", "Prapůvodní síla", "Předzvěsti"],
+    "Symbols": ["Divoký les", "Nezkrocená řeka", "Horský vrchol", "Ptačí křik"],
+    "Sacred Animals": ["Vlk", "Rys", "Orel", "Všichni divocí predátoři"],
+    "Sacred Plants": ["Všechny neobdělané divoké rostliny"],
     "Element": "Země",
-    "Associated Concepts": ["Nepředvídatelnost", "Surová příroda"]
+    "Associated Concepts": ["Divokost", "Předzvěst", "Prapůvodní strach", "Svoboda", "Svrchovaná moc přírody"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Serbia", "Bulgaria", "Russia", "Ukraine"],
+    "festivals": ["Žádný formální kult — usmírcování při vstupu do divokých prostor"],
+    "offerings": ["Ticho a úcta v divočině", "Nekácení živých stromů bez nutnosti"]
+  },
+  "tags": ["wild", "nature", "forest spirit", "primal", "omen", "spirit"],
+  "thumbnailUrl": "images/deities/023/thumbnail.png",
   "detailImageUrl": "images/deities/023/detailImage.png"
 }

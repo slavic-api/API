@@ -1,0 +1,30 @@
+{
+  "id": "019",
+  "name": "Dolja i Sudba",
+  "alternateNames": ["Dolya", "Nedolya", "Sudba", "Sud", "Sreća", "Nesreća"],
+  "type": "deity pair",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Ovaploćenja lične sudbine i fortune. Dolja donosi sreću; Nedolja donosi nesreću. Zajedno tkaju nit svakog ljudskog života.",
+  "mythology": "Dolja (Dobra sudbina) i Nedolja (Loša sudbina/Nesreća) su ovaploćeni duhovi sudbine dodeljeni svakom čoveku pri rođenju. Dolja je lepa mlada žena koja prati srećnika, dok je Nedolja iznemogla starica koja muči nesrećnika. Sudba (Usud) je šira sila koja upravlja čovekovim utvrđenim životnim putem. U srpskoj tradiciji, Sreća je žena koja prede sudbinu. Ne možeš u potpunosti izbeći svoju Sudbu, ali zadovoljavanje Dolje pravednim životom pomaže. Ovi duhovi odražavaju duboko slovensko filozofsko shvatanje da je sudbina lična, istkana stvar — nit ispredeana pri čovekovom rođenju.",
+  "attributes": {
+    "Domains": ["Sudbina", "Usud", "Fortuna", "Sreća", "Životni put"],
+    "Symbols": ["Nit predenja", "Vaga", "Raskršće", "Dva puta"],
+    "Sacred Animals": ["Leptir (duša)", "Pčela"],
+    "Sacred Plants": ["Biljka niti (simbolična)"],
+    "Element": "Etar",
+    "Associated Concepts": ["Usud", "Fortuna", "Karma", "Dvojnost", "Tkanje života"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": ["005"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia", "Bulgaria"],
+    "festivals": ["Obredi pri rođenju", "Proricanje uoči Nove godine"],
+    "offerings": ["Žrtve od niti", "Molitve na raskršću"]
+  },
+  "tags": ["fate", "destiny", "fortune", "duality", "personification", "luck"],
+  "thumbnailUrl": "images/deities/019/thumbnail.png",
+  "detailImageUrl": "images/deities/019/detailImage.png"
+}

@@ -1,12 +1,82 @@
 {
   "id": "009",
   "name": "Chernobog",
-  "description": "God of darkness, misfortune, and chaos.",
+  "alternateNames": [
+    "Czernobóg",
+    "Tchernobog",
+    "Black God",
+    "Crnobog"
+  ],
+  "type": "god",
+  "origin": [
+    "West Slavic",
+    "East Slavic"
+  ],
+  "description": "God of darkness, evil, and misfortune. Counterpart to the White God, embodying the dark side of cosmic duality.",
+  "mythology": "Chernobog ('Black God') is first attested in 12th-century German chronicles describing Baltic Slavic tribes. He is the embodiment of dark, evil, and destructive forces — the counterpart to the White God (Belobog). At feasts, Slavs passed a cup speaking curses over it to Chernobog and praises to Belobog, acknowledging the duality of all existence. He is the god of night, chaos, misfortune, and all that is cursed. His worship was feared but practiced to appease him and minimize misfortune. He appears in modern culture including Disney's Fantasia (1940) and Neil Gaiman's American Gods, attesting to his enduring symbolic power.",
   "attributes": {
-    "Domains": ["Darkness", "Evil", "Chaos"],
-    "Symbols": ["Black Color", "Night"],
-    "Element": "Shadow",
-    "Associated Concepts": ["Misfortune", "Malevolence"]
+    "Domains": [
+      "Darkness",
+      "Evil",
+      "Chaos",
+      "Night",
+      "Misfortune",
+      "Death"
+    ],
+    "Symbols": [
+      "Black iconography",
+      "Iron chains",
+      "Dark moon",
+      "Shadow"
+    ],
+    "Sacred Animals": [
+      "Black horse",
+      "Raven",
+      "Wolf",
+      "Spider"
+    ],
+    "Sacred Plants": [
+      "Nightshade",
+      "Black thorns"
+    ],
+    "Element": "Darkness",
+    "Season": "Winter",
+    "Associated Concepts": [
+      "Duality",
+      "Chaos",
+      "Fate",
+      "Entropy",
+      "Cursing"
+    ]
   },
+  "relationships": {
+    "rivals": ["030"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": [
+      "Pomerania",
+      "Rugia",
+      "Poland",
+      "Baltic Slavic coast"
+    ],
+    "festivals": [
+      "Winter dark moon rituals"
+    ],
+    "offerings": [
+      "Black animals",
+      "Mead with curses spoken over it"
+    ]
+  },
+  "tags": [
+    "darkness",
+    "evil",
+    "chaos",
+    "duality",
+    "major deity",
+    "Baltic Slavic"
+  ],
+  "thumbnailUrl": "images/deities/009/thumbnail.png",
   "detailImageUrl": "images/deities/009/detailImage.png"
 }

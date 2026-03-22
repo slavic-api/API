@@ -1,12 +1,30 @@
 {
-  "id": "022",
-  "name": "Żywia",
-  "description": "Bogini życia, natury i witalności.",
+  "id": "024",
+  "name": "Trzygłów",
+  "alternateNames": ["Triglaw", "Three-Headed One"],
+  "type": "deity",
+  "origin": ["West Slavic"],
+  "description": "Trójgłowe bóstwo rządzące jednocześnie niebem, ziemią i podziemiem. Czczone przez bałtyckie plemiona słowiańskie ze świętym czarnym koniem używanym do wróżbiarstwa.",
+  "mythology": "Trzygłów jest potężnym bóstwem czczonym przez bałtyckie plemiona słowiańskie, przede wszystkim w Szczecinie i Brandenburgii. Jego imię oznacza 'Trójgłowy' i przedstawiany jest z trzema złotymi głowami, z oczyma zasłoniętymi złotymi woalami — gdyż oglądanie grzechów ludzkości napełnia go smutkiem. Jednocześnie włada nad wszystkimi trzema sferami: niebem, ziemią i podziemiem. W Szczecinie Trzygłów posiadał wspaniałą świątynię i świętego czarnego konia używanego do wróżbiarstwa — koń był prowadzony przez skrzyżowane włócznie, a jeśli je omijał nie dotykając, zapowiadało to zwycięstwo w bitwie. Jego świątynia była szczegółowo opisana przez biskupa Ottona z Bambergu, który nawracał Pomorzan w 1124 r. n.e.",
   "attributes": {
-    "Domains": ["Życie", "Natura", "Witalność"],
-    "Symbols": ["Kwiat", "Światło Słońca"],
-    "Element": "Ziemia",
-    "Associated Concepts": ["Wzrost", "Zdrowie"]
+    "Domains": ["Niebo", "Ziemia", "Podziemie", "Jedność Kosmiczna", "Wróżbiarstwo", "Wojna"],
+    "Symbols": ["Trzy głowy (lub jedna głowa z trzema twarzami)", "Złote woale na oczach", "Czarny koń", "Skrzyżowane włócznie"],
+    "Sacred Animals": ["Czarny koń (wróżbiarstwo)", "Orzeł"],
+    "Sacred Plants": ["Brak konkretnych"],
+    "Element": "Eter (wszystkie żywioły zjednoczone)",
+    "Associated Concepts": ["Trójnia", "Równowaga Kosmiczna", "Wszechwiedza", "Jedność Światów"]
   },
-  "detailImageUrl": "images/deities/022/detailImage.png"
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Pomerania", "Mecklenburg", "Brandenburg", "Western Slavic Baltic coast"],
+    "festivals": ["Rytuały wróżebne przed bitwą", "Sezonowe rytuały w świątyni w Szczecinie"],
+    "offerings": ["Dziesiąta część łupów wojennych", "Święty czarny koń (przechowywany, nie ofiarowywany)", "Złoto"]
+  },
+  "tags": ["triform", "cosmic", "sky", "earth", "underworld", "West Slavic", "Baltic Slavic"],
+  "thumbnailUrl": "images/deities/024/thumbnail.png",
+  "detailImageUrl": "images/deities/024/detailImage.png"
 }

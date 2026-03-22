@@ -1,12 +1,30 @@
 {
   "id": "019",
   "name": "Dola i Sudba",
-  "description": "Postacie reprezentujące los i przeznaczenie.",
+  "alternateNames": ["Dolya", "Nedolya", "Sudba", "Sud", "Sreća", "Nesreća"],
+  "type": "deity pair",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Personifikacje osobistego losu i fortuny. Dola przynosi szczęście; Niedola przynosi nieszczęście. Razem tkają nić każdego ludzkiego życia.",
+  "mythology": "Dola (Dobry Los) i Niedola (Zły Los/Nieszczęście) są uosobieniami duchów losu przydzielanych każdemu człowiekowi przy urodzeniu. Dola to piękna młoda kobieta podążająca za szczęśliwcem, podczas gdy Niedola to wynędzniana stara kobieta dręcząca pechowca. Sudba (Przeznaczenie) jest szerszą siłą rządzącą ustaloną ścieżką czyjegoś życia. W serbskiej tradycji Sreća (Szczęście) jest kobietą przędącą los. Nie można w pełni uciec swojej Sudbie, ale utrzymywanie swojej Doli w dobrostanie poprzez prawe życie pomaga. Te duchy odzwierciedlają głębokie słowiańskie filozoficzne poczucie, że los jest rzeczą osobistą, utkaną — nicią uprzędzoną przy czyichś narodzinach.",
   "attributes": {
-    "Domains": ["Los", "Przeznaczenie", "Ścieżka Życia"],
-    "Symbols": ["Nić", "Waga"],
+    "Domains": ["Los", "Przeznaczenie", "Fortuna", "Szczęście", "Ścieżka Życia"],
+    "Symbols": ["Przędzona nić", "Waga", "Rozstaj dróg", "Dwie drogi"],
+    "Sacred Animals": ["Motyl (dusza)", "Pszczoła"],
+    "Sacred Plants": ["Roślina-nić (symboliczna)"],
     "Element": "Eter",
-    "Associated Concepts": ["Szansa", "Predestynacja"]
+    "Associated Concepts": ["Przeznaczenie", "Fortuna", "Karma", "Dwoistość", "Tkanie Życia"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["005"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia", "Bulgaria"],
+    "festivals": ["Rytuały narodzinowe", "Noworoczne wróżby"],
+    "offerings": ["Ofiary z nici", "Modlitwy na rozstaju dróg"]
+  },
+  "tags": ["fate", "destiny", "fortune", "duality", "personification", "luck"],
+  "thumbnailUrl": "images/deities/019/thumbnail.png",
   "detailImageUrl": "images/deities/019/detailImage.png"
 }

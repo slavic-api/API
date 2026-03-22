@@ -1,12 +1,31 @@
 {
   "id": "013",
   "name": "Kupala a Kupalo",
-  "description": "Božstva letního slunovratu, plodnosti a radosti.",
+  "alternateNames": ["Ivan Kupala", "Kupalo", "Kupailo"],
+  "type": "deity pair",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "Dvojče božstev letního slunovratu ztělesňující oheň, vodu a lásku. Jejich svátek je nejoblíbenější nocí slovanského roku.",
+  "mythology": "Kupala (ženská) a Kupalo (mužský) jsou dvojčata-božstva letního slunovratu. V mýtu byli při narození odloučeni, po setkání se nevědomky zamilovali a byli proměněni v kapradinový květ a leknín. Jejich svátek — Noc Ivana Kupaly — se slaví o letním slunovratu (23.–24. června) a byl sjednocen se svátkem Jana Křtitele. Zahrnuje ohně, přes které skáčou páry, aby si očistily a požehnaly svůj svazek, věnce z květin pustěné po řekách k věštění budoucí lásky a legendární hledání kapradinového květu, který kvete jen tuto jedinou noc a nálezci přináší bezmeznou moudrost a bohatství.",
   "attributes": {
-    "Domains": ["Letní slunovrat", "Plodnost", "Radost"],
-    "Symbols": ["Oheň", "Voda"],
+    "Domains": ["Letní slunovrat", "Oheň", "Voda", "Láska", "Plodnost", "Očista"],
+    "Symbols": ["Oheň", "Věnec z květin", "Kapradinový květ", "Řeka"],
+    "Sacred Animals": ["Kůň", "Světluška", "Žába"],
+    "Sacred Plants": ["Kapradí (Paprot)", "Leknín", "Pelyněk", "Třezalka tečkovaná"],
     "Element": "Oheň a Voda",
-    "Associated Season": "Léto"
+    "Season": "Léto",
+    "Associated Concepts": ["Láska", "Očista", "Věštění", "Obnova", "Spojení"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": ["028"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Czech Republic", "Serbia"],
+    "festivals": ["Noc Ivana Kupaly (23.–24. června)"],
+    "offerings": ["Věnce pustěné na vodu", "Skoky přes oheň", "Písně a tance", "Květiny"]
+  },
+  "tags": ["summer solstice", "fertility", "fire", "water", "love", "major festival"],
+  "thumbnailUrl": "images/deities/013/thumbnail.png",
   "detailImageUrl": "images/deities/013/detailImage.png"
 }

@@ -1,12 +1,31 @@
 {
   "id": "005",
   "name": "Rod",
-  "description": "Primordial creator deity, the ancestor of all beings and gods.",
+  "alternateNames": ["Род", "Rozhanitsy (associated female aspect)"],
+  "type": "primordial god",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Primordial creator deity and ancestor of all gods and living beings. Source of all existence.",
+  "mythology": "Rod is the primordial creator deity and progenitor of all gods and living beings. Before anything existed, Rod created the world — laying the cosmic egg from which the universe hatched, or creating from his own body. His name is the root of Slavic words for birth, family, clan, and nature (rod means clan/genus in all Slavic languages). He is accompanied by the Rozhanitsy — two or three female birth goddesses who determine each person's fate at birth. Early Slavic texts written by Christian clergy specifically and repeatedly condemned worship of Rod and the Rozhanitsy, indicating their supreme importance in pre-Christian folk religion.",
   "attributes": {
-    "Domains": ["Creation", "Ancestry", "Cosmos"],
-    "Symbols": ["Cosmic Egg", "Tree of Life"],
+    "Domains": ["Creation", "Ancestry", "Cosmos", "Fate", "Birth", "Clan"],
+    "Symbols": ["Cosmic Egg", "Tree of Life", "Rainbow"],
+    "Sacred Animals": ["Aurochs", "Eagle"],
+    "Sacred Plants": ["World Tree (Oak)"],
     "Element": "Aether",
-    "Associated Concepts": ["Fate", "Providence"]
+    "Season": "All Seasons",
+    "Associated Concepts": ["Fate", "Providence", "Life Force", "Cosmic Order"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["026"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia"],
+    "festivals": ["Rodunitsa (ancestor veneration)", "Rozhanitsy Feast (post-harvest)"],
+    "offerings": ["Bread", "Honey", "Pottage", "Cheese", "Honey wine"]
+  },
+  "tags": ["primordial", "creator", "ancestors", "fate", "major deity"],
+  "thumbnailUrl": "images/deities/005/thumbnail.png",
   "detailImageUrl": "images/deities/005/detailImage.png"
 }

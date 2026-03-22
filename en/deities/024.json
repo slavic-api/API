@@ -1,12 +1,30 @@
 {
   "id": "024",
   "name": "Triglav",
-  "description": "Deity with three heads representing different realms.",
+  "alternateNames": ["Triglaw", "Three-Headed One"],
+  "type": "deity",
+  "origin": ["West Slavic"],
+  "description": "The three-headed deity ruling sky, earth, and underworld simultaneously. Worshipped by Baltic Slavic tribes with a sacred black horse used for divination.",
+  "mythology": "Triglav is a powerful deity worshipped by Baltic Slavic tribes, most notably at Szczecin and Brandenburg. His name means 'Three-headed' and he is depicted with three golden heads, his eyes veiled by golden veils — because witnessing the sins of humanity distresses him. He rules all three realms simultaneously: heaven, earth, and the underworld. At Szczecin, Triglav possessed a magnificent temple and a sacred black horse used for divination — the horse was led over crossed spears, and if it cleared them without touching, victory in battle was assured. His temple was described in detail by Bishop Otto of Bamberg who converted the Pomeranians in 1124 AD.",
   "attributes": {
-    "Domains": ["Sky", "Earth", "Underworld"],
-    "Symbols": ["Three Heads", "Three Realms"],
-    "Element": "All Elements",
-    "Associated Concepts": ["Unity", "Trinity"]
+    "Domains": ["Sky", "Earth", "Underworld", "Cosmic Unity", "Divination", "War"],
+    "Symbols": ["Three heads (or one head with three faces)", "Golden veils over eyes", "Black horse", "Crossed spears"],
+    "Sacred Animals": ["Black horse (divination)", "Eagle"],
+    "Sacred Plants": ["None specific"],
+    "Element": "Aether (all elements unified)",
+    "Associated Concepts": ["Trinity", "Cosmic Balance", "All-Seeing", "Unity of Worlds"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Pomerania", "Mecklenburg", "Brandenburg", "Western Slavic Baltic coast"],
+    "festivals": ["Pre-battle divination rituals", "Seasonal rites at Szczecin temple"],
+    "offerings": ["Tenth of war spoils", "Sacred black horse (kept, not sacrificed)", "Gold"]
+  },
+  "tags": ["triform", "cosmic", "sky", "earth", "underworld", "West Slavic", "Baltic Slavic"],
+  "thumbnailUrl": "images/deities/024/thumbnail.png",
   "detailImageUrl": "images/deities/024/detailImage.png"
 }

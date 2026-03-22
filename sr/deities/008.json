@@ -1,0 +1,30 @@
+{
+  "id": "008",
+  "name": "Zorja",
+  "alternateNames": ["Zarya", "Zaria", "Zorya Utrennyaya", "Zorya Vechernyaya", "Zorya Polunochnaya"],
+  "type": "goddess",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Blizanačke boginje zore koje predstavljaju jutarnju i večernju zvezdu. Čuvarke kosmičkog reda i kapija Dažbogove palate.",
+  "mythology": "Zorje (Zorjine devke) su dve ili tri boginje sestre: Zorja Jutarnja (Jutarnja zvezda), Zorja Večernja (Večernja zvezda) i ponekad Zorja Ponoćna (Ponoćna zvezda). Svako jutro Zorja Jutarnja otvara kapije Dažbogove solarne palate da pusti sunce; svake večeri Zorja Večernja ih zatvara. One takođe čuvaju sudnjeg psa Simargla koji je vezan za Malu medvedicu — ako lanac pukne i pas pobegne, svet će propasti. Prikazuju se kao lepe ratnice u zlatnom oklopu, povezane sa planetom Venerom vidljivom i kao jutarnja i kao večernja zvezda.",
+  "attributes": {
+    "Domains": ["Zora", "Sumrak", "Zvezde", "Kosmički red", "Zaštita ratnika"],
+    "Symbols": ["Jutarnja zvezda (Venera)", "Zlatni oklop", "Nebeske kapije"],
+    "Sacred Animals": ["Konj", "Petao (jutro)", "Sova (večer)"],
+    "Sacred Plants": ["Povoj (jutarnji)", "Noćurak (večernji)"],
+    "Element": "Vazduh",
+    "Associated Concepts": ["Kosmička ravnoteža", "Vreme", "Nebeska navigacija", "Zaštita"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": ["002"],
+    "allies": ["020"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia"],
+    "festivals": ["Obredi u zoru", "Ivanjdan"],
+    "offerings": ["Jutarnja rosa sakupljena u svitanje", "Molitve na prvom svetlu", "Cveće"]
+  },
+  "tags": ["dawn", "dusk", "stars", "celestial", "cosmic order", "warrior maiden"],
+  "thumbnailUrl": "images/deities/008/thumbnail.png",
+  "detailImageUrl": "images/deities/008/detailImage.png"
+}

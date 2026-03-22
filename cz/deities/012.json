@@ -1,12 +1,30 @@
 {
   "id": "012",
-  "name": "Baba Jaga",
-  "description": "Mocná čarodějnice s vědomostmi o temné magii.",
+  "name": "Ježibaba",
+  "alternateNames": ["Jaga", "Jezibaba", "Baba Roga", "Yaga Baba"],
+  "type": "spirit",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "Starodávná babizna a čarodějnice, strážkyně hranice mezi živými a mrtvými. Nejednoznačná pomocnice i pohltitelka.",
+  "mythology": "Ježibaba je jednou z nejikoničtějších postav slovanské mytologie — starodávná babizna-čarodějnice bydlící v chaloupce na kuřích nožkách, která se otáčí do libovolného směru. Létá vzduchem v hmoždíři, zametajíc své stopy paličkou a koštětem. Je strážkyní hranice mezi světem živých a říší mrtvých. Hrdinové hledající její pomoc se musí nechat okoupat, nakrmit a poučit, než jim pomůže — přistoupí-li správně, je moudrou pomocnicí; přistoupí-li špatně, je pohltí. Tři jezdecké slouhy představují úsvit, poledne a noc. Její železný plot je ověnčen lebkami zářícími světlem. Je pravděpodobně starší než samotní bohové.",
   "attributes": {
-    "Domains": ["Magie", "Lesy", "Čarodějnictví"],
-    "Symbols": ["Hmoždíř a palička", "Chalupa"],
+    "Domains": ["Magie", "Lesy", "Hranice smrti", "Moudrost", "Čarodějnictví", "Zkoušky"],
+    "Symbols": ["Hmoždíř a palička", "Otáčivá chaloupka na kuřích nožkách", "Železný plot z lebek", "Koště"],
+    "Sacred Animals": ["Černá kočka", "Had", "Sova", "Vrána"],
+    "Sacred Plants": ["Bříza (obklopuje její chaloupku)", "Mák"],
     "Element": "Země",
-    "Associated Concepts": ["Moudrost", "Tajemství"]
+    "Associated Concepts": ["Moudrost", "Hranice", "Zkoušky", "Proměna", "Starobylé vědění"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Czech Republic"],
+    "festivals": ["Formálně neuctívána — vystupuje v lidových pohádkách jako nejednoznačná postava"],
+    "offerings": ["Správný rituální pozdrav", "Práce a služba výměnou za pomoc"]
+  },
+  "tags": ["witch", "forest", "folklore", "trickster", "wisdom", "death boundary", "hag"],
+  "thumbnailUrl": "images/deities/012/thumbnail.png",
   "detailImageUrl": "images/deities/012/detailImage.png"
 }

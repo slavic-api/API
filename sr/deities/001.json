@@ -1,0 +1,31 @@
+{
+  "id": "001",
+  "name": "Perun",
+  "alternateNames": ["Perkunas", "Perkons", "Perún", "Pirun"],
+  "type": "god",
+  "origin": ["East Slavic", "South Slavic", "West Slavic"],
+  "description": "Slovenski bog groma i munje. Zaštitnik ratnika i čuvar kosmičkog zakona.",
+  "mythology": "Perun je vrhovno božanstvo slovenskog panteona, koje vlada gromom, munjom, olujama, kišom, zakonom, ratom i plodnošću sa najviših grana Svetskog drveta — velikog kosmičkog hrasta. Njegov večni neprijatelj je Veles, zmijoliki bog podzemlja, koji mu krade stoku, ženu ili decu. Perun juri Velesa kroz nebo bacajući gromove, dok se Veles skriva u obliku životinja, drveća ili ljudi. Ova kosmička borba donosi kišu na zemlju i održava kosmički red. Perun se prikazuje kao čovek srednje dobi sa bakrenastom bradom koji nosi sekiru ili čekić. Sveti hrastovi i brda na uzvisicama služili su kao njegova svetilišta. Bio je zaštitnik ratničke klase i kneževske prateće garde u Kijevskoj Rusi.",
+  "attributes": {
+    "Domains": ["Grom", "Munja", "Rat", "Zakon", "Nebo", "Kiša", "Plodnost"],
+    "Symbols": ["Sekira", "Grom", "Orao", "Čekić", "Hrast"],
+    "Sacred Animals": ["Orao", "Bik", "Tur"],
+    "Sacred Plants": ["Hrast", "Perunika"],
+    "Element": "Vazduh",
+    "Season": "Leto",
+    "Associated Concepts": ["Pravda", "Moć", "Zaštita", "Kosmički red"]
+  },
+  "relationships": {
+    "rivals": ["004"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Poland", "Belarus", "Serbia", "Croatia"],
+    "festivals": ["Perunov dan (20. jul / sinkretizovan sa Iljinim danom)"],
+    "offerings": ["Vo", "Bik", "Hrastovo drvo", "Hleb", "Medovina"]
+  },
+  "tags": ["major deity", "warrior", "sky", "weather", "thunder", "oak", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/001/thumbnail.png",
+  "detailImageUrl": "images/deities/001/detailImage.png"
+}
