@@ -1,0 +1,30 @@
+{
+  "id": "006",
+  "name": "Domovoj",
+  "alternateNames": ["Domovoy", "Domovik", "Dvorovoi", "Ded", "Grandfather"],
+  "type": "spirit",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "Duh predaka koji živi u domaćinstvu i zaštitnik doma. Stanuje iza peći i čuva porodicu.",
+  "mythology": "Domovoj je duh predaka kuće koji živi iza peći, ispod praga ili u štali. On je duh muškog pretka porodice i štiti domaćinstvo ako se prema njemu postupa s poštovanjem. Pojavljuje se kao mali dlakavi čovek nalik glavi domaćinstva. Udara i stenje kad se nesreća približava, a milovanjem miluje one koji spavaju — topao i mekan dodir znači sreću, hladan i grub znači opasnost. U nekim predanjima ne podnosi ogledala. Svaki dom ima svog Domovoja koji prati porodicu ako se preseli. Nepoštovanje prema njemu dovodi do šaljivih nedaća: pleteći grivi konjima noću, kvarivši mleko, pravivši čudne šumove.",
+  "attributes": {
+    "Domains": ["Dom", "Porodica", "Zaštita", "Ognjište", "Preci"],
+    "Symbols": ["Ognjište/Peć", "Prag", "Hleb i so"],
+    "Sacred Animals": ["Mačka", "Zmija", "Petao"],
+    "Sacred Plants": ["Ništa posebno"],
+    "Element": "Vatra",
+    "Associated Concepts": ["Poreklo", "Kućni mir", "Znaci upozorenja", "Zaštita"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia"],
+    "festivals": ["Noć uoči Nove godine (umilostiviti žrtvama)", "Kod selidbe (pozvati ga sa sobom)"],
+    "offerings": ["Kaša", "Hleb i so", "Prvo jelo u danu", "Duvan"]
+  },
+  "tags": ["household spirit", "domestic", "protection", "family", "ancestor spirit"],
+  "thumbnailUrl": "images/deities/006/thumbnail.png",
+  "detailImageUrl": "images/deities/006/detailImage.png"
+}

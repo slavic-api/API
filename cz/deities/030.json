@@ -1,12 +1,30 @@
 {
   "id": "030",
   "name": "Dobrovij",
-  "description": "Božstvo spojené s dobrotou a laskavostí.",
+  "alternateNames": ["Dobroviy", "Dobro", "Dobrozhil", "Good Spirit"],
+  "type": "deity",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Božstvo laskavosti, dobroty a mravní ctnosti. Božské potvrzení štědrosti a správného jednání.",
+  "mythology": "Dobrovij (Ten Dobrý) je laskavé božstvo laskavosti, dobroty a mravní ctnosti. Jeho jméno pochází ze slova 'dobro' — slovanského kořene pro dobrotu, jednoho z nejpozitivněji nabitých slov ve slovanské mravní filozofii (společné ve všech slovanských jazycích). Představuje princip, že dobré skutky mají božskou podporu a že ctnost je pozorována a odměňována vyššími silami. Je vzýván při skládání slibů štědrosti a při hledání požehnání pro činy laskavosti. Jako duchovní protipól Černoboga ztělesňuje pozitivní božskou sílu bez bojovné agrese válečnických božstev — božské potvrzení každodenní lidské dobroty, společenství a štědrosti.",
   "attributes": {
-    "Domains": ["Dobrota", "Laskavost", "Podpora"],
-    "Symbols": ["Srdce", "Otevřené ruce"],
-    "Element": "Země",
-    "Associated Concepts": ["Charita", "Laskavost"]
+    "Domains": ["Laskavost", "Dobrota", "Ctnost", "Požehnání", "Štědrost", "Mravní řád"],
+    "Symbols": ["Otevřené ruce", "Bílé světlo", "Lipový květ", "Medový plástev"],
+    "Sacred Animals": ["Bílá holubice", "Včela"],
+    "Sacred Plants": ["Lípa", "Heřmánek"],
+    "Element": "Světlo/Éter",
+    "Associated Concepts": ["Ctnost", "Štědrost", "Božské schválení", "Pozitivní karma", "Pospolitost"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia", "Bulgaria"],
+    "festivals": ["Dny veřejné služby a štědrosti"],
+    "offerings": ["Skutky laskavosti vykonané na jeho počest", "Med", "Chléb sdílený se sousedy"]
+  },
+  "tags": ["goodness", "benevolence", "virtue", "protection", "minor deity", "moral deity"],
+  "thumbnailUrl": "images/deities/030/thumbnail.png",
   "detailImageUrl": "images/deities/030/detailImage.png"
 }

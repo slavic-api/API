@@ -1,12 +1,31 @@
 {
   "id": "022",
-  "name": "Żywia",
-  "description": "Bogini życia, natury i witalności.",
+  "name": "Żywa",
+  "alternateNames": ["Živa", "Siwa", "Zywie", "Zhivana"],
+  "type": "goddess",
+  "origin": ["West Slavic", "South Slavic", "East Slavic"],
+  "description": "Bogini życia, żywej natury i witalności. Boska odpowiedniczka Marzanny, której panowanie rozpoczyna się wraz ze śmiercią zimy.",
+  "mythology": "Żywa (Ta Żywa) jest boginią życia, żywej natury i witalności. Jest boskim ucieleśnieniem żywotności — siły ożywiającej wszystkie żywe istoty. Jest odpowiedniczką i rywalką Marzanny: gdy kukła Marzanny jest spalana lub topiona w wiosennym rytuale, rozpoczyna się panowanie Żywy. Czczona jest jako Siwa przez Słowian Połabskich w Ratibor. Pojawia się jako piękna młoda kobieta w letnich szatach, przynosząc kwiaty i obfitość wszędzie, gdzie stąpa. Kukułka jest jej poświęcona — jej kukaność przepowiada, ile lat jeszcze przeżyjesz. Reprezentuje nieśmiertelną, wiecznie odnawiającą się siłę życiową natury.",
   "attributes": {
-    "Domains": ["Życie", "Natura", "Witalność"],
-    "Symbols": ["Kwiat", "Światło Słońca"],
+    "Domains": ["Życie", "Natura", "Witalność", "Płodność", "Wiosna", "Żywy Świat"],
+    "Symbols": ["Zielona gałązka", "Jabłko", "Piórko kukułki", "Wiosenna woda"],
+    "Sacred Animals": ["Kukułka", "Gołąb", "Jeleń"],
+    "Sacred Plants": ["Jabłoń", "Wszystkie kwitnące rośliny", "Świeże zielone liście"],
     "Element": "Ziemia",
-    "Associated Concepts": ["Wzrost", "Zdrowie"]
+    "Season": "Wiosna do Lata",
+    "Associated Concepts": ["Nieśmiertelność Natury", "Odnowa", "Siła Życiowa", "Radość"]
   },
+  "relationships": {
+    "rivals": ["011"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Poland", "Czech Republic", "Slovakia", "Serbia", "Russia"],
+    "festivals": ["Wiosenne święta po topieniu Marzanny"],
+    "offerings": ["Pierwsze wiosenne kwiaty", "Kwiaty jabłoni", "Pieśni życia i odnowy"]
+  },
+  "tags": ["life", "nature", "spring", "fertility", "minor deity", "counterpart to death"],
+  "thumbnailUrl": "images/deities/022/thumbnail.png",
   "detailImageUrl": "images/deities/022/detailImage.png"
 }

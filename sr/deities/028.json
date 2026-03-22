@@ -1,0 +1,31 @@
+{
+  "id": "028",
+  "name": "Lada",
+  "alternateNames": ["Lado", "Łada", "Lada-Lado"],
+  "type": "goddess",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "Boginja lepote, ljubavi, harmonije i braka. Njeno ime odzvanja u drevnim slovenskim obrednim pesmama pevanim širom svih slovenskih zemalja.",
+  "mythology": "Lada je boginja lepote, ljubavi, harmonije, braka i proleća. Njeno ime je koren slovenskog pojma 'lad' — harmonija, red i mir. Pojavljuje se kao raskošna mlada žena okrunjena cvećem. Njeno ime i ime njenog muškog pandana Lada pojavljuju se kao obredni refren u bezbroj drevnih slovenskih ceremonijnih pesama (lada, lado, lado!), što dokazuje njenu duboku prepletenost sa narodnom muzikom, svadbenim obredima i sezonskim praznovanima. Predsedava svim ljubavnim vezama i brakovima. U proleće i leto časti se pesmama, kolo-igrama (horovod) i vencima od cveća. Moguće je da je srodnička sa baltičkom Laimom, boginjom sreće i sudbine.",
+  "attributes": {
+    "Domains": ["Ljubav", "Lepota", "Harmonija", "Brak", "Proleće", "Muzika", "Ples"],
+    "Symbols": ["Venac od cveća", "Labud", "Lipov cvet", "Venčani prsten"],
+    "Sacred Animals": ["Labud", "Golub", "Kukavica"],
+    "Sacred Plants": ["Lipa", "Ruža", "Sve prolećno cveće"],
+    "Element": "Vazduh",
+    "Season": "Proleće do Leta",
+    "Associated Concepts": ["Romantična ljubav", "Društvena harmonija", "Radost", "Lepota", "Sjedinjavanje duša"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": ["013"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia", "Bulgaria", "Czech Republic"],
+    "festivals": ["Ivanjska noć (23-24. juna)", "Prolećni i letnji festivali ljubavi", "Svadbeni obredi"],
+    "offerings": ["Venci od cveća", "Pesme sa refrenom lada/lado", "Svadbeni pokloni"]
+  },
+  "tags": ["love", "beauty", "harmony", "marriage", "spring", "music", "major deity"],
+  "thumbnailUrl": "images/deities/028/thumbnail.png",
+  "detailImageUrl": "images/deities/028/detailImage.png"
+}

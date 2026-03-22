@@ -1,12 +1,31 @@
 {
   "id": "001",
   "name": "Perun",
-  "description": "Slovanský bůh hromu a blesku. Ochránce válečníků.",
+  "alternateNames": ["Perkunas", "Perkons", "Perún", "Pirun"],
+  "type": "god",
+  "origin": ["East Slavic", "South Slavic", "West Slavic"],
+  "description": "Slovanský bůh hromu a blesku. Ochránce válečníků a strážce kosmického zákona.",
+  "mythology": "Perun je nejvyšší božstvo slovanského panteonu, vládnoucí hromu, blesku, bouřím, dešti, zákonu, válce a úrodě z nejvyšších větví Světového stromu — mocného kosmického dubu. Jeho věčným nepřítelem je Veles, hadí bůh podsvětí, jenž mu krade dobytek, ženu nebo děti. Perun pronásleduje Velesa napříč oblohou a vrhá na něj blesky, zatímco Veles se skrývá v podobě zvířat, stromů nebo lidí. Tento kosmický souboj přináší zemi déšť a udržuje světový řád. Perun je zobrazován jako muž středního věku s měděným vousem, nesoucí sekeru nebo kladivo. Posvátné duby a vrcholky kopců mu sloužily jako svatyně. Byl patronem válečnického stavu a knížecí družiny v Kyjevské Rusi.",
   "attributes": {
-    "Domains": ["Hrom", "Blesk", "Válka", "Právo", "Nebe"],
-    "Symbols": ["Sekera", "Blesk", "Orel"],
-    "Sacred Animals": ["Orel"],
-    "Element": "Vzduch"
+    "Domains": ["Hrom", "Blesk", "Válka", "Zákon", "Nebe", "Déšť", "Úroda"],
+    "Symbols": ["Sekera", "Blesk", "Orel", "Kladivo", "Dub"],
+    "Sacred Animals": ["Orel", "Býk", "Zubr"],
+    "Sacred Plants": ["Dub", "Kosatec"],
+    "Element": "Vzduch",
+    "Season": "Léto",
+    "Associated Concepts": ["Spravedlnost", "Moc", "Ochrana", "Kosmický řád"]
   },
+  "relationships": {
+    "rivals": ["004"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Poland", "Belarus", "Serbia", "Croatia"],
+    "festivals": ["Perunův den (20. července / sjednocen se svátkem proroka Eliáše)"],
+    "offerings": ["Vůl", "Býk", "Dubové dřevo", "Chléb", "Medovina"]
+  },
+  "tags": ["major deity", "warrior", "sky", "weather", "thunder", "oak", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/001/thumbnail.png",
   "detailImageUrl": "images/deities/001/detailImage.png"
 }

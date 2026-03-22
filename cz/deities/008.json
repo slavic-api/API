@@ -1,12 +1,30 @@
 {
   "id": "008",
-  "name": "Zorya",
-  "description": "Dvě bohyně reprezentující ranní a večerní hvězdu.",
+  "name": "Zorja",
+  "alternateNames": ["Zarya", "Zaria", "Zorya Utrennyaya", "Zorya Vechernyaya", "Zorya Polunochnaya"],
+  "type": "goddess",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Dvojice rozbřeskových bohyní představující jitřenku a večernici. Strážkyně kosmického řádu a brán Dažbogova paláce.",
+  "mythology": "Zorji (Úsvitové panny) jsou dvě nebo tři sestry-bohyně: Zorja Utrennjaja (Jitřenka), Zorja Večernaja (Večernice) a někdy Zorja Polunočnaja (Půlnoční hvězda). Každé ráno Zorja Utrennjaja otevírá brány Dažbogova slunečního paláce, aby propustila slunce; každý večer je Zorja Večernaja zavírá. Také střeží apokalyptického psa Simargla, přikovaného k Malé medvědici — pokud by se řetěz přetrhl a pes utekl, svět by skončil. Jsou zobrazovány jako krásné válečné panny ve zlaté zbroji, spojované s planetou Venuší viditelnou jako jitřenka i večernice.",
   "attributes": {
-    "Domains": ["Ranní hvězda", "Večerní hvězda", "Ochrana"],
-    "Symbols": ["Hvězdy", "Nebeské světlo"],
-    "Element": "Nebe",
-    "Associated Concepts": ["Vedení", "Přechod"]
+    "Domains": ["Úsvit", "Soumrak", "Hvězdy", "Kosmický řád", "Ochrana válečníků"],
+    "Symbols": ["Jitřenka (Venuše)", "Zlatá zbroj", "Nebeské brány"],
+    "Sacred Animals": ["Kůň", "Kohout (ranní)", "Sova (večerní)"],
+    "Sacred Plants": ["Svlačec", "Pupalka"],
+    "Element": "Vzduch",
+    "Associated Concepts": ["Kosmická rovnováha", "Čas", "Nebeská orientace", "Ochrana"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["002"],
+    "allies": ["020"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia"],
+    "festivals": ["Ranní obřady za úsvitu", "Letní slunovrat"],
+    "offerings": ["Ranní rosa sebraná za úsvitu", "Modlitby při prvním světle", "Květiny"]
+  },
+  "tags": ["dawn", "dusk", "stars", "celestial", "cosmic order", "warrior maiden"],
+  "thumbnailUrl": "images/deities/008/thumbnail.png",
   "detailImageUrl": "images/deities/008/detailImage.png"
 }

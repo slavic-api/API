@@ -1,12 +1,31 @@
 {
   "id": "003",
   "name": "Mokosz",
-  "description": "Bogini płodności, tkactwa, kobiet i wilgoci.",
+  "alternateNames": ["Mokoša", "Makosh", "Mokusha"],
+  "type": "goddess",
+  "origin": ["East Slavic"],
+  "description": "Wielka matka ziemia i bogini tkactwa, płodności oraz losu kobiet. Jedyna bogini w kijowskim panteonie Włodzimierza.",
+  "mythology": "Mokosz jest jedyną boginią wymienioną w Kronice Nestora wśród bóstw panteonu Włodzimierza w Kijowie (980 r. n.e.), co świadczy o jej nadrzędnym znaczeniu wśród wszystkich słowiańskich bogiń. Jest wielką matką ziemią, boginią przędzenia, tkania i losu kobiet — przędącą nić życia i przeznaczenia tak jak greckie Mojry. W piątkowe noce wędruje po wsiach, sprawdzając pracę kobiet przy przędzeniu. Jej imię może wywodzić się od słowa 'mok' (mokry/wilgotny), łącząc ją z żyzną wilgocią ziemi. Później została zsynchronizowana ze świętą Paraskiewą Piątek w tradycji chrześcijańskiej, co świadczy o jej trwałej mocy w świadomości ludowej.",
   "attributes": {
-    "Domains": ["Płodność", "Tkactwo", "Przeznaczenie Kobiet"],
-    "Symbols": ["Wrzeciono", "Snop Pszenicy"],
+    "Domains": ["Płodność", "Tkactwo", "Los", "Ziemia", "Kobiety", "Wilgoć"],
+    "Symbols": ["Wrzeciono", "Kądziel", "Nić", "Krosno"],
+    "Sacred Animals": ["Owca", "Pająk"],
+    "Sacred Plants": ["Len", "Konopie"],
     "Element": "Ziemia",
-    "Associated Plants": ["Len", "Pszenica"]
+    "Season": "Jesień",
+    "Associated Concepts": ["Przeznaczenie", "Macierzyństwo", "Rzemiosło", "Ochrona Kobiet"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Piątek (cotygodniowy dzień święty)", "Święta Żniwne", "Maslenica"],
+    "offerings": ["Len", "Wełna", "Nić pozostawiona na rozstaju dróg", "Haftowane chusty"]
+  },
+  "tags": ["major deity", "fertility", "weaving", "women", "fate", "earth mother", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/003/thumbnail.png",
   "detailImageUrl": "images/deities/003/detailImage.png"
 }

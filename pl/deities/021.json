@@ -1,12 +1,30 @@
 {
   "id": "021",
-  "name": "Wiesław",
-  "description": "Mądra postać reprezentująca słowiańskie dziedzictwo i mądrość.",
+  "name": "Weleslav",
+  "alternateNames": ["Velesslav"],
+  "type": "deity",
+  "origin": ["East Slavic"],
+  "description": "Czcigodna postać pradawnej mądrości związana z kultem Welesa. Strażnik wiedzy przodków i tradycji ustnej.",
+  "mythology": "Weleslav jest postacią związaną z kultem Welesa, ucieleśniającą czcigodne aspekty boskiej mądrości. Imię łączy Welesa (podziemnego boga mądrości i bydła) ze 'sław' (chwała/sława). Reprezentuje wiedzę starszych — nagromadzoną pamięć przodków, świętą tradycję ustną i prorocki wgląd przekazywany z pokolenia na pokolenie. W neopogańskich słowiańskich tradycjach odrodzeniowych utożsamiany jest ze świętą wiedzą, proroctwem i pradawnymi tradycjami mądrości pielęgnowanymi przez bardów i jasnowidzów. Służy jako pośrednik między boską sferą Welesa a ludzkimi poszukiwaczami mądrości.",
   "attributes": {
-    "Domains": ["Mądrość", "Dziedzictwo", "Tradycja"],
-    "Symbols": ["Księga", "Starożytny Skrypt"],
+    "Domains": ["Mądrość", "Wiedza", "Pradawna Tradycja", "Proroctwo", "Pamięć"],
+    "Symbols": ["Pradawna rzeźbiona laska", "Znaki runiczne", "Drewno bzowe"],
+    "Sacred Animals": ["Sowa", "Kruk"],
+    "Sacred Plants": ["Bez czarny", "Jemioła"],
     "Element": "Ziemia",
-    "Associated Concepts": ["Wiedza", "Przodkowie"]
+    "Associated Concepts": ["Mądrość Starszych", "Pamięć Przodków", "Proroctwo", "Sztuki Bardów"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": ["004"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine"],
+    "festivals": ["Zimowe rytuały mądrości podczas przesilenia"],
+    "offerings": ["Wiersze i pieśni", "Miód pitny", "Pierwsze napisane lub wypowiedziane słowa nowego dzieła"]
+  },
+  "tags": ["wisdom", "knowledge", "elder", "minor deity", "bard", "prophecy"],
+  "thumbnailUrl": "images/deities/021/thumbnail.png",
   "detailImageUrl": "images/deities/021/detailImage.png"
 }

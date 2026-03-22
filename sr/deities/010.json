@@ -1,0 +1,30 @@
+{
+  "id": "010",
+  "name": "Svarog",
+  "alternateNames": ["Svarozhich", "Swarożyc"],
+  "type": "god",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "Bog neba, božanske vatre i nebeskog kovačkog zanata. Otac Dažbogov. Vrhovni kovač koji je skovao sunce.",
+  "mythology": "Svarog je bog vedrog neba i božanske vatre — slovenski nebeski kovač. Njegovo ime znači 'Vedro nebo' ili 'Sjajno nebo' (svar = nebo/sjajno). On je skovao zakone neba, sunce i doneo vatru čovečanstvu. Primarna hronika ga poistovećuje sa grčkim Hefestom. Ispustio je klešta s neba — grom — naučivši ljude kovačkom zanatu. On je otac Dažboga (sunca) i Svarožiča (svete vatre). Svete vatre gorele su u njegovu čast u hramovima i nikada se nisu smele ugasiti. On je civilizaciono božanstvo koje je čovečanstvu podarilo alate zanatstva i zakone braka.",
+  "attributes": {
+    "Domains": ["Nebo", "Vatra", "Kovačtvo", "Zanat", "Zakon", "Brak"],
+    "Symbols": ["Čekić", "Klešta", "Kovačnica", "Sveta vatra", "Sunce"],
+    "Sacred Animals": ["Petao", "Bik"],
+    "Sacred Plants": ["Hrast"],
+    "Element": "Vatra",
+    "Associated Concepts": ["Zanatstvo", "Božanski zakon", "Stvaranje", "Civilizacija"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": ["002"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland"],
+    "festivals": ["Svarožičev dan (jesenski festival svete vatre)"],
+    "offerings": ["Hleb", "Meso", "Sveta vatra koja večno gori"]
+  },
+  "tags": ["major deity", "sky", "fire", "smithing", "craftsman", "father deity", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/010/thumbnail.png",
+  "detailImageUrl": "images/deities/010/detailImage.png"
+}

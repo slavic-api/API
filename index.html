@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Slavic Mythology API</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0f0e17;
+      --bg2: #1a1929;
+      --bg3: #242338;
+      --gold: #e8c547;
+      --gold2: #f5d76e;
+      --text: #fffffe;
+      --muted: #a7a9be;
+      --red: #f25f4c;
+      --blue: #6c91c2;
+      --green: #72d1a8;
+      --radius: 8px;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    a { color: var(--gold); text-decoration: none; }
+    a:hover { color: var(--gold2); }
+
+    /* NAV */
+    nav {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(15,14,23,0.92);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+      padding: 0 2rem;
+    }
+    .nav-inner {
+      max-width: 1100px; margin: 0 auto;
+      display: flex; align-items: center; justify-content: space-between;
+      height: 60px;
+    }
+    .nav-logo { font-weight: 700; font-size: 1rem; color: var(--text); }
+    .nav-logo span { color: var(--gold); }
+    .nav-links { display: flex; gap: 1.5rem; }
+    .nav-links a { color: var(--muted); font-size: 0.9rem; }
+    .nav-links a:hover { color: var(--text); }
+
+    /* CONTAINER */
+    .container { max-width: 1100px; margin: 0 auto; padding: 0 2rem; }
+
+    /* HERO */
+    .hero {
+      padding: 6rem 2rem 4rem;
+      text-align: center;
+      background: radial-gradient(ellipse at 50% 0%, rgba(232,197,71,0.08) 0%, transparent 70%);
+    }
+    .hero-badge {
+      display: inline-block;
+      background: rgba(232,197,71,0.1);
+      border: 1px solid rgba(232,197,71,0.3);
+      color: var(--gold);
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.3rem 0.8rem;
+      border-radius: 100px;
+      margin-bottom: 1.5rem;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+    .hero h1 {
+      font-size: clamp(2.5rem, 6vw, 4rem);
+      font-weight: 900;
+      line-height: 1.1;
+      margin-bottom: 1rem;
+    }
+    .hero h1 span { color: var(--gold); }
+    .hero p {
+      font-size: 1.15rem;
+      color: var(--muted);
+      max-width: 560px;
+      margin: 0 auto 2rem;
+    }
+    .hero-buttons { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+    .btn {
+      display: inline-flex; align-items: center; gap: 0.5rem;
+      padding: 0.75rem 1.5rem;
+      border-radius: var(--radius);
+      font-weight: 600; font-size: 0.95rem;
+      cursor: pointer; border: none;
+      transition: all 0.15s;
+    }
+    .btn-primary { background: var(--gold); color: var(--bg); }
+    .btn-primary:hover { background: var(--gold2); color: var(--bg); }
+    .btn-outline {
+      background: transparent;
+      border: 1px solid rgba(255,255,255,0.15);
+      color: var(--text);
+    }
+    .btn-outline:hover { border-color: rgba(255,255,255,0.3); }
+    .hero-url {
+      margin-top: 2rem;
+      display: inline-flex; align-items: center; gap: 0.75rem;
+      background: var(--bg2);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: var(--radius);
+      padding: 0.6rem 1rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+    .hero-url span { color: var(--gold); }
+
+    /* STATS */
+    .stats { padding: 3rem 2rem; }
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 1rem;
+    }
+    .stat-card {
+      background: var(--bg2);
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      text-align: center;
+    }
+    .stat-value { font-size: 2.5rem; font-weight: 900; color: var(--gold); }
+    .stat-label { color: var(--muted); font-size: 0.85rem; margin-top: 0.25rem; }
+
+    /* SECTIONS */
+    section { padding: 4rem 2rem; }
+    section + section { border-top: 1px solid rgba(255,255,255,0.06); }
+    .section-title {
+      font-size: 1.6rem; font-weight: 700;
+      margin-bottom: 0.5rem;
+    }
+    .section-title span { color: var(--gold); }
+    .section-sub { color: var(--muted); margin-bottom: 2rem; }
+
+    /* ENDPOINTS */
+    .endpoints-grid { display: grid; gap: 0.75rem; }
+    .endpoint-card {
+      background: var(--bg2);
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: var(--radius);
+      padding: 1rem 1.25rem;
+      display: flex; align-items: center; gap: 1rem;
+      flex-wrap: wrap;
+    }
+    .method {
+      background: rgba(232,197,71,0.15);
+      color: var(--gold);
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.75rem; font-weight: 700;
+      padding: 0.2rem 0.6rem;
+      border-radius: 4px;
+      flex-shrink: 0;
+    }
+    .endpoint-url {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.85rem;
+      color: var(--text);
+      flex: 1;
+    }
+    .endpoint-url .param { color: var(--blue); }
+    .endpoint-desc { color: var(--muted); font-size: 0.85rem; width: 100%; padding-left: 3.5rem; }
+    .copy-btn {
+      background: var(--bg3); border: 1px solid rgba(255,255,255,0.08);
+      color: var(--muted); font-size: 0.75rem;
+      padding: 0.3rem 0.6rem; border-radius: 4px;
+      cursor: pointer; flex-shrink: 0;
+      transition: all 0.15s;
+    }
+    .copy-btn:hover { color: var(--text); border-color: rgba(255,255,255,0.2); }
+
+    /* DEMO */
+    .demo-box {
+      background: var(--bg2);
+      border: 1px solid rgba(255,255,255,0.08);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+    .demo-controls {
+      padding: 1.25rem;
+      display: flex; gap: 1rem; flex-wrap: wrap;
+      border-bottom: 1px solid rgba(255,255,255,0.06);
+    }
+    .demo-controls select, .demo-controls button {
+      background: var(--bg3);
+      border: 1px solid rgba(255,255,255,0.1);
+      color: var(--text);
+      padding: 0.5rem 0.75rem;
+      border-radius: var(--radius);
+      font-family: 'Inter', sans-serif;
+      font-size: 0.9rem;
+      cursor: pointer;
+    }
+    .demo-controls button {
+      background: var(--gold); color: var(--bg); font-weight: 600;
+      border-color: var(--gold);
+    }
+    .demo-controls button:hover { background: var(--gold2); }
+    .demo-output {
+      padding: 1.25rem;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.78rem;
+      line-height: 1.6;
+      min-height: 200px;
+      max-height: 400px;
+      overflow-y: auto;
+      color: var(--muted);
+    }
+    .demo-output .json-key { color: #ff8906; }
+    .demo-output .json-str { color: var(--gold); }
+    .demo-output .json-num { color: var(--red); }
+    .demo-output .json-bool { color: var(--green); }
+
+    /* CODE TABS */
+    .tabs { display: flex; gap: 0; border-bottom: 1px solid rgba(255,255,255,0.08); }
+    .tab-btn {
+      background: none; border: none; color: var(--muted);
+      padding: 0.75rem 1.25rem; cursor: pointer;
+      font-family: 'Inter', sans-serif; font-size: 0.85rem;
+      border-bottom: 2px solid transparent;
+      transition: all 0.15s;
+    }
+    .tab-btn.active { color: var(--gold); border-bottom-color: var(--gold); }
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; }
+    pre {
+      background: var(--bg2);
+      border: 1px solid rgba(255,255,255,0.06);
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      overflow-x: auto;
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 0.8rem;
+      line-height: 1.7;
+    }
+    .kw { color: #c678dd; }
+    .fn { color: #61afef; }
+    .str { color: var(--gold); }
+    .cm { color: #5c6370; font-style: italic; }
+    .var { color: var(--red); }
+
+    /* TABLE */
+    .table-wrap { overflow-x: auto; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+    th {
+      text-align: left; padding: 0.75rem 1rem;
+      color: var(--muted); font-weight: 600; font-size: 0.8rem;
+      text-transform: uppercase; letter-spacing: 0.05em;
+      border-bottom: 1px solid rgba(255,255,255,0.08);
+    }
+    td { padding: 0.75rem 1rem; border-bottom: 1px solid rgba(255,255,255,0.04); }
+    tr:hover td { background: rgba(255,255,255,0.02); }
+    .badge {
+      display: inline-block;
+      padding: 0.2rem 0.6rem;
+      border-radius: 100px;
+      font-size: 0.75rem; font-weight: 600;
+    }
+    .badge-god { background: rgba(232,197,71,0.15); color: var(--gold); }
+    .badge-goddess { background: rgba(242,95,76,0.15); color: #f9826c; }
+    .badge-spirit { background: rgba(108,145,194,0.15); color: var(--blue); }
+    .badge-creature { background: rgba(114,209,168,0.15); color: var(--green); }
+    .badge-other { background: rgba(167,169,190,0.1); color: var(--muted); }
+    .check { color: var(--green); }
+    .dash { color: var(--muted); }
+
+    /* SCHEMA */
+    .schema-field {
+      display: grid; grid-template-columns: 200px 100px 1fr;
+      gap: 1rem; padding: 0.75rem 0;
+      border-bottom: 1px solid rgba(255,255,255,0.04);
+      font-size: 0.875rem;
+    }
+    .schema-field:last-child { border-bottom: none; }
+    .field-name { font-family: 'JetBrains Mono', monospace; color: #ff8906; }
+    .field-type { color: var(--blue); }
+    .field-desc { color: var(--muted); }
+
+    /* FOOTER */
+    footer {
+      border-top: 1px solid rgba(255,255,255,0.06);
+      padding: 2rem;
+      text-align: center;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+    footer a { color: var(--muted); }
+    footer a:hover { color: var(--gold); }
+
+    @media (max-width: 640px) {
+      .schema-field { grid-template-columns: 1fr 1fr; }
+      .field-desc { grid-column: 1/-1; }
+      .endpoint-desc { padding-left: 0; }
+    }
+  </style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <div class="nav-logo">⚡ <span>Slavic</span>API</div>
+    <div class="nav-links">
+      <a href="#endpoints">Endpoints</a>
+      <a href="#demo">Demo</a>
+      <a href="#languages">Languages</a>
+      <a href="#schema">Schema</a>
+      <a href="#deities">Deities</a>
+      <a href="https://github.com/slavic-api/API" target="_blank">GitHub ↗</a>
+    </div>
+  </div>
+</nav>
+
+<div class="hero container">
+  <div class="hero-badge">Free &amp; Open Source</div>
+  <h1>Slavic Mythology <span>API</span></h1>
+  <p>A free, static JSON API with 30 Slavic mythology deities — complete with mythology, attributes, worship data, and imagery in 6 languages.</p>
+  <div class="hero-buttons">
+    <a href="https://github.com/slavic-api/API" target="_blank" class="btn btn-primary">View on GitHub</a>
+    <a href="#endpoints" class="btn btn-outline">Browse Endpoints</a>
+  </div>
+  <div class="hero-url">
+    Base URL: <span>https://slavic-api.github.io/API</span>
+  </div>
+</div>
+
+<div class="stats">
+  <div class="container">
+    <div class="stats-grid">
+      <div class="stat-card"><div class="stat-value">30</div><div class="stat-label">Slavic Deities</div></div>
+      <div class="stat-card"><div class="stat-value">6</div><div class="stat-label">Languages</div></div>
+      <div class="stat-card"><div class="stat-value">180+</div><div class="stat-label">JSON Files</div></div>
+      <div class="stat-card"><div class="stat-value">Free</div><div class="stat-label">No Auth Required</div></div>
+    </div>
+  </div>
+</div>
+
+<section id="endpoints">
+  <div class="container">
+    <h2 class="section-title">API <span>Endpoints</span></h2>
+    <p class="section-sub">All endpoints return JSON. No authentication, no rate limits, no CORS restrictions.</p>
+    <div class="endpoints-grid">
+
+      <div class="endpoint-card">
+        <span class="method">GET</span>
+        <span class="endpoint-url">/deities_list.json</span>
+        <button class="copy-btn" onclick="copyUrl('/deities_list.json', this)">Copy URL</button>
+        <span class="endpoint-desc">Master list of all 30 deities with type, origin, tags, and thumbnail URLs (English)</span>
+      </div>
+
+      <div class="endpoint-card">
+        <span class="method">GET</span>
+        <span class="endpoint-url">/<span class="param">{lang}</span>/deities_list.json</span>
+        <button class="copy-btn" onclick="copyUrl('/en/deities_list.json', this)">Copy URL</button>
+        <span class="endpoint-desc">Localized deity list. Available for: <code>en</code>, <code>pl</code>, <code>ua</code>, <code>bg</code>, <code>cz</code>, <code>sr</code></span>
+      </div>
+
+      <div class="endpoint-card">
+        <span class="method">GET</span>
+        <span class="endpoint-url">/<span class="param">{lang}</span>/deities.json</span>
+        <button class="copy-btn" onclick="copyUrl('/en/deities.json', this)">Copy URL</button>
+        <span class="endpoint-desc">⚡ Full bundle — all 30 deity objects in a single request. Best for apps loading all data at once.</span>
+      </div>
+
+      <div class="endpoint-card">
+        <span class="method">GET</span>
+        <span class="endpoint-url">/<span class="param">{lang}</span>/deities/<span class="param">{id}</span>.json</span>
+        <button class="copy-btn" onclick="copyUrl('/en/deities/001.json', this)">Copy URL</button>
+        <span class="endpoint-desc">Full details for a single deity. ID is zero-padded (001–030). Available in all 6 languages.</span>
+      </div>
+
+      <div class="endpoint-card">
+        <span class="method">GET</span>
+        <span class="endpoint-url">/search/<span class="param">{lang}</span>.json</span>
+        <button class="copy-btn" onclick="copyUrl('/search/en.json', this)">Copy URL</button>
+        <span class="endpoint-desc">Search-optimized flat index for client-side filtering by name, type, tags, domains, and origin.</span>
+      </div>
+
+      <div class="endpoint-card">
+        <span class="method">GET</span>
+        <span class="endpoint-url">/images/deities/<span class="param">{id}</span>/thumbnail.png</span>
+        <button class="copy-btn" onclick="copyUrl('/images/deities/001/thumbnail.png', this)">Copy URL</button>
+        <span class="endpoint-desc">Deity thumbnail image (~160KB, PNG)</span>
+      </div>
+
+      <div class="endpoint-card">
+        <span class="method">GET</span>
+        <span class="endpoint-url">/images/deities/<span class="param">{id}</span>/detailImage.png</span>
+        <button class="copy-btn" onclick="copyUrl('/images/deities/001/detailImage.png', this)">Copy URL</button>
+        <span class="endpoint-desc">Full detail deity image (~2.3MB, PNG)</span>
+      </div>
+
+    </div>
+
+    <p style="margin-top:1rem; font-size:0.85rem; color: var(--muted);">
+      <strong style="color:var(--text)">Parameters:</strong>
+      <code style="color:var(--blue)">{lang}</code> — one of: <code>en</code> <code>pl</code> <code>ua</code> <code>bg</code> <code>cz</code> <code>sr</code> &nbsp;|&nbsp;
+      <code style="color:var(--blue)">{id}</code> — zero-padded 3-digit string: <code>001</code> to <code>030</code>
+    </p>
+  </div>
+</section>
+
+<section id="demo">
+  <div class="container">
+    <h2 class="section-title">Live <span>Demo</span></h2>
+    <p class="section-sub">Fetch any deity directly from the API.</p>
+    <div class="demo-box">
+      <div class="demo-controls">
+        <select id="demoLang">
+          <option value="en">English (en)</option>
+          <option value="pl">Polish (pl)</option>
+          <option value="ua">Ukrainian (ua)</option>
+          <option value="bg">Bulgarian (bg)</option>
+          <option value="cz">Czech (cz)</option>
+          <option value="sr">Serbian (sr)</option>
+        </select>
+        <select id="demoDeity">
+          <option value="001">001 — Perun</option>
+          <option value="002">002 — Dazhbog</option>
+          <option value="003">003 — Mokosh</option>
+          <option value="004">004 — Veles</option>
+          <option value="005">005 — Rod</option>
+          <option value="006">006 — Domovoi</option>
+          <option value="007">007 — Morozko</option>
+          <option value="008">008 — Zorya</option>
+          <option value="009">009 — Chernobog</option>
+          <option value="010">010 — Svarog</option>
+          <option value="011">011 — Marzanna</option>
+          <option value="012">012 — Baba Yaga</option>
+          <option value="013">013 — Kupala &amp; Kupalo</option>
+          <option value="014">014 — Stribog</option>
+          <option value="015">015 — Leshy</option>
+          <option value="016">016 — Rusałka</option>
+          <option value="017">017 — Domovina</option>
+          <option value="018">018 — Jarilo</option>
+          <option value="019">019 — Dolya &amp; Sudba</option>
+          <option value="020">020 — Simargl</option>
+          <option value="021">021 — Veleslav</option>
+          <option value="022">022 — Zhiva</option>
+          <option value="023">023 — Divi</option>
+          <option value="024">024 — Triglav</option>
+          <option value="025">025 — Zhivini Pole</option>
+          <option value="026">026 — Roda</option>
+          <option value="027">027 — Yasen</option>
+          <option value="028">028 — Lada</option>
+          <option value="029">029 — Dnipro</option>
+          <option value="030">030 — Dobrovij</option>
+        </select>
+        <button onclick="fetchDeity()">⚡ Fetch Deity</button>
+      </div>
+      <div class="demo-output" id="demoOutput">
+        <span style="color:var(--muted)">// Click "Fetch Deity" to see a live API response</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="usage">
+  <div class="container">
+    <h2 class="section-title">Code <span>Examples</span></h2>
+    <p class="section-sub">Copy-paste ready examples for common use cases.</p>
+
+    <div class="demo-box">
+      <div class="tabs">
+        <button class="tab-btn active" onclick="switchTab(this,'js')">JavaScript</button>
+        <button class="tab-btn" onclick="switchTab(this,'python')">Python</button>
+        <button class="tab-btn" onclick="switchTab(this,'swift')">Swift</button>
+      </div>
+
+      <div id="tab-js" class="tab-panel active" style="padding:1.25rem">
+<pre><span class="cm">// Base URL</span>
+<span class="kw">const</span> <span class="var">BASE</span> = <span class="str">'https://slavic-api.github.io/API'</span>;
+
+<span class="cm">// Load all 30 deities at once (recommended)</span>
+<span class="kw">const</span> { deities } = <span class="kw">await</span> <span class="fn">fetch</span>(<span class="str">`${BASE}/en/deities.json`</span>).<span class="fn">then</span>(r => r.<span class="fn">json</span>());
+
+<span class="cm">// Get a single deity</span>
+<span class="kw">const</span> <span class="var">perun</span> = <span class="kw">await</span> <span class="fn">fetch</span>(<span class="str">`${BASE}/en/deities/001.json`</span>).<span class="fn">then</span>(r => r.<span class="fn">json</span>());
+
+<span class="cm">// Ukrainian version</span>
+<span class="kw">const</span> <span class="var">perunUA</span> = <span class="kw">await</span> <span class="fn">fetch</span>(<span class="str">`${BASE}/ua/deities/001.json`</span>).<span class="fn">then</span>(r => r.<span class="fn">json</span>());
+
+<span class="cm">// Client-side filtering</span>
+<span class="kw">const</span> <span class="var">gods</span> = deities.<span class="fn">filter</span>(d => d.type === <span class="str">'god'</span>);
+<span class="kw">const</span> <span class="var">warriors</span> = deities.<span class="fn">filter</span>(d => d.tags.<span class="fn">includes</span>(<span class="str">'warrior'</span>));
+<span class="kw">const</span> <span class="var">eastSlavic</span> = deities.<span class="fn">filter</span>(d => d.origin.<span class="fn">includes</span>(<span class="str">'East Slavic'</span>));</pre>
+      </div>
+
+      <div id="tab-python" class="tab-panel" style="padding:1.25rem">
+<pre><span class="kw">import</span> httpx
+
+<span class="var">BASE</span> = <span class="str">"https://slavic-api.github.io/API"</span>
+
+<span class="cm"># Load all 30 deities at once</span>
+<span class="var">resp</span> = httpx.<span class="fn">get</span>(<span class="str">f"{BASE}/en/deities.json"</span>)
+<span class="var">deities</span> = <span class="var">resp</span>.<span class="fn">json</span>()[<span class="str">"deities"</span>]
+
+<span class="cm"># Single deity</span>
+<span class="var">perun</span> = httpx.<span class="fn">get</span>(<span class="str">f"{BASE}/en/deities/001.json"</span>).<span class="fn">json</span>()
+
+<span class="cm"># Filter by type</span>
+<span class="var">gods</span> = [d <span class="kw">for</span> d <span class="kw">in</span> <span class="var">deities</span> <span class="kw">if</span> d[<span class="str">"type"</span>] == <span class="str">"god"</span>]
+
+<span class="cm"># Filter by origin</span>
+<span class="var">west_slavic</span> = [d <span class="kw">for</span> d <span class="kw">in</span> <span class="var">deities</span>
+               <span class="kw">if</span> <span class="str">"West Slavic"</span> <span class="kw">in</span> d[<span class="str">"origin"</span>]]</pre>
+      </div>
+
+      <div id="tab-swift" class="tab-panel" style="padding:1.25rem">
+<pre><span class="kw">let</span> base = <span class="str">"https://slavic-api.github.io/API"</span>
+
+<span class="cm">// Decodable models</span>
+<span class="kw">struct</span> <span class="fn">DeitiesBundle</span>: Decodable {
+    <span class="kw">let</span> lang: String
+    <span class="kw">let</span> total: Int
+    <span class="kw">let</span> deities: [Deity]
+}
+
+<span class="cm">// Fetch all deities</span>
+<span class="kw">let</span> url = <span class="fn">URL</span>(string: <span class="str">"\(base)/en/deities.json"</span>)!
+<span class="kw">let</span> (data, _) = <span class="kw">try await</span> URLSession.shared.<span class="fn">data</span>(from: url)
+<span class="kw">let</span> bundle = <span class="kw">try</span> JSONDecoder().<span class="fn">decode</span>(<span class="fn">DeitiesBundle</span>.self, from: data)
+
+<span class="cm">// Fetch single deity in Ukrainian</span>
+<span class="kw">let</span> perunURL = <span class="fn">URL</span>(string: <span class="str">"\(base)/ua/deities/001.json"</span>)!</pre>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="languages">
+  <div class="container">
+    <h2 class="section-title">Supported <span>Languages</span></h2>
+    <p class="section-sub">All 30 deities are available in every language with full translations.</p>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th>Code</th><th>Language</th><th>Script</th><th>Deities</th><th>Bundle</th><th>Search Index</th><th>List File</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><code>en</code></td><td>English</td><td>Latin</td><td>30</td><td class="check">✓</td><td class="check">✓</td><td class="check">✓</td></tr>
+          <tr><td><code>pl</code></td><td>Polish</td><td>Latin</td><td>30</td><td class="check">✓</td><td class="check">✓</td><td class="check">✓</td></tr>
+          <tr><td><code>ua</code></td><td>Ukrainian</td><td>Cyrillic</td><td>30</td><td class="check">✓</td><td class="check">✓</td><td class="check">✓</td></tr>
+          <tr><td><code>bg</code></td><td>Bulgarian</td><td>Cyrillic</td><td>30</td><td class="check">✓</td><td class="check">✓</td><td class="check">✓</td></tr>
+          <tr><td><code>cz</code></td><td>Czech</td><td>Latin</td><td>30</td><td class="check">✓</td><td class="check">✓</td><td class="check">✓</td></tr>
+          <tr><td><code>sr</code></td><td>Serbian</td><td>Latin</td><td>30</td><td class="check">✓</td><td class="check">✓</td><td class="check">✓</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section id="schema">
+  <div class="container">
+    <h2 class="section-title">Data <span>Schema</span></h2>
+    <p class="section-sub">Every deity object follows this schema. Localized fields are translated per language; structural fields stay in English.</p>
+
+    <div style="background:var(--bg2); border:1px solid rgba(255,255,255,0.06); border-radius:var(--radius); padding:1.5rem; margin-bottom:1.5rem;">
+      <div class="schema-field" style="border-bottom:1px solid rgba(255,255,255,0.08); padding-bottom:0.75rem; margin-bottom:0.75rem; font-size:0.75rem; color:var(--muted); font-weight:600; text-transform:uppercase;">
+        <span>Field</span><span>Type</span><span>Description</span>
+      </div>
+      <div class="schema-field"><span class="field-name">id</span><span class="field-type">string</span><span class="field-desc">Zero-padded 3-digit identifier ("001"–"030")</span></div>
+      <div class="schema-field"><span class="field-name">name</span><span class="field-type">string</span><span class="field-desc">Localized deity name</span></div>
+      <div class="schema-field"><span class="field-name">alternateNames</span><span class="field-type">string[]</span><span class="field-desc">Historical names across Slavic cultures (original languages)</span></div>
+      <div class="schema-field"><span class="field-name">type</span><span class="field-type">string</span><span class="field-desc">Classification in English: god, goddess, spirit, deity, creature, personification, deity pair, primordial god, mythical place</span></div>
+      <div class="schema-field"><span class="field-name">origin</span><span class="field-type">string[]</span><span class="field-desc">Slavic tradition(s): "East Slavic", "West Slavic", "South Slavic"</span></div>
+      <div class="schema-field"><span class="field-name">description</span><span class="field-type">string</span><span class="field-desc">Short localized description (1–2 sentences)</span></div>
+      <div class="schema-field"><span class="field-name">mythology</span><span class="field-type">string</span><span class="field-desc">Full localized mythology narrative (3–6 sentences)</span></div>
+      <div class="schema-field"><span class="field-name">attributes.Domains</span><span class="field-type">string[]</span><span class="field-desc">Areas of divine influence (localized)</span></div>
+      <div class="schema-field"><span class="field-name">attributes.Symbols</span><span class="field-type">string[]</span><span class="field-desc">Sacred symbols (localized)</span></div>
+      <div class="schema-field"><span class="field-name">attributes.Sacred Animals</span><span class="field-type">string[]</span><span class="field-desc">Animals associated with the deity (localized)</span></div>
+      <div class="schema-field"><span class="field-name">attributes.Sacred Plants</span><span class="field-type">string[]</span><span class="field-desc">Plants associated with the deity (localized)</span></div>
+      <div class="schema-field"><span class="field-name">attributes.Element</span><span class="field-type">string</span><span class="field-desc">Primary element (localized)</span></div>
+      <div class="schema-field"><span class="field-name">relationships</span><span class="field-type">object</span><span class="field-desc">rivals[], family[], allies[] — arrays of deity IDs</span></div>
+      <div class="schema-field"><span class="field-name">worship.regions</span><span class="field-type">string[]</span><span class="field-desc">Geographic regions of worship (English country names)</span></div>
+      <div class="schema-field"><span class="field-name">worship.festivals</span><span class="field-type">string[]</span><span class="field-desc">Festivals and holy days (localized, dates preserved)</span></div>
+      <div class="schema-field"><span class="field-name">worship.offerings</span><span class="field-type">string[]</span><span class="field-desc">Traditional offerings (localized)</span></div>
+      <div class="schema-field"><span class="field-name">tags</span><span class="field-type">string[]</span><span class="field-desc">API filtering tags in English (e.g. "warrior", "major deity", "Kiev pantheon")</span></div>
+      <div class="schema-field"><span class="field-name">thumbnailUrl</span><span class="field-type">string</span><span class="field-desc">Relative path to thumbnail PNG (~160KB)</span></div>
+      <div class="schema-field"><span class="field-name">detailImageUrl</span><span class="field-type">string</span><span class="field-desc">Relative path to full detail PNG (~2.3MB)</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="deities">
+  <div class="container">
+    <h2 class="section-title">All <span>30 Deities</span></h2>
+    <p class="section-sub">Complete list of available deities with type and origin.</p>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>ID</th><th>Name</th><th>Type</th><th>Origin</th></tr></thead>
+        <tbody>
+          <tr><td><code>001</code></td><td>Perun</td><td><span class="badge badge-god">god</span></td><td>East · West · South Slavic</td></tr>
+          <tr><td><code>002</code></td><td>Dazhbog</td><td><span class="badge badge-god">god</span></td><td>East · South Slavic</td></tr>
+          <tr><td><code>003</code></td><td>Mokosh</td><td><span class="badge badge-goddess">goddess</span></td><td>East Slavic</td></tr>
+          <tr><td><code>004</code></td><td>Veles</td><td><span class="badge badge-god">god</span></td><td>East · West · South Slavic</td></tr>
+          <tr><td><code>005</code></td><td>Rod</td><td><span class="badge badge-other">primordial god</span></td><td>East · South Slavic</td></tr>
+          <tr><td><code>006</code></td><td>Domovoi</td><td><span class="badge badge-spirit">spirit</span></td><td>East · West Slavic</td></tr>
+          <tr><td><code>007</code></td><td>Morozko</td><td><span class="badge badge-spirit">spirit</span></td><td>East Slavic</td></tr>
+          <tr><td><code>008</code></td><td>Zorya</td><td><span class="badge badge-goddess">goddess</span></td><td>East · South Slavic</td></tr>
+          <tr><td><code>009</code></td><td>Chernobog</td><td><span class="badge badge-god">god</span></td><td>West · East Slavic</td></tr>
+          <tr><td><code>010</code></td><td>Svarog</td><td><span class="badge badge-god">god</span></td><td>East · West Slavic</td></tr>
+          <tr><td><code>011</code></td><td>Marzanna</td><td><span class="badge badge-goddess">goddess</span></td><td>East · West · South Slavic</td></tr>
+          <tr><td><code>012</code></td><td>Baba Yaga</td><td><span class="badge badge-spirit">spirit</span></td><td>East · West Slavic</td></tr>
+          <tr><td><code>013</code></td><td>Kupala &amp; Kupalo</td><td><span class="badge badge-other">deity pair</span></td><td>East · West · South Slavic</td></tr>
+          <tr><td><code>014</code></td><td>Stribog</td><td><span class="badge badge-god">god</span></td><td>East Slavic</td></tr>
+          <tr><td><code>015</code></td><td>Leshy</td><td><span class="badge badge-spirit">spirit</span></td><td>East · West Slavic</td></tr>
+          <tr><td><code>016</code></td><td>Rusałka</td><td><span class="badge badge-spirit">spirit</span></td><td>East · West · South Slavic</td></tr>
+          <tr><td><code>017</code></td><td>Domovina</td><td><span class="badge badge-other">personification</span></td><td>All Slavic</td></tr>
+          <tr><td><code>018</code></td><td>Jarilo</td><td><span class="badge badge-god">god</span></td><td>East · West · South Slavic</td></tr>
+          <tr><td><code>019</code></td><td>Dolya &amp; Sudba</td><td><span class="badge badge-other">deity pair</span></td><td>East · South Slavic</td></tr>
+          <tr><td><code>020</code></td><td>Simargl</td><td><span class="badge badge-creature">creature</span></td><td>East Slavic</td></tr>
+          <tr><td><code>021</code></td><td>Veleslav</td><td><span class="badge badge-other">deity</span></td><td>East Slavic</td></tr>
+          <tr><td><code>022</code></td><td>Zhiva</td><td><span class="badge badge-goddess">goddess</span></td><td>East · West · South Slavic</td></tr>
+          <tr><td><code>023</code></td><td>Divi</td><td><span class="badge badge-spirit">spirit</span></td><td>South · East Slavic</td></tr>
+          <tr><td><code>024</code></td><td>Triglav</td><td><span class="badge badge-other">deity</span></td><td>West Slavic</td></tr>
+          <tr><td><code>025</code></td><td>Zhivini Pole</td><td><span class="badge badge-other">mythical place</span></td><td>East · South Slavic</td></tr>
+          <tr><td><code>026</code></td><td>Roda</td><td><span class="badge badge-goddess">goddess</span></td><td>East Slavic</td></tr>
+          <tr><td><code>027</code></td><td>Yasen</td><td><span class="badge badge-other">deity</span></td><td>East Slavic</td></tr>
+          <tr><td><code>028</code></td><td>Lada</td><td><span class="badge badge-goddess">goddess</span></td><td>East · West · South Slavic</td></tr>
+          <tr><td><code>029</code></td><td>Dnipro</td><td><span class="badge badge-other">personification</span></td><td>East Slavic</td></tr>
+          <tr><td><code>030</code></td><td>Dobrovij</td><td><span class="badge badge-other">deity</span></td><td>East · South Slavic</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>Built with passion for Slavic mythology &nbsp;·&nbsp;
+    <a href="https://github.com/slavic-api/API" target="_blank">GitHub</a>
+    &nbsp;·&nbsp; License TBD &nbsp;·&nbsp; Contributions welcome
+  </p>
+</footer>
+
+<script>
+  const BASE = 'https://slavic-api.github.io/API';
+
+  function copyUrl(path, btn) {
+    navigator.clipboard.writeText(BASE + path).then(() => {
+      const orig = btn.textContent;
+      btn.textContent = '✓ Copied';
+      setTimeout(() => btn.textContent = orig, 1500);
+    });
+  }
+
+  async function fetchDeity() {
+    const lang = document.getElementById('demoLang').value;
+    const id = document.getElementById('demoDeity').value;
+    const out = document.getElementById('demoOutput');
+    out.innerHTML = '<span style="color:var(--muted)">// Fetching...</span>';
+    try {
+      const res = await fetch(`${BASE}/${lang}/deities/${id}.json`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      out.innerHTML = syntaxHighlight(JSON.stringify(data, null, 2));
+    } catch(e) {
+      out.innerHTML = `<span style="color:var(--red)">// Error: ${e.message}\n// Make sure the API is deployed to GitHub Pages.</span>`;
+    }
+  }
+
+  function syntaxHighlight(json) {
+    return json
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g, match => {
+        if (/^"/.test(match)) {
+          if (/:$/.test(match)) return `<span class="json-key">${match}</span>`;
+          return `<span class="json-str">${match}</span>`;
+        }
+        if (/true|false/.test(match)) return `<span class="json-bool">${match}</span>`;
+        if (/null/.test(match)) return `<span class="json-bool">${match}</span>`;
+        return `<span class="json-num">${match}</span>`;
+      });
+  }
+
+  function switchTab(btn, id) {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('tab-' + id).classList.add('active');
+  }
+</script>
+
+</body>
+</html>

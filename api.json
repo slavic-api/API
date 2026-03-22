@@ -1,0 +1,89 @@
+{
+  "name": "Slavic Mythology Deities API",
+  "version": "1.0.0",
+  "description": "A static JSON API providing detailed information about 30 Slavic mythology deities in 6 languages.",
+  "baseUrl": "https://slavic-api.github.io/API",
+  "languages": [
+    { "code": "en", "name": "English", "script": "Latin" },
+    { "code": "pl", "name": "Polish", "script": "Latin" },
+    { "code": "ua", "name": "Ukrainian", "script": "Cyrillic" },
+    { "code": "bg", "name": "Bulgarian", "script": "Cyrillic" },
+    { "code": "cz", "name": "Czech", "script": "Latin" },
+    { "code": "sr", "name": "Serbian", "script": "Latin" }
+  ],
+  "totalDeities": 30,
+  "endpoints": {
+    "masterList": {
+      "url": "/deities_list.json",
+      "description": "Master list of all 30 deities with type, origin, tags and thumbnails (English)"
+    },
+    "languageList": {
+      "url": "/{lang}/deities_list.json",
+      "description": "Localized list of all 30 deities. Available for: en, pl, ua, bg, cz, sr",
+      "parameters": { "lang": "Language code (en, pl, ua, bg, cz, sr)" }
+    },
+    "allDeities": {
+      "url": "/{lang}/deities.json",
+      "description": "Complete bundle of all 30 full deity objects in one request",
+      "parameters": { "lang": "Language code" }
+    },
+    "deity": {
+      "url": "/{lang}/deities/{id}.json",
+      "description": "Full details for a single deity",
+      "parameters": {
+        "lang": "Language code",
+        "id": "Deity ID, zero-padded 3 digits (001–030)"
+      }
+    },
+    "searchIndex": {
+      "url": "/search/{lang}.json",
+      "description": "Search-optimized flat index for client-side search and filtering",
+      "parameters": { "lang": "Language code" }
+    },
+    "thumbnail": {
+      "url": "/images/deities/{id}/thumbnail.png",
+      "description": "Deity thumbnail image (~160KB)"
+    },
+    "detailImage": {
+      "url": "/images/deities/{id}/detailImage.png",
+      "description": "Full detail deity image (~2.3MB)"
+    }
+  },
+  "deityTypes": ["god", "goddess", "spirit", "deity", "deity pair", "creature", "personification", "primordial god", "mythical place"],
+  "origins": ["East Slavic", "West Slavic", "South Slavic"],
+  "schema": {
+    "deityObject": {
+      "id": "string — zero-padded 3-digit identifier",
+      "name": "string — localized deity name",
+      "alternateNames": "string[] — historical names across Slavic cultures",
+      "type": "string — deity classification (English)",
+      "origin": "string[] — Slavic tradition(s) of origin (English)",
+      "description": "string — short localized description",
+      "mythology": "string — full localized mythology narrative",
+      "attributes": {
+        "Domains": "string[] — areas of divine influence (localized)",
+        "Symbols": "string[] — sacred symbols (localized)",
+        "Sacred Animals": "string[] — animals associated with deity (localized)",
+        "Sacred Plants": "string[] — plants associated with deity (localized)",
+        "Element": "string — primary element (localized)",
+        "Season": "string — associated season if applicable (localized)",
+        "Associated Concepts": "string[] — abstract concepts (localized)"
+      },
+      "relationships": {
+        "rivals": "string[] — IDs of rival deities",
+        "family": "string[] — IDs of family deities",
+        "allies": "string[] — IDs of allied deities"
+      },
+      "worship": {
+        "regions": "string[] — geographic regions of worship (English)",
+        "festivals": "string[] — festivals and holy days (localized)",
+        "offerings": "string[] — traditional offerings (localized)"
+      },
+      "tags": "string[] — API filtering tags (English)",
+      "thumbnailUrl": "string — relative path to thumbnail image",
+      "detailImageUrl": "string — relative path to detail image"
+    }
+  },
+  "repository": "https://github.com/slavic-api/API",
+  "license": "TBD"
+}

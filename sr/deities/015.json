@@ -1,0 +1,31 @@
+{
+  "id": "015",
+  "name": "Leshy/Šumski duh",
+  "alternateNames": ["Leshiy", "Lesovik", "Borowy", "Leszy"],
+  "type": "spirit",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "Vrhovni duh šume i zaštitnik sveg divljeg sveta. Oblikovač koji skida putnike sa puta.",
+  "mythology": "Lešij je vrhovni duh šume — jedan od najmoćnijih prirodnih duhova u slovenskom verovanju. Može se pojaviti kao div čija glava seže do krošnji drveća, ili se skupiti na visinu gljive. Može izgledati kao lokalni seljak ali s kaputom okrenutim naopako, ili se pojaviti bez obrva, trepavica ili desnog uha. Odvlači putnike sa puta pomoću iluzija i eha. Da biste raskinuli njegovo čaroliju, okrenite svu svoju odeću naopako. Lovci moraju sklopiti pakt sa Ljješim za dobar ulov. U jesen ulazi u zemlju da spava; u proleće se ponovo budi. On je pastir svih šumskih životinja — vukovi, medvedi i jeleni su njegova stada.",
+  "attributes": {
+    "Domains": ["Šuma", "Divlji svet", "Lov", "Priroda", "Iluzija", "Izgubljeni putnici"],
+    "Symbols": ["Šumska staza", "Naopako okrenuti kaput", "Gljiva", "Jeka"],
+    "Sacred Animals": ["Medved", "Vuk", "Sova", "Sve šumske životinje"],
+    "Sacred Plants": ["Bor", "Breza", "Sva šumska drveća"],
+    "Element": "Zemlja",
+    "Season": "Proleće do Jeseni (hibernira zimi)",
+    "Associated Concepts": ["Nestašluk", "Zaštita divljeg sveta", "Divljina", "Preobražavanje"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland"],
+    "festivals": ["Prolećno buđenje (april)", "Jesenski san (4/17. oktobar)"],
+    "offerings": ["Hleb i so ostavljeni na ivici šume", "Prvi ulov vraćen", "Duvan"]
+  },
+  "tags": ["forest", "nature spirit", "shapeshifter", "animals", "wilderness", "trickster"],
+  "thumbnailUrl": "images/deities/015/thumbnail.png",
+  "detailImageUrl": "images/deities/015/detailImage.png"
+}

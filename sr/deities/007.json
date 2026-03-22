@@ -1,0 +1,31 @@
+{
+  "id": "007",
+  "name": "Morozko",
+  "alternateNames": ["Ded Moroz", "Father Frost", "Moroz Ivanovich", "Frost"],
+  "type": "spirit",
+  "origin": ["East Slavic"],
+  "description": "Ovaploćenje zimskog mraza i hladnoće. Iskušava putnike i nagrađuje vrle darovima.",
+  "mythology": "Morozko (Mali mraz) ili Ded Moroz (Deda Mraz) je ovaploćenje zimske hladnoće. U bajkama iskušava putnike i radnike — ljubazni, strpljivi i vredni dobijaju darove, dok lenji i pohlepni bivaju zamrznuti. Voljenom bajkom 'Morozko' on nagrađuje dobru pastorku bogatstvom, dok pokvarenoj devojci donosi smrt. Prikazuje se kao visok starac u plavim ili srebrnim odorima koji nosi čarobni ledeni štap. Njegova slovenska porekla prethode hrišćanskom liku blagdanskog darivatelja. Živi u ledenom dvorcu na dalekom severu i posećuje sela zimi, a njegovo disanje stvara mrazne šare na prozorima.",
+  "attributes": {
+    "Domains": ["Zima", "Mraz", "Hladnoća", "Led", "Darovi", "Iskušavanje vrline"],
+    "Symbols": ["Ledeni štap", "Srebrna kesa sa darovima", "Pahulja", "Plave ili srebrne odeće"],
+    "Sacred Animals": ["Zec", "Medved", "Beli jelen"],
+    "Sacred Plants": ["Bor (zimzeleno drvo)", "Ledinom obrasle grane"],
+    "Element": "Voda/Led",
+    "Season": "Zima",
+    "Associated Concepts": ["Izdržljivost", "Pravednost", "Nagrada i kazna", "Zimska čarolija"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Zimski solsticij (Kolyada)", "Nova godina", "Božić (u razvijenom obliku)"],
+    "offerings": ["Kaša ostavljena napolju da bi se mraz odobrovoljio i ne bi uništio useve"]
+  },
+  "tags": ["winter", "cold", "frost", "nature spirit", "fairy tale", "gift-giver"],
+  "thumbnailUrl": "images/deities/007/thumbnail.png",
+  "detailImageUrl": "images/deities/007/detailImage.png"
+}

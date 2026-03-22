@@ -1,12 +1,30 @@
 {
   "id": "019",
   "name": "Dolya and Sudba",
-  "description": "Figures representing fate and destiny.",
+  "alternateNames": ["Dolya", "Nedolya", "Sudba", "Sud", "Sreća", "Nesreća"],
+  "type": "deity pair",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Personifications of personal fate and fortune. Dolya brings luck; Nedolya brings misfortune. Together they weave the thread of each human life.",
+  "mythology": "Dolya (Good Fate) and Nedolya (Bad Fate/Misfortune) are personified fate-spirits assigned to each person at birth. Dolya is a beautiful young woman who follows the lucky person, while Nedolya is a haggard old woman who plagues the unlucky. Sudba (Destiny) is the broader force governing one's fixed life path. In Serbian tradition, Sreća (Luck) is a woman who spins fate. You cannot fully escape your Sudba, but keeping your Dolya happy through righteous living helps. These spirits reflect the deep Slavic philosophical sense that fate is a personal, woven thing — a thread spun at one's birth.",
   "attributes": {
-    "Domains": ["Fate", "Destiny", "Life Path"],
-    "Symbols": ["Thread", "Scales"],
+    "Domains": ["Fate", "Destiny", "Fortune", "Luck", "Life Path"],
+    "Symbols": ["Spinning thread", "Scales", "Crossroads", "Two roads"],
+    "Sacred Animals": ["Butterfly (soul)", "Bee"],
+    "Sacred Plants": ["Thread-plant (symbolic)"],
     "Element": "Aether",
-    "Associated Concepts": ["Chance", "Predetermination"]
+    "Associated Concepts": ["Destiny", "Fortune", "Karma", "Duality", "Life Weaving"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["005"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia", "Bulgaria"],
+    "festivals": ["Birth rituals", "New Year divination"],
+    "offerings": ["Thread offerings", "Prayers at crossroads"]
+  },
+  "tags": ["fate", "destiny", "fortune", "duality", "personification", "luck"],
+  "thumbnailUrl": "images/deities/019/thumbnail.png",
   "detailImageUrl": "images/deities/019/detailImage.png"
 }

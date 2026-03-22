@@ -1,12 +1,30 @@
 {
   "id": "025",
   "name": "Zhivini Pole",
-  "description": "Mythical field or meadow, symbolizing abundance and magic.",
+  "alternateNames": ["Field of the Living", "Vyraj", "Iriy", "Vyriy"],
+  "type": "mythical place",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "The Slavic paradise — a mythical sunlit meadow of eternal spring where righteous souls rest between lives.",
+  "mythology": "Zhivini Pole (Field of the Living) is a mythical paradise — the Slavic equivalent of Elysium or Eden. It is a sunlit meadow of eternal spring where the souls of the righteous go to rest. The related concept Vyraj (Vyriy) is the warm southern paradise where birds migrate in winter and where souls rest between reincarnations. In the Slavic three-world cosmology (Prav-Nav-Yav), it exists in Prav — the realm of divine order and the righteous dead. It is described as endless green fields, rivers of milk and honey, and eternal warm sunshine, located beyond the World Ocean at the world's edge where the World Tree stands.",
   "attributes": {
-    "Domains": ["Abundance", "Nature", "Magic"],
-    "Symbols": ["Meadow", "Wildflowers"],
-    "Element": "Earth",
-    "Associated Concepts": ["Fertility", "Prosperity"]
+    "Domains": ["Afterlife", "Paradise", "Divine Order", "Rest", "Righteous Dead"],
+    "Symbols": ["Green meadow", "River of milk", "Eternal sun", "World Oak at center"],
+    "Sacred Animals": ["All birds (who know the path to Vyraj)"],
+    "Sacred Plants": ["All plants in eternal bloom"],
+    "Element": "Aether",
+    "Associated Concepts": ["Paradise", "Eternal Life", "Righteousness", "Cosmic Order", "Reincarnation"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia"],
+    "festivals": ["Ancestor veneration days (Rodunitsa) when souls visit from this realm"],
+    "offerings": ["Prayers for the righteous dead", "Food left at gravesites"]
+  },
+  "tags": ["afterlife", "paradise", "mythical location", "cosmic", "righteous dead"],
+  "thumbnailUrl": "images/deities/025/thumbnail.png",
   "detailImageUrl": "images/deities/025/detailImage.png"
 }

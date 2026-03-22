@@ -1,12 +1,30 @@
 {
   "id": "030",
-  "name": "Dobrowit",
-  "description": "Bóstwo związane z dobrocią i życzliwością.",
+  "name": "Dobrowij",
+  "alternateNames": ["Dobroviy", "Dobro", "Dobrozhil", "Good Spirit"],
+  "type": "deity",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Bóstwo dobroci, życzliwości i cnoty moralnej. Boskie potwierdzenie hojności i prawych czynów.",
+  "mythology": "Dobrowij (Ten Dobry) jest łaskawym bóstwem dobroci, życzliwości i cnoty moralnej. Jego imię wywodzi się od 'dobro' — słowiańskiego rdzenia oznaczającego dobroć, jednego z najbardziej pozytywnie nacechowanych słów w słowiańskiej filozofii moralnej (powszechnego we wszystkich językach słowiańskich). Reprezentuje zasadę, że dobre czyny mają boskie wsparcie i że cnota jest obserwowana i nagradzana przez wyższe moce. Jest wzywany przy składaniu ślubów hojności i przy szukaniu błogosławieństw dla aktów życzliwości. Jako duchowy kontrapunkt Czarnoboga, ucieleśnia pozytywną boską siłę bez wojowniczej agresji bóstw wojowniczych — boskie potwierdzenie codziennej ludzkiej dobroci, wspólnoty i hojności.",
   "attributes": {
-    "Domains": ["Dobroć", "Życzliwość", "Wsparcie"],
-    "Symbols": ["Serce", "Otwarte Dłonie"],
-    "Element": "Ziemia",
-    "Associated Concepts": ["Charytatywność", "Dobroć"]
+    "Domains": ["Dobroć", "Życzliwość", "Cnota", "Błogosławieństwo", "Hojność", "Moralny Porządek"],
+    "Symbols": ["Otwarte dłonie", "Białe światło", "Kwiat lipy", "Plaster miodu"],
+    "Sacred Animals": ["Biały gołąb", "Pszczoła"],
+    "Sacred Plants": ["Lipa", "Rumianek"],
+    "Element": "Światło/Eter",
+    "Associated Concepts": ["Cnota", "Hojność", "Boskie Uznanie", "Pozytywna Karma", "Wspólnota"]
   },
+  "relationships": {
+    "rivals": ["009"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia", "Bulgaria"],
+    "festivals": ["Dni służby społecznej i hojności"],
+    "offerings": ["Akty życzliwości wykonywane ku jego czci", "Miód", "Chleb dzielony z sąsiadami"]
+  },
+  "tags": ["goodness", "benevolence", "virtue", "protection", "minor deity", "moral deity"],
+  "thumbnailUrl": "images/deities/030/thumbnail.png",
   "detailImageUrl": "images/deities/030/detailImage.png"
 }

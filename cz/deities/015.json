@@ -1,12 +1,31 @@
 {
   "id": "015",
-  "name": "Leshy",
-  "description": "Duch lesa, ochránce divoké přírody.",
+  "name": "Lesní duch/Lesák",
+  "alternateNames": ["Leshiy", "Lesovik", "Borowy", "Leszy"],
+  "type": "spirit",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "Mistrný duch lesa a ochránce veškeré divoké zvěře. Tvaroměnec, který svádí vetřelce z cesty.",
+  "mythology": "Lesní duch (Lesák) je mistrný duch lesa — jeden z nejmocnějších přírodních duchů ve slovanském věřství. Může se jevit jako obr, jehož hlava dosahuje až ke korunám stromů, nebo se zmenšit na výšku houby. Může vypadat jako místní sedlák, ale s kabátem naruby, nebo se jevit bez obočí, řas nebo pravého ucha. Pomocí přeludů a ozvěn svádí cestovatele z cesty. Aby byl zlomen jeho kouzlo, je třeba veškeré oblečení obrátit naruby. Lovci musí uzavřít smlouvu s Lesákem pro lovecké štěstí. Na podzim jde pod zem spát; na jaře se znovu probouzí. Je pastýřem všech lesních zvířat — vlci, medvědi a jeleni jsou jeho stádem.",
   "attributes": {
-    "Domains": ["Les", "Divoká příroda", "Příroda"],
-    "Symbols": ["Stromy", "Zvířata"],
+    "Domains": ["Les", "Divoká zvěř", "Lov", "Příroda", "Přelud", "Zbloudilí cestovatelé"],
+    "Symbols": ["Lesní stezka", "Kabát naruby", "Houba", "Ozvěna"],
+    "Sacred Animals": ["Medvěd", "Vlk", "Sova", "Všechna lesní zvířata"],
+    "Sacred Plants": ["Borovice", "Bříza", "Všechny lesní stromy"],
     "Element": "Země",
-    "Associated Concepts": ["Ochrana", "Šibalství"]
+    "Season": "Jaro do Podzimu (v zimě hibernuje)",
+    "Associated Concepts": ["Neplechy", "Ochrana divoké přírody", "Divokost", "Tvaroměna"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland"],
+    "festivals": ["Jarní probuzení (duben)", "Podzimní spánek (4./17. října)"],
+    "offerings": ["Chléb a sůl zanechané na okraji lesa", "Vrácení prvního uloveného zvířete", "Tabák"]
+  },
+  "tags": ["forest", "nature spirit", "shapeshifter", "animals", "wilderness", "trickster"],
+  "thumbnailUrl": "images/deities/015/thumbnail.png",
   "detailImageUrl": "images/deities/015/detailImage.png"
 }

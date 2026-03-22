@@ -1,12 +1,30 @@
 {
   "id": "029",
   "name": "Dniepr",
-  "description": "Bóstwo personifikujące rzekę Dniepr.",
+  "alternateNames": ["Dnieper", "Borysthenes (Greek name)", "Slavutych (poetic name)"],
+  "type": "personification",
+  "origin": ["East Slavic"],
+  "description": "Boska personifikacja wielkiej rzeki Dniepr — świętej krwioobiegu wschodnioslowiańskiej cywilizacji i szlaków handlowych.",
+  "mythology": "Dniepr jest boską personifikacją największej rzeki Słowian Wschodnich, płynącej z centralnej Rosji przez Białoruś i Ukrainę do Morza Czarnego. Herodot nazywał ją Borystenes i opisywał jej ogromne znaczenie w V w. p.n.e. Rzeka była kręgosłupem Rusi Kijowskiej — legendarny szlak handlowy 'od Waregów do Greków' biegł wzdłuż całej jej długości. W pieśniach ludowych i poezji epickiej Dniepr przemawia i działa — ostrzega bohaterów o zbliżającym się niebezpieczeństwie i opłakuje ich śmierć. Jego personifikacja to potężny siwobrodny starzec, którego nurt jest jego głosem, a głębiny kryją wszystkie tajemnice słowiańskiej historii.",
   "attributes": {
-    "Domains": ["Rzeka", "Przepływ", "Życie"],
-    "Symbols": ["Woda", "Trzcina"],
+    "Domains": ["Rzeki", "Woda", "Handel", "Ukraina", "Życie", "Pamięć Historyczna"],
+    "Symbols": ["Płynąca srebrna woda", "Fale", "Srebrna ryba", "Nurt rzeki"],
+    "Sacred Animals": ["Jesiotr", "Sum", "Orzeł", "Czapla"],
+    "Sacred Plants": ["Trzcina", "Wierzba", "Pałka wodna"],
     "Element": "Woda",
-    "Associated Concepts": ["Ruch", "Odżywianie"]
+    "Associated Concepts": ["Witalność Ziemi", "Handel", "Pamięć Historyczna", "Źródło Życia"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Ukraine", "Belarus", "Russia"],
+    "festivals": ["Ceremonie poświęcenia wody (Epifania)", "Noc Kupały (rytuały rzeczne)"],
+    "offerings": ["Ryba", "Chleb rzucany w nurt", "Pierwszy połów sezonu zwrócony do rzeki"]
+  },
+  "tags": ["river", "water", "personification", "Ukrainian", "nature", "trade", "history"],
+  "thumbnailUrl": "images/deities/029/thumbnail.png",
   "detailImageUrl": "images/deities/029/detailImage.png"
 }

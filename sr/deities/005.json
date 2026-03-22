@@ -1,0 +1,30 @@
+{
+  "id": "005",
+  "name": "Rod",
+  "alternateNames": ["Род", "Rozhanitsy (associated female aspect)"],
+  "type": "primordial god",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Praiskonsko božanstvo stvaralac i predak svih bogova i živih bića. Izvor svega što postoji.",
+  "mythology": "Rod je praiskonsko božanstvo stvaralac i praotac svih bogova i živih bića. Pre nego što je išta postojalo, Rod je stvorio svet — položio kosmičko jaje iz kojeg se izlegao vasiona, ili stvorio iz sopstvenog tela. Njegovo ime je koren slovenskih reči za rođenje, porodicu, rod i prirodu (rod znači pleme/rod na svim slovenskim jezicima). Prate ga Rožanice — dve ili tri ženska božanstva sudbine koja određuju svačiju sudbinu pri rođenju. Rani slovenski tekstovi pisani od strane hrišćanskih sveštenika posebno su i višekratno osuđivali bogosluženje Roda i Rožanica, što ukazuje na njihovu vrhunsku važnost u prehrišćanskoj narodnoj religiji.",
+  "attributes": {
+    "Domains": ["Stvaranje", "Poreklo", "Kosmos", "Sudbina", "Rođenje", "Rod"],
+    "Symbols": ["Kosmičko jaje", "Drvo života", "Duga"],
+    "Sacred Animals": ["Tur", "Orao"],
+    "Sacred Plants": ["Svetsko drvo (hrast)"],
+    "Element": "Etar",
+    "Associated Concepts": ["Sudbina", "Providnost", "Životna sila", "Kosmički red"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": ["026"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia"],
+    "festivals": ["Rodunica (proslava predaka)", "Gozba Rožanica (posle žetve)"],
+    "offerings": ["Hleb", "Med", "Kaša", "Sir", "Medovina"]
+  },
+  "tags": ["primordial", "creator", "ancestors", "fate", "major deity"],
+  "thumbnailUrl": "images/deities/005/thumbnail.png",
+  "detailImageUrl": "images/deities/005/detailImage.png"
+}

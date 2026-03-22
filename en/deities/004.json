@@ -1,12 +1,31 @@
 {
   "id": "004",
   "name": "Veles",
-  "description": "God of earth, waters, forests, and the underworld.",
+  "alternateNames": ["Volos", "Weles"],
+  "type": "god",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "God of the underworld, cattle, commerce, magic, and wisdom. The eternal rival of Perun.",
+  "mythology": "Veles is the great god of the underworld, cattle, commerce, music, magic, and wisdom. He dwells at the roots of the World Tree in the underworld (Nav), contrasting with Perun who reigns in the crown. His eternal conflict with Perun forms the central myth of Slavic religion — Veles steals Perun's cattle, wife, or son, and Perun pursues him casting thunderbolts. Veles hides by shape-shifting into animals, trees, or humans. He is the chthonic serpentine power of the earth's depths — a trickster and shapeshifter associated with bears, snakes, and poetry. The last sheaf of grain left in the field at harvest was called 'Veles's beard,' offered to him in appeasement.",
   "attributes": {
-    "Domains": ["Cattle", "Commerce", "Underworld", "Magic"],
-    "Symbols": ["Horn", "Bear"],
-    "Sacred Animals": ["Bear", "Wolf", "Cattle"],
-    "Element": "Water"
+    "Domains": ["Underworld", "Cattle", "Commerce", "Magic", "Wisdom", "Music", "Poetry"],
+    "Symbols": ["Serpent", "Bull", "Bear", "Bag of gold"],
+    "Sacred Animals": ["Bear", "Snake", "Bull", "Owl", "Wolf"],
+    "Sacred Plants": ["Fern", "Grass (Nav grass)"],
+    "Element": "Earth",
+    "Season": "Winter",
+    "Associated Concepts": ["Trickery", "Wealth", "Death", "Shamanism", "Transformation"]
   },
+  "relationships": {
+    "rivals": ["001"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Poland", "Czech Republic", "Belarus"],
+    "festivals": ["Volos Day (January 12)", "Maslenitsa"],
+    "offerings": ["Cattle", "Honey", "Beer", "Last sheaf of grain (Veles's beard)"]
+  },
+  "tags": ["major deity", "underworld", "magic", "cattle", "trickster", "wisdom", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/004/thumbnail.png",
   "detailImageUrl": "images/deities/004/detailImage.png"
 }

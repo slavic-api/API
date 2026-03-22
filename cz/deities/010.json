@@ -1,12 +1,30 @@
 {
-  "id": "009",
-  "name": "Chernobog",
-  "description": "Bůh temnoty, neštěstí a chaosu.",
+  "id": "010",
+  "name": "Svarog",
+  "alternateNames": ["Svarozhich", "Swarożyc"],
+  "type": "god",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "Bůh nebe, božského ohně a nebeského kovářství. Otec Dažboga. Mistr řemeslník, který vykoval slunce.",
+  "mythology": "Svarog je bůh jasného nebe a božského ohně — slovanský nebeský kovář. Jeho jméno znamená 'Jasné nebe' nebo 'Světlé nebe' (svar = nebe/jasný). Vykoval nebeské zákony, slunce a přinesl oheň lidstvu. Nestorova kronika ho ztotožňuje s řeckým Héfaistem. Hodil kleště z nebe — blesk — a naučil lidi kovat kovy. Je otcem Dažboga (slunce) a Svarozhiche (posvátného ohně). Na jeho počest hořely v chrámech posvátné ohně, které se nikdy nesměly uhasit. Je to civilizační božstvo, které dalo lidstvu nástroje řemesla a manželské zákony.",
   "attributes": {
-    "Domains": ["Temnota", "Zlo", "Chaos"],
-    "Symbols": ["Černá barva", "Noc"],
-    "Element": "Stín",
-    "Associated Concepts": ["Neštěstí", "Zloba"]
+    "Domains": ["Nebe", "Oheň", "Kovářství", "Řemesla", "Zákon", "Manželství"],
+    "Symbols": ["Kladivo", "Kleště", "Kovárna", "Posvátný oheň", "Slunce"],
+    "Sacred Animals": ["Kohout", "Býk"],
+    "Sacred Plants": ["Dub"],
+    "Element": "Oheň",
+    "Associated Concepts": ["Řemeslnictví", "Božský zákon", "Stvoření", "Civilizace"]
   },
-  "detailImageUrl": "images/deities/009/detailImage.png"
+  "relationships": {
+    "rivals": [],
+    "family": ["002"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland"],
+    "festivals": ["Svarogičův den (podzimní slavnost posvátného ohně)"],
+    "offerings": ["Chléb", "Maso", "Posvátný oheň neustále hořící"]
+  },
+  "tags": ["major deity", "sky", "fire", "smithing", "craftsman", "father deity", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/010/thumbnail.png",
+  "detailImageUrl": "images/deities/010/detailImage.png"
 }

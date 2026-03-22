@@ -1,12 +1,31 @@
 {
   "id": "013",
-  "name": "Kupała i Kupalo",
-  "description": "Bóstwa przesilenia letniego, płodności i radości.",
+  "name": "Kupała i Kupało",
+  "alternateNames": ["Ivan Kupala", "Kupalo", "Kupailo"],
+  "type": "deity pair",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "Bliźniacze bóstwa przesilenia letniego, ucieleśniające ogień, wodę i miłość. Ich święto jest najbardziej umiłowaną nocą słowiańskiego roku.",
+  "mythology": "Kupała (żeńska) i Kupało (męski) są bliźniaczymi bóstwami przesilenia letniego. W micie rozdzielono ich przy urodzeniu, zakochali się w sobie nieświadomie po spotkaniu i zostali przemienieni w kwiat paproci i lilię wodną. Ich święto — Noc Iwana Kupały — obchodzone jest podczas przesilenia letniego (23-24 czerwca), zsynchronizowane ze świętym Janem Chrzcicielem. Towarzyszy mu skakanie przez ogniska przez pary, by oczyścić ich związek i pobłogosławić, wróżbiarskie puszczanie wianków na rzekę i legendarne poszukiwanie kwiatu paproci kwitnącego tylko tej jednej nocy, dającego znalazcy bezmiar mądrości i bogactwa.",
   "attributes": {
-    "Domains": ["Przesilenie Letnie", "Płodność", "Radość"],
-    "Symbols": ["Ogień", "Woda"],
+    "Domains": ["Przesilenie Letnie", "Ogień", "Woda", "Miłość", "Płodność", "Oczyszczenie"],
+    "Symbols": ["Ognisko", "Wianek kwiatowy", "Kwiat paproci", "Rzeka"],
+    "Sacred Animals": ["Koń", "Świetlik", "Żaba"],
+    "Sacred Plants": ["Paproć (Paprot)", "Lilia wodna", "Piołun", "Dziurawiec"],
     "Element": "Ogień i Woda",
-    "Associated Season": "Lato"
+    "Season": "Lato",
+    "Associated Concepts": ["Miłość", "Oczyszczenie", "Wróżbiarstwo", "Odnowa", "Zjednoczenie"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": ["028"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Czech Republic", "Serbia"],
+    "festivals": ["Noc Iwana Kupały (23-24 czerwca)"],
+    "offerings": ["Wianki puszczane na wodę", "Skakanie przez ogniska", "Pieśni i tańce", "Kwiaty"]
+  },
+  "tags": ["summer solstice", "fertility", "fire", "water", "love", "major festival"],
+  "thumbnailUrl": "images/deities/013/thumbnail.png",
   "detailImageUrl": "images/deities/013/detailImage.png"
 }

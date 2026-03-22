@@ -1,0 +1,30 @@
+{
+  "id": "025",
+  "name": "Živini Pole",
+  "alternateNames": ["Field of the Living", "Vyraj", "Iriy", "Vyriy"],
+  "type": "mythical place",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Slovenski raj — mitska osunčana livada večnog proleća gde pravedne duše počivaju između života.",
+  "mythology": "Živini Pole (Polje živih) je mitski raj — slovenski ekvivalent Elizija ili Edema. To je osunčana livada večnog proleća gde duše pravednih odlaze da počinu. Srodni pojam Viraj (Virij) je topli južni raj gde ptice sele zimi i gde duše počivaju između reinkarnacija. U slovenskoj trodelnoj kosmologiji (Prav-Nav-Jav), nalazi se u Pravu — carstvu božanskog reda i pravednih mrtvih. Opisuje se kao beskrajna zelena polja, reke mleka i meda i večno toplo sunce, smešteno s onu stranu Svetskog okeana na rubu sveta gde stoji Svetsko drvo.",
+  "attributes": {
+    "Domains": ["Zagrobni život", "Raj", "Božanski red", "Počinak", "Pravedni mrtvi"],
+    "Symbols": ["Zelena livada", "Reka mleka", "Večno sunce", "Svetski hrast u centru"],
+    "Sacred Animals": ["Sve ptice (koje znaju put do Viraja)"],
+    "Sacred Plants": ["Sve biljke u večnom cvatu"],
+    "Element": "Etar",
+    "Associated Concepts": ["Raj", "Večni život", "Pravednost", "Kosmički red", "Reinkarnacija"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia"],
+    "festivals": ["Dani poštovanja predaka (Rodunica) kada duše posećuju iz ovog carstva"],
+    "offerings": ["Molitve za pravedne mrtvace", "Hrana ostavljena na grobovima"]
+  },
+  "tags": ["afterlife", "paradise", "mythical location", "cosmic", "righteous dead"],
+  "thumbnailUrl": "images/deities/025/thumbnail.png",
+  "detailImageUrl": "images/deities/025/detailImage.png"
+}

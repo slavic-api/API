@@ -1,12 +1,31 @@
 {
   "id": "011",
   "name": "Marzanna",
-  "description": "Goddess of winter, death, and rebirth.",
+  "alternateNames": ["Morana", "Mara", "Morena", "Marzena", "Marena"],
+  "type": "goddess",
+  "origin": ["West Slavic", "East Slavic", "South Slavic"],
+  "description": "Goddess of winter, death, and seasonal rebirth. Her ritual drowning each spring is one of the most ancient surviving Slavic customs.",
+  "mythology": "Marzanna (also Morana/Morena) is the goddess of winter, death, and the rebirth of spring. She rules the dark half of the year. Her ritual death is one of the most widespread surviving Slavic folk traditions — a straw effigy of Marzanna is created and ceremonially drowned in a river or burned at the start of spring, symbolically driving away winter and death. Her name relates to the Slavic word for plague (mor) and death. In some traditions she is also the goddess of dreams and illusions. Her death enables spring to come, making her a goddess of transformation whose destruction is an act of renewal.",
   "attributes": {
-    "Domains": ["Winter", "Death", "Rebirth"],
-    "Symbols": ["Snow", "Doll"],
-    "Element": "Water",
-    "Associated Season": "Winter"
+    "Domains": ["Winter", "Death", "Dreams", "Rebirth", "Cold", "Plague"],
+    "Symbols": ["Straw effigy (doll)", "Willow branch", "Skull", "Sickle"],
+    "Sacred Animals": ["Owl", "Raven", "Crow"],
+    "Sacred Plants": ["Willow", "Yew", "Nightshade"],
+    "Element": "Water/Ice",
+    "Season": "Winter",
+    "Associated Concepts": ["Transformation", "Seasonal Cycle", "Death and Rebirth", "Illusion"]
   },
+  "relationships": {
+    "rivals": ["022"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Poland", "Czech Republic", "Slovakia", "Belarus", "Russia", "Ukraine"],
+    "festivals": ["Mid-Lent (Drowning or Burning of Marzanna)", "Autumn equinox"],
+    "offerings": ["Straw effigy drowned in river", "Spring flowers after the ritual"]
+  },
+  "tags": ["death", "winter", "rebirth", "seasonal", "transformation", "major deity"],
+  "thumbnailUrl": "images/deities/011/thumbnail.png",
   "detailImageUrl": "images/deities/011/detailImage.png"
 }

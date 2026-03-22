@@ -1,12 +1,82 @@
 {
   "id": "009",
-  "name": "Chernobog",
-  "description": "Bůh temnoty, neštěstí a chaosu.",
+  "name": "Černobog",
+  "alternateNames": [
+    "Czernobóg",
+    "Tchernobog",
+    "Black God",
+    "Crnobog"
+  ],
+  "type": "god",
+  "origin": [
+    "West Slavic",
+    "East Slavic"
+  ],
+  "description": "Bůh temnoty, zla a neštěstí. Protipól Bíloboga, ztělesňující temnou stránku kosmické duality.",
+  "mythology": "Černobog ('Černý bůh') je poprvé doložen v německých kronikách 12. století popisujících baltoslovanské kmeny. Je ztělesněním temných, zlých a ničivých sil — protipólem Bíloboga (Bílého boha). Na hostinách Slované podávali pohár s kletbami k Černobogovi a chválami k Bílobogovi, čímž uznávali dualitu vší existence. Je bohem noci, chaosu, neštěstí a všeho prokletého. Jeho uctívání bylo obávané, ale praktikovalo se, aby bylo neštěstí minimalizováno. V moderní kultuře se objevuje ve Fantazii (1940) od Walta Disneyho a v románu Americká božstva Neila Gaimana, což svědčí o jeho trvalé symbolické síle.",
   "attributes": {
-    "Domains": ["Temnota", "Zlo", "Chaos"],
-    "Symbols": ["Černá barva", "Noc"],
-    "Element": "Stín",
-    "Associated Concepts": ["Neštěstí", "Zloba"]
+    "Domains": [
+      "Temnota",
+      "Zlo",
+      "Chaos",
+      "Noc",
+      "Neštěstí",
+      "Smrt"
+    ],
+    "Symbols": [
+      "Černá symbolika",
+      "Železné řetězy",
+      "Temný měsíc",
+      "Stín"
+    ],
+    "Sacred Animals": [
+      "Černý kůň",
+      "Havran",
+      "Vlk",
+      "Pavouk"
+    ],
+    "Sacred Plants": [
+      "Rulík",
+      "Černé trny"
+    ],
+    "Element": "Tma",
+    "Season": "Zima",
+    "Associated Concepts": [
+      "Dualita",
+      "Chaos",
+      "Osud",
+      "Entropie",
+      "Prokletí"
+    ]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": [
+      "Pomerania",
+      "Rugia",
+      "Poland",
+      "Baltic Slavic coast"
+    ],
+    "festivals": [
+      "Zimní obřady za tmavého novu"
+    ],
+    "offerings": [
+      "Černá zvířata",
+      "Medovina s vyřčenými kletbami"
+    ]
+  },
+  "tags": [
+    "darkness",
+    "evil",
+    "chaos",
+    "duality",
+    "major deity",
+    "Baltic Slavic"
+  ],
+  "thumbnailUrl": "images/deities/009/thumbnail.png",
   "detailImageUrl": "images/deities/009/detailImage.png"
 }

@@ -1,12 +1,31 @@
 {
   "id": "007",
   "name": "Morozko",
-  "description": "Personification of frost, winter, and chill.",
+  "alternateNames": ["Ded Moroz", "Father Frost", "Moroz Ivanovich", "Frost"],
+  "type": "spirit",
+  "origin": ["East Slavic"],
+  "description": "Personification of winter frost and cold. Tests travelers and rewards the virtuous with gifts.",
+  "mythology": "Morozko (Little Frost) or Ded Moroz (Grandfather Frost) is the personification of winter cold. In fairy tales he tests travelers and workers — the kind, patient, and hardworking receive gifts, while the lazy and greedy are frozen. The beloved fairy tale 'Morozko' features him rewarding a kind stepdaughter with riches while punishing a spoiled girl with death. He is depicted as a tall old man in blue or silver robes carrying a magic staff of ice. His Slavic origins predate the Christian holiday figure. He lives in an ice palace in the far north and visits villages in winter, his breathing creating frost patterns on windows.",
   "attributes": {
-    "Domains": ["Winter", "Frost", "Cold"],
-    "Symbols": ["Ice", "Snowflake"],
-    "Element": "Water",
-    "Associated Season": "Winter"
+    "Domains": ["Winter", "Frost", "Cold", "Ice", "Gifts", "Testing Virtue"],
+    "Symbols": ["Ice staff", "Silver sack of gifts", "Snowflake", "Blue or silver robes"],
+    "Sacred Animals": ["Hare", "Bear", "White deer"],
+    "Sacred Plants": ["Pine (evergreen)", "Ice-covered branches"],
+    "Element": "Water/Ice",
+    "Season": "Winter",
+    "Associated Concepts": ["Endurance", "Fairness", "Reward and Punishment", "Winter Magic"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Winter Solstice (Kolyada)", "New Year", "Christmas (evolved form)"],
+    "offerings": ["Porridge left outside to appease frost from killing crops"]
+  },
+  "tags": ["winter", "cold", "frost", "nature spirit", "fairy tale", "gift-giver"],
+  "thumbnailUrl": "images/deities/007/thumbnail.png",
   "detailImageUrl": "images/deities/007/detailImage.png"
 }

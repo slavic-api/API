@@ -1,12 +1,30 @@
 {
   "id": "026",
-  "name": "Roda",
-  "description": "Goddess of fertility, motherhood, and family.",
+  "name": "Rodźica",
+  "alternateNames": ["Rozhanitsa", "Rozhanitsy (plural)", "Birth Goddess"],
+  "type": "goddess",
+  "origin": ["East Slavic"],
+  "description": "Bogini narodzin związana z Rodem. Ona i Rodzanice pojawiają się przy każdych narodzinach, by utkać los i życiową ścieżkę noworodka.",
+  "mythology": "Rodźica (lub Rodzanice, jej liczba mnoga) są boginkami narodzin związanymi z Rodem, bóstwem stwórczym. Pojawiają się w chwili narodzin dziecka, by utkać jego los i określić ścieżkę jego życia — analogicznie do greckich Mojr lub rzymskich Parek. Dwie lub trzy Rodzanice są obecne przy każdych narodzinach: jedna przędzie nić życia (jej długość), druga tka jej jakość, a trzecia określa fortunę lub nieszczęście. Średniowieczne słowiańskie teksty kościelne gwałtownie potępiały zwyczaj zostawiania uczt dla Rodzanic — chleba, miodu, sera i kaszy — co wskazuje na powszechność i głębię ich kultu na ziemiach słowiańskich.",
   "attributes": {
-    "Domains": ["Fertility", "Motherhood", "Family"],
-    "Symbols": ["Hearth", "Sheaf of Wheat"],
-    "Element": "Earth",
-    "Associated Concepts": ["Protection", "Nurture"]
+    "Domains": ["Narodziny", "Los", "Macierzyństwo", "Płodność", "Rodzina", "Dzieciństwo"],
+    "Symbols": ["Wrzeciono", "Nić", "Pieluszki", "Węzeł narodzinowy (rozwiązywany podczas porodu)"],
+    "Sacred Animals": ["Łania (jeleń)", "Jaskółka"],
+    "Sacred Plants": ["Jarzębina", "Lipa"],
+    "Element": "Ziemia",
+    "Associated Concepts": ["Los przy Narodzinach", "Ochrona Macierzyńska", "Ścieżka Życia", "Ciągłość Rodziny"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["005"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Uczta Rodzanic (po żniwach)", "Rytuały narodzinowe", "Rodźica (dzień przodków)"],
+    "offerings": ["Chleb", "Miód", "Ser", "Kasza zostawiana po narodzinach"]
+  },
+  "tags": ["fertility", "birth", "motherhood", "fate", "domestic", "minor deity"],
+  "thumbnailUrl": "images/deities/026/thumbnail.png",
   "detailImageUrl": "images/deities/026/detailImage.png"
 }

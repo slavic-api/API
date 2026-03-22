@@ -1,0 +1,2484 @@
+{
+  "lang": "pl",
+  "version": "1.0.0",
+  "total": 30,
+  "deities": [
+    {
+      "id": "001",
+      "name": "Perun",
+      "alternateNames": [
+        "Perkunas",
+        "Perkons",
+        "Perún",
+        "Pirun"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "South Slavic",
+        "West Slavic"
+      ],
+      "description": "Słowiański bóg grzmotu i błyskawic. Obrońca wojowników i strażnik kosmicznego porządku.",
+      "mythology": "Perun jest najwyższym bóstwem słowiańskiego panteonu, władającym grzmotem, błyskawicą, burzami, deszczem, prawem, wojną i płodnością z najwyższych gałęzi Drzewa Świata — wielkiego kosmicznego dębu. Jego wiecznym wrogiem jest Weles, wężowy bóg podziemia, który kradnie mu bydło, żonę lub dzieci. Perun ściga Welesa po niebie, ciskając piorunami, podczas gdy Weles kryje się pod postacią zwierząt, drzew lub ludzi. Ta kosmiczna walka sprowadza deszcz na ziemię i utrzymuje porządek wszechświata. Perun jest przedstawiany jako mężczyzna w średnim wieku z miedzianą brodą, dzierżący topór lub młot. Święte dęby i szczyty wzgórz służyły jako jego świątynie. Był patronem stanu wojowniczego i drużyny książęcej w Rusi Kijowskiej.",
+      "attributes": {
+        "Domains": [
+          "Grzmot",
+          "Błyskawica",
+          "Wojna",
+          "Prawo",
+          "Niebo",
+          "Deszcz",
+          "Płodność"
+        ],
+        "Symbols": [
+          "Topór",
+          "Piorun",
+          "Orzeł",
+          "Młot",
+          "Dąb"
+        ],
+        "Sacred Animals": [
+          "Orzeł",
+          "Byk",
+          "Tur"
+        ],
+        "Sacred Plants": [
+          "Dąb",
+          "Irys"
+        ],
+        "Element": "Powietrze",
+        "Season": "Lato",
+        "Associated Concepts": [
+          "Sprawiedliwość",
+          "Siła",
+          "Ochrona",
+          "Porządek Kosmiczny"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "004"
+        ],
+        "family": [
+          "018"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Poland",
+          "Belarus",
+          "Serbia",
+          "Croatia"
+        ],
+        "festivals": [
+          "Dzień Peruna (20 lipca / zsynchronizowany z Dniem Eliasza)"
+        ],
+        "offerings": [
+          "Wół",
+          "Byk",
+          "Drewno dębowe",
+          "Chleb",
+          "Miód pitny"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "warrior",
+        "sky",
+        "weather",
+        "thunder",
+        "oak",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/001/thumbnail.png",
+      "detailImageUrl": "images/deities/001/detailImage.png"
+    },
+    {
+      "id": "002",
+      "name": "Dadźbóg",
+      "alternateNames": [
+        "Dažbog",
+        "Dabog",
+        "Dajbog",
+        "Dazbog"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Bóg słońca, bogactwa i szczęścia. Przodek ludu słowiańskiego i syn Swaroga.",
+      "mythology": "Dadźbóg jest bóstwem solarnym i dawcą bogactwa, którego imię oznacza 'Bóg Dający' lub 'Bóg Daru'. Każdego dnia przemierza niebo w złotym rydwanie ciągniętym przez białe konie ziejące ogniem i złotem. Słowo o wyprawie Igora nazywa lud Rusi 'wnukami Dadźboga', wskazując na niego jako boskiego przodka narodu słowiańskiego. Każdego ranka jest młody, wieczorem starzeje się, by następnego dnia odrodzić się na nowo. Jest synem Swaroga, który wykuł słońce. Poświęcone mu są konie, złoto i tarcza słoneczna. Jest ucieleśnieniem życiodajnej hojności światła słonecznego.",
+      "attributes": {
+        "Domains": [
+          "Słońce",
+          "Bogactwo",
+          "Szczęście",
+          "Żniwa",
+          "Światło"
+        ],
+        "Symbols": [
+          "Tarcza Słoneczna",
+          "Złoty Rydwan",
+          "Żar-ptak",
+          "Biały Koń"
+        ],
+        "Sacred Animals": [
+          "Biały koń",
+          "Złoty ptak (Żar-ptak)",
+          "Lew"
+        ],
+        "Sacred Plants": [
+          "Słonecznik",
+          "Pszenica",
+          "Rumianek"
+        ],
+        "Element": "Ogień",
+        "Season": "Lato",
+        "Associated Concepts": [
+          "Dobrobyt",
+          "Hojność",
+          "Ciepło",
+          "Ojcostwo"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "010"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Przesilenie Letnie (Noc Kupały)",
+          "Kolyada (Przesilenie Zimowe — odrodzenie słoneczne)"
+        ],
+        "offerings": [
+          "Chleb",
+          "Miód",
+          "Zboże",
+          "Złote przedmioty"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "sun",
+        "prosperity",
+        "agriculture",
+        "solar",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/002/thumbnail.png",
+      "detailImageUrl": "images/deities/002/detailImage.png"
+    },
+    {
+      "id": "003",
+      "name": "Mokosz",
+      "alternateNames": [
+        "Mokoša",
+        "Makosh",
+        "Mokusha"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Wielka matka ziemia i bogini tkactwa, płodności oraz losu kobiet. Jedyna bogini w kijowskim panteonie Włodzimierza.",
+      "mythology": "Mokosz jest jedyną boginią wymienioną w Kronice Nestora wśród bóstw panteonu Włodzimierza w Kijowie (980 r. n.e.), co świadczy o jej nadrzędnym znaczeniu wśród wszystkich słowiańskich bogiń. Jest wielką matką ziemią, boginią przędzenia, tkania i losu kobiet — przędącą nić życia i przeznaczenia tak jak greckie Mojry. W piątkowe noce wędruje po wsiach, sprawdzając pracę kobiet przy przędzeniu. Jej imię może wywodzić się od słowa 'mok' (mokry/wilgotny), łącząc ją z żyzną wilgocią ziemi. Później została zsynchronizowana ze świętą Paraskiewą Piątek w tradycji chrześcijańskiej, co świadczy o jej trwałej mocy w świadomości ludowej.",
+      "attributes": {
+        "Domains": [
+          "Płodność",
+          "Tkactwo",
+          "Los",
+          "Ziemia",
+          "Kobiety",
+          "Wilgoć"
+        ],
+        "Symbols": [
+          "Wrzeciono",
+          "Kądziel",
+          "Nić",
+          "Krosno"
+        ],
+        "Sacred Animals": [
+          "Owca",
+          "Pająk"
+        ],
+        "Sacred Plants": [
+          "Len",
+          "Konopie"
+        ],
+        "Element": "Ziemia",
+        "Season": "Jesień",
+        "Associated Concepts": [
+          "Przeznaczenie",
+          "Macierzyństwo",
+          "Rzemiosło",
+          "Ochrona Kobiet"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Piątek (cotygodniowy dzień święty)",
+          "Święta Żniwne",
+          "Maslenica"
+        ],
+        "offerings": [
+          "Len",
+          "Wełna",
+          "Nić pozostawiona na rozstaju dróg",
+          "Haftowane chusty"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "fertility",
+        "weaving",
+        "women",
+        "fate",
+        "earth mother",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/003/thumbnail.png",
+      "detailImageUrl": "images/deities/003/detailImage.png"
+    },
+    {
+      "id": "004",
+      "name": "Weles",
+      "alternateNames": [
+        "Volos",
+        "Weles"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Bóg zaświatów, bydła, handlu, magii i mądrości. Wieczny rywal Peruna.",
+      "mythology": "Weles jest wielkim bogiem zaświatów, bydła, handlu, muzyki, magii i mądrości. Zamieszkuje korzenie Drzewa Świata w podziemiu (Nawii), w przeciwieństwie do Peruna panującego w koronie. Jego wieczny konflikt z Perunem stanowi centralny mit religii słowiańskiej — Weles kradnie bydło, żonę lub syna Peruna, a Perun ściga go, ciskając piorunami. Weles kryje się, przybierając postać zwierząt, drzew lub ludzi. Jest chtoniczną, wężową siłą głębin ziemi — tricksterm i zmiennokształtnym utożsamianym z niedźwiedziami, wężami i poezją. Ostatni snop zboża pozostawiony w polu podczas żniw zwano 'brodą Welesa', ofiarowaną mu dla przebłagania.",
+      "attributes": {
+        "Domains": [
+          "Zaświaty",
+          "Bydło",
+          "Handel",
+          "Magia",
+          "Mądrość",
+          "Muzyka",
+          "Poezja"
+        ],
+        "Symbols": [
+          "Wąż",
+          "Byk",
+          "Niedźwiedź",
+          "Worek złota"
+        ],
+        "Sacred Animals": [
+          "Niedźwiedź",
+          "Wąż",
+          "Byk",
+          "Sowa",
+          "Wilk"
+        ],
+        "Sacred Plants": [
+          "Paproć",
+          "Trawa (trawa Nawii)"
+        ],
+        "Element": "Ziemia",
+        "Season": "Zima",
+        "Associated Concepts": [
+          "Przebiegłość",
+          "Bogactwo",
+          "Śmierć",
+          "Szamanizm",
+          "Przemiana"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "001"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Poland",
+          "Czech Republic",
+          "Belarus"
+        ],
+        "festivals": [
+          "Dzień Wolosa (12 stycznia)",
+          "Maslenica"
+        ],
+        "offerings": [
+          "Bydło",
+          "Miód",
+          "Piwo",
+          "Ostatni snop zboża (broda Welesa)"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "underworld",
+        "magic",
+        "cattle",
+        "trickster",
+        "wisdom",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/004/thumbnail.png",
+      "detailImageUrl": "images/deities/004/detailImage.png"
+    },
+    {
+      "id": "005",
+      "name": "Ród",
+      "alternateNames": [
+        "Род",
+        "Rozhanitsy (associated female aspect)"
+      ],
+      "type": "primordial god",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Pierwotne bóstwo stwórcze i przodek wszystkich bogów i żywych istot. Źródło wszelkiego istnienia.",
+      "mythology": "Ród jest pierwotnym bóstwem stwórczym i praojcem wszystkich bogów i żywych istot. Zanim cokolwiek istniało, Ród stworzył świat — złożył kosmiczne jajko, z którego wylągł się wszechświat, lub stworzył go z własnego ciała. Jego imię jest rdzeniem słowiańskich słów oznaczających narodziny, rodzinę, ród i naturę (ród oznacza klan/rodzaj we wszystkich językach słowiańskich). Towarzyszą mu Rodzanice — dwie lub trzy żeńskie boginie narodzin, które określają los każdego człowieka przy urodzeniu. Wczesne słowiańskie teksty pisane przez duchownych chrześcijańskich szczególnie i wielokrotnie potępiały kult Roda i Rodzanic, co wskazuje na ich nadrzędne znaczenie w przedchrześcijańskiej religii ludowej.",
+      "attributes": {
+        "Domains": [
+          "Stworzenie",
+          "Przodkowie",
+          "Kosmos",
+          "Los",
+          "Narodziny",
+          "Ród"
+        ],
+        "Symbols": [
+          "Kosmiczne Jajko",
+          "Drzewo Życia",
+          "Tęcza"
+        ],
+        "Sacred Animals": [
+          "Tur",
+          "Orzeł"
+        ],
+        "Sacred Plants": [
+          "Drzewo Świata (Dąb)"
+        ],
+        "Element": "Eter",
+        "Season": "Wszystkie Pory Roku",
+        "Associated Concepts": [
+          "Przeznaczenie",
+          "Opatrzność",
+          "Siła Życiowa",
+          "Porządek Kosmiczny"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "026"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia"
+        ],
+        "festivals": [
+          "Rodźica (kult przodków)",
+          "Uczta Rodzanic (po żniwach)"
+        ],
+        "offerings": [
+          "Chleb",
+          "Miód",
+          "Kasza",
+          "Ser",
+          "Miód pitny"
+        ]
+      },
+      "tags": [
+        "primordial",
+        "creator",
+        "ancestors",
+        "fate",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/005/thumbnail.png",
+      "detailImageUrl": "images/deities/005/detailImage.png"
+    },
+    {
+      "id": "006",
+      "name": "Domowoj",
+      "alternateNames": [
+        "Domovoy",
+        "Domovik",
+        "Dvorovoi",
+        "Ded",
+        "Grandfather"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Przodkowy duch domowy i opiekun domostwa. Mieszka za piecem i strzeże rodziny.",
+      "mythology": "Domowoj jest przodkowym duchem domu, zamieszkującym za piecem, pod progiem lub w stodole. Jest duchem męskiego przodka rodziny i chroni gospodarstwo, jeśli traktowany z szacunkiem. Pojawia się jako mały owłosiony mężczyzna przypominający głowę rodziny. Stuka i jęczy, gdy zbliża się nieszczęście, i głaszcze śpiących członków rodziny — ciepły, miękki dotyk oznacza dobrą fortunę, zimny i szorstki — niebezpieczeństwo. W niektórych tradycjach nie lubi luster. Każdy dom ma własnego Domowoja, który podąża za rodziną, gdy się przeprowadza. Zaniedbanie czci dla niego prowadzi do psot: splata grzywy koni w nocy, psuje mleko, wydaje dziwne odgłosy.",
+      "attributes": {
+        "Domains": [
+          "Dom",
+          "Rodzina",
+          "Ochrona",
+          "Palenisko",
+          "Przodkowie"
+        ],
+        "Symbols": [
+          "Palenisko/Piec",
+          "Próg",
+          "Chleb i Sól"
+        ],
+        "Sacred Animals": [
+          "Kot",
+          "Wąż",
+          "Kogut"
+        ],
+        "Sacred Plants": [
+          "Brak konkretnych"
+        ],
+        "Element": "Ogień",
+        "Associated Concepts": [
+          "Przodkowie",
+          "Spokój Domowy",
+          "Znaki Ostrzegawcze",
+          "Ochrona"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia"
+        ],
+        "festivals": [
+          "Sylwester (przebłaganie ofiarami)",
+          "Przeprowadzka (zaproszenie go ze sobą)"
+        ],
+        "offerings": [
+          "Kasza",
+          "Chleb i sól",
+          "Pierwszy posiłek dnia",
+          "Tytoń"
+        ]
+      },
+      "tags": [
+        "household spirit",
+        "domestic",
+        "protection",
+        "family",
+        "ancestor spirit"
+      ],
+      "thumbnailUrl": "images/deities/006/thumbnail.png",
+      "detailImageUrl": "images/deities/006/detailImage.png"
+    },
+    {
+      "id": "007",
+      "name": "Morozko",
+      "alternateNames": [
+        "Ded Moroz",
+        "Father Frost",
+        "Moroz Ivanovich",
+        "Frost"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Uosobienie zimowego mrozu i zimna. Wystawia podróżnych na próbę i nagradza cnotliwych darami.",
+      "mythology": "Morozko (Mały Mróz) lub Dziadek Mróz jest uosobieniem zimnego mrozu. W bajkach wystawia na próbę podróżnych i pracowników — uprzejmi, cierpliwi i pracowici otrzymują dary, podczas gdy leniwi i chciwi zamarzają. Ukochana bajka 'Morozko' przedstawia go nagradzającego życzliwą pasierbicę bogactwem, a kapryśną dziewczynę karze śmiercią. Jest przedstawiany jako wysoki stary mężczyzna w niebieskich lub srebrnych szatach, dzierżący magiczny kij lodowy. Jego słowiańskie korzenie poprzedzają postać z chrześcijańskich świąt. Mieszka w lodowym pałacu na dalekim północy i odwiedza wsie zimą, a jego oddech tworzy mroźne wzory na oknach.",
+      "attributes": {
+        "Domains": [
+          "Zima",
+          "Szron",
+          "Zimno",
+          "Lód",
+          "Dary",
+          "Wystawianie Cnoty na Próbę"
+        ],
+        "Symbols": [
+          "Lód-kij",
+          "Srebrny worek darów",
+          "Płatek śniegu",
+          "Niebieskie lub srebrne szaty"
+        ],
+        "Sacred Animals": [
+          "Zając",
+          "Niedźwiedź",
+          "Biały jeleń"
+        ],
+        "Sacred Plants": [
+          "Sosna (wiecznie zielona)",
+          "Gałęzie pokryte lodem"
+        ],
+        "Element": "Woda/Lód",
+        "Season": "Zima",
+        "Associated Concepts": [
+          "Wytrwałość",
+          "Sprawiedliwość",
+          "Nagroda i Kara",
+          "Zimowa Magia"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Przesilenie Zimowe (Kolyada)",
+          "Nowy Rok",
+          "Boże Narodzenie (forma ewoluowana)"
+        ],
+        "offerings": [
+          "Kasza zostawiona na zewnątrz, by udobruchać mróz niszczący plony"
+        ]
+      },
+      "tags": [
+        "winter",
+        "cold",
+        "frost",
+        "nature spirit",
+        "fairy tale",
+        "gift-giver"
+      ],
+      "thumbnailUrl": "images/deities/007/thumbnail.png",
+      "detailImageUrl": "images/deities/007/detailImage.png"
+    },
+    {
+      "id": "008",
+      "name": "Zorza",
+      "alternateNames": [
+        "Zarya",
+        "Zaria",
+        "Zorya Utrennyaya",
+        "Zorya Vechernyaya",
+        "Zorya Polunochnaya"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Bliźniacze boginie jutrzenki reprezentujące gwiazdę poranną i wieczorną. Strażniczki kosmicznego porządku i bram pałacu Dadźboga.",
+      "mythology": "Zorza (Dziewice Jutrzenki) to dwie lub trzy boskie siostry: Zorza Poranna (Gwiazda Poranna), Zorza Wieczorna (Gwiazda Wieczorna), a czasem Zorza Północna (Gwiazda Północna). Każdego ranka Zorza Poranna otwiera bramy słonecznego pałacu Dadźboga, by wypuścić słońce; każdego wieczoru Zorza Wieczorna je zamyka. Strzegą też apokaliptycznego psa Simargl, przywiązanego do Małej Niedźwiedzicy — jeśli łańcuch pęknie i pies ucieknie, świat się skończy. Przedstawiane są jako piękne wojowniczki w złotej zbroi, utożsamiane z planetą Wenus widoczną jako gwiazda poranna i wieczorna.",
+      "attributes": {
+        "Domains": [
+          "Świt",
+          "Zmierzch",
+          "Gwiazdy",
+          "Porządek Kosmiczny",
+          "Ochrona Wojowników"
+        ],
+        "Symbols": [
+          "Gwiazda poranna (Wenus)",
+          "Złota zbroja",
+          "Bramy niebios"
+        ],
+        "Sacred Animals": [
+          "Koń",
+          "Kogut (ranek)",
+          "Sowa (wieczór)"
+        ],
+        "Sacred Plants": [
+          "Wilec (powój poranny)",
+          "Wiesiołek (wieczorny)"
+        ],
+        "Element": "Powietrze",
+        "Associated Concepts": [
+          "Równowaga Kosmiczna",
+          "Czas",
+          "Nawigacja Niebiańska",
+          "Ochrona"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "002"
+        ],
+        "allies": [
+          "020"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia"
+        ],
+        "festivals": [
+          "Rytuały o świcie",
+          "Noc Świętojańska"
+        ],
+        "offerings": [
+          "Poranna rosa zbierana o świcie",
+          "Modlitwy o pierwszym świetle",
+          "Kwiaty"
+        ]
+      },
+      "tags": [
+        "dawn",
+        "dusk",
+        "stars",
+        "celestial",
+        "cosmic order",
+        "warrior maiden"
+      ],
+      "thumbnailUrl": "images/deities/008/thumbnail.png",
+      "detailImageUrl": "images/deities/008/detailImage.png"
+    },
+    {
+      "id": "009",
+      "name": "Czarnobóg",
+      "alternateNames": [
+        "Czernobóg",
+        "Tchernobog",
+        "Black God",
+        "Crnobog"
+      ],
+      "type": "god",
+      "origin": [
+        "West Slavic",
+        "East Slavic"
+      ],
+      "description": "Bóg ciemności, zła i nieszczęścia. Odpowiednik Białoboga, ucieleśniający mroczną stronę kosmicznej dwoistości.",
+      "mythology": "Czarnobóg ('Czarny Bóg') jest po raz pierwszy poświadczony w kronikach niemieckich z XII w. opisujących bałtyckie plemiona słowiańskie. Jest ucieleśnieniem ciemnych, złych i destrukcyjnych sił — odpowiednikiem Białoboga (Białego Boga). Na ucztach Słowianie podawali sobie czarę, wypowiadając nad nią przekleństwa ku Czarnobogowi i pochwały ku Białobogowi, uznając dwoistość wszelkiego istnienia. Jest bogiem nocy, chaosu, nieszczęścia i wszystkiego, co przeklęte. Jego kult był obawowy, lecz praktykowany dla przebłagania go i ograniczenia nieszczęść. Pojawia się w kulturze współczesnej, m.in. w Fantazji Walta Disneya (1940) i Bogach Ameryki Neila Gaimana, co świadczy o jego trwałej mocy symbolicznej.",
+      "attributes": {
+        "Domains": [
+          "Ciemność",
+          "Zło",
+          "Chaos",
+          "Noc",
+          "Nieszczęście",
+          "Śmierć"
+        ],
+        "Symbols": [
+          "Czarna ikonografia",
+          "Żelazne łańcuchy",
+          "Czarny księżyc",
+          "Cień"
+        ],
+        "Sacred Animals": [
+          "Czarny koń",
+          "Kruk",
+          "Wilk",
+          "Pająk"
+        ],
+        "Sacred Plants": [
+          "Wilcza jagoda",
+          "Czarne ciernie"
+        ],
+        "Element": "Ciemność",
+        "Season": "Zima",
+        "Associated Concepts": [
+          "Dwoistość",
+          "Chaos",
+          "Los",
+          "Entropia",
+          "Przeklinanie"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "030"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Pomerania",
+          "Rugia",
+          "Poland",
+          "Baltic Slavic coast"
+        ],
+        "festivals": [
+          "Zimowe rytuały przy ciemnym księżycu"
+        ],
+        "offerings": [
+          "Czarne zwierzęta",
+          "Miód pitny z wypowiedzianymi nad nim przekleństwami"
+        ]
+      },
+      "tags": [
+        "darkness",
+        "evil",
+        "chaos",
+        "duality",
+        "major deity",
+        "Baltic Slavic"
+      ],
+      "thumbnailUrl": "images/deities/009/thumbnail.png",
+      "detailImageUrl": "images/deities/009/detailImage.png"
+    },
+    {
+      "id": "010",
+      "name": "Swaróg",
+      "alternateNames": [
+        "Svarozhich",
+        "Swarożyc"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Bóg nieba, boskiego ognia i niebiańskiego kowalstwa. Ojciec Dadźboga. Mistrz rzemiosła, który wykuł słońce.",
+      "mythology": "Swaróg jest bogiem jasnego nieba i boskiego ognia — słowiańskim niebiańskim kowalem. Jego imię oznacza 'Jasne Niebo' lub 'Świetliste Niebo' (swar = niebo/jasny). Wykuł prawa nieba, słońce i przyniósł ogień ludzkości. Kronika Nestora utożsamia go z greckim Hefajstosem. Upuścił swoje kleszcze z nieba — grom — ucząc ludzi wykuwania metalu. Jest ojcem Dadźboga (słońca) i Swarożyca (świętego ognia). Święte ognie paliły się ku jego czci w świątyniach i nigdy nie mogły zgasnąć. Jest bóstwem cywilizacyjnym, który dał ludzkości narzędzia rzemiosła i prawa małżeństwa.",
+      "attributes": {
+        "Domains": [
+          "Niebo",
+          "Ogień",
+          "Kowalstwo",
+          "Rzemiosło",
+          "Prawo",
+          "Małżeństwo"
+        ],
+        "Symbols": [
+          "Młot",
+          "Kleszcze",
+          "Kuźnia",
+          "Święty Ogień",
+          "Słońce"
+        ],
+        "Sacred Animals": [
+          "Kogut",
+          "Byk"
+        ],
+        "Sacred Plants": [
+          "Dąb"
+        ],
+        "Element": "Ogień",
+        "Associated Concepts": [
+          "Rzemiosło",
+          "Boskie Prawo",
+          "Stworzenie",
+          "Cywilizacja"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "002"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland"
+        ],
+        "festivals": [
+          "Dzień Swarożyca (jesienne święto świętego ognia)"
+        ],
+        "offerings": [
+          "Chleb",
+          "Mięso",
+          "Święty ogień palący się wiecznie"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "sky",
+        "fire",
+        "smithing",
+        "craftsman",
+        "father deity",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/010/thumbnail.png",
+      "detailImageUrl": "images/deities/010/detailImage.png"
+    },
+    {
+      "id": "011",
+      "name": "Marzanna",
+      "alternateNames": [
+        "Morana",
+        "Mara",
+        "Morena",
+        "Marzena",
+        "Marena"
+      ],
+      "type": "goddess",
+      "origin": [
+        "West Slavic",
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Bogini zimy, śmierci i sezonowego odrodzenia. Jej rytualne topienie każdej wiosny jest jednym z najstarszych zachowanych słowiańskich zwyczajów.",
+      "mythology": "Marzanna (znana też jako Morana/Morena) jest boginią zimy, śmierci i odrodzenia wiosny. Włada ciemną połową roku. Jej rytualna śmierć jest jedną z najpowszechniejszych zachowanych słowiańskich tradycji ludowych — słomiana kukła Marzanny jest tworzona i ceremonialnie topiona w rzece lub palona na początku wiosny, symbolicznie przepędzając zimę i śmierć. Jej imię wiąże się ze słowiańskim słowem oznaczającym zarazę (mor) i śmierć. W niektórych tradycjach jest też boginią snów i złudzeń. Jej śmierć umożliwia nadejście wiosny, czyniąc z niej boginię przemiany, której zniszczenie jest aktem odnowy.",
+      "attributes": {
+        "Domains": [
+          "Zima",
+          "Śmierć",
+          "Sny",
+          "Odrodzenie",
+          "Zimno",
+          "Zaraza"
+        ],
+        "Symbols": [
+          "Słomiana kukła (lalka)",
+          "Gałązka wierzby",
+          "Czaszka",
+          "Kosa"
+        ],
+        "Sacred Animals": [
+          "Sowa",
+          "Kruk",
+          "Wrona"
+        ],
+        "Sacred Plants": [
+          "Wierzba",
+          "Cis",
+          "Wilcza jagoda"
+        ],
+        "Element": "Woda/Lód",
+        "Season": "Zima",
+        "Associated Concepts": [
+          "Przemiana",
+          "Cykl Sezonów",
+          "Śmierć i Odrodzenie",
+          "Złudzenie"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "022"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Poland",
+          "Czech Republic",
+          "Slovakia",
+          "Belarus",
+          "Russia",
+          "Ukraine"
+        ],
+        "festivals": [
+          "Środopóście (Topienie lub Palenie Marzanny)",
+          "Równonoc Jesienna"
+        ],
+        "offerings": [
+          "Słomiana kukła topiona w rzece",
+          "Wiosenne kwiaty po rytuale"
+        ]
+      },
+      "tags": [
+        "death",
+        "winter",
+        "rebirth",
+        "seasonal",
+        "transformation",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/011/thumbnail.png",
+      "detailImageUrl": "images/deities/011/detailImage.png"
+    },
+    {
+      "id": "012",
+      "name": "Baba Jaga",
+      "alternateNames": [
+        "Jaga",
+        "Jezibaba",
+        "Baba Roga",
+        "Yaga Baba"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Starożytna czarownica-wiedźma i strażniczka granicy między żywymi a umarłymi. Niejednoznaczna pomocniczka i pożeraczka.",
+      "mythology": "Baba Jaga jest jedną z najbardziej ikonicznych postaci słowiańskiej mitologii — starożytną czarownicą-wiedźmą mieszkającą w chacie stojącej na kurzych nogach, która obraca się w dowolnym kierunku. Lata przez powietrze w moździerzu, zamiatając ślady tłuczkiem i miotłą. Jest strażniczką granicy między światem żywych a krainą umarłych. Bohaterowie szukający jej pomocy muszą się wykąpać, dostać jeść i pobierać od niej naukę zanim jej pomoc nastąpi — podejdź właściwie, a jest mądrą pomocnicą; podejdź niewłaściwie, a pożre. Trzej służący jeźdźcy reprezentują świt, południe i noc. Jej żelazne ogrodzenie uwieńczone jest świecącymi czaszkami. Jest prawdopodobnie starsza od samych bogów.",
+      "attributes": {
+        "Domains": [
+          "Magia",
+          "Lasy",
+          "Granica Śmierci",
+          "Mądrość",
+          "Czarowanie",
+          "Próby"
+        ],
+        "Symbols": [
+          "Moździerz i Tłuczek",
+          "Obracająca się chata na kurzych nogach",
+          "Żelazny płot z czaszek",
+          "Miotła"
+        ],
+        "Sacred Animals": [
+          "Czarny kot",
+          "Wąż",
+          "Sowa",
+          "Wrona"
+        ],
+        "Sacred Plants": [
+          "Brzoza (otacza jej chatę)",
+          "Mak"
+        ],
+        "Element": "Ziemia",
+        "Associated Concepts": [
+          "Mądrość",
+          "Granica",
+          "Próby",
+          "Przemiana",
+          "Pradawna Wiedza"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Czech Republic"
+        ],
+        "festivals": [
+          "Nie jest formalnie czczona — pojawia się w baśniach jako postać niejednoznaczna"
+        ],
+        "offerings": [
+          "Właściwe rytualne powitanie",
+          "Praca i służba w zamian za pomoc"
+        ]
+      },
+      "tags": [
+        "witch",
+        "forest",
+        "folklore",
+        "trickster",
+        "wisdom",
+        "death boundary",
+        "hag"
+      ],
+      "thumbnailUrl": "images/deities/012/thumbnail.png",
+      "detailImageUrl": "images/deities/012/detailImage.png"
+    },
+    {
+      "id": "013",
+      "name": "Kupała i Kupało",
+      "alternateNames": [
+        "Ivan Kupala",
+        "Kupalo",
+        "Kupailo"
+      ],
+      "type": "deity pair",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Bliźniacze bóstwa przesilenia letniego, ucieleśniające ogień, wodę i miłość. Ich święto jest najbardziej umiłowaną nocą słowiańskiego roku.",
+      "mythology": "Kupała (żeńska) i Kupało (męski) są bliźniaczymi bóstwami przesilenia letniego. W micie rozdzielono ich przy urodzeniu, zakochali się w sobie nieświadomie po spotkaniu i zostali przemienieni w kwiat paproci i lilię wodną. Ich święto — Noc Iwana Kupały — obchodzone jest podczas przesilenia letniego (23-24 czerwca), zsynchronizowane ze świętym Janem Chrzcicielem. Towarzyszy mu skakanie przez ogniska przez pary, by oczyścić ich związek i pobłogosławić, wróżbiarskie puszczanie wianków na rzekę i legendarne poszukiwanie kwiatu paproci kwitnącego tylko tej jednej nocy, dającego znalazcy bezmiar mądrości i bogactwa.",
+      "attributes": {
+        "Domains": [
+          "Przesilenie Letnie",
+          "Ogień",
+          "Woda",
+          "Miłość",
+          "Płodność",
+          "Oczyszczenie"
+        ],
+        "Symbols": [
+          "Ognisko",
+          "Wianek kwiatowy",
+          "Kwiat paproci",
+          "Rzeka"
+        ],
+        "Sacred Animals": [
+          "Koń",
+          "Świetlik",
+          "Żaba"
+        ],
+        "Sacred Plants": [
+          "Paproć (Paprot)",
+          "Lilia wodna",
+          "Piołun",
+          "Dziurawiec"
+        ],
+        "Element": "Ogień i Woda",
+        "Season": "Lato",
+        "Associated Concepts": [
+          "Miłość",
+          "Oczyszczenie",
+          "Wróżbiarstwo",
+          "Odnowa",
+          "Zjednoczenie"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "028"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Czech Republic",
+          "Serbia"
+        ],
+        "festivals": [
+          "Noc Iwana Kupały (23-24 czerwca)"
+        ],
+        "offerings": [
+          "Wianki puszczane na wodę",
+          "Skakanie przez ogniska",
+          "Pieśni i tańce",
+          "Kwiaty"
+        ]
+      },
+      "tags": [
+        "summer solstice",
+        "fertility",
+        "fire",
+        "water",
+        "love",
+        "major festival"
+      ],
+      "thumbnailUrl": "images/deities/013/thumbnail.png",
+      "detailImageUrl": "images/deities/013/detailImage.png"
+    },
+    {
+      "id": "014",
+      "name": "Strzybóg",
+      "alternateNames": [
+        "Stribok",
+        "Striboh"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Bóg wiatru, powietrza i nieba. Dziadek wszystkich wiatrów — od najdelikatniejszej bryzy po najpotężniejszy huragan.",
+      "mythology": "Strzybóg jest bogiem wiatrów, powietrza i nieba, wymienionym wśród bożków wzniesionych przez Włodzimierza w Kijowie (980 r. n.e.). W słynnym Słowie o wyprawie Igora (ok. 1185 r.) wiatry zwane są 'wnukami Strzyboga', jego potomkami wiejącymi ze wszystkich ośmiu kierunków. Jego imię wywodzi się od rdzenia 'stri' oznaczającego szerzenie lub rozpraszanie. Kontroluje wszystkie wiatry — sprzyjającą pogodę dla żeglarzy, dobre warunki dla plonów lub niszczycielskie burze. Przedstawiany jest jako siwobrody stary mężczyzna dmuchający przez zaciśnięte wargi, którego oddech niesie wiadomości i nasiona na wielkie odległości.",
+      "attributes": {
+        "Domains": [
+          "Wiatr",
+          "Powietrze",
+          "Niebo",
+          "Pogoda",
+          "Burze",
+          "Oddech"
+        ],
+        "Symbols": [
+          "Pióro",
+          "Wiatrowskaz",
+          "Skrzydła ptaka",
+          "Para oddechu"
+        ],
+        "Sacred Animals": [
+          "Orzeł",
+          "Sokół",
+          "Wszystkie ptaki"
+        ],
+        "Sacred Plants": [
+          "Trawy poruszane przez wiatr",
+          "Mniszek lekarski (nasiona roznoszone przez wiatr)"
+        ],
+        "Element": "Powietrze",
+        "Associated Concepts": [
+          "Wolność",
+          "Zmiana",
+          "Tchnienie Życia",
+          "Wiadomości na Wietrze"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Rytuały burzowe",
+          "Modlitwy przed wyprawą na morze"
+        ],
+        "offerings": [
+          "Okruszyny chleba rzucane w wiatr",
+          "Modlitwy przed morską podróżą lub wyruszeniem w drogę"
+        ]
+      },
+      "tags": [
+        "wind",
+        "air",
+        "weather",
+        "sky",
+        "nature",
+        "major deity",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/014/thumbnail.png",
+      "detailImageUrl": "images/deities/014/detailImage.png"
+    },
+    {
+      "id": "015",
+      "name": "Leszy",
+      "alternateNames": [
+        "Leshiy",
+        "Lesovik",
+        "Borowy",
+        "Leszy"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Duch opiekun lasu i strażnik całej dzikiej przyrody. Zmiennokształtny prowadzący intruzów na manowce.",
+      "mythology": "Leszy jest duchem opiekunem lasu — jednym z najpotężniejszych duchów natury w słowiańskich wierzeniach. Może pojawić się jako olbrzym sięgający głową wierzchołków drzew lub skulić się do wysokości grzyba. Może wyglądać jak miejscowy chłop, ale z kożuchem na lewą stronę lub pojawiać się bez brwi, rzęs czy prawego ucha. Wiedzie podróżnych z drogi za pomocą złudzeń i ech. Aby złamać jego czar, należy wywrócić wszystkie ubrania na lewą stronę. Myśliwi muszą zawrzeć pakt z Leszym dla dobrego łowieckiego szczęścia. Jesienią zapada w sen zimowy; wiosną budzi się na nowo. Jest pasterzem wszystkich leśnych zwierząt — wilki, niedźwiedzie i jelenie są jego stadem.",
+      "attributes": {
+        "Domains": [
+          "Las",
+          "Dzika Przyroda",
+          "Łowiectwo",
+          "Natura",
+          "Złudzenie",
+          "Zbłąkani Podróżni"
+        ],
+        "Symbols": [
+          "Leśna ścieżka",
+          "Kożuch na lewą stronę",
+          "Grzyb",
+          "Echo"
+        ],
+        "Sacred Animals": [
+          "Niedźwiedź",
+          "Wilk",
+          "Sowa",
+          "Wszystkie zwierzęta leśne"
+        ],
+        "Sacred Plants": [
+          "Sosna",
+          "Brzoza",
+          "Wszystkie drzewa leśne"
+        ],
+        "Element": "Ziemia",
+        "Season": "Wiosna do Jesieni (hibernuje zimą)",
+        "Associated Concepts": [
+          "Psoty",
+          "Ochrona Dzikiej Przyrody",
+          "Dzikość",
+          "Zmiana Kształtu"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland"
+        ],
+        "festivals": [
+          "Wiosenne przebudzenie (kwiecień)",
+          "Jesienny sen (4/17 października)"
+        ],
+        "offerings": [
+          "Chleb i sól zostawione na skraju lasu",
+          "Pierwsza złowiona zwierzyna oddana z powrotem",
+          "Tytoń"
+        ]
+      },
+      "tags": [
+        "forest",
+        "nature spirit",
+        "shapeshifter",
+        "animals",
+        "wilderness",
+        "trickster"
+      ],
+      "thumbnailUrl": "images/deities/015/thumbnail.png",
+      "detailImageUrl": "images/deities/015/detailImage.png"
+    },
+    {
+      "id": "016",
+      "name": "Rusałka",
+      "alternateNames": [
+        "Rusalka",
+        "Rusałki",
+        "Mavka",
+        "Navki",
+        "Bereginya"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "South Slavic",
+        "West Slavic"
+      ],
+      "description": "Duchy wodne i dusze młodych kobiet, które zmarły przed zamążpójściem. Piękne i śmiertelnie niebezpieczne, strzegą wód i zapewniają deszcz dla plonów.",
+      "mythology": "Rusałki (l.mn.) są duchami młodych kobiet, które zmarły przed zamążpójściem, utopiły się lub zginęły gwałtowną śmiercią. Zamieszkują rzeki, jeziora i lasy, szczególnie aktywne w tygodniu Rusaliów (tydzień przed Zielonymi Świątkami). Tańczą na oświetlonych księżycem polanach — trawa rośnie bardziej zielona tam, gdzie tańczyły. Mogą wabić mężczyzn ku śmierci przez utopienie lub łaskotanie ich aż do zgonu. Zapewniają też deszcz dla plonów, czyniąc je zarówno niebezpiecznymi, jak i niezbędnymi. W tygodniu Rusaliów ludzie unikali wody i lasów i nosili piołun, by je odstraszać. Ukraiński wariant Mawka jest szczególnie złośliwy. Reprezentują moc niespokojnych umarłych i głęboką ambiwalencję wody.",
+      "attributes": {
+        "Domains": [
+          "Woda",
+          "Śmierć",
+          "Płodność",
+          "Deszcz",
+          "Niespokojni Umarli",
+          "Piękno"
+        ],
+        "Symbols": [
+          "Długie rozpuszczone włosy",
+          "Woda rzeki",
+          "Wianek kwiatowy",
+          "Sieć"
+        ],
+        "Sacred Animals": [
+          "Ryba",
+          "Łabędź",
+          "Żaba",
+          "Wąż"
+        ],
+        "Sacred Plants": [
+          "Piołun (odpędza je)",
+          "Lilia wodna",
+          "Wierzba",
+          "Paproć"
+        ],
+        "Element": "Woda",
+        "Season": "Wiosna (tydzień Rusaliów)",
+        "Associated Concepts": [
+          "Niebezpieczeństwo",
+          "Uwodzenie",
+          "Płodność",
+          "Zemsta",
+          "Deszcz dla Plonów"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Tydzień Rusaliów (tydzień przed Zielonymi Świątkami)",
+          "Noc Świętojańska"
+        ],
+        "offerings": [
+          "Wianki puszczane na wodę",
+          "Nić",
+          "Haftowane chusty zostawiane na brzegach rzek"
+        ]
+      },
+      "tags": [
+        "water spirit",
+        "female",
+        "dangerous",
+        "fertility",
+        "unquiet dead",
+        "nature spirit"
+      ],
+      "thumbnailUrl": "images/deities/016/thumbnail.png",
+      "detailImageUrl": "images/deities/016/detailImage.png"
+    },
+    {
+      "id": "017",
+      "name": "Domowina",
+      "alternateNames": [
+        "Domovyna",
+        "Ojczyzna",
+        "Rodina"
+      ],
+      "type": "personification",
+      "origin": [
+        "South Slavic",
+        "West Slavic",
+        "East Slavic"
+      ],
+      "description": "Personifikacja ojczyzny przodków. Ucieleśnia świętą więź między ludem a jego ziemią, obejmując zarówno żywych, jak i umarłych.",
+      "mythology": "Domowina jest personifikacją ojczyzny przodków — pojęciem głęboko zakorzenionym w słowiańskiej tożsamości kulturowej. Reprezentuje świętą więź między ludem a jego ziemią, fizyczną ziemią przodków. Znamiennie, słowo 'domowina' w wielu językach słowiańskich oznacza również 'trumnę' — dom umarłych — łącząc ojczyznę zarówno z żywymi korzeniami, jak i miejscem pochówku przodków. To podwójne znaczenie odzwierciedla słowiańskie rozumienie, że ziemia łączy zarówno żywych, jak i przodków. Ucieleśnia patriotyzm, przynależność, zakorzenienie i duchową ciągłość pokoleń związanych z tą samą ziemią.",
+      "attributes": {
+        "Domains": [
+          "Ojczyzna",
+          "Przodkowie",
+          "Pamięć",
+          "Przynależność",
+          "Ziemia"
+        ],
+        "Symbols": [
+          "Ogień ogniska",
+          "Kopiec przodków",
+          "Pole pszenicy",
+          "Wioska"
+        ],
+        "Sacred Animals": [
+          "Bocian",
+          "Jaskółka (ptaki zawsze wracające do domu)"
+        ],
+        "Sacred Plants": [
+          "Dąb",
+          "Lipa",
+          "Pszenica"
+        ],
+        "Element": "Ziemia",
+        "Associated Concepts": [
+          "Patriotyzm",
+          "Przynależność",
+          "Zakorzenienie",
+          "Pamięć Przodków"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "All Slavic lands"
+        ],
+        "festivals": [
+          "Dni czci przodków",
+          "Święta plonów"
+        ],
+        "offerings": [
+          "Pielęgnowanie grobów przodków",
+          "Pierwsze żniwa zwrócone ziemi"
+        ]
+      },
+      "tags": [
+        "personification",
+        "homeland",
+        "cultural",
+        "ancestors",
+        "earth"
+      ],
+      "thumbnailUrl": "images/deities/017/thumbnail.png",
+      "detailImageUrl": "images/deities/017/detailImage.png"
+    },
+    {
+      "id": "018",
+      "name": "Jaryło",
+      "alternateNames": [
+        "Gerovit",
+        "Yarovit",
+        "Jaryło",
+        "Gerović"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Bóg wiosny, roślinności i powracającego słońca. Jego coroczne przybycie przynosi światu ciepło i płodność.",
+      "mythology": "Jaryło jest młodym bogiem wiosny, roślinności i powracającej mocy słońca. Jego imię pochodzi od słowa 'jar' — wiosenny zapał, wigor i namiętna energia. W wielkim cyklu mitów jest synem Peruna, rodzi się zimą i zostaje porwany przez Welesa, który wychowuje go w podziemiu (Nawii) — odwrotnym świecie za morzem. Każdej wiosny przechodzi z powrotem do krainy żywych na białym koniu, przynosząc ciepło i płodność. Swata się i poślubia Marzannę (swoją mityczną siostrę-bliźniaczkę) latem. Pod koniec lata zostaje zabity — jego śmierć oznacza koniec sezonu wegetacyjnego i przemienia Marzannę z powrotem w boginię zimy. Ten cykl śmierci i odrodzenia odzwierciedla rok rolniczy.",
+      "attributes": {
+        "Domains": [
+          "Wiosna",
+          "Płodność",
+          "Roślinność",
+          "Namiętność",
+          "Młodość",
+          "Żniwa"
+        ],
+        "Symbols": [
+          "Biały koń",
+          "Wieniec kwiatowy",
+          "Zielona gałązka",
+          "Snop pszenicy"
+        ],
+        "Sacred Animals": [
+          "Biały koń",
+          "Kogut",
+          "Byk"
+        ],
+        "Sacred Plants": [
+          "Pszenica",
+          "Trawa",
+          "Wczesne wiosenne kwiaty",
+          "Bazie wierzbowe"
+        ],
+        "Element": "Ziemia",
+        "Season": "Wiosna",
+        "Associated Concepts": [
+          "Odrodzenie",
+          "Namiętność",
+          "Obfitość",
+          "Młodość",
+          "Cykl Sezonów"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "004",
+          "011"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Dzień Jerzego (5 maja / zsynchronizowany z dniem Św. Jerzego)",
+          "Zielony Tydzień (Semik)"
+        ],
+        "offerings": [
+          "Pierwsze wiosenne kwiaty",
+          "Chleb",
+          "Jajka",
+          "Pierwsze zielone gałązki"
+        ]
+      },
+      "tags": [
+        "spring",
+        "fertility",
+        "vegetation",
+        "youth",
+        "seasonal",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/018/thumbnail.png",
+      "detailImageUrl": "images/deities/018/detailImage.png"
+    },
+    {
+      "id": "019",
+      "name": "Dola i Sudba",
+      "alternateNames": [
+        "Dolya",
+        "Nedolya",
+        "Sudba",
+        "Sud",
+        "Sreća",
+        "Nesreća"
+      ],
+      "type": "deity pair",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Personifikacje osobistego losu i fortuny. Dola przynosi szczęście; Niedola przynosi nieszczęście. Razem tkają nić każdego ludzkiego życia.",
+      "mythology": "Dola (Dobry Los) i Niedola (Zły Los/Nieszczęście) są uosobieniami duchów losu przydzielanych każdemu człowiekowi przy urodzeniu. Dola to piękna młoda kobieta podążająca za szczęśliwcem, podczas gdy Niedola to wynędzniana stara kobieta dręcząca pechowca. Sudba (Przeznaczenie) jest szerszą siłą rządzącą ustaloną ścieżką czyjegoś życia. W serbskiej tradycji Sreća (Szczęście) jest kobietą przędącą los. Nie można w pełni uciec swojej Sudbie, ale utrzymywanie swojej Doli w dobrostanie poprzez prawe życie pomaga. Te duchy odzwierciedlają głębokie słowiańskie filozoficzne poczucie, że los jest rzeczą osobistą, utkaną — nicią uprzędzoną przy czyichś narodzinach.",
+      "attributes": {
+        "Domains": [
+          "Los",
+          "Przeznaczenie",
+          "Fortuna",
+          "Szczęście",
+          "Ścieżka Życia"
+        ],
+        "Symbols": [
+          "Przędzona nić",
+          "Waga",
+          "Rozstaj dróg",
+          "Dwie drogi"
+        ],
+        "Sacred Animals": [
+          "Motyl (dusza)",
+          "Pszczoła"
+        ],
+        "Sacred Plants": [
+          "Roślina-nić (symboliczna)"
+        ],
+        "Element": "Eter",
+        "Associated Concepts": [
+          "Przeznaczenie",
+          "Fortuna",
+          "Karma",
+          "Dwoistość",
+          "Tkanie Życia"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "005"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Rytuały narodzinowe",
+          "Noworoczne wróżby"
+        ],
+        "offerings": [
+          "Ofiary z nici",
+          "Modlitwy na rozstaju dróg"
+        ]
+      },
+      "tags": [
+        "fate",
+        "destiny",
+        "fortune",
+        "duality",
+        "personification",
+        "luck"
+      ],
+      "thumbnailUrl": "images/deities/019/thumbnail.png",
+      "detailImageUrl": "images/deities/019/detailImage.png"
+    },
+    {
+      "id": "020",
+      "name": "Simargl",
+      "alternateNames": [
+        "Semargl",
+        "Semargl-Mokosh"
+      ],
+      "type": "creature",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Święty skrzydlaty pies-smok i strażnik nasion oraz świętego ognia. Wymieniony wśród bogów kijowskiego panteonu Włodzimierza.",
+      "mythology": "Simargl jest mitycznym skrzydlatym psem lub psem-smokiem, prawdopodobnie zapożyczonym od irańskiego Simurgha (wielkiego ptaka Saena). Wymieniony jest wśród bożków wzniesionych przez Włodzimierza w Kijowie (980 r. n.e.), potwierdzając jego kanoniczny status. Jest strażnikiem nasion i kiełków — chroniącym święte zboże przed zniszczeniem i łączącym ziemię z niebem jako pośrednik. W jednej kosmologicznej interpretacji boginie Zorza przykuwają go do Gwiazdy Polarnej (Polaris); jeśli kiedykolwiek łańcuch pęknie i ucieknie, świat się skończy. Przedstawiany jest jako pies-gryf dwugłowy lub skrzydlaty hybryda lew-pies.",
+      "attributes": {
+        "Domains": [
+          "Ochrona",
+          "Nasiona",
+          "Święty Ogień",
+          "Strażnik Kosmiczny",
+          "Oś Świata"
+        ],
+        "Symbols": [
+          "Skrzydlaty pies",
+          "Nasiona i zboże",
+          "Łańcuch do Gwiazdy Polarnej"
+        ],
+        "Sacred Animals": [
+          "Brak — sam jest boskim stworzeniem"
+        ],
+        "Sacred Plants": [
+          "Zboże",
+          "Nasiono",
+          "Kiełek"
+        ],
+        "Element": "Ogień i Ziemia",
+        "Associated Concepts": [
+          "Strażnictwo",
+          "Ochrona Plonów",
+          "Równowaga Kosmiczna",
+          "Zapobieganie Apokalipsie"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "008"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Rolnicze święta siewów"
+        ],
+        "offerings": [
+          "Nasiona",
+          "Pierwsze kiełki sezonu"
+        ]
+      },
+      "tags": [
+        "creature",
+        "guardian",
+        "sacred fire",
+        "seeds",
+        "divine animal",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/020/thumbnail.png",
+      "detailImageUrl": "images/deities/020/detailImage.png"
+    },
+    {
+      "id": "021",
+      "name": "Weleslav",
+      "alternateNames": [
+        "Velesslav"
+      ],
+      "type": "deity",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Czcigodna postać pradawnej mądrości związana z kultem Welesa. Strażnik wiedzy przodków i tradycji ustnej.",
+      "mythology": "Weleslav jest postacią związaną z kultem Welesa, ucieleśniającą czcigodne aspekty boskiej mądrości. Imię łączy Welesa (podziemnego boga mądrości i bydła) ze 'sław' (chwała/sława). Reprezentuje wiedzę starszych — nagromadzoną pamięć przodków, świętą tradycję ustną i prorocki wgląd przekazywany z pokolenia na pokolenie. W neopogańskich słowiańskich tradycjach odrodzeniowych utożsamiany jest ze świętą wiedzą, proroctwem i pradawnymi tradycjami mądrości pielęgnowanymi przez bardów i jasnowidzów. Służy jako pośrednik między boską sferą Welesa a ludzkimi poszukiwaczami mądrości.",
+      "attributes": {
+        "Domains": [
+          "Mądrość",
+          "Wiedza",
+          "Pradawna Tradycja",
+          "Proroctwo",
+          "Pamięć"
+        ],
+        "Symbols": [
+          "Pradawna rzeźbiona laska",
+          "Znaki runiczne",
+          "Drewno bzowe"
+        ],
+        "Sacred Animals": [
+          "Sowa",
+          "Kruk"
+        ],
+        "Sacred Plants": [
+          "Bez czarny",
+          "Jemioła"
+        ],
+        "Element": "Ziemia",
+        "Associated Concepts": [
+          "Mądrość Starszych",
+          "Pamięć Przodków",
+          "Proroctwo",
+          "Sztuki Bardów"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "004"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine"
+        ],
+        "festivals": [
+          "Zimowe rytuały mądrości podczas przesilenia"
+        ],
+        "offerings": [
+          "Wiersze i pieśni",
+          "Miód pitny",
+          "Pierwsze napisane lub wypowiedziane słowa nowego dzieła"
+        ]
+      },
+      "tags": [
+        "wisdom",
+        "knowledge",
+        "elder",
+        "minor deity",
+        "bard",
+        "prophecy"
+      ],
+      "thumbnailUrl": "images/deities/021/thumbnail.png",
+      "detailImageUrl": "images/deities/021/detailImage.png"
+    },
+    {
+      "id": "022",
+      "name": "Żywa",
+      "alternateNames": [
+        "Živa",
+        "Siwa",
+        "Zywie",
+        "Zhivana"
+      ],
+      "type": "goddess",
+      "origin": [
+        "West Slavic",
+        "South Slavic",
+        "East Slavic"
+      ],
+      "description": "Bogini życia, żywej natury i witalności. Boska odpowiedniczka Marzanny, której panowanie rozpoczyna się wraz ze śmiercią zimy.",
+      "mythology": "Żywa (Ta Żywa) jest boginią życia, żywej natury i witalności. Jest boskim ucieleśnieniem żywotności — siły ożywiającej wszystkie żywe istoty. Jest odpowiedniczką i rywalką Marzanny: gdy kukła Marzanny jest spalana lub topiona w wiosennym rytuale, rozpoczyna się panowanie Żywy. Czczona jest jako Siwa przez Słowian Połabskich w Ratibor. Pojawia się jako piękna młoda kobieta w letnich szatach, przynosząc kwiaty i obfitość wszędzie, gdzie stąpa. Kukułka jest jej poświęcona — jej kukaność przepowiada, ile lat jeszcze przeżyjesz. Reprezentuje nieśmiertelną, wiecznie odnawiającą się siłę życiową natury.",
+      "attributes": {
+        "Domains": [
+          "Życie",
+          "Natura",
+          "Witalność",
+          "Płodność",
+          "Wiosna",
+          "Żywy Świat"
+        ],
+        "Symbols": [
+          "Zielona gałązka",
+          "Jabłko",
+          "Piórko kukułki",
+          "Wiosenna woda"
+        ],
+        "Sacred Animals": [
+          "Kukułka",
+          "Gołąb",
+          "Jeleń"
+        ],
+        "Sacred Plants": [
+          "Jabłoń",
+          "Wszystkie kwitnące rośliny",
+          "Świeże zielone liście"
+        ],
+        "Element": "Ziemia",
+        "Season": "Wiosna do Lata",
+        "Associated Concepts": [
+          "Nieśmiertelność Natury",
+          "Odnowa",
+          "Siła Życiowa",
+          "Radość"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "011"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Poland",
+          "Czech Republic",
+          "Slovakia",
+          "Serbia",
+          "Russia"
+        ],
+        "festivals": [
+          "Wiosenne święta po topieniu Marzanny"
+        ],
+        "offerings": [
+          "Pierwsze wiosenne kwiaty",
+          "Kwiaty jabłoni",
+          "Pieśni życia i odnowy"
+        ]
+      },
+      "tags": [
+        "life",
+        "nature",
+        "spring",
+        "fertility",
+        "minor deity",
+        "counterpart to death"
+      ],
+      "thumbnailUrl": "images/deities/022/thumbnail.png",
+      "detailImageUrl": "images/deities/022/detailImage.png"
+    },
+    {
+      "id": "023",
+      "name": "Dziwi",
+      "alternateNames": [
+        "Div",
+        "Diva",
+        "Wild One"
+      ],
+      "type": "spirit",
+      "origin": [
+        "South Slavic",
+        "East Slavic"
+      ],
+      "description": "Duch dzikiej, nieokiełznanej natury. Pierwotna siła przekraczająca ludzką cywilizację, przynosząca złowieszcze znaki i budzącą podziw moc.",
+      "mythology": "Dziw (Dziki) jest duchem nieokiełznanej, pierwotnej natury — siłą czystej dzikości. Wspomniany jest w Słowie o wyprawie Igora jako nadnaturalna istota zwiastująca z wierzchołków drzew nadchodzącą katastrofę. Ucieleśnia dzikie przestrzenie poza ludzką osadą: głęboki las, odległe góry i niezbadane terytoria. Nie jest ani dobry, ani zły — jest po prostu pierwotny i poza ludzką kontrolą — budzący podziw i przerażający zarazem. W południowosłowiańskiej tradycji Diwa jest jego żeńskim odpowiednikiem. Jest głosem natury ostrzegającym tych, którzy słuchają, i zniszczeniem spadającym na tych, którzy nie słuchają.",
+      "attributes": {
+        "Domains": [
+          "Dzika Natura",
+          "Puszcza",
+          "Chaos",
+          "Pierwotna Siła",
+          "Złowieszcze Znaki"
+        ],
+        "Symbols": [
+          "Dziki las",
+          "Nieokiełznana rzeka",
+          "Szczyt górski",
+          "Krzyk ptaka"
+        ],
+        "Sacred Animals": [
+          "Wilk",
+          "Ryś",
+          "Orzeł",
+          "Wszystkie dzikie drapieżniki"
+        ],
+        "Sacred Plants": [
+          "Wszystkie nieuprawiane dzikie rośliny"
+        ],
+        "Element": "Ziemia",
+        "Associated Concepts": [
+          "Dzikość",
+          "Omen",
+          "Pierwotny Strach",
+          "Wolność",
+          "Suwerenna Moc Natury"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Serbia",
+          "Bulgaria",
+          "Russia",
+          "Ukraine"
+        ],
+        "festivals": [
+          "Brak formalnego kultu — przebłagiwany przy wchodzeniu w dzikie przestrzenie"
+        ],
+        "offerings": [
+          "Milczenie i szacunek na dzikiej przyrodzie",
+          "Nieścinanie żywych drzew bez potrzeby"
+        ]
+      },
+      "tags": [
+        "wild",
+        "nature",
+        "forest spirit",
+        "primal",
+        "omen",
+        "spirit"
+      ],
+      "thumbnailUrl": "images/deities/023/thumbnail.png",
+      "detailImageUrl": "images/deities/023/detailImage.png"
+    },
+    {
+      "id": "024",
+      "name": "Trzygłów",
+      "alternateNames": [
+        "Triglaw",
+        "Three-Headed One"
+      ],
+      "type": "deity",
+      "origin": [
+        "West Slavic"
+      ],
+      "description": "Trójgłowe bóstwo rządzące jednocześnie niebem, ziemią i podziemiem. Czczone przez bałtyckie plemiona słowiańskie ze świętym czarnym koniem używanym do wróżbiarstwa.",
+      "mythology": "Trzygłów jest potężnym bóstwem czczonym przez bałtyckie plemiona słowiańskie, przede wszystkim w Szczecinie i Brandenburgii. Jego imię oznacza 'Trójgłowy' i przedstawiany jest z trzema złotymi głowami, z oczyma zasłoniętymi złotymi woalami — gdyż oglądanie grzechów ludzkości napełnia go smutkiem. Jednocześnie włada nad wszystkimi trzema sferami: niebem, ziemią i podziemiem. W Szczecinie Trzygłów posiadał wspaniałą świątynię i świętego czarnego konia używanego do wróżbiarstwa — koń był prowadzony przez skrzyżowane włócznie, a jeśli je omijał nie dotykając, zapowiadało to zwycięstwo w bitwie. Jego świątynia była szczegółowo opisana przez biskupa Ottona z Bambergu, który nawracał Pomorzan w 1124 r. n.e.",
+      "attributes": {
+        "Domains": [
+          "Niebo",
+          "Ziemia",
+          "Podziemie",
+          "Jedność Kosmiczna",
+          "Wróżbiarstwo",
+          "Wojna"
+        ],
+        "Symbols": [
+          "Trzy głowy (lub jedna głowa z trzema twarzami)",
+          "Złote woale na oczach",
+          "Czarny koń",
+          "Skrzyżowane włócznie"
+        ],
+        "Sacred Animals": [
+          "Czarny koń (wróżbiarstwo)",
+          "Orzeł"
+        ],
+        "Sacred Plants": [
+          "Brak konkretnych"
+        ],
+        "Element": "Eter (wszystkie żywioły zjednoczone)",
+        "Associated Concepts": [
+          "Trójnia",
+          "Równowaga Kosmiczna",
+          "Wszechwiedza",
+          "Jedność Światów"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Pomerania",
+          "Mecklenburg",
+          "Brandenburg",
+          "Western Slavic Baltic coast"
+        ],
+        "festivals": [
+          "Rytuały wróżebne przed bitwą",
+          "Sezonowe rytuały w świątyni w Szczecinie"
+        ],
+        "offerings": [
+          "Dziesiąta część łupów wojennych",
+          "Święty czarny koń (przechowywany, nie ofiarowywany)",
+          "Złoto"
+        ]
+      },
+      "tags": [
+        "triform",
+        "cosmic",
+        "sky",
+        "earth",
+        "underworld",
+        "West Slavic",
+        "Baltic Slavic"
+      ],
+      "thumbnailUrl": "images/deities/024/thumbnail.png",
+      "detailImageUrl": "images/deities/024/detailImage.png"
+    },
+    {
+      "id": "025",
+      "name": "Żywini Pole",
+      "alternateNames": [
+        "Field of the Living",
+        "Vyraj",
+        "Iriy",
+        "Vyriy"
+      ],
+      "type": "mythical place",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Słowiański raj — mityczna słoneczna łąka wiecznej wiosny, gdzie odpoczywają dusze sprawiedliwych pomiędzy wcieleniami.",
+      "mythology": "Żywini Pole (Pole Żywych) jest mitycznym rajem — słowiańskim odpowiednikiem Elizjum lub Edenu. Jest słoneczną łąką wiecznej wiosny, gdzie dusze sprawiedliwych udają się na odpoczynek. Powiązana koncepcja Wyraju (Vyriy) to ciepły południowy raj, dokąd ptaki migrują na zimę i gdzie dusze odpoczywają pomiędzy wcieleniami. W słowiańskiej kosmologii trzech światów (Prawy-Nawy-Jawi) istnieje w Prawii — sferze boskiego porządku i sprawiedliwych umarłych. Opisywana jest jako bezmierne zielone pola, rzeki mleka i miodu i wieczne ciepłe słońce, położona za Oceanem Światowym na krańcu świata, gdzie stoi Drzewo Świata.",
+      "attributes": {
+        "Domains": [
+          "Zaświaty",
+          "Raj",
+          "Boski Porządek",
+          "Odpoczynek",
+          "Sprawiedliwi Umarli"
+        ],
+        "Symbols": [
+          "Zielona łąka",
+          "Rzeka mleka",
+          "Wieczne słońce",
+          "Dąb-Świat w centrum"
+        ],
+        "Sacred Animals": [
+          "Wszystkie ptaki (znające drogę do Wyraju)"
+        ],
+        "Sacred Plants": [
+          "Wszystkie rośliny w wiecznym rozkwicie"
+        ],
+        "Element": "Eter",
+        "Associated Concepts": [
+          "Raj",
+          "Wieczne Życie",
+          "Prawość",
+          "Porządek Kosmiczny",
+          "Reinkarnacja"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia"
+        ],
+        "festivals": [
+          "Dni czci przodków (Rodźica), gdy dusze odwiedzają z tej sfery"
+        ],
+        "offerings": [
+          "Modlitwy za sprawiedliwych umarłych",
+          "Jedzenie zostawiane przy grobach"
+        ]
+      },
+      "tags": [
+        "afterlife",
+        "paradise",
+        "mythical location",
+        "cosmic",
+        "righteous dead"
+      ],
+      "thumbnailUrl": "images/deities/025/thumbnail.png",
+      "detailImageUrl": "images/deities/025/detailImage.png"
+    },
+    {
+      "id": "026",
+      "name": "Rodźica",
+      "alternateNames": [
+        "Rozhanitsa",
+        "Rozhanitsy (plural)",
+        "Birth Goddess"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Bogini narodzin związana z Rodem. Ona i Rodzanice pojawiają się przy każdych narodzinach, by utkać los i życiową ścieżkę noworodka.",
+      "mythology": "Rodźica (lub Rodzanice, jej liczba mnoga) są boginkami narodzin związanymi z Rodem, bóstwem stwórczym. Pojawiają się w chwili narodzin dziecka, by utkać jego los i określić ścieżkę jego życia — analogicznie do greckich Mojr lub rzymskich Parek. Dwie lub trzy Rodzanice są obecne przy każdych narodzinach: jedna przędzie nić życia (jej długość), druga tka jej jakość, a trzecia określa fortunę lub nieszczęście. Średniowieczne słowiańskie teksty kościelne gwałtownie potępiały zwyczaj zostawiania uczt dla Rodzanic — chleba, miodu, sera i kaszy — co wskazuje na powszechność i głębię ich kultu na ziemiach słowiańskich.",
+      "attributes": {
+        "Domains": [
+          "Narodziny",
+          "Los",
+          "Macierzyństwo",
+          "Płodność",
+          "Rodzina",
+          "Dzieciństwo"
+        ],
+        "Symbols": [
+          "Wrzeciono",
+          "Nić",
+          "Pieluszki",
+          "Węzeł narodzinowy (rozwiązywany podczas porodu)"
+        ],
+        "Sacred Animals": [
+          "Łania (jeleń)",
+          "Jaskółka"
+        ],
+        "Sacred Plants": [
+          "Jarzębina",
+          "Lipa"
+        ],
+        "Element": "Ziemia",
+        "Associated Concepts": [
+          "Los przy Narodzinach",
+          "Ochrona Macierzyńska",
+          "Ścieżka Życia",
+          "Ciągłość Rodziny"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "005"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Uczta Rodzanic (po żniwach)",
+          "Rytuały narodzinowe",
+          "Rodźica (dzień przodków)"
+        ],
+        "offerings": [
+          "Chleb",
+          "Miód",
+          "Ser",
+          "Kasza zostawiana po narodzinach"
+        ]
+      },
+      "tags": [
+        "fertility",
+        "birth",
+        "motherhood",
+        "fate",
+        "domestic",
+        "minor deity"
+      ],
+      "thumbnailUrl": "images/deities/026/thumbnail.png",
+      "detailImageUrl": "images/deities/026/detailImage.png"
+    },
+    {
+      "id": "027",
+      "name": "Jesion",
+      "alternateNames": [
+        "Yesen",
+        "Ash God",
+        "Spirit of the Ash Tree"
+      ],
+      "type": "deity",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Boski strażnik jesionu i duch wiosennego powrotu lasu do życia. Rządzi leczeniem i Drzewem Świata.",
+      "mythology": "Jesion jest boską personifikacją i duchem opiekunem jesionu — 'yasen' to słowiańskie słowo oznaczające jesion. Jesion jest jednym z najbardziej świętych drzew w słowiańskiej i indoeuropejskiej tradycji; w niektórych słowiańskich wariantach Drzewem Świata jest jesion, a nie dąb. Jesion ucieleśnia powrót życia do lasu wiosną — zielenienie się jesionów będące jednym z pewniejszych znaków, że zima w pełni minęła. Rządzi leczniczymi właściwościami drewna jesionowego: kora, liście i skrzydlate nasiona (kluczyki) jesionu były szeroko stosowane w słowiańskiej medycynie ludowej na rany, ukąszenia węży i gorączki. Jest łagodnym, skupionym na odnowie bóstwem leśnych miejsc.",
+      "attributes": {
+        "Domains": [
+          "Jesiony",
+          "Wiosna",
+          "Las",
+          "Leczenie",
+          "Odnowa",
+          "Drzewo Świata"
+        ],
+        "Symbols": [
+          "Gałązka jesionu",
+          "Kluczyki jesionowe (skrzydlate nasiona)",
+          "Świeże zielone pąki"
+        ],
+        "Sacred Animals": [
+          "Żmija/Wąż (żyją przy korzeniach jesionu)",
+          "Dzięcioł"
+        ],
+        "Sacred Plants": [
+          "Jesion",
+          "Kluczyki jesionowe (nasiona)"
+        ],
+        "Element": "Ziemia",
+        "Season": "Wiosna",
+        "Associated Concepts": [
+          "Leczenie",
+          "Odnowa",
+          "Święte Drewno",
+          "Oś Drzewa Świata",
+          "Ochrona"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland"
+        ],
+        "festivals": [
+          "Wiosenne rytuały drzewne",
+          "Pierwsze zielenienie się jesionów"
+        ],
+        "offerings": [
+          "Pierwsze wiosenne kwiaty przywiązane do gałęzi jesionu",
+          "Amulety z rzeźbionego drewna jesionowego"
+        ]
+      },
+      "tags": [
+        "trees",
+        "spring",
+        "forest",
+        "healing",
+        "minor deity",
+        "ash tree",
+        "world tree"
+      ],
+      "thumbnailUrl": "images/deities/027/thumbnail.png",
+      "detailImageUrl": "images/deities/027/detailImage.png"
+    },
+    {
+      "id": "028",
+      "name": "Łada",
+      "alternateNames": [
+        "Lado",
+        "Łada",
+        "Lada-Lado"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Bogini piękna, miłości, harmonii i małżeństwa. Jej imię rozbrzmiewa w pradawnych słowiańskich pieśniach rytualnych śpiewanych na wszystkich ziemiach słowiańskich.",
+      "mythology": "Łada jest boginią piękna, miłości, harmonii, małżeństwa i wiosny. Jej imię jest rdzeniem słowiańskiego słowa 'ład' — harmonia, porządek i pokój. Pojawia się jako promieniejąca młoda kobieta ukoronowana kwiatami. Jej imię i imię jej męskiego odpowiednika Łado pojawiają się jako rytualny refren w niezliczonych pradawnych słowiańskich pieśniach obrzędowych (łada, łado, łado!), świadcząc o jej głębokiej integracji z muzyką ludową, weselami i sezonowymi uroczystościami. Przewodzi wszystkim związkom miłosnym i małżeństwom. Wiosną i latem czczona jest pieśniami, tańcami w kole (chorowód) i kwiatowymi girlandami. Być może jest kognatem bałtyckiej Laimy, bogini szczęścia i losu.",
+      "attributes": {
+        "Domains": [
+          "Miłość",
+          "Piękno",
+          "Harmonia",
+          "Małżeństwo",
+          "Wiosna",
+          "Muzyka",
+          "Taniec"
+        ],
+        "Symbols": [
+          "Wieniec kwiatowy",
+          "Łabędź",
+          "Kwiat lipy",
+          "Obrączka ślubna"
+        ],
+        "Sacred Animals": [
+          "Łabędź",
+          "Gołąb",
+          "Kukułka"
+        ],
+        "Sacred Plants": [
+          "Lipa",
+          "Róża",
+          "Wszystkie wiosenne kwiaty"
+        ],
+        "Element": "Powietrze",
+        "Season": "Wiosna do Lata",
+        "Associated Concepts": [
+          "Miłość Romantyczna",
+          "Harmonia Społeczna",
+          "Radość",
+          "Piękno",
+          "Zjednoczenie Dusz"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "013"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia",
+          "Bulgaria",
+          "Czech Republic"
+        ],
+        "festivals": [
+          "Noc Kupały (23-24 czerwca)",
+          "Wiosenne i letnie święta miłości",
+          "Rytuały weselne"
+        ],
+        "offerings": [
+          "Wianki kwiatowe",
+          "Pieśni z refrenem łada/łado",
+          "Dary ślubne"
+        ]
+      },
+      "tags": [
+        "love",
+        "beauty",
+        "harmony",
+        "marriage",
+        "spring",
+        "music",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/028/thumbnail.png",
+      "detailImageUrl": "images/deities/028/detailImage.png"
+    },
+    {
+      "id": "029",
+      "name": "Dniepr",
+      "alternateNames": [
+        "Dnieper",
+        "Borysthenes (Greek name)",
+        "Slavutych (poetic name)"
+      ],
+      "type": "personification",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Boska personifikacja wielkiej rzeki Dniepr — świętej krwioobiegu wschodnioslowiańskiej cywilizacji i szlaków handlowych.",
+      "mythology": "Dniepr jest boską personifikacją największej rzeki Słowian Wschodnich, płynącej z centralnej Rosji przez Białoruś i Ukrainę do Morza Czarnego. Herodot nazywał ją Borystenes i opisywał jej ogromne znaczenie w V w. p.n.e. Rzeka była kręgosłupem Rusi Kijowskiej — legendarny szlak handlowy 'od Waregów do Greków' biegł wzdłuż całej jej długości. W pieśniach ludowych i poezji epickiej Dniepr przemawia i działa — ostrzega bohaterów o zbliżającym się niebezpieczeństwie i opłakuje ich śmierć. Jego personifikacja to potężny siwobrodny starzec, którego nurt jest jego głosem, a głębiny kryją wszystkie tajemnice słowiańskiej historii.",
+      "attributes": {
+        "Domains": [
+          "Rzeki",
+          "Woda",
+          "Handel",
+          "Ukraina",
+          "Życie",
+          "Pamięć Historyczna"
+        ],
+        "Symbols": [
+          "Płynąca srebrna woda",
+          "Fale",
+          "Srebrna ryba",
+          "Nurt rzeki"
+        ],
+        "Sacred Animals": [
+          "Jesiotr",
+          "Sum",
+          "Orzeł",
+          "Czapla"
+        ],
+        "Sacred Plants": [
+          "Trzcina",
+          "Wierzba",
+          "Pałka wodna"
+        ],
+        "Element": "Woda",
+        "Associated Concepts": [
+          "Witalność Ziemi",
+          "Handel",
+          "Pamięć Historyczna",
+          "Źródło Życia"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Ukraine",
+          "Belarus",
+          "Russia"
+        ],
+        "festivals": [
+          "Ceremonie poświęcenia wody (Epifania)",
+          "Noc Kupały (rytuały rzeczne)"
+        ],
+        "offerings": [
+          "Ryba",
+          "Chleb rzucany w nurt",
+          "Pierwszy połów sezonu zwrócony do rzeki"
+        ]
+      },
+      "tags": [
+        "river",
+        "water",
+        "personification",
+        "Ukrainian",
+        "nature",
+        "trade",
+        "history"
+      ],
+      "thumbnailUrl": "images/deities/029/thumbnail.png",
+      "detailImageUrl": "images/deities/029/detailImage.png"
+    },
+    {
+      "id": "030",
+      "name": "Dobrowij",
+      "alternateNames": [
+        "Dobroviy",
+        "Dobro",
+        "Dobrozhil",
+        "Good Spirit"
+      ],
+      "type": "deity",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Bóstwo dobroci, życzliwości i cnoty moralnej. Boskie potwierdzenie hojności i prawych czynów.",
+      "mythology": "Dobrowij (Ten Dobry) jest łaskawym bóstwem dobroci, życzliwości i cnoty moralnej. Jego imię wywodzi się od 'dobro' — słowiańskiego rdzenia oznaczającego dobroć, jednego z najbardziej pozytywnie nacechowanych słów w słowiańskiej filozofii moralnej (powszechnego we wszystkich językach słowiańskich). Reprezentuje zasadę, że dobre czyny mają boskie wsparcie i że cnota jest obserwowana i nagradzana przez wyższe moce. Jest wzywany przy składaniu ślubów hojności i przy szukaniu błogosławieństw dla aktów życzliwości. Jako duchowy kontrapunkt Czarnoboga, ucieleśnia pozytywną boską siłę bez wojowniczej agresji bóstw wojowniczych — boskie potwierdzenie codziennej ludzkiej dobroci, wspólnoty i hojności.",
+      "attributes": {
+        "Domains": [
+          "Dobroć",
+          "Życzliwość",
+          "Cnota",
+          "Błogosławieństwo",
+          "Hojność",
+          "Moralny Porządek"
+        ],
+        "Symbols": [
+          "Otwarte dłonie",
+          "Białe światło",
+          "Kwiat lipy",
+          "Plaster miodu"
+        ],
+        "Sacred Animals": [
+          "Biały gołąb",
+          "Pszczoła"
+        ],
+        "Sacred Plants": [
+          "Lipa",
+          "Rumianek"
+        ],
+        "Element": "Światło/Eter",
+        "Associated Concepts": [
+          "Cnota",
+          "Hojność",
+          "Boskie Uznanie",
+          "Pozytywna Karma",
+          "Wspólnota"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "009"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Dni służby społecznej i hojności"
+        ],
+        "offerings": [
+          "Akty życzliwości wykonywane ku jego czci",
+          "Miód",
+          "Chleb dzielony z sąsiadami"
+        ]
+      },
+      "tags": [
+        "goodness",
+        "benevolence",
+        "virtue",
+        "protection",
+        "minor deity",
+        "moral deity"
+      ],
+      "thumbnailUrl": "images/deities/030/thumbnail.png",
+      "detailImageUrl": "images/deities/030/detailImage.png"
+    }
+  ]
+}

@@ -1,0 +1,2484 @@
+{
+  "lang": "en",
+  "version": "1.0.0",
+  "total": 30,
+  "deities": [
+    {
+      "id": "001",
+      "name": "Perun",
+      "alternateNames": [
+        "Perkunas",
+        "Perkons",
+        "Perún",
+        "Pirun"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "South Slavic",
+        "West Slavic"
+      ],
+      "description": "Slavic god of thunder and lightning. Protector of warriors and upholder of cosmic law.",
+      "mythology": "Perun is the supreme deity of the Slavic pantheon, ruling thunder, lightning, storms, rain, law, war, and fertility from the highest branches of the World Tree — a great cosmic oak. His eternal enemy is Veles, the serpentine underworld god, who steals his cattle, wife, or children. Perun pursues Veles across the sky hurling thunderbolts, while Veles hides in the form of animals, trees, or people. This cosmic battle brings rain to the earth and maintains cosmic order. Perun is depicted as a middle-aged man with a copper beard wielding an axe or hammer. Sacred oak trees and hilltops served as his shrines. He was the patron of the warrior class and the prince's retinue in Kyivan Rus.",
+      "attributes": {
+        "Domains": [
+          "Thunder",
+          "Lightning",
+          "War",
+          "Law",
+          "Sky",
+          "Rain",
+          "Fertility"
+        ],
+        "Symbols": [
+          "Axe",
+          "Thunderbolt",
+          "Eagle",
+          "Hammer",
+          "Oak"
+        ],
+        "Sacred Animals": [
+          "Eagle",
+          "Bull",
+          "Aurochs"
+        ],
+        "Sacred Plants": [
+          "Oak",
+          "Iris"
+        ],
+        "Element": "Air",
+        "Season": "Summer",
+        "Associated Concepts": [
+          "Justice",
+          "Power",
+          "Protection",
+          "Cosmic Order"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "004"
+        ],
+        "family": [
+          "018"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Poland",
+          "Belarus",
+          "Serbia",
+          "Croatia"
+        ],
+        "festivals": [
+          "Perun's Day (July 20 / syncretized with Elijah's Day)"
+        ],
+        "offerings": [
+          "Ox",
+          "Bull",
+          "Oak wood",
+          "Bread",
+          "Honey wine"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "warrior",
+        "sky",
+        "weather",
+        "thunder",
+        "oak",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/001/thumbnail.png",
+      "detailImageUrl": "images/deities/001/detailImage.png"
+    },
+    {
+      "id": "002",
+      "name": "Dazhbog",
+      "alternateNames": [
+        "Dažbog",
+        "Dabog",
+        "Dajbog",
+        "Dazbog"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "God of the sun, wealth, and happiness. Progenitor of the Slavic people and son of Svarog.",
+      "mythology": "Dazhbog is the solar deity and giver of wealth, whose name means 'Give God' or 'Giving God.' He rides across the sky each day in a golden chariot pulled by white horses breathing fire and gold. The Tale of Igor's Campaign refers to the Rus' people as 'Dazhbog's grandchildren,' identifying him as the divine ancestor of the Slavic nation. Each morning he is young, reaching old age by evening only to be reborn the next day. He is the son of Svarog who forged the sun. Sacred to him are horses, gold, and the solar disk. He is the embodiment of the life-giving generosity of sunlight.",
+      "attributes": {
+        "Domains": [
+          "Sun",
+          "Wealth",
+          "Happiness",
+          "Harvest",
+          "Light"
+        ],
+        "Symbols": [
+          "Sun Disk",
+          "Golden Chariot",
+          "Firebird",
+          "White Horse"
+        ],
+        "Sacred Animals": [
+          "White horse",
+          "Golden bird (Firebird)",
+          "Lion"
+        ],
+        "Sacred Plants": [
+          "Sunflower",
+          "Wheat",
+          "Chamomile"
+        ],
+        "Element": "Fire",
+        "Season": "Summer",
+        "Associated Concepts": [
+          "Prosperity",
+          "Generosity",
+          "Warmth",
+          "Fatherhood"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "010"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Summer Solstice (Kupala Night)",
+          "Kolyada (Winter Solstice — solar rebirth)"
+        ],
+        "offerings": [
+          "Bread",
+          "Honey",
+          "Grain",
+          "Golden objects"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "sun",
+        "prosperity",
+        "agriculture",
+        "solar",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/002/thumbnail.png",
+      "detailImageUrl": "images/deities/002/detailImage.png"
+    },
+    {
+      "id": "003",
+      "name": "Mokosh",
+      "alternateNames": [
+        "Mokoša",
+        "Makosh",
+        "Mokusha"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Great earth mother and goddess of weaving, fertility, and the fate of women. The only female deity in Vladimir's Kiev pantheon.",
+      "mythology": "Mokosh is the only female deity mentioned in the Primary Chronicle among Vladimir's pantheon in Kiev (980 AD), demonstrating her supreme importance among all Slavic goddesses. She is the great earth mother, goddess of spinning, weaving, and the fate of women — spinning the thread of life and fate as the Greek Moirai do. On Friday nights she wanders villages checking on women's spinning work. Her name may derive from 'mok' (wet/moist), connecting her to the fertile moisture of the earth. She later became syncretized with Saint Paraskeva Friday in Christian tradition, a testament to her enduring power in folk consciousness.",
+      "attributes": {
+        "Domains": [
+          "Fertility",
+          "Weaving",
+          "Fate",
+          "Earth",
+          "Women",
+          "Moisture"
+        ],
+        "Symbols": [
+          "Spindle",
+          "Distaff",
+          "Thread",
+          "Loom"
+        ],
+        "Sacred Animals": [
+          "Sheep",
+          "Spider"
+        ],
+        "Sacred Plants": [
+          "Flax",
+          "Hemp"
+        ],
+        "Element": "Earth",
+        "Season": "Autumn",
+        "Associated Concepts": [
+          "Fate",
+          "Motherhood",
+          "Craft",
+          "Protection of Women"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Friday (sacred weekly)",
+          "Harvest festivals",
+          "Maslenitsa"
+        ],
+        "offerings": [
+          "Flax",
+          "Wool",
+          "Thread left at crossroads",
+          "Embroidered cloths"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "fertility",
+        "weaving",
+        "women",
+        "fate",
+        "earth mother",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/003/thumbnail.png",
+      "detailImageUrl": "images/deities/003/detailImage.png"
+    },
+    {
+      "id": "004",
+      "name": "Veles",
+      "alternateNames": [
+        "Volos",
+        "Weles"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "God of the underworld, cattle, commerce, magic, and wisdom. The eternal rival of Perun.",
+      "mythology": "Veles is the great god of the underworld, cattle, commerce, music, magic, and wisdom. He dwells at the roots of the World Tree in the underworld (Nav), contrasting with Perun who reigns in the crown. His eternal conflict with Perun forms the central myth of Slavic religion — Veles steals Perun's cattle, wife, or son, and Perun pursues him casting thunderbolts. Veles hides by shape-shifting into animals, trees, or humans. He is the chthonic serpentine power of the earth's depths — a trickster and shapeshifter associated with bears, snakes, and poetry. The last sheaf of grain left in the field at harvest was called 'Veles's beard,' offered to him in appeasement.",
+      "attributes": {
+        "Domains": [
+          "Underworld",
+          "Cattle",
+          "Commerce",
+          "Magic",
+          "Wisdom",
+          "Music",
+          "Poetry"
+        ],
+        "Symbols": [
+          "Serpent",
+          "Bull",
+          "Bear",
+          "Bag of gold"
+        ],
+        "Sacred Animals": [
+          "Bear",
+          "Snake",
+          "Bull",
+          "Owl",
+          "Wolf"
+        ],
+        "Sacred Plants": [
+          "Fern",
+          "Grass (Nav grass)"
+        ],
+        "Element": "Earth",
+        "Season": "Winter",
+        "Associated Concepts": [
+          "Trickery",
+          "Wealth",
+          "Death",
+          "Shamanism",
+          "Transformation"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "001"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Poland",
+          "Czech Republic",
+          "Belarus"
+        ],
+        "festivals": [
+          "Volos Day (January 12)",
+          "Maslenitsa"
+        ],
+        "offerings": [
+          "Cattle",
+          "Honey",
+          "Beer",
+          "Last sheaf of grain (Veles's beard)"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "underworld",
+        "magic",
+        "cattle",
+        "trickster",
+        "wisdom",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/004/thumbnail.png",
+      "detailImageUrl": "images/deities/004/detailImage.png"
+    },
+    {
+      "id": "005",
+      "name": "Rod",
+      "alternateNames": [
+        "Род",
+        "Rozhanitsy (associated female aspect)"
+      ],
+      "type": "primordial god",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Primordial creator deity and ancestor of all gods and living beings. Source of all existence.",
+      "mythology": "Rod is the primordial creator deity and progenitor of all gods and living beings. Before anything existed, Rod created the world — laying the cosmic egg from which the universe hatched, or creating from his own body. His name is the root of Slavic words for birth, family, clan, and nature (rod means clan/genus in all Slavic languages). He is accompanied by the Rozhanitsy — two or three female birth goddesses who determine each person's fate at birth. Early Slavic texts written by Christian clergy specifically and repeatedly condemned worship of Rod and the Rozhanitsy, indicating their supreme importance in pre-Christian folk religion.",
+      "attributes": {
+        "Domains": [
+          "Creation",
+          "Ancestry",
+          "Cosmos",
+          "Fate",
+          "Birth",
+          "Clan"
+        ],
+        "Symbols": [
+          "Cosmic Egg",
+          "Tree of Life",
+          "Rainbow"
+        ],
+        "Sacred Animals": [
+          "Aurochs",
+          "Eagle"
+        ],
+        "Sacred Plants": [
+          "World Tree (Oak)"
+        ],
+        "Element": "Aether",
+        "Season": "All Seasons",
+        "Associated Concepts": [
+          "Fate",
+          "Providence",
+          "Life Force",
+          "Cosmic Order"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "026"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia"
+        ],
+        "festivals": [
+          "Rodunitsa (ancestor veneration)",
+          "Rozhanitsy Feast (post-harvest)"
+        ],
+        "offerings": [
+          "Bread",
+          "Honey",
+          "Pottage",
+          "Cheese",
+          "Honey wine"
+        ]
+      },
+      "tags": [
+        "primordial",
+        "creator",
+        "ancestors",
+        "fate",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/005/thumbnail.png",
+      "detailImageUrl": "images/deities/005/detailImage.png"
+    },
+    {
+      "id": "006",
+      "name": "Domovoi",
+      "alternateNames": [
+        "Domovoy",
+        "Domovik",
+        "Dvorovoi",
+        "Ded",
+        "Grandfather"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "The ancestral household spirit and protector of the home. Lives behind the stove and guards the family.",
+      "mythology": "The Domovoi is the ancestral house spirit who lives behind the stove, under the doorstep, or in the barn. He is the spirit of the male ancestor of the family and protects the household if treated with respect. He appears as a small hairy man resembling the head of household. He bangs and groans when disaster approaches, and strokes sleeping family members — a warm soft touch means good fortune, cold and rough means danger. He hates mirrors in some traditions. Each home has its own Domovoi who follows the family if they move. Failing to honor him leads to mischief: braiding the horses' manes at night, spoiling milk, creating strange noises.",
+      "attributes": {
+        "Domains": [
+          "Home",
+          "Family",
+          "Protection",
+          "Hearth",
+          "Ancestors"
+        ],
+        "Symbols": [
+          "Hearth/Stove",
+          "Threshold",
+          "Bread and Salt"
+        ],
+        "Sacred Animals": [
+          "Cat",
+          "Snake",
+          "Rooster"
+        ],
+        "Sacred Plants": [
+          "None specific"
+        ],
+        "Element": "Fire",
+        "Associated Concepts": [
+          "Ancestry",
+          "Domestic Peace",
+          "Warning Signs",
+          "Protection"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia"
+        ],
+        "festivals": [
+          "New Year's Eve (appease with offerings)",
+          "When moving house (invite him along)"
+        ],
+        "offerings": [
+          "Porridge",
+          "Bread and salt",
+          "First meal of the day",
+          "Tobacco"
+        ]
+      },
+      "tags": [
+        "household spirit",
+        "domestic",
+        "protection",
+        "family",
+        "ancestor spirit"
+      ],
+      "thumbnailUrl": "images/deities/006/thumbnail.png",
+      "detailImageUrl": "images/deities/006/detailImage.png"
+    },
+    {
+      "id": "007",
+      "name": "Morozko",
+      "alternateNames": [
+        "Ded Moroz",
+        "Father Frost",
+        "Moroz Ivanovich",
+        "Frost"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Personification of winter frost and cold. Tests travelers and rewards the virtuous with gifts.",
+      "mythology": "Morozko (Little Frost) or Ded Moroz (Grandfather Frost) is the personification of winter cold. In fairy tales he tests travelers and workers — the kind, patient, and hardworking receive gifts, while the lazy and greedy are frozen. The beloved fairy tale 'Morozko' features him rewarding a kind stepdaughter with riches while punishing a spoiled girl with death. He is depicted as a tall old man in blue or silver robes carrying a magic staff of ice. His Slavic origins predate the Christian holiday figure. He lives in an ice palace in the far north and visits villages in winter, his breathing creating frost patterns on windows.",
+      "attributes": {
+        "Domains": [
+          "Winter",
+          "Frost",
+          "Cold",
+          "Ice",
+          "Gifts",
+          "Testing Virtue"
+        ],
+        "Symbols": [
+          "Ice staff",
+          "Silver sack of gifts",
+          "Snowflake",
+          "Blue or silver robes"
+        ],
+        "Sacred Animals": [
+          "Hare",
+          "Bear",
+          "White deer"
+        ],
+        "Sacred Plants": [
+          "Pine (evergreen)",
+          "Ice-covered branches"
+        ],
+        "Element": "Water/Ice",
+        "Season": "Winter",
+        "Associated Concepts": [
+          "Endurance",
+          "Fairness",
+          "Reward and Punishment",
+          "Winter Magic"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Winter Solstice (Kolyada)",
+          "New Year",
+          "Christmas (evolved form)"
+        ],
+        "offerings": [
+          "Porridge left outside to appease frost from killing crops"
+        ]
+      },
+      "tags": [
+        "winter",
+        "cold",
+        "frost",
+        "nature spirit",
+        "fairy tale",
+        "gift-giver"
+      ],
+      "thumbnailUrl": "images/deities/007/thumbnail.png",
+      "detailImageUrl": "images/deities/007/detailImage.png"
+    },
+    {
+      "id": "008",
+      "name": "Zorya",
+      "alternateNames": [
+        "Zarya",
+        "Zaria",
+        "Zorya Utrennyaya",
+        "Zorya Vechernyaya",
+        "Zorya Polunochnaya"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Twin dawn goddesses representing the morning and evening stars. Guardians of cosmic order and Dazhbog's palace gates.",
+      "mythology": "The Zorya (Dawn Maidens) are two or three goddess sisters: Zorya Utrennyaya (Morning Star), Zorya Vechernyaya (Evening Star), and sometimes Zorya Polunochnaya (Midnight Star). Each morning, Zorya Utrennyaya opens the gates of Dazhbog's solar palace to release the sun; each evening Zorya Vechernyaya closes them. They also guard the doomsday hound Simargl who is chained to Ursa Minor — if the chain breaks and the dog escapes, the world will end. They are depicted as beautiful warrior maidens in golden armor, associated with the planet Venus visible as both morning and evening star.",
+      "attributes": {
+        "Domains": [
+          "Dawn",
+          "Dusk",
+          "Stars",
+          "Cosmic Order",
+          "Protection of Warriors"
+        ],
+        "Symbols": [
+          "Morning star (Venus)",
+          "Golden armor",
+          "Gates of heaven"
+        ],
+        "Sacred Animals": [
+          "Horse",
+          "Rooster (morning)",
+          "Owl (evening)"
+        ],
+        "Sacred Plants": [
+          "Morning glory",
+          "Evening primrose"
+        ],
+        "Element": "Air",
+        "Associated Concepts": [
+          "Cosmic Balance",
+          "Time",
+          "Celestial Navigation",
+          "Protection"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "002"
+        ],
+        "allies": [
+          "020"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia"
+        ],
+        "festivals": [
+          "Dawn rituals",
+          "Midsummer"
+        ],
+        "offerings": [
+          "Morning dew collected at dawn",
+          "First light prayers",
+          "Flowers"
+        ]
+      },
+      "tags": [
+        "dawn",
+        "dusk",
+        "stars",
+        "celestial",
+        "cosmic order",
+        "warrior maiden"
+      ],
+      "thumbnailUrl": "images/deities/008/thumbnail.png",
+      "detailImageUrl": "images/deities/008/detailImage.png"
+    },
+    {
+      "id": "009",
+      "name": "Chernobog",
+      "alternateNames": [
+        "Czernobóg",
+        "Tchernobog",
+        "Black God",
+        "Crnobog"
+      ],
+      "type": "god",
+      "origin": [
+        "West Slavic",
+        "East Slavic"
+      ],
+      "description": "God of darkness, evil, and misfortune. Counterpart to the White God, embodying the dark side of cosmic duality.",
+      "mythology": "Chernobog ('Black God') is first attested in 12th-century German chronicles describing Baltic Slavic tribes. He is the embodiment of dark, evil, and destructive forces — the counterpart to the White God (Belobog). At feasts, Slavs passed a cup speaking curses over it to Chernobog and praises to Belobog, acknowledging the duality of all existence. He is the god of night, chaos, misfortune, and all that is cursed. His worship was feared but practiced to appease him and minimize misfortune. He appears in modern culture including Disney's Fantasia (1940) and Neil Gaiman's American Gods, attesting to his enduring symbolic power.",
+      "attributes": {
+        "Domains": [
+          "Darkness",
+          "Evil",
+          "Chaos",
+          "Night",
+          "Misfortune",
+          "Death"
+        ],
+        "Symbols": [
+          "Black iconography",
+          "Iron chains",
+          "Dark moon",
+          "Shadow"
+        ],
+        "Sacred Animals": [
+          "Black horse",
+          "Raven",
+          "Wolf",
+          "Spider"
+        ],
+        "Sacred Plants": [
+          "Nightshade",
+          "Black thorns"
+        ],
+        "Element": "Darkness",
+        "Season": "Winter",
+        "Associated Concepts": [
+          "Duality",
+          "Chaos",
+          "Fate",
+          "Entropy",
+          "Cursing"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "030"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Pomerania",
+          "Rugia",
+          "Poland",
+          "Baltic Slavic coast"
+        ],
+        "festivals": [
+          "Winter dark moon rituals"
+        ],
+        "offerings": [
+          "Black animals",
+          "Mead with curses spoken over it"
+        ]
+      },
+      "tags": [
+        "darkness",
+        "evil",
+        "chaos",
+        "duality",
+        "major deity",
+        "Baltic Slavic"
+      ],
+      "thumbnailUrl": "images/deities/009/thumbnail.png",
+      "detailImageUrl": "images/deities/009/detailImage.png"
+    },
+    {
+      "id": "010",
+      "name": "Svarog",
+      "alternateNames": [
+        "Svarozhich",
+        "Swarożyc"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "God of the sky, divine fire, and celestial blacksmithing. Father of Dazhbog. Master craftsman who forged the sun.",
+      "mythology": "Svarog is the god of the clear sky and divine fire — the Slavic heavenly blacksmith. His name means 'Clear Sky' or 'Bright sky' (svar = sky/bright). He forged the laws of heaven, the sun, and brought fire to humanity. The Primary Chronicle equates him with the Greek Hephaestus. He dropped his tongs from the sky — the thunderbolt — teaching humans to forge metal. He is father of Dazhbog (the sun) and Svarozhich (sacred fire). Sacred fires burned in his honor in temples and were never allowed to go out. He is the civilizing deity who gave humanity the tools of craft and the laws of marriage.",
+      "attributes": {
+        "Domains": [
+          "Sky",
+          "Fire",
+          "Blacksmithing",
+          "Crafts",
+          "Law",
+          "Marriage"
+        ],
+        "Symbols": [
+          "Hammer",
+          "Tongs",
+          "Forge",
+          "Sacred Fire",
+          "Sun"
+        ],
+        "Sacred Animals": [
+          "Rooster",
+          "Bull"
+        ],
+        "Sacred Plants": [
+          "Oak"
+        ],
+        "Element": "Fire",
+        "Associated Concepts": [
+          "Craftsmanship",
+          "Divine Law",
+          "Creation",
+          "Civilization"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "002"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland"
+        ],
+        "festivals": [
+          "Svarozhich Day (autumn sacred fire festival)"
+        ],
+        "offerings": [
+          "Bread",
+          "Meat",
+          "Sacred fire kept perpetually burning"
+        ]
+      },
+      "tags": [
+        "major deity",
+        "sky",
+        "fire",
+        "smithing",
+        "craftsman",
+        "father deity",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/010/thumbnail.png",
+      "detailImageUrl": "images/deities/010/detailImage.png"
+    },
+    {
+      "id": "011",
+      "name": "Marzanna",
+      "alternateNames": [
+        "Morana",
+        "Mara",
+        "Morena",
+        "Marzena",
+        "Marena"
+      ],
+      "type": "goddess",
+      "origin": [
+        "West Slavic",
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Goddess of winter, death, and seasonal rebirth. Her ritual drowning each spring is one of the most ancient surviving Slavic customs.",
+      "mythology": "Marzanna (also Morana/Morena) is the goddess of winter, death, and the rebirth of spring. She rules the dark half of the year. Her ritual death is one of the most widespread surviving Slavic folk traditions — a straw effigy of Marzanna is created and ceremonially drowned in a river or burned at the start of spring, symbolically driving away winter and death. Her name relates to the Slavic word for plague (mor) and death. In some traditions she is also the goddess of dreams and illusions. Her death enables spring to come, making her a goddess of transformation whose destruction is an act of renewal.",
+      "attributes": {
+        "Domains": [
+          "Winter",
+          "Death",
+          "Dreams",
+          "Rebirth",
+          "Cold",
+          "Plague"
+        ],
+        "Symbols": [
+          "Straw effigy (doll)",
+          "Willow branch",
+          "Skull",
+          "Sickle"
+        ],
+        "Sacred Animals": [
+          "Owl",
+          "Raven",
+          "Crow"
+        ],
+        "Sacred Plants": [
+          "Willow",
+          "Yew",
+          "Nightshade"
+        ],
+        "Element": "Water/Ice",
+        "Season": "Winter",
+        "Associated Concepts": [
+          "Transformation",
+          "Seasonal Cycle",
+          "Death and Rebirth",
+          "Illusion"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "022"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Poland",
+          "Czech Republic",
+          "Slovakia",
+          "Belarus",
+          "Russia",
+          "Ukraine"
+        ],
+        "festivals": [
+          "Mid-Lent (Drowning or Burning of Marzanna)",
+          "Autumn equinox"
+        ],
+        "offerings": [
+          "Straw effigy drowned in river",
+          "Spring flowers after the ritual"
+        ]
+      },
+      "tags": [
+        "death",
+        "winter",
+        "rebirth",
+        "seasonal",
+        "transformation",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/011/thumbnail.png",
+      "detailImageUrl": "images/deities/011/detailImage.png"
+    },
+    {
+      "id": "012",
+      "name": "Baba Yaga",
+      "alternateNames": [
+        "Jaga",
+        "Jezibaba",
+        "Baba Roga",
+        "Yaga Baba"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Ancient crone witch and guardian of the boundary between the living and the dead. Ambivalent helper and devourer.",
+      "mythology": "Baba Yaga is one of the most iconic figures in Slavic mythology — an ancient crone witch who lives in a hut standing on chicken legs that spins to face any direction. She flies through the air in a mortar, sweeping her tracks with a pestle and broom. She is the guardian of the boundary between the living world and the land of the dead. Heroes seeking her help must bathe, be fed, and learn from her before she aids them — approach correctly and she is a wise helper; approach wrongly and she devours. Three horsemen servants represent dawn, noon, and night. Her iron fence is topped with glowing skulls. She is arguably older than the gods themselves.",
+      "attributes": {
+        "Domains": [
+          "Magic",
+          "Forests",
+          "Death Boundary",
+          "Wisdom",
+          "Witchcraft",
+          "Tests"
+        ],
+        "Symbols": [
+          "Mortar and Pestle",
+          "Rotating hut on chicken legs",
+          "Iron fence of skulls",
+          "Broom"
+        ],
+        "Sacred Animals": [
+          "Black cat",
+          "Snake",
+          "Owl",
+          "Crow"
+        ],
+        "Sacred Plants": [
+          "Birch (surrounds her hut)",
+          "Poppy"
+        ],
+        "Element": "Earth",
+        "Associated Concepts": [
+          "Wisdom",
+          "Boundary",
+          "Tests",
+          "Transformation",
+          "Ancient Knowledge"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Czech Republic"
+        ],
+        "festivals": [
+          "Not formally worshipped — appears in folk tales as ambivalent figure"
+        ],
+        "offerings": [
+          "Proper ritual greeting",
+          "Labor and service in return for help"
+        ]
+      },
+      "tags": [
+        "witch",
+        "forest",
+        "folklore",
+        "trickster",
+        "wisdom",
+        "death boundary",
+        "hag"
+      ],
+      "thumbnailUrl": "images/deities/012/thumbnail.png",
+      "detailImageUrl": "images/deities/012/detailImage.png"
+    },
+    {
+      "id": "013",
+      "name": "Kupala and Kupalo",
+      "alternateNames": [
+        "Ivan Kupala",
+        "Kupalo",
+        "Kupailo"
+      ],
+      "type": "deity pair",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Twin sibling deities of the summer solstice, embodying fire, water, and love. Their festival is the most beloved night of the Slavic year.",
+      "mythology": "Kupala (female) and Kupalo (male) are twin sibling deities of the summer solstice. In myth, they were separated at birth, fell in love unknowingly upon meeting, and were transformed into the fern flower and water lily. Their festival — Ivan Kupala Night — is celebrated on the summer solstice (June 23-24), syncretized with St. John the Baptist. It features bonfires jumped over by couples to purify and bless their union, flower wreaths floated on rivers to divine one's future lover, and the legendary search for the fern flower which blooms only this one night and grants the finder boundless wisdom and riches.",
+      "attributes": {
+        "Domains": [
+          "Summer Solstice",
+          "Fire",
+          "Water",
+          "Love",
+          "Fertility",
+          "Purification"
+        ],
+        "Symbols": [
+          "Bonfire",
+          "Floral wreath",
+          "Fern flower",
+          "River"
+        ],
+        "Sacred Animals": [
+          "Horse",
+          "Firefly",
+          "Frog"
+        ],
+        "Sacred Plants": [
+          "Fern (Paprot)",
+          "Water lily",
+          "Wormwood",
+          "St. John's Wort"
+        ],
+        "Element": "Fire and Water",
+        "Season": "Summer",
+        "Associated Concepts": [
+          "Love",
+          "Purification",
+          "Divination",
+          "Renewal",
+          "Union"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "028"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Czech Republic",
+          "Serbia"
+        ],
+        "festivals": [
+          "Ivan Kupala Night (June 23-24)"
+        ],
+        "offerings": [
+          "Wreaths floated on water",
+          "Jumping over bonfires",
+          "Songs and dances",
+          "Flowers"
+        ]
+      },
+      "tags": [
+        "summer solstice",
+        "fertility",
+        "fire",
+        "water",
+        "love",
+        "major festival"
+      ],
+      "thumbnailUrl": "images/deities/013/thumbnail.png",
+      "detailImageUrl": "images/deities/013/detailImage.png"
+    },
+    {
+      "id": "014",
+      "name": "Stribog",
+      "alternateNames": [
+        "Stribok",
+        "Striboh"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "God of wind, air, and sky. Grandfather of all winds — from the gentlest breeze to the mightiest tempest.",
+      "mythology": "Stribog is the god of winds, air, and the sky, listed among the idols Vladimir erected in Kiev (980 AD). In the famous Tale of Igor's Campaign (c. 1185), the winds are called 'Stribog's grandchildren,' his descendants blowing in from all eight directions. His name derives from the root 'stri' meaning to spread or dissipate. He controls all winds — fair weather for sailors, good weather for harvests, or devastating storms. He is depicted as a white-haired old man blowing through pursed lips, his breath carrying messages and seeds across great distances.",
+      "attributes": {
+        "Domains": [
+          "Wind",
+          "Air",
+          "Sky",
+          "Weather",
+          "Storms",
+          "Breath"
+        ],
+        "Symbols": [
+          "Feather",
+          "Wind vane",
+          "Bird wings",
+          "Breath mist"
+        ],
+        "Sacred Animals": [
+          "Eagle",
+          "Falcon",
+          "All birds"
+        ],
+        "Sacred Plants": [
+          "Grasses moved by wind",
+          "Dandelion (seeds dispersed by wind)"
+        ],
+        "Element": "Air",
+        "Associated Concepts": [
+          "Freedom",
+          "Change",
+          "Breath of Life",
+          "Messages on the Wind"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Storm rituals",
+          "Pre-voyage prayers"
+        ],
+        "offerings": [
+          "Bread crumbs thrown into the wind",
+          "Prayers before sea voyages or travel"
+        ]
+      },
+      "tags": [
+        "wind",
+        "air",
+        "weather",
+        "sky",
+        "nature",
+        "major deity",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/014/thumbnail.png",
+      "detailImageUrl": "images/deities/014/detailImage.png"
+    },
+    {
+      "id": "015",
+      "name": "Leshy",
+      "alternateNames": [
+        "Leshiy",
+        "Lesovik",
+        "Borowy",
+        "Leszy"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "West Slavic"
+      ],
+      "description": "Master spirit of the forest and protector of all wildlife. A shapeshifter who leads trespassers astray.",
+      "mythology": "The Leshy is the master spirit of the forest — one of the most powerful nature spirits in Slavic belief. He can appear as a giant whose head touches the treetops, or shrink to the height of a mushroom. He may look like a local peasant but with his coat inside-out, or appear without eyebrows, eyelashes, or a right ear. He leads travelers off the path using illusions and echoes. To break his spell, turn all your clothes inside-out. Hunters must make a pact with the Leshy for good hunting luck. In autumn he goes underground to sleep; in spring he awakens again. He is the shepherd of all forest animals — wolves, bears, and deer are his flock.",
+      "attributes": {
+        "Domains": [
+          "Forest",
+          "Wildlife",
+          "Hunting",
+          "Nature",
+          "Illusion",
+          "Lost Travelers"
+        ],
+        "Symbols": [
+          "Forest path",
+          "Inside-out coat",
+          "Mushroom",
+          "Echo"
+        ],
+        "Sacred Animals": [
+          "Bear",
+          "Wolf",
+          "Owl",
+          "All forest animals"
+        ],
+        "Sacred Plants": [
+          "Pine",
+          "Birch",
+          "All forest trees"
+        ],
+        "Element": "Earth",
+        "Season": "Spring to Autumn (hibernates in winter)",
+        "Associated Concepts": [
+          "Mischief",
+          "Protection of Wildlife",
+          "Wildness",
+          "Shapeshifting"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland"
+        ],
+        "festivals": [
+          "Spring awakening (April)",
+          "Autumn sleep (October 4/17)"
+        ],
+        "offerings": [
+          "Bread and salt left at forest edge",
+          "First caught game returned",
+          "Tobacco"
+        ]
+      },
+      "tags": [
+        "forest",
+        "nature spirit",
+        "shapeshifter",
+        "animals",
+        "wilderness",
+        "trickster"
+      ],
+      "thumbnailUrl": "images/deities/015/thumbnail.png",
+      "detailImageUrl": "images/deities/015/detailImage.png"
+    },
+    {
+      "id": "016",
+      "name": "Rusałka",
+      "alternateNames": [
+        "Rusalka",
+        "Rusałki",
+        "Mavka",
+        "Navki",
+        "Bereginya"
+      ],
+      "type": "spirit",
+      "origin": [
+        "East Slavic",
+        "South Slavic",
+        "West Slavic"
+      ],
+      "description": "Water spirits and souls of young women who died before marriage. Both beautiful and deadly, they guard the waters and ensure rain for crops.",
+      "mythology": "Rusałki (plural) are the spirits of young women who died before marriage, drowned, or died violent deaths. They live in rivers, lakes, and forests, especially active in Rusalii week (the week before Pentecost). They dance in moonlit meadows — grass grows greener where they have danced. They can lure men to death by drowning or tickling them until they perish. They also ensure rain for crops, making them both dangerous and necessary. During Rusalii week, people avoided water and forests and wore wormwood to repel them. The Ukrainian Mavka variant is particularly malevolent. They represent the power of unquiet dead and the deep ambivalence of water.",
+      "attributes": {
+        "Domains": [
+          "Water",
+          "Death",
+          "Fertility",
+          "Rain",
+          "Unquiet Dead",
+          "Beauty"
+        ],
+        "Symbols": [
+          "Long flowing hair",
+          "River water",
+          "Floral wreath",
+          "Net"
+        ],
+        "Sacred Animals": [
+          "Fish",
+          "Swan",
+          "Frog",
+          "Snake"
+        ],
+        "Sacred Plants": [
+          "Wormwood (repels them)",
+          "Waterlily",
+          "Willow",
+          "Fern"
+        ],
+        "Element": "Water",
+        "Season": "Spring (Rusalii week)",
+        "Associated Concepts": [
+          "Danger",
+          "Seduction",
+          "Fertility",
+          "Vengeance",
+          "Rain for Crops"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Rusalii Week (week before Pentecost)",
+          "Midsummer"
+        ],
+        "offerings": [
+          "Wreaths floated on water",
+          "Thread",
+          "Embroidered cloths left at riverbanks"
+        ]
+      },
+      "tags": [
+        "water spirit",
+        "female",
+        "dangerous",
+        "fertility",
+        "unquiet dead",
+        "nature spirit"
+      ],
+      "thumbnailUrl": "images/deities/016/thumbnail.png",
+      "detailImageUrl": "images/deities/016/detailImage.png"
+    },
+    {
+      "id": "017",
+      "name": "Domovina",
+      "alternateNames": [
+        "Domovyna",
+        "Motherland",
+        "Rodina"
+      ],
+      "type": "personification",
+      "origin": [
+        "South Slavic",
+        "West Slavic",
+        "East Slavic"
+      ],
+      "description": "Personification of the ancestral homeland. Embodies the sacred bond between a people and their land, encompassing both the living and the dead.",
+      "mythology": "Domovina is the personification of the ancestral homeland — a concept deeply embedded in Slavic cultural identity. She represents the sacred bond between a people and their land, the physical earth of one's ancestors. Significantly, the word 'domovina' in many Slavic languages also means 'coffin' — home of the dead — connecting homeland with both living roots and ancestral burial ground. This dual meaning reflects the Slavic understanding that one's land holds both the living and the ancestors. She embodies patriotism, belonging, rootedness, and the spiritual continuity between generations bound to the same earth.",
+      "attributes": {
+        "Domains": [
+          "Homeland",
+          "Ancestry",
+          "Memory",
+          "Belonging",
+          "Earth"
+        ],
+        "Symbols": [
+          "Hearth fire",
+          "Ancestral burial mound",
+          "Wheat field",
+          "Village"
+        ],
+        "Sacred Animals": [
+          "Stork",
+          "Swallow (birds that always return home)"
+        ],
+        "Sacred Plants": [
+          "Oak",
+          "Linden (lime tree)",
+          "Wheat"
+        ],
+        "Element": "Earth",
+        "Associated Concepts": [
+          "Patriotism",
+          "Belonging",
+          "Rootedness",
+          "Ancestral Memory"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "All Slavic lands"
+        ],
+        "festivals": [
+          "Ancestor veneration days",
+          "Harvest home festivals"
+        ],
+        "offerings": [
+          "Tending ancestral graves",
+          "First harvest returned to the land"
+        ]
+      },
+      "tags": [
+        "personification",
+        "homeland",
+        "cultural",
+        "ancestors",
+        "earth"
+      ],
+      "thumbnailUrl": "images/deities/017/thumbnail.png",
+      "detailImageUrl": "images/deities/017/detailImage.png"
+    },
+    {
+      "id": "018",
+      "name": "Jarilo",
+      "alternateNames": [
+        "Gerovit",
+        "Yarovit",
+        "Jaryło",
+        "Gerović"
+      ],
+      "type": "god",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "God of spring, vegetation, and the returning sun. His annual arrival brings warmth and fertility to the world.",
+      "mythology": "Jarilo is the young god of spring, vegetation, and the returning power of the sun. His name comes from 'jar' — spring ardor, vigor, and passionate energy. In the great myth cycle, he is the son of Perun, born in winter and stolen by Veles, who raises him in the underworld (Nav) — the opposite world beyond the sea. Each spring he crosses back to the land of the living on a white horse, bringing warmth and fertility. He woos and marries Marzanna (his mythic twin-sister) in summer. By late summer he is killed — his death marks the end of the growing season and transforms Marzanna into the winter goddess again. This cycle of death and rebirth mirrors the agricultural year.",
+      "attributes": {
+        "Domains": [
+          "Spring",
+          "Fertility",
+          "Vegetation",
+          "Passion",
+          "Youth",
+          "Harvest"
+        ],
+        "Symbols": [
+          "White horse",
+          "Crown of flowers",
+          "Green branch",
+          "Wheat sheaf"
+        ],
+        "Sacred Animals": [
+          "White horse",
+          "Rooster",
+          "Bull"
+        ],
+        "Sacred Plants": [
+          "Wheat",
+          "Grass",
+          "Early spring flowers",
+          "Willow catkins"
+        ],
+        "Element": "Earth",
+        "Season": "Spring",
+        "Associated Concepts": [
+          "Rebirth",
+          "Passion",
+          "Abundance",
+          "Youth",
+          "Seasonal Cycle"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "004",
+          "011"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Jurjev Day (May 5 / St. George's Day syncretized)",
+          "Green Week (Semik)"
+        ],
+        "offerings": [
+          "First spring flowers",
+          "Bread",
+          "Eggs",
+          "First green branches"
+        ]
+      },
+      "tags": [
+        "spring",
+        "fertility",
+        "vegetation",
+        "youth",
+        "seasonal",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/018/thumbnail.png",
+      "detailImageUrl": "images/deities/018/detailImage.png"
+    },
+    {
+      "id": "019",
+      "name": "Dolya and Sudba",
+      "alternateNames": [
+        "Dolya",
+        "Nedolya",
+        "Sudba",
+        "Sud",
+        "Sreća",
+        "Nesreća"
+      ],
+      "type": "deity pair",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Personifications of personal fate and fortune. Dolya brings luck; Nedolya brings misfortune. Together they weave the thread of each human life.",
+      "mythology": "Dolya (Good Fate) and Nedolya (Bad Fate/Misfortune) are personified fate-spirits assigned to each person at birth. Dolya is a beautiful young woman who follows the lucky person, while Nedolya is a haggard old woman who plagues the unlucky. Sudba (Destiny) is the broader force governing one's fixed life path. In Serbian tradition, Sreća (Luck) is a woman who spins fate. You cannot fully escape your Sudba, but keeping your Dolya happy through righteous living helps. These spirits reflect the deep Slavic philosophical sense that fate is a personal, woven thing — a thread spun at one's birth.",
+      "attributes": {
+        "Domains": [
+          "Fate",
+          "Destiny",
+          "Fortune",
+          "Luck",
+          "Life Path"
+        ],
+        "Symbols": [
+          "Spinning thread",
+          "Scales",
+          "Crossroads",
+          "Two roads"
+        ],
+        "Sacred Animals": [
+          "Butterfly (soul)",
+          "Bee"
+        ],
+        "Sacred Plants": [
+          "Thread-plant (symbolic)"
+        ],
+        "Element": "Aether",
+        "Associated Concepts": [
+          "Destiny",
+          "Fortune",
+          "Karma",
+          "Duality",
+          "Life Weaving"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "005"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Birth rituals",
+          "New Year divination"
+        ],
+        "offerings": [
+          "Thread offerings",
+          "Prayers at crossroads"
+        ]
+      },
+      "tags": [
+        "fate",
+        "destiny",
+        "fortune",
+        "duality",
+        "personification",
+        "luck"
+      ],
+      "thumbnailUrl": "images/deities/019/thumbnail.png",
+      "detailImageUrl": "images/deities/019/detailImage.png"
+    },
+    {
+      "id": "020",
+      "name": "Simargl",
+      "alternateNames": [
+        "Semargl",
+        "Semargl-Mokosh"
+      ],
+      "type": "creature",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Sacred winged dog-dragon and guardian of seeds and sacred fire. Listed among the gods of Vladimir's Kiev pantheon.",
+      "mythology": "Simargl is a mythical winged dog or dragon-dog creature, possibly borrowed from the Iranian Simurgh (the great Saena bird). He is listed among the idols erected by Vladimir in Kiev (980 AD), confirming his canonical status. He is the guardian of the seed and sprout — protecting sacred grain from destruction and connecting earth and sky as an intermediary. In one cosmological interpretation, the Zorya goddesses chain him to the North Star (Polaris); if his chain ever breaks and he escapes, the world will end. He is depicted as a double-headed dog-griffin or winged lion-dog hybrid.",
+      "attributes": {
+        "Domains": [
+          "Protection",
+          "Seeds",
+          "Sacred Fire",
+          "Cosmic Guard",
+          "World Axis"
+        ],
+        "Symbols": [
+          "Winged dog",
+          "Seeds and grain",
+          "Chain to North Star"
+        ],
+        "Sacred Animals": [
+          "None — is a divine creature himself"
+        ],
+        "Sacred Plants": [
+          "Grain",
+          "Seed",
+          "Sprout"
+        ],
+        "Element": "Fire and Earth",
+        "Associated Concepts": [
+          "Guardianship",
+          "Protection of Crops",
+          "Cosmic Balance",
+          "Apocalypse Prevention"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "008"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Agricultural sowing festivals"
+        ],
+        "offerings": [
+          "Seeds",
+          "First sprouts of the season"
+        ]
+      },
+      "tags": [
+        "creature",
+        "guardian",
+        "sacred fire",
+        "seeds",
+        "divine animal",
+        "Kiev pantheon"
+      ],
+      "thumbnailUrl": "images/deities/020/thumbnail.png",
+      "detailImageUrl": "images/deities/020/detailImage.png"
+    },
+    {
+      "id": "021",
+      "name": "Veleslav",
+      "alternateNames": [
+        "Velesslav"
+      ],
+      "type": "deity",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Venerable figure of ancient wisdom connected to the Veles cult. Keeper of ancestral knowledge and oral tradition.",
+      "mythology": "Veleslav is a figure connected to the cult of Veles, embodying the venerable aspects of divine wisdom. The name combines Veles (underworld god of wisdom and cattle) with 'slav' (glory/fame). He represents elder knowing — the accumulation of ancestral memory, sacred oral tradition, and prophetic insight passed from generation to generation. In neopagan Slavic revival traditions, he is associated with sacred knowledge, prophecy, and the ancient wisdom traditions maintained by bards and seers. He serves as an intermediary between the divine realm of Veles and human seekers of wisdom.",
+      "attributes": {
+        "Domains": [
+          "Wisdom",
+          "Knowledge",
+          "Ancient Tradition",
+          "Prophecy",
+          "Memory"
+        ],
+        "Symbols": [
+          "Ancient carved staff",
+          "Rune marks",
+          "Elder wood"
+        ],
+        "Sacred Animals": [
+          "Owl",
+          "Raven"
+        ],
+        "Sacred Plants": [
+          "Elder tree",
+          "Mistletoe"
+        ],
+        "Element": "Earth",
+        "Associated Concepts": [
+          "Elder Wisdom",
+          "Ancestral Memory",
+          "Prophecy",
+          "Bardic Arts"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "004"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine"
+        ],
+        "festivals": [
+          "Winter solstice wisdom rites"
+        ],
+        "offerings": [
+          "Poems and songs",
+          "Mead",
+          "First written or spoken words of a new work"
+        ]
+      },
+      "tags": [
+        "wisdom",
+        "knowledge",
+        "elder",
+        "minor deity",
+        "bard",
+        "prophecy"
+      ],
+      "thumbnailUrl": "images/deities/021/thumbnail.png",
+      "detailImageUrl": "images/deities/021/detailImage.png"
+    },
+    {
+      "id": "022",
+      "name": "Zhiva",
+      "alternateNames": [
+        "Živa",
+        "Siwa",
+        "Zywie",
+        "Zhivana"
+      ],
+      "type": "goddess",
+      "origin": [
+        "West Slavic",
+        "South Slavic",
+        "East Slavic"
+      ],
+      "description": "Goddess of life, living nature, and vital force. The divine counterpart to Marzanna whose reign begins when winter dies.",
+      "mythology": "Zhiva (the Alive One) is the goddess of life, living nature, and vital force. She is the divine embodiment of vitality — the force that animates all living things. She is the counterpart and rival to Marzanna: when Marzanna's effigy is burned or drowned in the spring ritual, Zhiva's reign begins. She is worshipped as Siwa by the Polabian Slavs at Ratibor. She appears as a beautiful young woman in summer garments, bringing flowers and abundance wherever she steps. The cuckoo is sacred to her — its call predicts how many more years you will live. She represents the immortal, ever-renewing life force of nature itself.",
+      "attributes": {
+        "Domains": [
+          "Life",
+          "Nature",
+          "Vitality",
+          "Fertility",
+          "Spring",
+          "Living World"
+        ],
+        "Symbols": [
+          "Green bough",
+          "Apple",
+          "Cuckoo feather",
+          "Spring water"
+        ],
+        "Sacred Animals": [
+          "Cuckoo",
+          "Dove",
+          "Deer"
+        ],
+        "Sacred Plants": [
+          "Apple tree",
+          "All flowering plants",
+          "Fresh green leaves"
+        ],
+        "Element": "Earth",
+        "Season": "Spring to Summer",
+        "Associated Concepts": [
+          "Immortality of Nature",
+          "Renewal",
+          "Life Force",
+          "Joy"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "011"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Poland",
+          "Czech Republic",
+          "Slovakia",
+          "Serbia",
+          "Russia"
+        ],
+        "festivals": [
+          "Spring festivals following Marzanna's drowning"
+        ],
+        "offerings": [
+          "First spring flowers",
+          "Apple blossoms",
+          "Songs of life and renewal"
+        ]
+      },
+      "tags": [
+        "life",
+        "nature",
+        "spring",
+        "fertility",
+        "minor deity",
+        "counterpart to death"
+      ],
+      "thumbnailUrl": "images/deities/022/thumbnail.png",
+      "detailImageUrl": "images/deities/022/detailImage.png"
+    },
+    {
+      "id": "023",
+      "name": "Divi",
+      "alternateNames": [
+        "Div",
+        "Diva",
+        "Wild One"
+      ],
+      "type": "spirit",
+      "origin": [
+        "South Slavic",
+        "East Slavic"
+      ],
+      "description": "Spirit of wild, untamed nature. A primal force beyond human civilization, bringing omens and awe-inspiring power.",
+      "mythology": "Div (Wild One) is the spirit of untamed, primordial nature — the force of pure wilderness. He is mentioned in the Tale of Igor's Campaign as a supernatural omen-being that cries disaster from the treetops, foretelling catastrophe. He embodies the wild spaces beyond human settlement: deep forest, remote mountains, and uncharted territory. He is neither good nor evil but simply primal and beyond human control — awe-inspiring and terrifying in equal measure. In South Slavic tradition, Diva is sometimes his female counterpart. He is the voice of nature warning those who will listen, and the destruction that falls on those who do not.",
+      "attributes": {
+        "Domains": [
+          "Wild Nature",
+          "Wilderness",
+          "Chaos",
+          "Primal Force",
+          "Omens"
+        ],
+        "Symbols": [
+          "Wild forest",
+          "Untamed river",
+          "Mountain peak",
+          "Bird cry"
+        ],
+        "Sacred Animals": [
+          "Wolf",
+          "Lynx",
+          "Eagle",
+          "All wild predators"
+        ],
+        "Sacred Plants": [
+          "All uncultivated wild plants"
+        ],
+        "Element": "Earth",
+        "Associated Concepts": [
+          "Wildness",
+          "Omen",
+          "Primal Fear",
+          "Freedom",
+          "Nature's Sovereign Power"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Serbia",
+          "Bulgaria",
+          "Russia",
+          "Ukraine"
+        ],
+        "festivals": [
+          "No formal worship — propitiated when entering wild spaces"
+        ],
+        "offerings": [
+          "Silence and respect in wilderness",
+          "Not cutting living trees unnecessarily"
+        ]
+      },
+      "tags": [
+        "wild",
+        "nature",
+        "forest spirit",
+        "primal",
+        "omen",
+        "spirit"
+      ],
+      "thumbnailUrl": "images/deities/023/thumbnail.png",
+      "detailImageUrl": "images/deities/023/detailImage.png"
+    },
+    {
+      "id": "024",
+      "name": "Triglav",
+      "alternateNames": [
+        "Triglaw",
+        "Three-Headed One"
+      ],
+      "type": "deity",
+      "origin": [
+        "West Slavic"
+      ],
+      "description": "The three-headed deity ruling sky, earth, and underworld simultaneously. Worshipped by Baltic Slavic tribes with a sacred black horse used for divination.",
+      "mythology": "Triglav is a powerful deity worshipped by Baltic Slavic tribes, most notably at Szczecin and Brandenburg. His name means 'Three-headed' and he is depicted with three golden heads, his eyes veiled by golden veils — because witnessing the sins of humanity distresses him. He rules all three realms simultaneously: heaven, earth, and the underworld. At Szczecin, Triglav possessed a magnificent temple and a sacred black horse used for divination — the horse was led over crossed spears, and if it cleared them without touching, victory in battle was assured. His temple was described in detail by Bishop Otto of Bamberg who converted the Pomeranians in 1124 AD.",
+      "attributes": {
+        "Domains": [
+          "Sky",
+          "Earth",
+          "Underworld",
+          "Cosmic Unity",
+          "Divination",
+          "War"
+        ],
+        "Symbols": [
+          "Three heads (or one head with three faces)",
+          "Golden veils over eyes",
+          "Black horse",
+          "Crossed spears"
+        ],
+        "Sacred Animals": [
+          "Black horse (divination)",
+          "Eagle"
+        ],
+        "Sacred Plants": [
+          "None specific"
+        ],
+        "Element": "Aether (all elements unified)",
+        "Associated Concepts": [
+          "Trinity",
+          "Cosmic Balance",
+          "All-Seeing",
+          "Unity of Worlds"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Pomerania",
+          "Mecklenburg",
+          "Brandenburg",
+          "Western Slavic Baltic coast"
+        ],
+        "festivals": [
+          "Pre-battle divination rituals",
+          "Seasonal rites at Szczecin temple"
+        ],
+        "offerings": [
+          "Tenth of war spoils",
+          "Sacred black horse (kept, not sacrificed)",
+          "Gold"
+        ]
+      },
+      "tags": [
+        "triform",
+        "cosmic",
+        "sky",
+        "earth",
+        "underworld",
+        "West Slavic",
+        "Baltic Slavic"
+      ],
+      "thumbnailUrl": "images/deities/024/thumbnail.png",
+      "detailImageUrl": "images/deities/024/detailImage.png"
+    },
+    {
+      "id": "025",
+      "name": "Zhivini Pole",
+      "alternateNames": [
+        "Field of the Living",
+        "Vyraj",
+        "Iriy",
+        "Vyriy"
+      ],
+      "type": "mythical place",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "The Slavic paradise — a mythical sunlit meadow of eternal spring where righteous souls rest between lives.",
+      "mythology": "Zhivini Pole (Field of the Living) is a mythical paradise — the Slavic equivalent of Elysium or Eden. It is a sunlit meadow of eternal spring where the souls of the righteous go to rest. The related concept Vyraj (Vyriy) is the warm southern paradise where birds migrate in winter and where souls rest between reincarnations. In the Slavic three-world cosmology (Prav-Nav-Yav), it exists in Prav — the realm of divine order and the righteous dead. It is described as endless green fields, rivers of milk and honey, and eternal warm sunshine, located beyond the World Ocean at the world's edge where the World Tree stands.",
+      "attributes": {
+        "Domains": [
+          "Afterlife",
+          "Paradise",
+          "Divine Order",
+          "Rest",
+          "Righteous Dead"
+        ],
+        "Symbols": [
+          "Green meadow",
+          "River of milk",
+          "Eternal sun",
+          "World Oak at center"
+        ],
+        "Sacred Animals": [
+          "All birds (who know the path to Vyraj)"
+        ],
+        "Sacred Plants": [
+          "All plants in eternal bloom"
+        ],
+        "Element": "Aether",
+        "Associated Concepts": [
+          "Paradise",
+          "Eternal Life",
+          "Righteousness",
+          "Cosmic Order",
+          "Reincarnation"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia"
+        ],
+        "festivals": [
+          "Ancestor veneration days (Rodunitsa) when souls visit from this realm"
+        ],
+        "offerings": [
+          "Prayers for the righteous dead",
+          "Food left at gravesites"
+        ]
+      },
+      "tags": [
+        "afterlife",
+        "paradise",
+        "mythical location",
+        "cosmic",
+        "righteous dead"
+      ],
+      "thumbnailUrl": "images/deities/025/thumbnail.png",
+      "detailImageUrl": "images/deities/025/detailImage.png"
+    },
+    {
+      "id": "026",
+      "name": "Roda",
+      "alternateNames": [
+        "Rozhanitsa",
+        "Rozhanitsy (plural)",
+        "Birth Goddess"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Birth goddess associated with Rod. She and the Rozhanitsy appear at every birth to weave the fate and life path of the newborn.",
+      "mythology": "Roda (or the Rozhanitsy, her plural form) are the birth goddesses associated with Rod, the creator deity. They appear at the moment of a child's birth to weave its fate and determine the path of its life — analogous to the Greek Moirai or Roman Parcae. Two or three Rozhanitsy are present at each birth: one spins the thread of life (its length), one weaves its quality, and one determines fortune or misfortune. Medieval Slavic church texts vigorously condemned the practice of leaving feasts for the Rozhanitsy — bread, honey, cheese, and porridge — which indicates how widely and deeply they were venerated across Slavic lands.",
+      "attributes": {
+        "Domains": [
+          "Birth",
+          "Fate",
+          "Motherhood",
+          "Fertility",
+          "Family",
+          "Childhood"
+        ],
+        "Symbols": [
+          "Spindle",
+          "Thread",
+          "Swaddling cloth",
+          "Birth knot (untied during labor)"
+        ],
+        "Sacred Animals": [
+          "Doe (deer)",
+          "Swallow"
+        ],
+        "Sacred Plants": [
+          "Rowan (mountain ash)",
+          "Linden"
+        ],
+        "Element": "Earth",
+        "Associated Concepts": [
+          "Fate at Birth",
+          "Maternal Protection",
+          "Life Path",
+          "Family Continuity"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [
+          "005"
+        ],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus"
+        ],
+        "festivals": [
+          "Rozhanitsy Feast (post-harvest)",
+          "Birth rituals",
+          "Rodunitsa (ancestor day)"
+        ],
+        "offerings": [
+          "Bread",
+          "Honey",
+          "Cheese",
+          "Porridge left after a birth"
+        ]
+      },
+      "tags": [
+        "fertility",
+        "birth",
+        "motherhood",
+        "fate",
+        "domestic",
+        "minor deity"
+      ],
+      "thumbnailUrl": "images/deities/026/thumbnail.png",
+      "detailImageUrl": "images/deities/026/detailImage.png"
+    },
+    {
+      "id": "027",
+      "name": "Yasen",
+      "alternateNames": [
+        "Yesen",
+        "Ash God",
+        "Spirit of the Ash Tree"
+      ],
+      "type": "deity",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Divine guardian of the ash tree and spirit of spring's return to the forest. Governs healing and the World Tree.",
+      "mythology": "Yasen is the divine personification and guardian spirit of the ash tree — 'yasen' is the Slavic word for ash. The ash is one of the most sacred trees in Slavic and Indo-European tradition; in some Slavic variants, the World Tree is an ash rather than an oak. Yasen embodies the return of life to the forest in spring — the greening of ash trees being one of the surest signs winter has fully passed. He governs the healing properties of ash wood: ash bark, leaves, and the winged seeds (keys) were used extensively in Slavic folk medicine for wounds, snake bites, and fevers. He is a gentle, renewal-focused deity of woodland places.",
+      "attributes": {
+        "Domains": [
+          "Ash Trees",
+          "Spring",
+          "Forest",
+          "Healing",
+          "Renewal",
+          "World Tree"
+        ],
+        "Symbols": [
+          "Ash branch",
+          "Ash keys (winged seeds)",
+          "Fresh green buds"
+        ],
+        "Sacred Animals": [
+          "Adder/Serpent (lives near ash roots)",
+          "Woodpecker"
+        ],
+        "Sacred Plants": [
+          "Ash tree",
+          "Ash keys (seeds)"
+        ],
+        "Element": "Earth",
+        "Season": "Spring",
+        "Associated Concepts": [
+          "Healing",
+          "Renewal",
+          "Sacred Wood",
+          "World Tree Axis",
+          "Protection"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland"
+        ],
+        "festivals": [
+          "Spring tree rituals",
+          "First greening of ash trees"
+        ],
+        "offerings": [
+          "First spring flowers tied to ash branches",
+          "Carved ash wood amulets"
+        ]
+      },
+      "tags": [
+        "trees",
+        "spring",
+        "forest",
+        "healing",
+        "minor deity",
+        "ash tree",
+        "world tree"
+      ],
+      "thumbnailUrl": "images/deities/027/thumbnail.png",
+      "detailImageUrl": "images/deities/027/detailImage.png"
+    },
+    {
+      "id": "028",
+      "name": "Lada",
+      "alternateNames": [
+        "Lado",
+        "Łada",
+        "Lada-Lado"
+      ],
+      "type": "goddess",
+      "origin": [
+        "East Slavic",
+        "West Slavic",
+        "South Slavic"
+      ],
+      "description": "Goddess of beauty, love, harmony, and marriage. Her name echoes in ancient Slavic ritual songs sung across all Slavic lands.",
+      "mythology": "Lada is the goddess of beauty, love, harmony, marriage, and spring. Her name is the root of the Slavic word 'lad' — harmony, order, and peace. She appears as a radiant young woman crowned with flowers. Her name and that of her male counterpart Lado appear as a ritual refrain in countless ancient Slavic ceremonial songs (lada, lado, lado!), demonstrating her deep integration into folk music, wedding rites, and seasonal celebration. She presides over all love unions and marriages. In spring and summer she is honored with songs, circle dances (khorovod), and flower garlands. She is possibly cognate with the Baltic Laima, goddess of luck and fate.",
+      "attributes": {
+        "Domains": [
+          "Love",
+          "Beauty",
+          "Harmony",
+          "Marriage",
+          "Spring",
+          "Music",
+          "Dance"
+        ],
+        "Symbols": [
+          "Floral crown",
+          "Swan",
+          "Linden blossom",
+          "Wedding ring"
+        ],
+        "Sacred Animals": [
+          "Swan",
+          "Dove",
+          "Cuckoo"
+        ],
+        "Sacred Plants": [
+          "Linden (lime tree)",
+          "Rose",
+          "All spring flowers"
+        ],
+        "Element": "Air",
+        "Season": "Spring to Summer",
+        "Associated Concepts": [
+          "Romantic Love",
+          "Social Harmony",
+          "Joy",
+          "Beauty",
+          "Union of Souls"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": [
+          "013"
+        ]
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Poland",
+          "Serbia",
+          "Bulgaria",
+          "Czech Republic"
+        ],
+        "festivals": [
+          "Kupala Night (June 23-24)",
+          "Spring and summer love festivals",
+          "Wedding rituals"
+        ],
+        "offerings": [
+          "Flower wreaths",
+          "Songs with the lada/lado refrain",
+          "Wedding gifts"
+        ]
+      },
+      "tags": [
+        "love",
+        "beauty",
+        "harmony",
+        "marriage",
+        "spring",
+        "music",
+        "major deity"
+      ],
+      "thumbnailUrl": "images/deities/028/thumbnail.png",
+      "detailImageUrl": "images/deities/028/detailImage.png"
+    },
+    {
+      "id": "029",
+      "name": "Dnipro",
+      "alternateNames": [
+        "Dnieper",
+        "Borysthenes (Greek name)",
+        "Slavutych (poetic name)"
+      ],
+      "type": "personification",
+      "origin": [
+        "East Slavic"
+      ],
+      "description": "Divine personification of the great Dnieper River — the sacred lifeblood of Eastern Slavic civilization and trade.",
+      "mythology": "Dnipro (Dnieper) is the divine personification of the greatest river of the Eastern Slavs, flowing from central Russia through Belarus and Ukraine to the Black Sea. Herodotus called it the Borysthenes and described its immense importance in the 5th century BC. The river was the lifeblood of Kyivan Rus — the legendary trade route 'from the Varangians to the Greeks' ran along its entire length. In folk songs and epic poetry, the Dnipro speaks and has agency — warning heroes of approaching danger and mourning their deaths. His personification is a mighty silver-bearded elder whose current is his voice and whose depths hold all the secrets of Slavic history.",
+      "attributes": {
+        "Domains": [
+          "Rivers",
+          "Water",
+          "Trade",
+          "Ukraine",
+          "Life",
+          "Historical Memory"
+        ],
+        "Symbols": [
+          "Flowing silver water",
+          "Waves",
+          "Silver fish",
+          "River current"
+        ],
+        "Sacred Animals": [
+          "Sturgeon",
+          "Catfish",
+          "Eagle",
+          "Heron"
+        ],
+        "Sacred Plants": [
+          "Reed",
+          "Willow",
+          "Bulrush"
+        ],
+        "Element": "Water",
+        "Associated Concepts": [
+          "Vitality of the Land",
+          "Commerce",
+          "Historical Memory",
+          "Life Source"
+        ]
+      },
+      "relationships": {
+        "rivals": [],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Ukraine",
+          "Belarus",
+          "Russia"
+        ],
+        "festivals": [
+          "Water blessing ceremonies (Epiphany)",
+          "Kupala Night (river rituals)"
+        ],
+        "offerings": [
+          "Fish",
+          "Bread cast into current",
+          "First catch of season returned to river"
+        ]
+      },
+      "tags": [
+        "river",
+        "water",
+        "personification",
+        "Ukrainian",
+        "nature",
+        "trade",
+        "history"
+      ],
+      "thumbnailUrl": "images/deities/029/thumbnail.png",
+      "detailImageUrl": "images/deities/029/detailImage.png"
+    },
+    {
+      "id": "030",
+      "name": "Dobrovij",
+      "alternateNames": [
+        "Dobroviy",
+        "Dobro",
+        "Dobrozhil",
+        "Good Spirit"
+      ],
+      "type": "deity",
+      "origin": [
+        "East Slavic",
+        "South Slavic"
+      ],
+      "description": "Deity of goodness, kindness, and moral virtue. Divine endorsement of generosity and right action.",
+      "mythology": "Dobrovij (The Good One) is a benevolent deity of goodness, kindness, and moral virtue. His name derives from 'dobro' — the Slavic root for goodness, one of the most positively charged words in Slavic moral philosophy (common across all Slavic languages). He represents the principle that good actions have divine backing and that virtue is witnessed and rewarded by higher powers. He is invoked when making vows of generosity and when seeking blessings for acts of kindness. As a spiritual counterpoint to Chernobog, he embodies positive divine force without the martial aggression of warrior deities — a divine endorsement of everyday human goodness, community, and generosity.",
+      "attributes": {
+        "Domains": [
+          "Goodness",
+          "Kindness",
+          "Virtue",
+          "Blessing",
+          "Generosity",
+          "Moral Order"
+        ],
+        "Symbols": [
+          "Open hands",
+          "White light",
+          "Linden blossom",
+          "Honeycomb"
+        ],
+        "Sacred Animals": [
+          "White dove",
+          "Bee"
+        ],
+        "Sacred Plants": [
+          "Linden (lime tree)",
+          "Chamomile"
+        ],
+        "Element": "Light/Aether",
+        "Associated Concepts": [
+          "Virtue",
+          "Generosity",
+          "Divine Approval",
+          "Positive Karma",
+          "Community"
+        ]
+      },
+      "relationships": {
+        "rivals": [
+          "009"
+        ],
+        "family": [],
+        "allies": []
+      },
+      "worship": {
+        "regions": [
+          "Russia",
+          "Ukraine",
+          "Belarus",
+          "Serbia",
+          "Bulgaria"
+        ],
+        "festivals": [
+          "Community service and generosity days"
+        ],
+        "offerings": [
+          "Acts of kindness performed in his honor",
+          "Honey",
+          "Bread shared with neighbors"
+        ]
+      },
+      "tags": [
+        "goodness",
+        "benevolence",
+        "virtue",
+        "protection",
+        "minor deity",
+        "moral deity"
+      ],
+      "thumbnailUrl": "images/deities/030/thumbnail.png",
+      "detailImageUrl": "images/deities/030/detailImage.png"
+    }
+  ]
+}

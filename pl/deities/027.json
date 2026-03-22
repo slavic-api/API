@@ -1,12 +1,31 @@
 {
   "id": "027",
-  "name": "Jasen",
-  "description": "Bóg jesionów i wiosennego wzrostu.",
+  "name": "Jesion",
+  "alternateNames": ["Yesen", "Ash God", "Spirit of the Ash Tree"],
+  "type": "deity",
+  "origin": ["East Slavic"],
+  "description": "Boski strażnik jesionu i duch wiosennego powrotu lasu do życia. Rządzi leczeniem i Drzewem Świata.",
+  "mythology": "Jesion jest boską personifikacją i duchem opiekunem jesionu — 'yasen' to słowiańskie słowo oznaczające jesion. Jesion jest jednym z najbardziej świętych drzew w słowiańskiej i indoeuropejskiej tradycji; w niektórych słowiańskich wariantach Drzewem Świata jest jesion, a nie dąb. Jesion ucieleśnia powrót życia do lasu wiosną — zielenienie się jesionów będące jednym z pewniejszych znaków, że zima w pełni minęła. Rządzi leczniczymi właściwościami drewna jesionowego: kora, liście i skrzydlate nasiona (kluczyki) jesionu były szeroko stosowane w słowiańskiej medycynie ludowej na rany, ukąszenia węży i gorączki. Jest łagodnym, skupionym na odnowie bóstwem leśnych miejsc.",
   "attributes": {
-    "Domains": ["Drzewa", "Wiosna", "Wzrost"],
-    "Symbols": ["Jesion", "Pączkujące Gałęzie"],
+    "Domains": ["Jesiony", "Wiosna", "Las", "Leczenie", "Odnowa", "Drzewo Świata"],
+    "Symbols": ["Gałązka jesionu", "Kluczyki jesionowe (skrzydlate nasiona)", "Świeże zielone pąki"],
+    "Sacred Animals": ["Żmija/Wąż (żyją przy korzeniach jesionu)", "Dzięcioł"],
+    "Sacred Plants": ["Jesion", "Kluczyki jesionowe (nasiona)"],
     "Element": "Ziemia",
-    "Associated Season": "Wiosna"
+    "Season": "Wiosna",
+    "Associated Concepts": ["Leczenie", "Odnowa", "Święte Drewno", "Oś Drzewa Świata", "Ochrona"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland"],
+    "festivals": ["Wiosenne rytuały drzewne", "Pierwsze zielenienie się jesionów"],
+    "offerings": ["Pierwsze wiosenne kwiaty przywiązane do gałęzi jesionu", "Amulety z rzeźbionego drewna jesionowego"]
+  },
+  "tags": ["trees", "spring", "forest", "healing", "minor deity", "ash tree", "world tree"],
+  "thumbnailUrl": "images/deities/027/thumbnail.png",
   "detailImageUrl": "images/deities/027/detailImage.png"
 }

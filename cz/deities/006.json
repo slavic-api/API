@@ -1,12 +1,30 @@
 {
   "id": "006",
-  "name": "Domovoi",
-  "description": "Domácí duch, ochránce domova a rodiny.",
+  "name": "Domovoj",
+  "alternateNames": ["Domovoy", "Domovik", "Dvorovoi", "Ded", "Grandfather"],
+  "type": "spirit",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "Pradávný duch domácnosti a ochránce domu. Přebývá za sporákem a střeží rodinu.",
+  "mythology": "Domovoj je pradávný duch domácnosti, který přebývá za sporákem, pod prahem nebo ve stodole. Je to duch mužského předka rodiny a chrání domácnost, je-li mu prokazována úcta. Jeví se jako malý chlupatý mužíček podobající se hospodáři domu. Před neštěstím duní a sténá, spící členy rodiny hladí — teplý a jemný dotek věstí štěstí, studený a drsný nebezpečí. V některých tradicích nesnáší zrcadla. Každý dům má svého Domovoje, který rodinu následuje při stěhování. Zanedbání jeho uctívání vede k neplechu: v noci zapléká koním hřívy, kazí mléko a způsobuje podivné zvuky.",
   "attributes": {
-    "Domains": ["Domov", "Rodina", "Ochrana"],
-    "Symbols": ["Dům", "Vousy"],
-    "Element": "Země",
-    "Associated Concepts": ["Předkové", "Oheň domácího krbu"]
+    "Domains": ["Domov", "Rodina", "Ochrana", "Krb", "Předkové"],
+    "Symbols": ["Krb/Sporák", "Práh", "Chléb a sůl"],
+    "Sacred Animals": ["Kočka", "Had", "Kohout"],
+    "Sacred Plants": ["Žádné specifické"],
+    "Element": "Oheň",
+    "Associated Concepts": ["Předci", "Domácí mír", "Varovná znamení", "Ochrana"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia"],
+    "festivals": ["Silvestr (uklidnění obětinami)", "Při stěhování (pozvání Domovoje)"],
+    "offerings": ["Kaše", "Chléb a sůl", "První jídlo dne", "Tabák"]
+  },
+  "tags": ["household spirit", "domestic", "protection", "family", "ancestor spirit"],
+  "thumbnailUrl": "images/deities/006/thumbnail.png",
   "detailImageUrl": "images/deities/006/detailImage.png"
 }

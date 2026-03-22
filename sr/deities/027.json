@@ -1,0 +1,31 @@
+{
+  "id": "027",
+  "name": "Jasen",
+  "alternateNames": ["Yesen", "Ash God", "Spirit of the Ash Tree"],
+  "type": "deity",
+  "origin": ["East Slavic"],
+  "description": "Božanski čuvar jasena i duh prolećnog povratka u šumu. Upravlja lečenjem i Svetskim drvetom.",
+  "mythology": "Jasen je božansko ovaploćenje i duh čuvar jasena — 'jasen' je slovenska reč za ovu vrstu drveta. Jasen je jedno od najsvetijih drveća u slovenskoj i indoevropskoj tradiciji; u nekim slovenskim varijantama Svetsko drvo je jasen, a ne hrast. Jasen ovaploćuje povratak života u šumu u proleće — zelenjenje jasena je jedan od najpouzdanijih znakova da je zima definitivno prošla. Upravlja lekovitim svojstvima jasenovog drveta: kora jasena, listovi i krilate semenke (perje) obilno su korišćeni u slovenskoj narodnoj medicini za rane, ujede zmija i groznice. On je blago, obnavljajuće usmereno božanstvo šumovitih mesta.",
+  "attributes": {
+    "Domains": ["Jasenovi", "Proleće", "Šuma", "Lečenje", "Obnavljanje", "Svetsko drvo"],
+    "Symbols": ["Grana jasena", "Krilate semenke jasena", "Sveži zeleni pupoljci"],
+    "Sacred Animals": ["Šarka/Zmija (živi pored jasenovih korena)", "Detlić"],
+    "Sacred Plants": ["Jasen", "Semenke jasena"],
+    "Element": "Zemlja",
+    "Season": "Proleće",
+    "Associated Concepts": ["Lečenje", "Obnavljanje", "Sveto drvo", "Osa Svetskog drveta", "Zaštita"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland"],
+    "festivals": ["Prolećni obredi uz drveće", "Prvo zelenjenje jasena"],
+    "offerings": ["Prvo prolećno cveće vezano za grane jasena", "Urezani amajlije od jasenovog drveta"]
+  },
+  "tags": ["trees", "spring", "forest", "healing", "minor deity", "ash tree", "world tree"],
+  "thumbnailUrl": "images/deities/027/thumbnail.png",
+  "detailImageUrl": "images/deities/027/detailImage.png"
+}

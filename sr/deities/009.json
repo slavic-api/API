@@ -1,0 +1,82 @@
+{
+  "id": "009",
+  "name": "Črnobog",
+  "alternateNames": [
+    "Czernobóg",
+    "Tchernobog",
+    "Black God",
+    "Crnobog"
+  ],
+  "type": "god",
+  "origin": [
+    "West Slavic",
+    "East Slavic"
+  ],
+  "description": "Bog tame, zla i nesreće. Pandan Belog boga, koji oličava mračnu stranu kosmičke dvojnosti.",
+  "mythology": "Črnobog ('Crni bog') prvi put se pominje u nemačkim hronikama 12. veka koje opisuju baltičkoslovenska plemena. On je otelotvorenje tamnih, zlih i razornih sila — pandan Belom bogu (Belobog). Na gozbama su Sloveni predavali čašu izgovarajući kletve Črnobogu i hvale Belobogu, priznavajući dvojnost svega što postoji. On je bog noći, haosa, nesreće i svega što je prokleto. Njegovo bogosluženje se bojalo, ali se praktikovalo da bi se umilostivio i smanjila nesreća. Pojavljuje se u modernoj kulturi, uključujući Disnejevu Fantaziju (1940) i roman Američki bogovi Nila Gejmana, svedočeći o njegovoj trajnoj simboličnoj snazi.",
+  "attributes": {
+    "Domains": [
+      "Tama",
+      "Zlo",
+      "Haos",
+      "Noć",
+      "Nesreća",
+      "Smrt"
+    ],
+    "Symbols": [
+      "Crna ikonografija",
+      "Gvozdeni lanci",
+      "Tamni mesec",
+      "Senka"
+    ],
+    "Sacred Animals": [
+      "Crni konj",
+      "Gavran",
+      "Vuk",
+      "Pauk"
+    ],
+    "Sacred Plants": [
+      "Velebilje",
+      "Crni trn"
+    ],
+    "Element": "Tama",
+    "Season": "Zima",
+    "Associated Concepts": [
+      "Dvojnost",
+      "Haos",
+      "Sudbina",
+      "Entropija",
+      "Klinjanje"
+    ]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": [
+      "Pomerania",
+      "Rugia",
+      "Poland",
+      "Baltic Slavic coast"
+    ],
+    "festivals": [
+      "Rituali u tamu zimskog mlađaka"
+    ],
+    "offerings": [
+      "Crne životinje",
+      "Medovina nad kojom su izgovarane kletve"
+    ]
+  },
+  "tags": [
+    "darkness",
+    "evil",
+    "chaos",
+    "duality",
+    "major deity",
+    "Baltic Slavic"
+  ],
+  "thumbnailUrl": "images/deities/009/thumbnail.png",
+  "detailImageUrl": "images/deities/009/detailImage.png"
+}

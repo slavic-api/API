@@ -1,12 +1,30 @@
 {
   "id": "021",
   "name": "Veleslav",
-  "description": "A wise figure representing Slavic heritage and wisdom.",
+  "alternateNames": ["Velesslav"],
+  "type": "deity",
+  "origin": ["East Slavic"],
+  "description": "Venerable figure of ancient wisdom connected to the Veles cult. Keeper of ancestral knowledge and oral tradition.",
+  "mythology": "Veleslav is a figure connected to the cult of Veles, embodying the venerable aspects of divine wisdom. The name combines Veles (underworld god of wisdom and cattle) with 'slav' (glory/fame). He represents elder knowing — the accumulation of ancestral memory, sacred oral tradition, and prophetic insight passed from generation to generation. In neopagan Slavic revival traditions, he is associated with sacred knowledge, prophecy, and the ancient wisdom traditions maintained by bards and seers. He serves as an intermediary between the divine realm of Veles and human seekers of wisdom.",
   "attributes": {
-    "Domains": ["Wisdom", "Heritage", "Tradition"],
-    "Symbols": ["Book", "Ancient Script"],
+    "Domains": ["Wisdom", "Knowledge", "Ancient Tradition", "Prophecy", "Memory"],
+    "Symbols": ["Ancient carved staff", "Rune marks", "Elder wood"],
+    "Sacred Animals": ["Owl", "Raven"],
+    "Sacred Plants": ["Elder tree", "Mistletoe"],
     "Element": "Earth",
-    "Associated Concepts": ["Knowledge", "Ancestry"]
+    "Associated Concepts": ["Elder Wisdom", "Ancestral Memory", "Prophecy", "Bardic Arts"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": ["004"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine"],
+    "festivals": ["Winter solstice wisdom rites"],
+    "offerings": ["Poems and songs", "Mead", "First written or spoken words of a new work"]
+  },
+  "tags": ["wisdom", "knowledge", "elder", "minor deity", "bard", "prophecy"],
+  "thumbnailUrl": "images/deities/021/thumbnail.png",
   "detailImageUrl": "images/deities/021/detailImage.png"
 }

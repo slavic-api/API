@@ -1,0 +1,30 @@
+{
+  "id": "026",
+  "name": "Roda",
+  "alternateNames": ["Rozhanitsa", "Rozhanitsy (plural)", "Birth Goddess"],
+  "type": "goddess",
+  "origin": ["East Slavic"],
+  "description": "Boginja rođenja vezana za Roda. Ona i Rožanice pojavljuju se pri svakom porođaju da bi ispredile sudbinu i životni put novorođenčeta.",
+  "mythology": "Roda (ili Rožanice, njen množinski oblik) su boginje porođaja vezane za Roda, božanstvo stvaralac. Pojavljuju se u trenutku porođaja deteta da ispredaju njegovu sudbinu i odrede put njegovog života — nalik grčkim Mojrama ili rimskim Parkama. Dve ili tri Rožanice prisutne su pri svakom porođaju: jedna prede nit života (njenu dužinu), druga tka njen kvalitet, a treća određuje sreću ili nesreću. Srednjovekovni slovenski crkveni tekstovi žestoko su osuđivali praksu ostavljanja gozbi za Rožanice — hleb, med, sir i kašu — što ukazuje na to koliko su bile rasprostranjeno i duboko poštovane širom slovenskih zemalja.",
+  "attributes": {
+    "Domains": ["Rođenje", "Sudbina", "Majčinstvo", "Plodnost", "Porodica", "Detinjstvo"],
+    "Symbols": ["Vreteno", "Nit", "Povoji", "Čvor porođaja (razvezuje se tokom porođaja)"],
+    "Sacred Animals": ["Košuta (srna)", "Lasta"],
+    "Sacred Plants": ["Jarebika (gorski jasen)", "Lipa"],
+    "Element": "Zemlja",
+    "Associated Concepts": ["Sudbina pri rođenju", "Majčinska zaštita", "Životni put", "Porodični kontinuitet"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": ["005"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Gozba Rožanica (posle žetve)", "Obredi pri porođaju", "Rodunica (dan predaka)"],
+    "offerings": ["Hleb", "Med", "Sir", "Kaša ostavljena posle porođaja"]
+  },
+  "tags": ["fertility", "birth", "motherhood", "fate", "domestic", "minor deity"],
+  "thumbnailUrl": "images/deities/026/thumbnail.png",
+  "detailImageUrl": "images/deities/026/detailImage.png"
+}

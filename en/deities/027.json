@@ -1,12 +1,31 @@
 {
   "id": "027",
   "name": "Yasen",
-  "description": "God of ash trees and spring growth.",
+  "alternateNames": ["Yesen", "Ash God", "Spirit of the Ash Tree"],
+  "type": "deity",
+  "origin": ["East Slavic"],
+  "description": "Divine guardian of the ash tree and spirit of spring's return to the forest. Governs healing and the World Tree.",
+  "mythology": "Yasen is the divine personification and guardian spirit of the ash tree — 'yasen' is the Slavic word for ash. The ash is one of the most sacred trees in Slavic and Indo-European tradition; in some Slavic variants, the World Tree is an ash rather than an oak. Yasen embodies the return of life to the forest in spring — the greening of ash trees being one of the surest signs winter has fully passed. He governs the healing properties of ash wood: ash bark, leaves, and the winged seeds (keys) were used extensively in Slavic folk medicine for wounds, snake bites, and fevers. He is a gentle, renewal-focused deity of woodland places.",
   "attributes": {
-    "Domains": ["Trees", "Spring", "Growth"],
-    "Symbols": ["Ash Tree", "Budding Branches"],
+    "Domains": ["Ash Trees", "Spring", "Forest", "Healing", "Renewal", "World Tree"],
+    "Symbols": ["Ash branch", "Ash keys (winged seeds)", "Fresh green buds"],
+    "Sacred Animals": ["Adder/Serpent (lives near ash roots)", "Woodpecker"],
+    "Sacred Plants": ["Ash tree", "Ash keys (seeds)"],
     "Element": "Earth",
-    "Associated Season": "Spring"
+    "Season": "Spring",
+    "Associated Concepts": ["Healing", "Renewal", "Sacred Wood", "World Tree Axis", "Protection"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland"],
+    "festivals": ["Spring tree rituals", "First greening of ash trees"],
+    "offerings": ["First spring flowers tied to ash branches", "Carved ash wood amulets"]
+  },
+  "tags": ["trees", "spring", "forest", "healing", "minor deity", "ash tree", "world tree"],
+  "thumbnailUrl": "images/deities/027/thumbnail.png",
   "detailImageUrl": "images/deities/027/detailImage.png"
 }

@@ -1,12 +1,31 @@
 {
   "id": "002",
-  "name": "Dazhbog",
-  "description": "Bóg słońca, często kojarzony z bogactwem, szczęściem i patronatem.",
+  "name": "Dadźbóg",
+  "alternateNames": ["Dažbog", "Dabog", "Dajbog", "Dazbog"],
+  "type": "god",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Bóg słońca, bogactwa i szczęścia. Przodek ludu słowiańskiego i syn Swaroga.",
+  "mythology": "Dadźbóg jest bóstwem solarnym i dawcą bogactwa, którego imię oznacza 'Bóg Dający' lub 'Bóg Daru'. Każdego dnia przemierza niebo w złotym rydwanie ciągniętym przez białe konie ziejące ogniem i złotem. Słowo o wyprawie Igora nazywa lud Rusi 'wnukami Dadźboga', wskazując na niego jako boskiego przodka narodu słowiańskiego. Każdego ranka jest młody, wieczorem starzeje się, by następnego dnia odrodzić się na nowo. Jest synem Swaroga, który wykuł słońce. Poświęcone mu są konie, złoto i tarcza słoneczna. Jest ucieleśnieniem życiodajnej hojności światła słonecznego.",
   "attributes": {
-    "Domains": ["Słońce", "Bogactwo", "Szczęście"],
-    "Symbols": ["Dysk Słoneczny", "Rydwany"],
+    "Domains": ["Słońce", "Bogactwo", "Szczęście", "Żniwa", "Światło"],
+    "Symbols": ["Tarcza Słoneczna", "Złoty Rydwan", "Żar-ptak", "Biały Koń"],
+    "Sacred Animals": ["Biały koń", "Złoty ptak (Żar-ptak)", "Lew"],
+    "Sacred Plants": ["Słonecznik", "Pszenica", "Rumianek"],
     "Element": "Ogień",
-    "Season": "Lato"
+    "Season": "Lato",
+    "Associated Concepts": ["Dobrobyt", "Hojność", "Ciepło", "Ojcostwo"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["010"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia", "Bulgaria"],
+    "festivals": ["Przesilenie Letnie (Noc Kupały)", "Kolyada (Przesilenie Zimowe — odrodzenie słoneczne)"],
+    "offerings": ["Chleb", "Miód", "Zboże", "Złote przedmioty"]
+  },
+  "tags": ["major deity", "sun", "prosperity", "agriculture", "solar", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/002/thumbnail.png",
   "detailImageUrl": "images/deities/002/detailImage.png"
 }

@@ -1,12 +1,30 @@
 {
   "id": "005",
   "name": "Rod",
-  "description": "Prapůvodní stvořitelská božstvo, předek všech bytostí a bohů.",
+  "alternateNames": ["Род", "Rozhanitsy (associated female aspect)"],
+  "type": "primordial god",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Prapůvodní stvořitelské božstvo a předek všech bohů a živých bytostí. Zdroj veškeré existence.",
+  "mythology": "Rod je prapůvodní stvořitelské božstvo a prapředek všech bohů a živých bytostí. Dříve než cokoli existovalo, Rod stvořil svět — snesením kosmického vejce, z nějž se vylíhl vesmír, nebo stvořením z vlastního těla. Jeho jméno je kořenem slovanských slov pro narození, rodinu, rod a přírodu (slovo 'rod' znamená kmen/rod ve všech slovanských jazycích). Provázejí ho Rožanice — dvě nebo tři ženské bohyně rodu, které každému člověku určují osud při narození. Rané slovanské texty psané křesťanskými kléry opakovaně a výslovně odsuzovaly uctívání Roda a Rožanic, což svědčí o jejich prvořadém významu v předkřesťanském lidovém náboženství.",
   "attributes": {
-    "Domains": ["Stvoření", "Předkové", "Kosmos"],
-    "Symbols": ["Kosmické vejce", "Strom života"],
+    "Domains": ["Stvoření", "Předkové", "Kosmos", "Osud", "Zrození", "Rod"],
+    "Symbols": ["Kosmické vejce", "Strom života", "Duha"],
+    "Sacred Animals": ["Zubr", "Orel"],
+    "Sacred Plants": ["Světový strom (Dub)"],
     "Element": "Éter",
-    "Associated Concepts": ["Osud", "Prozřetelnost"]
+    "Associated Concepts": ["Osud", "Prozřetelnost", "Životní síla", "Kosmický řád"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["026"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia"],
+    "festivals": ["Rodunitsa (uctívání předků)", "Hostina Rožanic (po sklizni)"],
+    "offerings": ["Chléb", "Med", "Kaše", "Sýr", "Medovina"]
+  },
+  "tags": ["primordial", "creator", "ancestors", "fate", "major deity"],
+  "thumbnailUrl": "images/deities/005/thumbnail.png",
   "detailImageUrl": "images/deities/005/detailImage.png"
 }

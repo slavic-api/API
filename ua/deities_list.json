@@ -1,183 +1,274 @@
 {
-"gods": [
-{
-"id": "001",
-"name": "Перун",
-"description": "Перун - могутній слов’янський бог грому та блискавок. Він володіє молотом, знищуючи зло блискавками. Перун є захисником небес та символом сили та мужності.",
-"thumbnailUrl": "images/deities/001/thumbnail.png"
-},
-{
-"id": "002",
-"name": "Дажбог",
-"description": "Дажбог - сяючий бог сонця та дарувальник багатства. Він приносить світло, тепло та процвітання у світ. Люди моляться Дажбогу за щедрий урожай та світле майбутнє.",
-"thumbnailUrl": "images/deities/002/thumbnail.png"
-},
-{
-"id": "003",
-"name": "Мокош",
-"description": "Мокош - ніжна богиня плодючості та захисниця жінок. Вона благословляє землю достатком і піклується про матерів та дітей. Мокош шанована за свої плекаючі та життєдайні якості.",
-"thumbnailUrl": "images/deities/003/thumbnail.png"
-},
-{
-"id": "004",
-"name": "Велес",
-"description": "Велес - бог худоби, торгівлі та підземного світу. Він охороняє стада та веде купців у їхніх подорожах. Велес також пов'язаний з мудрістю та прихованими таємницями землі.",
-"thumbnailUrl": "images/deities/004/thumbnail.png"
-},
-{
-"id": "005",
-"name": "Род",
-"description": "Род - первісне божество, творець всесвіту. Він є джерелом усього життя та існування. Род представляє вічний цикл народження, смерті та відродження.",
-"thumbnailUrl": "images/deities/005/thumbnail.png"
-},
-{
-"id": "006",
-"name": "Домовик",
-"description": "Домовик - дружелюбний дух дому та його захисник. Він стежить за сім'єю та забезпечує її добробут. Домовика шанують принесенням подарунків, щоб зберегти безпеку дому.",
-"thumbnailUrl": "images/deities/006/thumbnail.png"
-},
-{
-"id": "007",
-"name": "Морозко",
-"description": "Морозко - уособлення зими, морозу та холоду. Він приносить зимову прохолоду та покриває землю снігом. Присутність Морозка нагадує нам про красу та виклики холодного сезону.",
-"thumbnailUrl": "images/deities/007/thumbnail.png"
-},
-{
-"id": "008",
-"name": "Зоря",
-"description": "Зоря складається з двох богинь, які представляють ранкову та вечірню зірки. Вони охороняють ворота палацу Дажбога та забезпечують безпечну подорож сонця по небу. Зоря приносить баланс і порядок у космос.",
-"thumbnailUrl": "images/deities/008/thumbnail.png"
-},
-{
-"id": "009",
-"name": "Чорнобог",
-"description": "Чорнобог - бог темряви, зла та нещастя. Він уособлює тіньові аспекти існування та служить нагадуванням про вічну боротьбу між світлом та темрявою.",
-"thumbnailUrl": "images/deities/009/thumbnail.png"
-},
-{
-"id": "010",
-"name": "Сварог",
-"description": "Сварог - бог вогню, ковальства та сонця. Він є майстром-кувалем, що кує сонце щодня. Сварог представляє трансформаційну силу вогню та тепло сонця.",
-"thumbnailUrl": "images/deities/010/thumbnail.png"
-},
-{
-"id": "011",
-"name": "Маржанна",
-"description": "Маржанна - богиня зими, смерті та відродження. Вона символізує кінець одного циклу та початок іншого. Маржанну святкують під час слов’янського свята Масниці.",
-"thumbnailUrl": "images/deities/011/thumbnail.png"
-},
-{
-"id": "012",
-"name": "Баба Яга",
-"description": "Баба Яга - таємнича відьма з надприродними силами. Вона живе в обертовій хаті на курячих ногах і часто зображена як помічник та шахрай у слов’янській міфології.",
-"thumbnailUrl": "images/deities/012/thumbnail.png"
-},
-{
-"id": "013",
-"name": "упала та Купало",
-"description": "Купала та Купало - божества, пов'язані з літнім сонцестоянням, святкуються багаттями та ритуалами. Вони представляють плодючість та радість літа, а їхній фестиваль позначає час любові та оновлення.",
-"thumbnailUrl": "images/deities/013/thumbnail.png"
-},
-{
-"id": "014",
-"name": "Стрибог",
-"description": "Стрибог - бог вітру, повітря та неба. Він контролює вітри та погоду, приносячи як спокій, так і бурі. Присутність Стрибога відчувається у легкому вітерці та потужному штормі.",
-"thumbnailUrl": "images/deities/014/thumbnail.png"
-},
-  {
-"id": "015",
-"name": "Лісовик",
-"description": "Лісовик - пустотливий дух лісу. Він може з'являтися як високий, гарний чоловік або як істота, схожа на карлика. Лісовик - захисник тварин та лісів, і часто вводить мандрівників в оману.",
-"thumbnailUrl": "images/deities/015/thumbnail.png"
-},
-{
-"id": "016",
-"name": "Русалка",
-"description": "Русалка - це німфа води або істота, схожа на русалку. Вона пов'язана з водними тілами і часто зображується як красиве, чарівне створіння. Присутність русалки одночасно приваблива і таємнича.",
-"thumbnailUrl": "images/deities/016/thumbnail.png"
-},
-{
-"id": "017",
-"name": "Домовина",
-"description": "Домовина - уособлення батьківщини або материнської землі. Вона символізує глибокий зв'язок слов'янських народів з їх предками та почуття приналежності.",
-"thumbnailUrl": "images/deities/017/thumbnail.png"
-},
-{
-"id": "018",
-"name": "Ярило",
-"description": "Ярило - бог весни, плодючості та врожаю. Він представляє відродження життя та зростання культур. Фестиваль Ярила вітає прихід весни та обіцянку достатку.",
-"thumbnailUrl": "images/deities/018/thumbnail.png"
-},
-{
-"id": "019",
-"name": "Доля і Судьба",
-"description": "Доля і Судьба - фігури, що представляють долю та призначення. Вони формують хід людського життя, сплітаючи нитки фортуни та направляючи індивідів до їхньої долі.",
-"thumbnailUrl": "images/deities/019/thumbnail.png"
-},
-{
-"id": "020",
-"name": "Сімаргл",
-"description": "Сімаргл - міфічна істота, часто зображувана як крилатий пес або лев. Він є символом сили, захисту та божественної могутності. Сімаргл водночас величний та жорстокий у слов'янській міфології.",
-"thumbnailUrl": "images/deities/020/thumbnail.png"
-},
-{
-"id": "021",
-"name": "Велеслав",
-"description": "Велеслав - менш відома постать, мудра та шанована. Він пов'язаний з мудрістю, знанням та стародавніми традиціями. Велеслав уособлює мудрість віків.",
-"thumbnailUrl": "images/deities/021/thumbnail.png"
-},
-{
-"id": "022",
-"name": "Жива",
-"description": "Жива - богиня життя, плодючості та природи. Вона є символом життєвої сили та достатку природного світу. Жива шанована за свою роль у підтримці життя.",
-"thumbnailUrl": "images/deities/022/thumbnail.png"
-},
-{
-"id": "023",
-"name": "Дівій",
-"description": "Дівій асоціюється з дикими, невгамовними аспектами природи. Він представляє первісні сили дикості та таємниці природного світу. Дівій одночасно непередбачуваний і вражаючий.",
-"thumbnailUrl": "images/deities/023/thumbnail.png"
-},
-{
-"id": "024",
-"name": "Триглав",
-"description": "Триглав - божество з трьома головами, які символізують небо, землю та підземний світ. Він представляє взаємозв'язок космосу та єдність усього. Триглав уособлює космічний баланс.",
-"thumbnailUrl": "images/deities/024/thumbnail.png"
-},
-{
-"id": "025",
-"name": "Живині Поле",
-"description": "Живині Поле - міфічне місце, чарівне поле чи луг. Це місце дива та чарівності, яке часто відвідується у слов'янському фольклорі. Живині Поле - царство таємниць та пригод.",
-"thumbnailUrl": "images/deities/025/thumbnail.png"
-},
-{
-"id": "026",
-"name": "Рода",
-"description": "Рода - богиня плодючості, материнства та сім'ї. Вона є захисницею домашнього вогнища, забезпечуючи добробут сімей та неперервність поколінь.",
-"thumbnailUrl": "images/deities/026/thumbnail.png"
-},
-{
-"id": "027",
-"name": "Ясень",
-"description": "Ясень - бог ясенів та весняних дерев. Він представляє відновлення та зростання лісів навесні. Присутність Ясеня відчувається в розпускаючихся листках та пробудженні природи.",
-"thumbnailUrl": "images/deities/027/thumbnail.png"
-},
-{
-"id": "028",
-"name": "Lada",
-"description": "Лада - богиня краси, любові та гармонії. Вона втілює ідеали грації та елегантності. Присутність Лади приносить любов, радість та баланс у світ.",
-"thumbnailUrl": "images/deities/028/thumbnail.png"
-},
-{
-"id": "029",
-"name": "Dnipro",
-"description": "Дніпро - уособлення річки Дніпро, важливого водного шляху на слов'янських землях. Річка є джерелом існування, торгівлі та культурного значення.",
-"thumbnailUrl": "images/deities/029/thumbnail.png"
-},
-{
-	"id": "030",
-"name": "Добровій",
-"description": "Добровій - божество, пов'язане з добром та благодійністю. Він представляє акти доброти та позитивні наміри. Добровій заохочує людей прагнути до добра у своїх діяннях.",
-"thumbnailUrl": "images/deities/030/thumbnail.png"
+  "gods": [
+    {
+      "id": "001",
+      "name": "Перун",
+      "type": "god",
+      "origin": ["East Slavic", "South Slavic", "West Slavic"],
+      "description": "Перун - могутній слов'янський бог грому та блискавок. Він володіє молотом, знищуючи зло блискавками. Перун є захисником небес та символом сили та мужності.",
+      "tags": ["major deity", "warrior", "sky", "weather", "thunder", "oak", "Kiev pantheon"],
+      "thumbnailUrl": "images/deities/001/thumbnail.png"
+    },
+    {
+      "id": "002",
+      "name": "Дажбог",
+      "type": "god",
+      "origin": ["East Slavic", "South Slavic"],
+      "description": "Дажбог - сяючий бог сонця та дарувальник багатства. Він приносить світло, тепло та процвітання у світ. Люди моляться Дажбогу за щедрий урожай та світле майбутнє.",
+      "tags": ["major deity", "sun", "prosperity", "agriculture", "solar", "Kiev pantheon"],
+      "thumbnailUrl": "images/deities/002/thumbnail.png"
+    },
+    {
+      "id": "003",
+      "name": "Мокош",
+      "type": "goddess",
+      "origin": ["East Slavic"],
+      "description": "Мокош - ніжна богиня плодючості та захисниця жінок. Вона благословляє землю достатком і піклується про матерів та дітей. Мокош шанована за свої плекаючі та життєдайні якості.",
+      "tags": ["major deity", "fertility", "weaving", "women", "fate", "earth mother", "Kiev pantheon"],
+      "thumbnailUrl": "images/deities/003/thumbnail.png"
+    },
+    {
+      "id": "004",
+      "name": "Велес",
+      "type": "god",
+      "origin": ["East Slavic", "West Slavic", "South Slavic"],
+      "description": "Велес - бог худоби, торгівлі та підземного світу. Він охороняє стада та веде купців у їхніх подорожах. Велес також пов'язаний з мудрістю та прихованими таємницями землі.",
+      "tags": ["major deity", "underworld", "magic", "cattle", "trickster", "wisdom", "Kiev pantheon"],
+      "thumbnailUrl": "images/deities/004/thumbnail.png"
+    },
+    {
+      "id": "005",
+      "name": "Род",
+      "type": "primordial god",
+      "origin": ["East Slavic", "South Slavic"],
+      "description": "Род - первісне божество, творець всесвіту. Він є джерелом усього життя та існування. Род представляє вічний цикл народження, смерті та відродження.",
+      "tags": ["primordial", "creator", "ancestors", "fate", "major deity"],
+      "thumbnailUrl": "images/deities/005/thumbnail.png"
+    },
+    {
+      "id": "006",
+      "name": "Домовик",
+      "type": "spirit",
+      "origin": ["East Slavic", "West Slavic"],
+      "description": "Домовик - дружелюбний дух дому та його захисник. Він стежить за сім'єю та забезпечує її добробут. Домовика шанують принесенням подарунків, щоб зберегти безпеку дому.",
+      "tags": ["household spirit", "domestic", "protection", "family", "ancestor spirit"],
+      "thumbnailUrl": "images/deities/006/thumbnail.png"
+    },
+    {
+      "id": "007",
+      "name": "Морозко",
+      "type": "spirit",
+      "origin": ["East Slavic"],
+      "description": "Морозко - уособлення зими, морозу та холоду. Він приносить зимову прохолоду та покриває землю снігом. Присутність Морозка нагадує нам про красу та виклики холодного сезону.",
+      "tags": ["winter", "cold", "frost", "nature spirit", "fairy tale", "gift-giver"],
+      "thumbnailUrl": "images/deities/007/thumbnail.png"
+    },
+    {
+      "id": "008",
+      "name": "Зоря",
+      "type": "goddess",
+      "origin": ["East Slavic", "South Slavic"],
+      "description": "Зоря складається з двох богинь, які представляють ранкову та вечірню зірки. Вони охороняють ворота палацу Дажбога та забезпечують безпечну подорож сонця по небу. Зоря приносить баланс і порядок у космос.",
+      "tags": ["dawn", "dusk", "stars", "celestial", "cosmic order", "warrior maiden"],
+      "thumbnailUrl": "images/deities/008/thumbnail.png"
+    },
+    {
+      "id": "009",
+      "name": "Чорнобог",
+      "type": "god",
+      "origin": ["West Slavic", "East Slavic"],
+      "description": "Чорнобог - бог темряви, зла та нещастя. Він уособлює тіньові аспекти існування та служить нагадуванням про вічну боротьбу між світлом та темрявою.",
+      "tags": ["darkness", "evil", "chaos", "duality", "major deity", "Baltic Slavic"],
+      "thumbnailUrl": "images/deities/009/thumbnail.png"
+    },
+    {
+      "id": "010",
+      "name": "Сварог",
+      "type": "god",
+      "origin": ["East Slavic", "West Slavic"],
+      "description": "Сварог - бог вогню, ковальства та сонця. Він є майстром-кувалем, що кує сонце щодня. Сварог представляє трансформаційну силу вогню та тепло сонця.",
+      "tags": ["major deity", "sky", "fire", "smithing", "craftsman", "father deity", "Kiev pantheon"],
+      "thumbnailUrl": "images/deities/010/thumbnail.png"
+    },
+    {
+      "id": "011",
+      "name": "Маржанна",
+      "type": "goddess",
+      "origin": ["West Slavic", "East Slavic", "South Slavic"],
+      "description": "Маржанна - богиня зими, смерті та відродження. Вона символізує кінець одного циклу та початок іншого. Маржанну святкують під час слов'янського свята Масниці.",
+      "tags": ["death", "winter", "rebirth", "seasonal", "transformation", "major deity"],
+      "thumbnailUrl": "images/deities/011/thumbnail.png"
+    },
+    {
+      "id": "012",
+      "name": "Баба Яга",
+      "type": "spirit",
+      "origin": ["East Slavic", "West Slavic"],
+      "description": "Баба Яга - таємнича відьма з надприродними силами. Вона живе в обертовій хаті на курячих ногах і часто зображена як помічник та шахрай у слов'янській міфології.",
+      "tags": ["witch", "forest", "folklore", "trickster", "wisdom", "death boundary", "hag"],
+      "thumbnailUrl": "images/deities/012/thumbnail.png"
+    },
+    {
+      "id": "013",
+      "name": "Купала та Купало",
+      "type": "deity pair",
+      "origin": ["East Slavic", "West Slavic", "South Slavic"],
+      "description": "Купала та Купало - божества, пов'язані з літнім сонцестоянням, святкуються багаттями та ритуалами. Вони представляють плодючість та радість літа, а їхній фестиваль позначає час любові та оновлення.",
+      "tags": ["summer solstice", "fertility", "fire", "water", "love", "major festival"],
+      "thumbnailUrl": "images/deities/013/thumbnail.png"
+    },
+    {
+      "id": "014",
+      "name": "Стрибог",
+      "type": "god",
+      "origin": ["East Slavic"],
+      "description": "Стрибог - бог вітру, повітря та неба. Він контролює вітри та погоду, приносячи як спокій, так і бурі. Присутність Стрибога відчувається у легкому вітерці та потужному штормі.",
+      "tags": ["wind", "air", "weather", "sky", "nature", "major deity", "Kiev pantheon"],
+      "thumbnailUrl": "images/deities/014/thumbnail.png"
+    },
+    {
+      "id": "015",
+      "name": "Лісовик",
+      "type": "spirit",
+      "origin": ["East Slavic", "West Slavic"],
+      "description": "Лісовик - пустотливий дух лісу. Він може з'являтися як високий, гарний чоловік або як істота, схожа на карлика. Лісовик - захисник тварин та лісів, і часто вводить мандрівників в оману.",
+      "tags": ["forest", "nature spirit", "shapeshifter", "animals", "wilderness", "trickster"],
+      "thumbnailUrl": "images/deities/015/thumbnail.png"
+    },
+    {
+      "id": "016",
+      "name": "Русалка",
+      "type": "spirit",
+      "origin": ["East Slavic", "South Slavic", "West Slavic"],
+      "description": "Русалка - це німфа води або істота, схожа на русалку. Вона пов'язана з водними тілами і часто зображується як красиве, чарівне створіння. Присутність русалки одночасно приваблива і таємнича.",
+      "tags": ["water spirit", "female", "dangerous", "fertility", "unquiet dead", "nature spirit"],
+      "thumbnailUrl": "images/deities/016/thumbnail.png"
+    },
+    {
+      "id": "017",
+      "name": "Домовина",
+      "type": "personification",
+      "origin": ["South Slavic", "West Slavic", "East Slavic"],
+      "description": "Домовина - уособлення батьківщини або материнської землі. Вона символізує глибокий зв'язок слов'янських народів з їх предками та почуття приналежності.",
+      "tags": ["personification", "homeland", "cultural", "ancestors", "earth"],
+      "thumbnailUrl": "images/deities/017/thumbnail.png"
+    },
+    {
+      "id": "018",
+      "name": "Ярило",
+      "type": "god",
+      "origin": ["East Slavic", "West Slavic", "South Slavic"],
+      "description": "Ярило - бог весни, плодючості та врожаю. Він представляє відродження життя та зростання культур. Фестиваль Ярила вітає прихід весни та обіцянку достатку.",
+      "tags": ["spring", "fertility", "vegetation", "youth", "seasonal", "major deity"],
+      "thumbnailUrl": "images/deities/018/thumbnail.png"
+    },
+    {
+      "id": "019",
+      "name": "Доля і Судьба",
+      "type": "deity pair",
+      "origin": ["East Slavic", "South Slavic"],
+      "description": "Доля і Судьба - фігури, що представляють долю та призначення. Вони формують хід людського життя, сплітаючи нитки фортуни та направляючи індивідів до їхньої долі.",
+      "tags": ["fate", "destiny", "fortune", "duality", "personification", "luck"],
+      "thumbnailUrl": "images/deities/019/thumbnail.png"
+    },
+    {
+      "id": "020",
+      "name": "Сімаргл",
+      "type": "creature",
+      "origin": ["East Slavic"],
+      "description": "Сімаргл - міфічна істота, часто зображувана як крилатий пес або лев. Він є символом сили, захисту та божественної могутності. Сімаргл водночас величний та жорстокий у слов'янській міфології.",
+      "tags": ["creature", "guardian", "sacred fire", "seeds", "divine animal", "Kiev pantheon"],
+      "thumbnailUrl": "images/deities/020/thumbnail.png"
+    },
+    {
+      "id": "021",
+      "name": "Велеслав",
+      "type": "deity",
+      "origin": ["East Slavic"],
+      "description": "Велеслав - менш відома постать, мудра та шанована. Він пов'язаний з мудрістю, знанням та стародавніми традиціями. Велеслав уособлює мудрість віків.",
+      "tags": ["wisdom", "knowledge", "elder", "minor deity", "bard", "prophecy"],
+      "thumbnailUrl": "images/deities/021/thumbnail.png"
+    },
+    {
+      "id": "022",
+      "name": "Жива",
+      "type": "goddess",
+      "origin": ["West Slavic", "South Slavic", "East Slavic"],
+      "description": "Жива - богиня життя, плодючості та природи. Вона є символом життєвої сили та достатку природного світу. Жива шанована за свою роль у підтримці життя.",
+      "tags": ["life", "nature", "spring", "fertility", "minor deity", "counterpart to death"],
+      "thumbnailUrl": "images/deities/022/thumbnail.png"
+    },
+    {
+      "id": "023",
+      "name": "Дівій",
+      "type": "spirit",
+      "origin": ["South Slavic", "East Slavic"],
+      "description": "Дівій асоціюється з дикими, невгамовними аспектами природи. Він представляє первісні сили дикості та таємниці природного світу. Дівій одночасно непередбачуваний і вражаючий.",
+      "tags": ["wild", "nature", "forest spirit", "primal", "omen", "spirit"],
+      "thumbnailUrl": "images/deities/023/thumbnail.png"
+    },
+    {
+      "id": "024",
+      "name": "Триглав",
+      "type": "deity",
+      "origin": ["West Slavic"],
+      "description": "Триглав - божество з трьома головами, які символізують небо, землю та підземний світ. Він представляє взаємозв'язок космосу та єдність усього. Триглав уособлює космічний баланс.",
+      "tags": ["triform", "cosmic", "sky", "earth", "underworld", "West Slavic", "Baltic Slavic"],
+      "thumbnailUrl": "images/deities/024/thumbnail.png"
+    },
+    {
+      "id": "025",
+      "name": "Живині Поле",
+      "type": "mythical place",
+      "origin": ["East Slavic", "South Slavic"],
+      "description": "Живині Поле - міфічне місце, чарівне поле чи луг. Це місце дива та чарівності, яке часто відвідується у слов'янському фольклорі. Живині Поле - царство таємниць та пригод.",
+      "tags": ["afterlife", "paradise", "mythical location", "cosmic", "righteous dead"],
+      "thumbnailUrl": "images/deities/025/thumbnail.png"
+    },
+    {
+      "id": "026",
+      "name": "Рода",
+      "type": "goddess",
+      "origin": ["East Slavic"],
+      "description": "Рода - богиня плодючості, материнства та сім'ї. Вона є захисницею домашнього вогнища, забезпечуючи добробут сімей та неперервність поколінь.",
+      "tags": ["fertility", "birth", "motherhood", "fate", "domestic", "minor deity"],
+      "thumbnailUrl": "images/deities/026/thumbnail.png"
+    },
+    {
+      "id": "027",
+      "name": "Ясень",
+      "type": "deity",
+      "origin": ["East Slavic"],
+      "description": "Ясень - бог ясенів та весняних дерев. Він представляє відновлення та зростання лісів навесні. Присутність Ясеня відчувається в розпускаючихся листках та пробудженні природи.",
+      "tags": ["trees", "spring", "forest", "healing", "minor deity", "ash tree", "world tree"],
+      "thumbnailUrl": "images/deities/027/thumbnail.png"
+    },
+    {
+      "id": "028",
+      "name": "Лада",
+      "type": "goddess",
+      "origin": ["East Slavic", "West Slavic", "South Slavic"],
+      "description": "Лада - богиня краси, любові та гармонії. Вона втілює ідеали грації та елегантності. Присутність Лади приносить любов, радість та баланс у світ.",
+      "tags": ["love", "beauty", "harmony", "marriage", "spring", "music", "major deity"],
+      "thumbnailUrl": "images/deities/028/thumbnail.png"
+    },
+    {
+      "id": "029",
+      "name": "Дніпро",
+      "type": "personification",
+      "origin": ["East Slavic"],
+      "description": "Дніпро - уособлення річки Дніпро, важливого водного шляху на слов'янських землях. Річка є джерелом існування, торгівлі та культурного значення.",
+      "tags": ["river", "water", "personification", "Ukrainian", "nature", "trade", "history"],
+      "thumbnailUrl": "images/deities/029/thumbnail.png"
+    },
+    {
+      "id": "030",
+      "name": "Добровій",
+      "type": "deity",
+      "origin": ["East Slavic", "South Slavic"],
+      "description": "Добровій - божество, пов'язане з добром та благодійністю. Він представляє акти доброти та позитивні наміри. Добровій заохочує людей прагнути до добра у своїх діяннях.",
+      "tags": ["goodness", "benevolence", "virtue", "protection", "minor deity", "moral deity"],
+      "thumbnailUrl": "images/deities/030/thumbnail.png"
+    }
+  ]
 }
-]

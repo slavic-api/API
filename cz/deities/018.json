@@ -1,12 +1,31 @@
 {
   "id": "018",
   "name": "Jarilo",
-  "description": "Bůh jara, plodnosti a sklizně.",
+  "alternateNames": ["Gerovit", "Yarovit", "Jaryło", "Gerović"],
+  "type": "god",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "Bůh jara, vegetace a vracejícího se slunce. Jeho každoroční příchod přináší světu teplo a plodnost.",
+  "mythology": "Jarilo je mladý bůh jara, vegetace a vracející se sluneční síly. Jeho jméno pochází ze slova 'jar' — jarní elan, vitalita a vášnivá energie. Ve velkém mytickém cyklu se narodí v zimě a Perun ho ukradne Velesovi, aby ho vychoval v podsvětí — v protilehlém světě za mořem. Každé jaro přejíždí zpět do světa živých na bílém koni a přináší teplo a plodnost. Dvořil se a oženil s Mořenou (svou mytickou dvojicí-sestrou) v létě. Ke konci léta je zabit — jeho smrt označuje konec vegetačního období a znovu promění Mořenu v zimní bohyni. Tento cyklus smrti a znovuzrození zrcadlí zemědělský rok.",
   "attributes": {
-    "Domains": ["Jaro", "Plodnost", "Sklizeň"],
-    "Symbols": ["Zeleň", "Pšenice"],
+    "Domains": ["Jaro", "Plodnost", "Vegetace", "Vášeň", "Mládí", "Sklizeň"],
+    "Symbols": ["Bílý kůň", "Věnec z květin", "Zelená větev", "Pšeničný snop"],
+    "Sacred Animals": ["Bílý kůň", "Kohout", "Býk"],
+    "Sacred Plants": ["Pšenice", "Tráva", "Rané jarní květiny", "Vrbové jehnědy"],
     "Element": "Země",
-    "Associated Season": "Jaro"
+    "Season": "Jaro",
+    "Associated Concepts": ["Znovuzrození", "Vášeň", "Hojnost", "Mládí", "Sezonní cyklus"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["004", "011"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia", "Bulgaria"],
+    "festivals": ["Jurjevův den (5. května / sjednocen se svátkem sv. Jiří)", "Zelený týden (Semik)"],
+    "offerings": ["První jarní květiny", "Chléb", "Vejce", "První zelené větve"]
+  },
+  "tags": ["spring", "fertility", "vegetation", "youth", "seasonal", "major deity"],
+  "thumbnailUrl": "images/deities/018/thumbnail.png",
   "detailImageUrl": "images/deities/018/detailImage.png"
 }

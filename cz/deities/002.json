@@ -1,12 +1,31 @@
 {
   "id": "002",
   "name": "Dažbog",
-  "description": "Bůh slunce, často spojovaný s bohatstvím, štěstím a patronátem.",
+  "alternateNames": ["Dažbog", "Dabog", "Dajbog", "Dazbog"],
+  "type": "god",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Bůh slunce, bohatství a štěstí. Prapředek slovanského lidu a syn Svaroga.",
+  "mythology": "Dažbog je sluneční božstvo a dárce bohatství, jehož jméno znamená 'Dávající bůh' nebo 'Bohem daný'. Každý den projíždí oblohou na zlatém voze taženém bílými koňmi dýchajícími oheň a zlato. Slovo o pluku Igorově nazývá lid Rusi 'Dažbogovy vnuky', čímž ho označuje za božského předka slovanského národa. Každé ráno je mladý, večer stárne a druhý den se znovu rodí. Je synem Svaroga, který vykoval slunce. Posvátní jsou mu koně, zlato a sluneční kotouč. Je ztělesněním životadárné štědrosti slunečního světla.",
   "attributes": {
-    "Domains": ["Slunce", "Bohatství", "Štěstí"],
-    "Symbols": ["Sluneční disk", "Vůz"],
+    "Domains": ["Slunce", "Bohatství", "Štěstí", "Sklizeň", "Světlo"],
+    "Symbols": ["Sluneční kotouč", "Zlatý vůz", "Ohnivý pták", "Bílý kůň"],
+    "Sacred Animals": ["Bílý kůň", "Zlatý pták (Ohnivák)", "Lev"],
+    "Sacred Plants": ["Slunečnice", "Pšenice", "Heřmánek"],
     "Element": "Oheň",
-    "Season": "Léto"
+    "Season": "Léto",
+    "Associated Concepts": ["Blahobyt", "Štědrost", "Teplo", "Otcovství"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["010"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia", "Bulgaria"],
+    "festivals": ["Letní slunovrat (Kupálská noc)", "Kolyada (Zimní slunovrat — znovuzrození slunce)"],
+    "offerings": ["Chléb", "Med", "Obilí", "Zlaté předměty"]
+  },
+  "tags": ["major deity", "sun", "prosperity", "agriculture", "solar", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/002/thumbnail.png",
   "detailImageUrl": "images/deities/002/detailImage.png"
 }

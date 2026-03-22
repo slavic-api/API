@@ -1,12 +1,30 @@
 {
   "id": "026",
   "name": "Roda",
-  "description": "Goddess of fertility, motherhood, and family.",
+  "alternateNames": ["Rozhanitsa", "Rozhanitsy (plural)", "Birth Goddess"],
+  "type": "goddess",
+  "origin": ["East Slavic"],
+  "description": "Birth goddess associated with Rod. She and the Rozhanitsy appear at every birth to weave the fate and life path of the newborn.",
+  "mythology": "Roda (or the Rozhanitsy, her plural form) are the birth goddesses associated with Rod, the creator deity. They appear at the moment of a child's birth to weave its fate and determine the path of its life — analogous to the Greek Moirai or Roman Parcae. Two or three Rozhanitsy are present at each birth: one spins the thread of life (its length), one weaves its quality, and one determines fortune or misfortune. Medieval Slavic church texts vigorously condemned the practice of leaving feasts for the Rozhanitsy — bread, honey, cheese, and porridge — which indicates how widely and deeply they were venerated across Slavic lands.",
   "attributes": {
-    "Domains": ["Fertility", "Motherhood", "Family"],
-    "Symbols": ["Hearth", "Sheaf of Wheat"],
+    "Domains": ["Birth", "Fate", "Motherhood", "Fertility", "Family", "Childhood"],
+    "Symbols": ["Spindle", "Thread", "Swaddling cloth", "Birth knot (untied during labor)"],
+    "Sacred Animals": ["Doe (deer)", "Swallow"],
+    "Sacred Plants": ["Rowan (mountain ash)", "Linden"],
     "Element": "Earth",
-    "Associated Concepts": ["Protection", "Nurture"]
+    "Associated Concepts": ["Fate at Birth", "Maternal Protection", "Life Path", "Family Continuity"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["005"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Rozhanitsy Feast (post-harvest)", "Birth rituals", "Rodunitsa (ancestor day)"],
+    "offerings": ["Bread", "Honey", "Cheese", "Porridge left after a birth"]
+  },
+  "tags": ["fertility", "birth", "motherhood", "fate", "domestic", "minor deity"],
+  "thumbnailUrl": "images/deities/026/thumbnail.png",
   "detailImageUrl": "images/deities/026/detailImage.png"
 }

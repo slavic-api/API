@@ -1,12 +1,31 @@
 {
   "id": "007",
   "name": "Morozko",
-  "description": "Personifikacja mrozu, zimy i chłodu.",
+  "alternateNames": ["Ded Moroz", "Father Frost", "Moroz Ivanovich", "Frost"],
+  "type": "spirit",
+  "origin": ["East Slavic"],
+  "description": "Uosobienie zimowego mrozu i zimna. Wystawia podróżnych na próbę i nagradza cnotliwych darami.",
+  "mythology": "Morozko (Mały Mróz) lub Dziadek Mróz jest uosobieniem zimnego mrozu. W bajkach wystawia na próbę podróżnych i pracowników — uprzejmi, cierpliwi i pracowici otrzymują dary, podczas gdy leniwi i chciwi zamarzają. Ukochana bajka 'Morozko' przedstawia go nagradzającego życzliwą pasierbicę bogactwem, a kapryśną dziewczynę karze śmiercią. Jest przedstawiany jako wysoki stary mężczyzna w niebieskich lub srebrnych szatach, dzierżący magiczny kij lodowy. Jego słowiańskie korzenie poprzedzają postać z chrześcijańskich świąt. Mieszka w lodowym pałacu na dalekim północy i odwiedza wsie zimą, a jego oddech tworzy mroźne wzory na oknach.",
   "attributes": {
-    "Domains": ["Zima", "Mróz", "Chłód"],
-    "Symbols": ["Lód", "Płatek śniegu"],
-    "Element": "Woda",
-    "Associated Season": "Zima"
+    "Domains": ["Zima", "Szron", "Zimno", "Lód", "Dary", "Wystawianie Cnoty na Próbę"],
+    "Symbols": ["Lód-kij", "Srebrny worek darów", "Płatek śniegu", "Niebieskie lub srebrne szaty"],
+    "Sacred Animals": ["Zając", "Niedźwiedź", "Biały jeleń"],
+    "Sacred Plants": ["Sosna (wiecznie zielona)", "Gałęzie pokryte lodem"],
+    "Element": "Woda/Lód",
+    "Season": "Zima",
+    "Associated Concepts": ["Wytrwałość", "Sprawiedliwość", "Nagroda i Kara", "Zimowa Magia"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Przesilenie Zimowe (Kolyada)", "Nowy Rok", "Boże Narodzenie (forma ewoluowana)"],
+    "offerings": ["Kasza zostawiona na zewnątrz, by udobruchać mróz niszczący plony"]
+  },
+  "tags": ["winter", "cold", "frost", "nature spirit", "fairy tale", "gift-giver"],
+  "thumbnailUrl": "images/deities/007/thumbnail.png",
   "detailImageUrl": "images/deities/007/detailImage.png"
 }

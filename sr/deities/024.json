@@ -1,0 +1,30 @@
+{
+  "id": "024",
+  "name": "Triglav",
+  "alternateNames": ["Triglaw", "Three-Headed One"],
+  "type": "deity",
+  "origin": ["West Slavic"],
+  "description": "Troglavno božanstvo koje istovremeno vlada nebom, zemljom i podzemljem. Poštovano od strane baltičkoslovenskih plemena, sa svetim crnim konjem korišćenim za proricanje.",
+  "mythology": "Triglav je moćno božanstvo koje su poštovala baltičkoslovenska plemena, najistaknutije u Šćećinu i Brandenburgu. Njegovo ime znači 'Troglavni' i prikazuje se sa tri zlatne glave, oči mu zaklonjene zlatnim velovima — jer ga sagledavanje greha čovečanstva muči. Vlada istovremeno svim trima carstvima: nebom, zemljom i podzemljem. U Šćećinu je Triglav posedovao veličanstveni hram i svetog crnog konja za proricanje — konj se vodio preko ukrštenih kopalja, i ako ih nije dotakao, pretskazivana je pobeda u boju. Njegov hram detaljno je opisao episkop Oto iz Bamberga koji je obratio Pomerance 1124. godine.",
+  "attributes": {
+    "Domains": ["Nebo", "Zemlja", "Podzemlje", "Kosmičko jedinstvo", "Proricanje", "Rat"],
+    "Symbols": ["Tri glave (ili jedna glava sa tri lica)", "Zlatni velovi preko očiju", "Crni konj", "Ukrštena koplja"],
+    "Sacred Animals": ["Crni konj (proricanje)", "Orao"],
+    "Sacred Plants": ["Ništa posebno"],
+    "Element": "Etar (svi elementi ujedinjeni)",
+    "Associated Concepts": ["Trojstvo", "Kosmička ravnoteža", "Svevidnost", "Jedinstvo svetova"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Pomerania", "Mecklenburg", "Brandenburg", "Western Slavic Baltic coast"],
+    "festivals": ["Rituali proricanja pre bitke", "Sezonski obredi u hramu u Šćećinu"],
+    "offerings": ["Desetina ratnog plena", "Sveti crni konj (čuvan, ne žrtvovan)", "Zlato"]
+  },
+  "tags": ["triform", "cosmic", "sky", "earth", "underworld", "West Slavic", "Baltic Slavic"],
+  "thumbnailUrl": "images/deities/024/thumbnail.png",
+  "detailImageUrl": "images/deities/024/detailImage.png"
+}

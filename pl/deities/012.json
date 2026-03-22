@@ -1,12 +1,30 @@
 {
   "id": "012",
   "name": "Baba Jaga",
-  "description": "Potężna wiedźma znająca ciemną magię.",
+  "alternateNames": ["Jaga", "Jezibaba", "Baba Roga", "Yaga Baba"],
+  "type": "spirit",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "Starożytna czarownica-wiedźma i strażniczka granicy między żywymi a umarłymi. Niejednoznaczna pomocniczka i pożeraczka.",
+  "mythology": "Baba Jaga jest jedną z najbardziej ikonicznych postaci słowiańskiej mitologii — starożytną czarownicą-wiedźmą mieszkającą w chacie stojącej na kurzych nogach, która obraca się w dowolnym kierunku. Lata przez powietrze w moździerzu, zamiatając ślady tłuczkiem i miotłą. Jest strażniczką granicy między światem żywych a krainą umarłych. Bohaterowie szukający jej pomocy muszą się wykąpać, dostać jeść i pobierać od niej naukę zanim jej pomoc nastąpi — podejdź właściwie, a jest mądrą pomocnicą; podejdź niewłaściwie, a pożre. Trzej służący jeźdźcy reprezentują świt, południe i noc. Jej żelazne ogrodzenie uwieńczone jest świecącymi czaszkami. Jest prawdopodobnie starsza od samych bogów.",
   "attributes": {
-    "Domains": ["Magia", "Lasy", "Czarostwo"],
-    "Symbols": ["Moździerz i Tłuczek", "Chata"],
+    "Domains": ["Magia", "Lasy", "Granica Śmierci", "Mądrość", "Czarowanie", "Próby"],
+    "Symbols": ["Moździerz i Tłuczek", "Obracająca się chata na kurzych nogach", "Żelazny płot z czaszek", "Miotła"],
+    "Sacred Animals": ["Czarny kot", "Wąż", "Sowa", "Wrona"],
+    "Sacred Plants": ["Brzoza (otacza jej chatę)", "Mak"],
     "Element": "Ziemia",
-    "Associated Concepts": ["Mądrość", "Tajemnica"]
+    "Associated Concepts": ["Mądrość", "Granica", "Próby", "Przemiana", "Pradawna Wiedza"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Czech Republic"],
+    "festivals": ["Nie jest formalnie czczona — pojawia się w baśniach jako postać niejednoznaczna"],
+    "offerings": ["Właściwe rytualne powitanie", "Praca i służba w zamian za pomoc"]
+  },
+  "tags": ["witch", "forest", "folklore", "trickster", "wisdom", "death boundary", "hag"],
+  "thumbnailUrl": "images/deities/012/thumbnail.png",
   "detailImageUrl": "images/deities/012/detailImage.png"
 }

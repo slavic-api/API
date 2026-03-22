@@ -1,0 +1,30 @@
+{
+  "id": "029",
+  "name": "Dnjepar",
+  "alternateNames": ["Dnieper", "Borysthenes (Greek name)", "Slavutych (poetic name)"],
+  "type": "personification",
+  "origin": ["East Slavic"],
+  "description": "Božansko ovaploćenje velike reke Dnjepar — svete životne linije istočnoslovenske civilizacije i trgovine.",
+  "mythology": "Dnjepar je božansko ovaploćenje najveće reke Istočnih Slovena, koja teče od centralne Rusije kroz Belorusiju i Ukrajinu do Crnog mora. Herodot ga je nazvao Boristenom i opisao njegov ogroman značaj u 5. veku pre Hrista. Reka je bila životna linija Kijevske Rusi — legendarna trgovačka ruta 'od Varjaga do Grka' protezala se duž cele njene dužine. U narodnim pesmama i epskoj poeziji, Dnjepar govori i deluje — upozorava junake na nadolazeću opasnost i oplakuje njihovu smrt. Njegovo ovaploćenje je moćni starац srebrne brade čija je struja njegov glas, a čije dubine čuvaju sve tajne slovenske istorije.",
+  "attributes": {
+    "Domains": ["Reke", "Voda", "Trgovina", "Ukrajina", "Život", "Istorijsko pamćenje"],
+    "Symbols": ["Tekuća srebrna voda", "Talasi", "Srebrna riba", "Rečna struja"],
+    "Sacred Animals": ["Jesetra", "Som", "Orao", "Čaplja"],
+    "Sacred Plants": ["Trska", "Vrba", "Rogoz"],
+    "Element": "Voda",
+    "Associated Concepts": ["Vitalnost zemlje", "Trgovina", "Istorijsko pamćenje", "Izvor života"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Ukraine", "Belarus", "Russia"],
+    "festivals": ["Obredi blagosiljanja voda (Bogojavljanje)", "Ivanjska noć (rečni rituali)"],
+    "offerings": ["Riba", "Hleb bačen u tok", "Prvi ulov sezone vraćen reci"]
+  },
+  "tags": ["river", "water", "personification", "Ukrainian", "nature", "trade", "history"],
+  "thumbnailUrl": "images/deities/029/thumbnail.png",
+  "detailImageUrl": "images/deities/029/detailImage.png"
+}

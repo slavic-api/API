@@ -1,0 +1,30 @@
+{
+  "id": "023",
+  "name": "Divi",
+  "alternateNames": ["Div", "Diva", "Wild One"],
+  "type": "spirit",
+  "origin": ["South Slavic", "East Slavic"],
+  "description": "Duh divlje, neukroćene prirode. Praiskonska sila izvan ljudske civilizacije, donoseći predskazanja i zadivljujuću moć.",
+  "mythology": "Div (Divlji) je duh neukroćene, praiskone prirode — sila čiste divljine. Pominje se u Spevu o pohodu Igorovom kao natprirodno biće-predskazivač koje vičući javlja katastrofu s vrha drveća, nagovestivši nesreće. Oličava divlje prostore izvan ljudskih naselja: duboke šume, udaljene planine i neistražene krajeve. Nije ni dobar ni zao, već jednostavno praiskon i van ljudske kontrole — podjednako zadivljujući i zastrašujući. U južnoslovenskoj tradiciji, Diva je ponekad njegova ženska kopija. On je glas prirode koji upozori one koji slušaju, i uništenje koje pada na one koji ne slušaju.",
+  "attributes": {
+    "Domains": ["Divlja priroda", "Pustinja", "Haos", "Praiskonska sila", "Predskazanja"],
+    "Symbols": ["Divlja šuma", "Neukroćena reka", "Planinski vrh", "Ptičji krik"],
+    "Sacred Animals": ["Vuk", "Ris", "Orao", "Svi divlji grabljivci"],
+    "Sacred Plants": ["Sve nekultivirane divlje biljke"],
+    "Element": "Zemlja",
+    "Associated Concepts": ["Divljina", "Predskazanje", "Praiskonski strah", "Sloboda", "Suverena moć prirode"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Serbia", "Bulgaria", "Russia", "Ukraine"],
+    "festivals": ["Nema zvaničnog bogosluženja — umilostivljuje se pri ulasku u divljinu"],
+    "offerings": ["Tišina i poštovanje u divljini", "Nesečenje živog drveća bez nužde"]
+  },
+  "tags": ["wild", "nature", "forest spirit", "primal", "omen", "spirit"],
+  "thumbnailUrl": "images/deities/023/thumbnail.png",
+  "detailImageUrl": "images/deities/023/detailImage.png"
+}

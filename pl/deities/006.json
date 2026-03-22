@@ -1,12 +1,30 @@
 {
   "id": "006",
   "name": "Domowoj",
-  "description": "Duch domowy, strażnik domu i rodziny.",
+  "alternateNames": ["Domovoy", "Domovik", "Dvorovoi", "Ded", "Grandfather"],
+  "type": "spirit",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "Przodkowy duch domowy i opiekun domostwa. Mieszka za piecem i strzeże rodziny.",
+  "mythology": "Domowoj jest przodkowym duchem domu, zamieszkującym za piecem, pod progiem lub w stodole. Jest duchem męskiego przodka rodziny i chroni gospodarstwo, jeśli traktowany z szacunkiem. Pojawia się jako mały owłosiony mężczyzna przypominający głowę rodziny. Stuka i jęczy, gdy zbliża się nieszczęście, i głaszcze śpiących członków rodziny — ciepły, miękki dotyk oznacza dobrą fortunę, zimny i szorstki — niebezpieczeństwo. W niektórych tradycjach nie lubi luster. Każdy dom ma własnego Domowoja, który podąża za rodziną, gdy się przeprowadza. Zaniedbanie czci dla niego prowadzi do psot: splata grzywy koni w nocy, psuje mleko, wydaje dziwne odgłosy.",
   "attributes": {
-    "Domains": ["Dom", "Rodzina", "Ochrona"],
-    "Symbols": ["Dom", "Broda"],
-    "Element": "Ziemia",
-    "Associated Concepts": ["Przodkowie", "Ognisko domowe"]
+    "Domains": ["Dom", "Rodzina", "Ochrona", "Palenisko", "Przodkowie"],
+    "Symbols": ["Palenisko/Piec", "Próg", "Chleb i Sól"],
+    "Sacred Animals": ["Kot", "Wąż", "Kogut"],
+    "Sacred Plants": ["Brak konkretnych"],
+    "Element": "Ogień",
+    "Associated Concepts": ["Przodkowie", "Spokój Domowy", "Znaki Ostrzegawcze", "Ochrona"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia"],
+    "festivals": ["Sylwester (przebłaganie ofiarami)", "Przeprowadzka (zaproszenie go ze sobą)"],
+    "offerings": ["Kasza", "Chleb i sól", "Pierwszy posiłek dnia", "Tytoń"]
+  },
+  "tags": ["household spirit", "domestic", "protection", "family", "ancestor spirit"],
+  "thumbnailUrl": "images/deities/006/thumbnail.png",
   "detailImageUrl": "images/deities/006/detailImage.png"
 }

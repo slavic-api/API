@@ -1,12 +1,30 @@
 {
   "id": "026",
   "name": "Roda",
-  "description": "Bohyně plodnosti, mateřství a rodiny.",
+  "alternateNames": ["Rozhanitsa", "Rozhanitsy (plural)", "Birth Goddess"],
+  "type": "goddess",
+  "origin": ["East Slavic"],
+  "description": "Porodní bohyně spojená s Rodem. Ona a Rožanice se zjevují při každém porodu, aby utkaly osud a životní dráhu novorozence.",
+  "mythology": "Roda (nebo Rožanice, její množná forma) jsou porodní bohyně spojené s Rodem, stvořitelským božstvem. Zjevují se v okamžiku porodu dítěte, aby utkaly jeho osud a určily dráhu jeho života — obdobně jako řecké Moiry nebo římské Parcae. Při každém porodu jsou přítomny dvě nebo tři Rožanice: jedna přede nit života (její délku), druhá tká její kvalitu a třetí určuje štěstí nebo neštěstí. Středověké slovanské církevní texty důrazně odsuzovaly zvyk nechávat hostiny pro Rožanice — chléb, med, sýr a kaši — což naznačuje, jak hluboce a rozšířeně byly uctívány po celých slovanských zemích.",
   "attributes": {
-    "Domains": ["Plodnost", "Mateřství", "Rodina"],
-    "Symbols": ["Oheň domácího krbu", "Snop pšenice"],
+    "Domains": ["Porod", "Osud", "Mateřství", "Plodnost", "Rodina", "Dětství"],
+    "Symbols": ["Vřeteno", "Nit", "Plena", "Porodní uzel (rozvazovaný při porodu)"],
+    "Sacred Animals": ["Laň (jelen)", "Vlaštovka"],
+    "Sacred Plants": ["Jeřáb (jeřabina)", "Lípa"],
     "Element": "Země",
-    "Associated Concepts": ["Ochrana", "Péče"]
+    "Associated Concepts": ["Osud při porodu", "Mateřská ochrana", "Životní dráha", "Kontinuita rodu"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["005"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Hostina Rožanic (po sklizni)", "Porodní rituály", "Rodunitsa (den předků)"],
+    "offerings": ["Chléb", "Med", "Sýr", "Kaše zanechaná po porodu"]
+  },
+  "tags": ["fertility", "birth", "motherhood", "fate", "domestic", "minor deity"],
+  "thumbnailUrl": "images/deities/026/thumbnail.png",
   "detailImageUrl": "images/deities/026/detailImage.png"
 }

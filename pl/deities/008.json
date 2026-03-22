@@ -1,12 +1,30 @@
 {
   "id": "008",
-  "name": "Zorya",
-  "description": "Dwie boginie reprezentujące gwiazdę poranną i wieczorną.",
+  "name": "Zorza",
+  "alternateNames": ["Zarya", "Zaria", "Zorya Utrennyaya", "Zorya Vechernyaya", "Zorya Polunochnaya"],
+  "type": "goddess",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Bliźniacze boginie jutrzenki reprezentujące gwiazdę poranną i wieczorną. Strażniczki kosmicznego porządku i bram pałacu Dadźboga.",
+  "mythology": "Zorza (Dziewice Jutrzenki) to dwie lub trzy boskie siostry: Zorza Poranna (Gwiazda Poranna), Zorza Wieczorna (Gwiazda Wieczorna), a czasem Zorza Północna (Gwiazda Północna). Każdego ranka Zorza Poranna otwiera bramy słonecznego pałacu Dadźboga, by wypuścić słońce; każdego wieczoru Zorza Wieczorna je zamyka. Strzegą też apokaliptycznego psa Simargl, przywiązanego do Małej Niedźwiedzicy — jeśli łańcuch pęknie i pies ucieknie, świat się skończy. Przedstawiane są jako piękne wojowniczki w złotej zbroi, utożsamiane z planetą Wenus widoczną jako gwiazda poranna i wieczorna.",
   "attributes": {
-    "Domains": ["Gwiazda Poranna", "Gwiazda Wieczorna", "Ochrona"],
-    "Symbols": ["Gwiazdy", "Celestynalne Światło"],
-    "Element": "Niebo",
-    "Associated Concepts": ["Przewodnictwo", "Przejście"]
+    "Domains": ["Świt", "Zmierzch", "Gwiazdy", "Porządek Kosmiczny", "Ochrona Wojowników"],
+    "Symbols": ["Gwiazda poranna (Wenus)", "Złota zbroja", "Bramy niebios"],
+    "Sacred Animals": ["Koń", "Kogut (ranek)", "Sowa (wieczór)"],
+    "Sacred Plants": ["Wilec (powój poranny)", "Wiesiołek (wieczorny)"],
+    "Element": "Powietrze",
+    "Associated Concepts": ["Równowaga Kosmiczna", "Czas", "Nawigacja Niebiańska", "Ochrona"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["002"],
+    "allies": ["020"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia"],
+    "festivals": ["Rytuały o świcie", "Noc Świętojańska"],
+    "offerings": ["Poranna rosa zbierana o świcie", "Modlitwy o pierwszym świetle", "Kwiaty"]
+  },
+  "tags": ["dawn", "dusk", "stars", "celestial", "cosmic order", "warrior maiden"],
+  "thumbnailUrl": "images/deities/008/thumbnail.png",
   "detailImageUrl": "images/deities/008/detailImage.png"
 }

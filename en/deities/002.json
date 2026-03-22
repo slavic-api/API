@@ -1,12 +1,31 @@
 {
   "id": "002",
   "name": "Dazhbog",
-  "description": "God of the sun, often associated with wealth, happiness, and patronage.",
+  "alternateNames": ["Dažbog", "Dabog", "Dajbog", "Dazbog"],
+  "type": "god",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "God of the sun, wealth, and happiness. Progenitor of the Slavic people and son of Svarog.",
+  "mythology": "Dazhbog is the solar deity and giver of wealth, whose name means 'Give God' or 'Giving God.' He rides across the sky each day in a golden chariot pulled by white horses breathing fire and gold. The Tale of Igor's Campaign refers to the Rus' people as 'Dazhbog's grandchildren,' identifying him as the divine ancestor of the Slavic nation. Each morning he is young, reaching old age by evening only to be reborn the next day. He is the son of Svarog who forged the sun. Sacred to him are horses, gold, and the solar disk. He is the embodiment of the life-giving generosity of sunlight.",
   "attributes": {
-    "Domains": ["Sun", "Wealth", "Happiness"],
-    "Symbols": ["Sun Disk", "Chariot"],
+    "Domains": ["Sun", "Wealth", "Happiness", "Harvest", "Light"],
+    "Symbols": ["Sun Disk", "Golden Chariot", "Firebird", "White Horse"],
+    "Sacred Animals": ["White horse", "Golden bird (Firebird)", "Lion"],
+    "Sacred Plants": ["Sunflower", "Wheat", "Chamomile"],
     "Element": "Fire",
-    "Season": "Summer"
+    "Season": "Summer",
+    "Associated Concepts": ["Prosperity", "Generosity", "Warmth", "Fatherhood"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["010"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia", "Bulgaria"],
+    "festivals": ["Summer Solstice (Kupala Night)", "Kolyada (Winter Solstice — solar rebirth)"],
+    "offerings": ["Bread", "Honey", "Grain", "Golden objects"]
+  },
+  "tags": ["major deity", "sun", "prosperity", "agriculture", "solar", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/002/thumbnail.png",
   "detailImageUrl": "images/deities/002/detailImage.png"
 }

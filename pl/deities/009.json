@@ -1,12 +1,82 @@
 {
   "id": "009",
   "name": "Czarnobóg",
-  "description": "Bóg ciemności, nieszczęścia i chaosu.",
+  "alternateNames": [
+    "Czernobóg",
+    "Tchernobog",
+    "Black God",
+    "Crnobog"
+  ],
+  "type": "god",
+  "origin": [
+    "West Slavic",
+    "East Slavic"
+  ],
+  "description": "Bóg ciemności, zła i nieszczęścia. Odpowiednik Białoboga, ucieleśniający mroczną stronę kosmicznej dwoistości.",
+  "mythology": "Czarnobóg ('Czarny Bóg') jest po raz pierwszy poświadczony w kronikach niemieckich z XII w. opisujących bałtyckie plemiona słowiańskie. Jest ucieleśnieniem ciemnych, złych i destrukcyjnych sił — odpowiednikiem Białoboga (Białego Boga). Na ucztach Słowianie podawali sobie czarę, wypowiadając nad nią przekleństwa ku Czarnobogowi i pochwały ku Białobogowi, uznając dwoistość wszelkiego istnienia. Jest bogiem nocy, chaosu, nieszczęścia i wszystkiego, co przeklęte. Jego kult był obawowy, lecz praktykowany dla przebłagania go i ograniczenia nieszczęść. Pojawia się w kulturze współczesnej, m.in. w Fantazji Walta Disneya (1940) i Bogach Ameryki Neila Gaimana, co świadczy o jego trwałej mocy symbolicznej.",
   "attributes": {
-    "Domains": ["Ciemność", "Zło", "Chaos"],
-    "Symbols": ["Czarny Kolor", "Noc"],
-    "Element": "Cień",
-    "Associated Concepts": ["Nieszczęście", "Niechęć"]
+    "Domains": [
+      "Ciemność",
+      "Zło",
+      "Chaos",
+      "Noc",
+      "Nieszczęście",
+      "Śmierć"
+    ],
+    "Symbols": [
+      "Czarna ikonografia",
+      "Żelazne łańcuchy",
+      "Czarny księżyc",
+      "Cień"
+    ],
+    "Sacred Animals": [
+      "Czarny koń",
+      "Kruk",
+      "Wilk",
+      "Pająk"
+    ],
+    "Sacred Plants": [
+      "Wilcza jagoda",
+      "Czarne ciernie"
+    ],
+    "Element": "Ciemność",
+    "Season": "Zima",
+    "Associated Concepts": [
+      "Dwoistość",
+      "Chaos",
+      "Los",
+      "Entropia",
+      "Przeklinanie"
+    ]
   },
+  "relationships": {
+    "rivals": ["030"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": [
+      "Pomerania",
+      "Rugia",
+      "Poland",
+      "Baltic Slavic coast"
+    ],
+    "festivals": [
+      "Zimowe rytuały przy ciemnym księżycu"
+    ],
+    "offerings": [
+      "Czarne zwierzęta",
+      "Miód pitny z wypowiedzianymi nad nim przekleństwami"
+    ]
+  },
+  "tags": [
+    "darkness",
+    "evil",
+    "chaos",
+    "duality",
+    "major deity",
+    "Baltic Slavic"
+  ],
+  "thumbnailUrl": "images/deities/009/thumbnail.png",
   "detailImageUrl": "images/deities/009/detailImage.png"
 }

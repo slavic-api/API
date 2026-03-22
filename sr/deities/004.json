@@ -1,0 +1,31 @@
+{
+  "id": "004",
+  "name": "Veles",
+  "alternateNames": ["Volos", "Weles"],
+  "type": "god",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "Bog podzemlja, stoke, trgovine, magije i mudrosti. Večni rival Perunov.",
+  "mythology": "Veles je veliki bog podzemlja, stoke, trgovine, muzike, magije i mudrosti. Obitava u korenima Svetskog drveta u podzemlju (Nav), nasuprot Perunu koji vlada krunom istoga. Njegovo večno sukobljavanje sa Perunom čini centralnu priču slovenske religije — Veles krade Perunovu stoku, ženu ili sina, a Perun ga juri bacajući gromove. Veles se krije pretvarajući se u životinje, drveće ili ljude. On je htonska zmijolika sila zemljinih dubina — varalica i preobrazioc povezan sa medvedima, zmijama i poezijom. Poslednji snop žita ostavljen na njivi u vreme žetve nazivao se 'Velesova brada' i prinošen mu je kao žrtva.",
+  "attributes": {
+    "Domains": ["Podzemlje", "Stoka", "Trgovina", "Magija", "Mudrost", "Muzika", "Poezija"],
+    "Symbols": ["Zmija", "Bik", "Medved", "Kesa zlata"],
+    "Sacred Animals": ["Medved", "Zmija", "Bik", "Sova", "Vuk"],
+    "Sacred Plants": ["Paprat", "Trava (navska trava)"],
+    "Element": "Zemlja",
+    "Season": "Zima",
+    "Associated Concepts": ["Varanje", "Bogatstvo", "Smrt", "Šamanizam", "Preobražaj"]
+  },
+  "relationships": {
+    "rivals": ["001"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Poland", "Czech Republic", "Belarus"],
+    "festivals": ["Volosov dan (12. januar)", "Maslenica"],
+    "offerings": ["Stoka", "Med", "Pivo", "Poslednji snop žita (Velesova brada)"]
+  },
+  "tags": ["major deity", "underworld", "magic", "cattle", "trickster", "wisdom", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/004/thumbnail.png",
+  "detailImageUrl": "images/deities/004/detailImage.png"
+}

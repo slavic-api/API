@@ -1,12 +1,30 @@
 {
   "id": "012",
   "name": "Baba Yaga",
-  "description": "A powerful witch with knowledge of dark magic.",
+  "alternateNames": ["Jaga", "Jezibaba", "Baba Roga", "Yaga Baba"],
+  "type": "spirit",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "Ancient crone witch and guardian of the boundary between the living and the dead. Ambivalent helper and devourer.",
+  "mythology": "Baba Yaga is one of the most iconic figures in Slavic mythology — an ancient crone witch who lives in a hut standing on chicken legs that spins to face any direction. She flies through the air in a mortar, sweeping her tracks with a pestle and broom. She is the guardian of the boundary between the living world and the land of the dead. Heroes seeking her help must bathe, be fed, and learn from her before she aids them — approach correctly and she is a wise helper; approach wrongly and she devours. Three horsemen servants represent dawn, noon, and night. Her iron fence is topped with glowing skulls. She is arguably older than the gods themselves.",
   "attributes": {
-    "Domains": ["Magic", "Forests", "Witchcraft"],
-    "Symbols": ["Mortar and Pestle", "Hut"],
+    "Domains": ["Magic", "Forests", "Death Boundary", "Wisdom", "Witchcraft", "Tests"],
+    "Symbols": ["Mortar and Pestle", "Rotating hut on chicken legs", "Iron fence of skulls", "Broom"],
+    "Sacred Animals": ["Black cat", "Snake", "Owl", "Crow"],
+    "Sacred Plants": ["Birch (surrounds her hut)", "Poppy"],
     "Element": "Earth",
-    "Associated Concepts": ["Wisdom", "Mystery"]
+    "Associated Concepts": ["Wisdom", "Boundary", "Tests", "Transformation", "Ancient Knowledge"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Czech Republic"],
+    "festivals": ["Not formally worshipped — appears in folk tales as ambivalent figure"],
+    "offerings": ["Proper ritual greeting", "Labor and service in return for help"]
+  },
+  "tags": ["witch", "forest", "folklore", "trickster", "wisdom", "death boundary", "hag"],
+  "thumbnailUrl": "images/deities/012/thumbnail.png",
   "detailImageUrl": "images/deities/012/detailImage.png"
 }

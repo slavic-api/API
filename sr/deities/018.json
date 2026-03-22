@@ -1,0 +1,31 @@
+{
+  "id": "018",
+  "name": "Jarilo",
+  "alternateNames": ["Gerovit", "Yarovit", "Jaryło", "Gerović"],
+  "type": "god",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "Bog proleća, vegetacije i povratnog sunca. Njegov godišnji dolazak donosi toplotu i plodnost svetu.",
+  "mythology": "Jarilo je mladi bog proleća, vegetacije i povratne sunčeve moći. Njegovo ime potiče od reči 'jar' — prolećna žestina, snaga i strastvena energija. U velikom mitskom ciklusu, rađa se zimi i ukraden je od Peruna od strane Velesa, koji ga odgaja u podzemlju — naličju sveta s onu stranu mora. Svakog proleća vraća se u zemlju živih na belom konju donoseći toplotu i plodnost. Udvara se Marzanni (svojoj mitskoj sestri blizanki) i ženi je leti. Krajem leta biva ubijen — njegova smrt označava kraj vegetacionog perioda i ponovo pretvara Marzannu u zimsku boginju. Ovaj ciklus smrti i preporađanja odražava poljoprivrednu godinu.",
+  "attributes": {
+    "Domains": ["Proleće", "Plodnost", "Vegetacija", "Strast", "Mladost", "Žetva"],
+    "Symbols": ["Beli konj", "Venac od cveća", "Zelena grana", "Snop pšenice"],
+    "Sacred Animals": ["Beli konj", "Petao", "Bik"],
+    "Sacred Plants": ["Pšenica", "Trava", "Rano prolećno cveće", "Vrbove mace"],
+    "Element": "Zemlja",
+    "Season": "Proleće",
+    "Associated Concepts": ["Preporađanje", "Strast", "Obilje", "Mladost", "Sezonski ciklus"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": ["004", "011"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia", "Bulgaria"],
+    "festivals": ["Jurjevdan (5. maj / sinkretizovan sa Đurđevdanom)", "Zelena nedelja (Semik)"],
+    "offerings": ["Prvo prolećno cveće", "Hleb", "Jaja", "Prve zelene grane"]
+  },
+  "tags": ["spring", "fertility", "vegetation", "youth", "seasonal", "major deity"],
+  "thumbnailUrl": "images/deities/018/thumbnail.png",
+  "detailImageUrl": "images/deities/018/detailImage.png"
+}

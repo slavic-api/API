@@ -1,0 +1,30 @@
+{
+  "id": "030",
+  "name": "Dobrovij",
+  "alternateNames": ["Dobroviy", "Dobro", "Dobrozhil", "Good Spirit"],
+  "type": "deity",
+  "origin": ["East Slavic", "South Slavic"],
+  "description": "Božanstvo dobrote, ljubaznosti i moralnih vrlina. Božansko odobravanje darežljivosti i pravednog delanja.",
+  "mythology": "Dobrovij (Dobri) je dobroćudno božanstvo dobrote, ljubaznosti i moralnih vrlina. Njegovo ime potiče od korena 'dobro' — slovenskog korena za dobrotu, jedne od najpozitivnije obojenih reči u slovenskoj moralnoj filozofiji (zajednička svim slovenskim jezicima). On predstavlja načelo da dobra dela imaju božansku potporu i da je vrlina svedočena i nagrađena od strane viših sila. Priziva se pri davanju zakletve o darežljivosti i kada se traži blagoslov za dela ljubaznosti. Kao duhovni pandan Črnoboga, oličava pozitivnu božansku silu bez ratničke agresivnosti ratničkih božanstava — božansko odobravanje svakodnevne ljudske dobrote, zajednice i darežljivosti.",
+  "attributes": {
+    "Domains": ["Dobrota", "Ljubaznost", "Vrlina", "Blagoslov", "Darežljivost", "Moralni red"],
+    "Symbols": ["Otvorene ruke", "Bela svetlost", "Lipov cvet", "Saće"],
+    "Sacred Animals": ["Bela golubica", "Pčela"],
+    "Sacred Plants": ["Lipa", "Kamilica"],
+    "Element": "Svetlost/Etar",
+    "Associated Concepts": ["Vrlina", "Darežljivost", "Božansko odobravanje", "Pozitivna karma", "Zajednica"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Serbia", "Bulgaria"],
+    "festivals": ["Dani zajedničke službe i darežljivosti"],
+    "offerings": ["Dela ljubaznosti učinjena u njegovu čast", "Med", "Hleb podeljen sa komšijama"]
+  },
+  "tags": ["goodness", "benevolence", "virtue", "protection", "minor deity", "moral deity"],
+  "thumbnailUrl": "images/deities/030/thumbnail.png",
+  "detailImageUrl": "images/deities/030/detailImage.png"
+}

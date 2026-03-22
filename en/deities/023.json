@@ -1,12 +1,30 @@
 {
   "id": "023",
   "name": "Divi",
-  "description": "Associated with the primal aspects of nature and wilderness.",
+  "alternateNames": ["Div", "Diva", "Wild One"],
+  "type": "spirit",
+  "origin": ["South Slavic", "East Slavic"],
+  "description": "Spirit of wild, untamed nature. A primal force beyond human civilization, bringing omens and awe-inspiring power.",
+  "mythology": "Div (Wild One) is the spirit of untamed, primordial nature — the force of pure wilderness. He is mentioned in the Tale of Igor's Campaign as a supernatural omen-being that cries disaster from the treetops, foretelling catastrophe. He embodies the wild spaces beyond human settlement: deep forest, remote mountains, and uncharted territory. He is neither good nor evil but simply primal and beyond human control — awe-inspiring and terrifying in equal measure. In South Slavic tradition, Diva is sometimes his female counterpart. He is the voice of nature warning those who will listen, and the destruction that falls on those who do not.",
   "attributes": {
-    "Domains": ["Wilderness", "Nature", "Freedom"],
-    "Symbols": ["Untamed Land", "Wild Animals"],
+    "Domains": ["Wild Nature", "Wilderness", "Chaos", "Primal Force", "Omens"],
+    "Symbols": ["Wild forest", "Untamed river", "Mountain peak", "Bird cry"],
+    "Sacred Animals": ["Wolf", "Lynx", "Eagle", "All wild predators"],
+    "Sacred Plants": ["All uncultivated wild plants"],
     "Element": "Earth",
-    "Associated Concepts": ["Unpredictability", "Raw Nature"]
+    "Associated Concepts": ["Wildness", "Omen", "Primal Fear", "Freedom", "Nature's Sovereign Power"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Serbia", "Bulgaria", "Russia", "Ukraine"],
+    "festivals": ["No formal worship — propitiated when entering wild spaces"],
+    "offerings": ["Silence and respect in wilderness", "Not cutting living trees unnecessarily"]
+  },
+  "tags": ["wild", "nature", "forest spirit", "primal", "omen", "spirit"],
+  "thumbnailUrl": "images/deities/023/thumbnail.png",
   "detailImageUrl": "images/deities/023/detailImage.png"
 }

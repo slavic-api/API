@@ -1,12 +1,31 @@
 {
   "id": "028",
   "name": "Lada",
-  "description": "Bohyně krásy, lásky a harmonie.",
+  "alternateNames": ["Lado", "Łada", "Lada-Lado"],
+  "type": "goddess",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "Bohyně krásy, lásky, harmonie a manželství. Její jméno zní ve staroslovanských rituálních písních zpívaných po celých slovanských zemích.",
+  "mythology": "Lada je bohyně krásy, lásky, harmonie, manželství a jara. Její jméno je kořenem slovanského slova 'lad' — harmonie, řád a mír. Jeví se jako zářivá mladá žena korunovaná květinami. Její jméno a jméno jejího mužského protějšku Lado se opakují jako rituální refrén v nesčetných staroslovanských obřadních písních (lada, lado, lado!), což dokládá její hlubokou zakořenění v lidové hudbě, svatebních obřadech a sezonních slavnostech. Předsedá všem milostným svazkům a manželstvím. Na jaře a v létě je uctívána písněmi, kruhovými tanci (chorovod) a věnci z květin. Pravděpodobně je příbuzná s baltskou Laimou, bohyní štěstí a osudu.",
   "attributes": {
-    "Domains": ["Krása", "Láska", "Harmonie"],
-    "Symbols": ["Růže", "Zrcadlo"],
+    "Domains": ["Láska", "Krása", "Harmonie", "Manželství", "Jaro", "Hudba", "Tanec"],
+    "Symbols": ["Věnec z květin", "Labuť", "Lipový květ", "Snubní prsten"],
+    "Sacred Animals": ["Labuť", "Holubice", "Kukačka"],
+    "Sacred Plants": ["Lípa", "Růže", "Všechny jarní květiny"],
     "Element": "Vzduch",
-    "Associated Concepts": ["Přitažlivost", "Mír"]
+    "Season": "Jaro do Léta",
+    "Associated Concepts": ["Romantická láska", "Společenská harmonie", "Radost", "Krása", "Spojení duší"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": ["013"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia", "Bulgaria", "Czech Republic"],
+    "festivals": ["Kupálská noc (23.–24. června)", "Jarní a letní slavnosti lásky", "Svatební obřady"],
+    "offerings": ["Věnce z květin", "Písně s refrénem lada/lado", "Svatební dary"]
+  },
+  "tags": ["love", "beauty", "harmony", "marriage", "spring", "music", "major deity"],
+  "thumbnailUrl": "images/deities/028/thumbnail.png",
   "detailImageUrl": "images/deities/028/detailImage.png"
 }

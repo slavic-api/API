@@ -1,0 +1,31 @@
+{
+  "id": "011",
+  "name": "Marzanna/Morena",
+  "alternateNames": ["Morana", "Mara", "Morena", "Marzena", "Marena"],
+  "type": "goddess",
+  "origin": ["West Slavic", "East Slavic", "South Slavic"],
+  "description": "Boginja zime, smrti i sezonskog preporađanja. Njeno ritualno utapanje svakog proleća jedan je od najstarijih preživelih slovenskih običaja.",
+  "mythology": "Marzanna (poznata i kao Morana/Morena) je boginja zime, smrti i preporađanja proleća. Vlada tamnom polovinom godine. Njeno ritualno uništavanje jedno je od najrasprostranjenijih preživelih slovenskih narodnih tradicija — slameni lik Marzanne se pravi i ceremonijalno utapa u reci ili spaljuje na početku proleća, simbolično proterivajući zimu i smrt. Njeno ime vezuje se za slovensku reč za kugu (mor) i smrt. U nekim tradicijama ona je i boginja snova i iluzija. Njena smrt omogućava dolazak proleća, čineći je boginjom preobražaja čije uništenje predstavlja čin obnavljanja.",
+  "attributes": {
+    "Domains": ["Zima", "Smrt", "Snovi", "Preporađanje", "Hladnoća", "Kuga"],
+    "Symbols": ["Slameni lik (lutka)", "Grana vrbe", "Lobanja", "Srp"],
+    "Sacred Animals": ["Sova", "Gavran", "Vrana"],
+    "Sacred Plants": ["Vrba", "Tisa", "Velebilje"],
+    "Element": "Voda/Led",
+    "Season": "Zima",
+    "Associated Concepts": ["Preobražaj", "Sezonski ciklus", "Smrt i preporađanje", "Iluzija"]
+  },
+  "relationships": {
+    "rivals": ["022"],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Poland", "Czech Republic", "Slovakia", "Belarus", "Russia", "Ukraine"],
+    "festivals": ["Sredina posta (Utapanje ili paljenje Marzanne)", "Jesenja ravnodnevnica"],
+    "offerings": ["Slameni lik utonuljen u reku", "Prolećno cveće posle rituala"]
+  },
+  "tags": ["death", "winter", "rebirth", "seasonal", "transformation", "major deity"],
+  "thumbnailUrl": "images/deities/011/thumbnail.png",
+  "detailImageUrl": "images/deities/011/detailImage.png"
+}

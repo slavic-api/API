@@ -1,0 +1,30 @@
+{
+  "id": "020",
+  "name": "Simargl",
+  "alternateNames": ["Semargl", "Semargl-Mokosh"],
+  "type": "creature",
+  "origin": ["East Slavic"],
+  "description": "Sveto krilato pseto-zmaj i čuvar semena i svete vatre. Naveden među bogovima Vladimirovog kijevskog panteona.",
+  "mythology": "Simargl je mitsko krilato pseto ili pas-zmaj, moguće preuzet od iranskog Simurga (velikog Sajnina ptice). Naveden je među idolima koje je Vladimir podigao u Kijevu (980. god.), potvrđujući njegov kanonski status. On je čuvar semena i izdanka — štiti sveto zrno od uništavanja i povezuje zemlju i nebo kao posrednik. Po jednom kosmološkom tumačenju, boginje Zorje vežu ga za Severnjačku zvezdu (Polarnu); ako se lanac ikad prekine i pas pobegne, svet će propasti. Prikazuje se kao dvoglavi pas-grifon ili hibrid krilatog lava i psa.",
+  "attributes": {
+    "Domains": ["Zaštita", "Seme", "Sveta vatra", "Kosmička straža", "Osa sveta"],
+    "Symbols": ["Krilato pseto", "Seme i zrno", "Lanac vezan za Severnjačku zvezdu"],
+    "Sacred Animals": ["Nijedno — sam je božansko stvorenje"],
+    "Sacred Plants": ["Zrno", "Seme", "Klijanci"],
+    "Element": "Vatra i Zemlja",
+    "Associated Concepts": ["Straža", "Zaštita useva", "Kosmička ravnoteža", "Sprečavanje apokalipse"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": ["008"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus"],
+    "festivals": ["Zemljoradnički festivali setve"],
+    "offerings": ["Seme", "Prve klijance sezone"]
+  },
+  "tags": ["creature", "guardian", "sacred fire", "seeds", "divine animal", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/020/thumbnail.png",
+  "detailImageUrl": "images/deities/020/detailImage.png"
+}

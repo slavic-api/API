@@ -1,13 +1,31 @@
 {
   "id": "018",
   "name": "Jarilo",
-  "description": "God of spring, fertility, and harvest.",
+  "alternateNames": ["Gerovit", "Yarovit", "Jaryło", "Gerović"],
+  "type": "god",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "God of spring, vegetation, and the returning sun. His annual arrival brings warmth and fertility to the world.",
+  "mythology": "Jarilo is the young god of spring, vegetation, and the returning power of the sun. His name comes from 'jar' — spring ardor, vigor, and passionate energy. In the great myth cycle, he is the son of Perun, born in winter and stolen by Veles, who raises him in the underworld (Nav) — the opposite world beyond the sea. Each spring he crosses back to the land of the living on a white horse, bringing warmth and fertility. He woos and marries Marzanna (his mythic twin-sister) in summer. By late summer he is killed — his death marks the end of the growing season and transforms Marzanna into the winter goddess again. This cycle of death and rebirth mirrors the agricultural year.",
   "attributes": {
-    "Domains": ["Spring", "Fertility", "Harvest"],
-    "Symbols": ["Greenery", "Wheat"],
+    "Domains": ["Spring", "Fertility", "Vegetation", "Passion", "Youth", "Harvest"],
+    "Symbols": ["White horse", "Crown of flowers", "Green branch", "Wheat sheaf"],
+    "Sacred Animals": ["White horse", "Rooster", "Bull"],
+    "Sacred Plants": ["Wheat", "Grass", "Early spring flowers", "Willow catkins"],
     "Element": "Earth",
-    "Associated Season": "Spring"
+    "Season": "Spring",
+    "Associated Concepts": ["Rebirth", "Passion", "Abundance", "Youth", "Seasonal Cycle"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["004", "011"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia", "Bulgaria"],
+    "festivals": ["Jurjev Day (May 5 / St. George's Day syncretized)", "Green Week (Semik)"],
+    "offerings": ["First spring flowers", "Bread", "Eggs", "First green branches"]
+  },
+  "tags": ["spring", "fertility", "vegetation", "youth", "seasonal", "major deity"],
+  "thumbnailUrl": "images/deities/018/thumbnail.png",
   "detailImageUrl": "images/deities/018/detailImage.png"
-"
 }

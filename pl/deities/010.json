@@ -1,12 +1,30 @@
 {
   "id": "010",
-  "name": "Svarog",
-  "description": "God of fire, blacksmithing, and the sun.",
+  "name": "Swaróg",
+  "alternateNames": ["Svarozhich", "Swarożyc"],
+  "type": "god",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "Bóg nieba, boskiego ognia i niebiańskiego kowalstwa. Ojciec Dadźboga. Mistrz rzemiosła, który wykuł słońce.",
+  "mythology": "Swaróg jest bogiem jasnego nieba i boskiego ognia — słowiańskim niebiańskim kowalem. Jego imię oznacza 'Jasne Niebo' lub 'Świetliste Niebo' (swar = niebo/jasny). Wykuł prawa nieba, słońce i przyniósł ogień ludzkości. Kronika Nestora utożsamia go z greckim Hefajstosem. Upuścił swoje kleszcze z nieba — grom — ucząc ludzi wykuwania metalu. Jest ojcem Dadźboga (słońca) i Swarożyca (świętego ognia). Święte ognie paliły się ku jego czci w świątyniach i nigdy nie mogły zgasnąć. Jest bóstwem cywilizacyjnym, który dał ludzkości narzędzia rzemiosła i prawa małżeństwa.",
   "attributes": {
-    "Domains": ["Fire", "Sun", "Craftsmanship"],
-    "Symbols": ["Forge", "Hammer"],
-    "Element": "Fire",
-    "Associated Concepts": ["Creation", "Sky"]
+    "Domains": ["Niebo", "Ogień", "Kowalstwo", "Rzemiosło", "Prawo", "Małżeństwo"],
+    "Symbols": ["Młot", "Kleszcze", "Kuźnia", "Święty Ogień", "Słońce"],
+    "Sacred Animals": ["Kogut", "Byk"],
+    "Sacred Plants": ["Dąb"],
+    "Element": "Ogień",
+    "Associated Concepts": ["Rzemiosło", "Boskie Prawo", "Stworzenie", "Cywilizacja"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": ["002"],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland"],
+    "festivals": ["Dzień Swarożyca (jesienne święto świętego ognia)"],
+    "offerings": ["Chleb", "Mięso", "Święty ogień palący się wiecznie"]
+  },
+  "tags": ["major deity", "sky", "fire", "smithing", "craftsman", "father deity", "Kiev pantheon"],
+  "thumbnailUrl": "images/deities/010/thumbnail.png",
   "detailImageUrl": "images/deities/010/detailImage.png"
 }

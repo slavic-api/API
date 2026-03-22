@@ -1,0 +1,30 @@
+{
+  "id": "017",
+  "name": "Domovina",
+  "alternateNames": ["Domovyna", "Motherland", "Rodina"],
+  "type": "personification",
+  "origin": ["South Slavic", "West Slavic", "East Slavic"],
+  "description": "Ovaploćenje rodne domovine. Oličava svetu vezu između naroda i njihove zemlje, obuhvatajući i žive i mrtve.",
+  "mythology": "Domovina je ovaploćenje rodne domovine — pojam duboko ukorenjen u slovenskom kulturnom identitetu. Ona predstavlja svetu vezu između naroda i njihove zemlje, fizičku zemlju predaka. Značajno je to što reč 'domovina' u mnogim slovenskim jezicima znači i 'kovčeg' — dom mrtvih — povezujući domovinu sa živim korenima i grobištem predaka. Ovo dvojako značenje odražava slovensko shvatanje da zemlja nosi i žive i pretke. Ona oličava patriotizam, osećaj pripadnosti, ukorenosti i duhovni kontinuitet generacija vezanih za istu zemlju.",
+  "attributes": {
+    "Domains": ["Domovina", "Poreklo", "Sećanje", "Pripadnost", "Zemlja"],
+    "Symbols": ["Plamen ognjišta", "Humka predaka", "Pšenično polje", "Selo"],
+    "Sacred Animals": ["Roda", "Lasta (ptice koje se uvek vraćaju kući)"],
+    "Sacred Plants": ["Hrast", "Lipa", "Pšenica"],
+    "Element": "Zemlja",
+    "Associated Concepts": ["Patriotizam", "Pripadnost", "Ukorenost", "Sećanje na pretke"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["All Slavic lands"],
+    "festivals": ["Dani poštovanja predaka", "Praznovanje žetve"],
+    "offerings": ["Negovanje grobova predaka", "Prva žetva vraćena zemlji"]
+  },
+  "tags": ["personification", "homeland", "cultural", "ancestors", "earth"],
+  "thumbnailUrl": "images/deities/017/thumbnail.png",
+  "detailImageUrl": "images/deities/017/detailImage.png"
+}

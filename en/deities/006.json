@@ -1,12 +1,30 @@
 {
   "id": "006",
   "name": "Domovoi",
-  "description": "Household spirit, guardian of the home and family.",
+  "alternateNames": ["Domovoy", "Domovik", "Dvorovoi", "Ded", "Grandfather"],
+  "type": "spirit",
+  "origin": ["East Slavic", "West Slavic"],
+  "description": "The ancestral household spirit and protector of the home. Lives behind the stove and guards the family.",
+  "mythology": "The Domovoi is the ancestral house spirit who lives behind the stove, under the doorstep, or in the barn. He is the spirit of the male ancestor of the family and protects the household if treated with respect. He appears as a small hairy man resembling the head of household. He bangs and groans when disaster approaches, and strokes sleeping family members — a warm soft touch means good fortune, cold and rough means danger. He hates mirrors in some traditions. Each home has its own Domovoi who follows the family if they move. Failing to honor him leads to mischief: braiding the horses' manes at night, spoiling milk, creating strange noises.",
   "attributes": {
-    "Domains": ["Home", "Family", "Protection"],
-    "Symbols": ["House", "Beard"],
-    "Element": "Earth",
-    "Associated Concepts": ["Ancestry", "Hearth"]
+    "Domains": ["Home", "Family", "Protection", "Hearth", "Ancestors"],
+    "Symbols": ["Hearth/Stove", "Threshold", "Bread and Salt"],
+    "Sacred Animals": ["Cat", "Snake", "Rooster"],
+    "Sacred Plants": ["None specific"],
+    "Element": "Fire",
+    "Associated Concepts": ["Ancestry", "Domestic Peace", "Warning Signs", "Protection"]
   },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": []
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Serbia"],
+    "festivals": ["New Year's Eve (appease with offerings)", "When moving house (invite him along)"],
+    "offerings": ["Porridge", "Bread and salt", "First meal of the day", "Tobacco"]
+  },
+  "tags": ["household spirit", "domestic", "protection", "family", "ancestor spirit"],
+  "thumbnailUrl": "images/deities/006/thumbnail.png",
   "detailImageUrl": "images/deities/006/detailImage.png"
 }

@@ -1,0 +1,31 @@
+{
+  "id": "013",
+  "name": "Kupala i Kupalo",
+  "alternateNames": ["Ivan Kupala", "Kupalo", "Kupailo"],
+  "type": "deity pair",
+  "origin": ["East Slavic", "West Slavic", "South Slavic"],
+  "description": "Blizanačka božanstva letnjeg solsticija koja oličavaju vatru, vodu i ljubav. Njihov festival je najdraža noć slovenske godine.",
+  "mythology": "Kupala (žensko) i Kupalo (muško) su blizanačka božanstva letnjeg solsticija. Po mitu, razdvojeni su pri rođenju, a kad su se sreli, zaljubili su se ne znajući da su srodnici, i bili su preobraženi u cvet paprati i lokvanj. Njihov festival — Ivanjska noć — slavi se na letnji solsticij (23-24. juna), sinkretizovan sa praznom Svetog Jovana Krstitelja. Obeležava se logorskim vatrama koje parovi preskaču radi pročišćenja i blagosiljanja njihove veze, vencima od cveća koji se puštaju niz reke da bi se predskazao budući ljubavnik, i legendarnom potragom za cvetom paprati koji cveta samo ove jedne noći i onom ko ga nađe donosi neograničenu mudrost i bogatstvo.",
+  "attributes": {
+    "Domains": ["Letnji solsticij", "Vatra", "Voda", "Ljubav", "Plodnost", "Pročišćenje"],
+    "Symbols": ["Logorska vatra", "Venac od cveća", "Cvet paprati", "Reka"],
+    "Sacred Animals": ["Konj", "Svitac", "Žaba"],
+    "Sacred Plants": ["Paprat", "Lokvanj", "Pelin", "Kantarion"],
+    "Element": "Vatra i Voda",
+    "Season": "Leto",
+    "Associated Concepts": ["Ljubav", "Pročišćenje", "Proricanje", "Obnavljanje", "Sjedinjenje"]
+  },
+  "relationships": {
+    "rivals": [],
+    "family": [],
+    "allies": ["028"]
+  },
+  "worship": {
+    "regions": ["Russia", "Ukraine", "Belarus", "Poland", "Czech Republic", "Serbia"],
+    "festivals": ["Ivanjska noć (23-24. juna)"],
+    "offerings": ["Venci pušteni niz vodu", "Preskakanje logorskih vatri", "Pesme i plesovi", "Cveće"]
+  },
+  "tags": ["summer solstice", "fertility", "fire", "water", "love", "major festival"],
+  "thumbnailUrl": "images/deities/013/thumbnail.png",
+  "detailImageUrl": "images/deities/013/detailImage.png"
+}
